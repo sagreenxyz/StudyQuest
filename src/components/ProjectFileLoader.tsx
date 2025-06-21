@@ -20,6 +20,13 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
   const [loading, setLoading] = useState(false);
   const [loadingFiles, setLoadingFiles] = useState(false);
 
+  // Helper function to check if a path should be ignored
+  const shouldIgnorePath = (path: string): boolean => {
+    // Split the path into segments and check if any segment starts with a period
+    const segments = path.split('/');
+    return segments.some(segment => segment.startsWith('.'));
+  };
+
   // Discover available JSON files in the public/questions directory
   useEffect(() => {
     const discoverFiles = async () => {
@@ -28,16 +35,22 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
       // Use Vite's import.meta.glob to find all .json files recursively
       const questionModules = import.meta.glob('/public/questions/**/*.json');
       
-      const files: ProjectFile[] = Object.keys(questionModules).map(path => {
-        const filename = path.replace('/public/questions/', '');
-        // Note: vite.config.ts has base: '/StudyQuest/', so paths need to reflect that.
-        const fetchPath = `/StudyQuest/questions/${filename}`;
-        return {
-          name: filename,
-          path: fetchPath,
-          loaded: false,
-        };
-      });
+      const files: ProjectFile[] = Object.keys(questionModules)
+        .filter(path => {
+          const filename = path.replace('/public/questions/', '');
+          // Ignore files or folders that start with a period
+          return !shouldIgnorePath(filename);
+        })
+        .map(path => {
+          const filename = path.replace('/public/questions/', '');
+          // Note: vite.config.ts has base: '/StudyQuest/', so paths need to reflect that.
+          const fetchPath = `/StudyQuest/questions/${filename}`;
+          return {
+            name: filename,
+            path: fetchPath,
+            loaded: false,
+          };
+        });
 
       setAvailableFiles(files);
       setLoadingFiles(false);
@@ -265,6 +278,9 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
           <p className="text-xs text-gray-600">
             Place JSON question files in the <code className="bg-gray-200 px-1 rounded">public/questions/</code> directory (and subdirectories) to load them here.
           </p>
+          <p className="text-xs text-gray-500 mt-2">
+            Files and folders starting with "." are automatically ignored.
+          </p>
         </div>
       </div>
     );
@@ -353,7 +369,7 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
       <div className="mt-3 pt-3 border-t border-green-200">
         <p className="text-xs text-green-700">
           <strong>Note:</strong> Project files are loaded from the <code className="bg-green-200 px-1 rounded">public/questions/</code> directory and its subdirectories. 
-          Duplicate question IDs will be automatically skipped.
+          Files and folders starting with "." are automatically ignored. Duplicate question IDs will be automatically skipped.
         </p>
       </div>
     </div>

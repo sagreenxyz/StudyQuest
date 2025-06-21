@@ -23,6 +23,13 @@ function App() {
   const [loadingError, setLoadingError] = useState<string | null>(null);
   const [hasLoadedFiles, setHasLoadedFiles] = useLocalStorage<boolean>('studyquest-files-loaded', false);
 
+  // Helper function to check if a path should be ignored
+  const shouldIgnorePath = (path: string): boolean => {
+    // Split the path into segments and check if any segment starts with a period
+    const segments = path.split('/');
+    return segments.some(segment => segment.startsWith('.'));
+  };
+
   // Auto-load project files on startup
   useEffect(() => {
     const loadProjectFiles = async () => {
@@ -30,7 +37,15 @@ function App() {
         // Use Vite's import.meta.glob to find all .json files recursively
         const questionModules = import.meta.glob('/public/questions/**/*.json');
         
-        if (Object.keys(questionModules).length === 0) {
+        // Filter out files and folders that start with a period
+        const filteredModules = Object.fromEntries(
+          Object.entries(questionModules).filter(([path]) => {
+            const filename = path.replace('/public/questions/', '');
+            return !shouldIgnorePath(filename);
+          })
+        );
+        
+        if (Object.keys(filteredModules).length === 0) {
           setLoadingError('No question files found in the public/questions directory.');
           setMode('home');
           return;
@@ -41,7 +56,7 @@ function App() {
         let duplicateIds: string[] = [];
         let skippedQuestions = 0;
 
-        for (const [path, moduleLoader] of Object.entries(questionModules)) {
+        for (const [path, moduleLoader] of Object.entries(filteredModules)) {
           try {
             const filename = path.replace('/public/questions/', '');
             const fetchPath = `/StudyQuest/questions/${filename}`;
@@ -266,6 +281,7 @@ function App() {
             <Loader className="h-12 w-12 text-blue-600 animate-spin mx-auto mb-4" />
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Loading StudyQuest</h2>
             <p className="text-gray-600">Discovering and loading question files...</p>
+            <p className="text-gray-500 text-sm mt-2">Files starting with "." are ignored</p>
           </div>
         </div>
       </div>
@@ -324,6 +340,7 @@ function App() {
                     <ol className="text-blue-800 text-sm space-y-1 list-decimal list-inside">
                       <li>Place JSON question files in <code className="bg-blue-200 px-1 rounded">public/questions/</code></li>
                       <li>Files can be in subdirectories for organization</li>
+                      <li>Files and folders starting with "." are ignored</li>
                       <li>Refresh the page to load new files</li>
                     </ol>
                   </div>
