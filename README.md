@@ -1,55 +1,6 @@
-## 📁 Project File Structure
+# StudyQuest - Project Files Study Application
 
-StudyQuest now supports loading question files directly from your project structure in addition to uploading files. This is useful for:
-
-- **Development**: Include sample questions with your project
-- **Distribution**: Ship pre-built question sets
-- **Version Control**: Track question files alongside your code
-
-### Adding Project Files
-
-1. Create a `public/questions/` directory in your project
-2. Add JSON question files following the same format as uploaded files
-3. Files will be automatically discovered and available in the "Project Files" tab
-
-### Example Structure
-
-```
-public/
-└── questions/
-    ├── biology-chapter-1.json
-    ├── chemistry-basics.json
-    └── physics-mechanics.json
-```
-
-### Sample Files Included
-
-The project includes two sample question files:
-
-- `public/questions/sample-biology.json` - Basic biology concepts
-- `public/questions/sample-chemistry.json` - Chemistry fundamentals
-
-These demonstrate the question format and can be loaded immediately to test the application.
-
-### File Loading Options
-
-StudyQuest provides two ways to load questions:
-
-1. **Upload Files**: Traditional file upload from your computer
-2. **Project Files**: Load from the `public/questions/` directory
-
-Both methods support:
-- Multiple file selection
-- Duplicate question ID detection
-- Comprehensive validation
-- Progress tracking
-- File management (delete/re-upload)
-
----
-
-# StudyQuest - Comprehensive Study Application
-
-A modern, interactive study application built with React and TypeScript that helps you master your coursework through spaced repetition and adaptive learning techniques.
+A modern, interactive study application built with React and TypeScript that helps you master your coursework through spaced repetition and adaptive learning techniques. This version loads questions exclusively from project files in the `public/questions/` directory.
 
 ## 🌟 Features
 
@@ -67,15 +18,15 @@ A modern, interactive study application built with React and TypeScript that hel
 - **Adaptive Review System**: Questions appear for review based on your performance
 - **Progress Tracking**: Monitor your mastery across subjects and chapters
 - **Performance Analytics**: Detailed statistics and progress visualization
-- **File Management**: Track uploaded files, delete specific question sets, and re-upload files
+- **Configurable Settings**: Customize spaced repetition timing and mastery criteria
 
 ### User Experience
 - **Beautiful, Modern UI**: Clean design with smooth animations and transitions
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Image Support**: Add images to questions and flashcards for visual learning
-- **Local Storage**: All data persists locally in your browser
+- **Local Storage**: All progress data persists locally in your browser
 - **Instant Feedback**: Immediate results with detailed explanations
-- **Configurable Settings**: Customize spaced repetition timing and mastery criteria
+- **Auto-Loading**: Questions are automatically loaded from project files on startup
 
 ## 🚀 Getting Started
 
@@ -96,12 +47,14 @@ cd studyquest
 npm install
 ```
 
-3. Start the development server:
+3. Add your question files to the `public/questions/` directory (see [Question File Format](#question-file-format) below)
+
+4. Start the development server:
 ```bash
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to `http://localhost:5173`
 
 ### Building for Production
 
@@ -111,34 +64,46 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## 📚 Usage
+## 📁 Project File Structure
 
-### Getting Started
-1. **Load Questions**: Either upload JSON files or load from project files
-2. **Review Dashboard**: View your progress and statistics
-3. **Practice All Questions**: Quiz yourself on all questions in random order
-4. **Spaced Review**: Review questions that are due based on the spaced repetition algorithm
-5. **Manage Files**: View, delete, or re-upload specific question files
+StudyQuest loads question files directly from your project structure:
 
-### Quiz Modes
-- **Practice All Questions**: Includes every question in your dataset, shuffled randomly
-- **Spaced Review**: Only shows questions due for review based on the spaced repetition algorithm
-- **Subject-Specific**: Practice questions from a specific subject area
-- **Topic-Specific**: Focus on particular topics within subjects
+### Adding Question Files
 
-### File Management
-- **Upload Files**: Traditional file upload with drag-and-drop support
-- **Project Files**: Load questions from the `public/questions/` directory
-- **File Tracking**: See when files were uploaded and how many questions they contain
-- **Delete Files**: Remove specific question files and their associated progress
-- **Re-upload Files**: Replace existing files with updated versions
-- **Duplicate Detection**: Automatically skip questions with duplicate IDs
+1. Create JSON question files following the format described below
+2. Place them in the `public/questions/` directory
+3. Files can be organized in subdirectories for better organization
+4. Refresh the page to load new files
 
-### Creating Question Files
+### Example Structure
 
-StudyQuest uses JSON files to import questions. Here's the structure:
+```
+public/
+└── questions/
+    ├── biology/
+    │   ├── chapter-1.json
+    │   └── chapter-2.json
+    ├── chemistry/
+    │   ├── basics.json
+    │   └── organic.json
+    └── physics/
+        └── mechanics.json
+```
 
-#### Basic Question Set Structure
+### Sample Files Included
+
+The project includes two sample question files:
+
+- `public/questions/tests/sample-biology.json` - Basic biology concepts
+- `public/questions/tests/sample-chemistry.json` - Chemistry fundamentals
+
+These demonstrate the question format and are loaded automatically.
+
+## 📚 Question File Format
+
+StudyQuest uses JSON files to define questions. Here's the structure:
+
+### Basic Question Set Structure
 ```json
 {
   "name": "Chapter 1 - Introduction to Biology",
@@ -150,7 +115,7 @@ StudyQuest uses JSON files to import questions. Here's the structure:
 }
 ```
 
-#### Multiple Choice Question
+### Multiple Choice Question
 ```json
 {
   "id": "bio-ch1-001",
@@ -174,7 +139,7 @@ StudyQuest uses JSON files to import questions. Here's the structure:
 }
 ```
 
-#### Select-All Question
+### Select-All Question
 ```json
 {
   "id": "bio-ch1-002",
@@ -192,13 +157,11 @@ StudyQuest uses JSON files to import questions. Here's the structure:
     "Metabolism"
   ],
   "correctAnswers": [0, 1, 2, 4],
-  "explanation": "Living organisms grow, respond to their environment, reproduce, and have metabolism. They do not have static composition.",
-  "image": "https://example.com/living-characteristics.jpg",
-  "imageAlt": "Characteristics of living organisms"
+  "explanation": "Living organisms grow, respond to their environment, reproduce, and have metabolism. They do not have static composition."
 }
 ```
 
-#### True/False Question
+### True/False Question
 ```json
 {
   "id": "bio-ch1-003",
@@ -214,7 +177,7 @@ StudyQuest uses JSON files to import questions. Here's the structure:
 }
 ```
 
-#### Flashcard
+### Flashcard
 ```json
 {
   "id": "bio-ch1-004",
@@ -229,12 +192,11 @@ StudyQuest uses JSON files to import questions. Here's the structure:
   "frontImage": "https://example.com/homeostasis-front.jpg",
   "frontImageAlt": "Homeostasis concept illustration",
   "backImage": "https://example.com/homeostasis-back.jpg",
-  "backImageAlt": "Detailed homeostasis diagram",
-  "tags": ["terminology", "physiology"]
+  "backImageAlt": "Detailed homeostasis diagram"
 }
 ```
 
-#### Fact Card
+### Fact Card
 ```json
 {
   "id": "bio-ch1-005",
@@ -247,12 +209,11 @@ StudyQuest uses JSON files to import questions. Here's the structure:
   "fact": "A single human cell contains about 6 billion base pairs of DNA, which if stretched out would be about 2 meters long!",
   "source": "National Human Genome Research Institute",
   "factImage": "https://example.com/dna-structure.jpg",
-  "factImageAlt": "DNA double helix structure",
-  "tags": ["facts", "dna", "cell-biology"]
+  "factImageAlt": "DNA double helix structure"
 }
 ```
 
-#### Matching Question
+### Matching Question
 ```json
 {
   "id": "bio-ch1-006",
@@ -276,8 +237,7 @@ StudyQuest uses JSON files to import questions. Here's the structure:
       "definition": "Synthesizes proteins from amino acids"
     }
   ],
-  "explanation": "Each organelle has a specialized function essential for cell survival.",
-  "tags": ["organelles", "cell-function"]
+  "explanation": "Each organelle has a specialized function essential for cell survival."
 }
 ```
 
@@ -290,31 +250,13 @@ StudyQuest uses JSON files to import questions. Here's the structure:
 - `topic`: Specific topic within the subject
 - `difficulty`: Difficulty level (`"easy"`, `"medium"`, or `"hard"`)
 
-#### Multiple Choice Questions
-- `question`: The question text
-- `options`: Array of answer choices
-- `correctAnswer`: Index of the correct answer (0-based)
-
-#### Select-All Questions
-- `question`: The question text
-- `options`: Array of answer choices
-- `correctAnswers`: Array of indices for correct answers
-
-#### True/False Questions
-- `question`: The question text
-- `options`: Must be `["True", "False"]`
-- `correctAnswer`: 0 for True, 1 for False
-
-#### Flashcards
-- `front`: Text for the front of the card
-- `back`: Text for the back of the card
-
-#### Fact Cards
-- `fact`: The factual information to present
-
-#### Matching Questions
-- `instruction`: Instructions for the matching exercise
-- `pairs`: Array of objects with `term` and `definition` properties
+#### Type-Specific Required Fields
+- **Multiple Choice**: `question`, `options`, `correctAnswer`
+- **Select-All**: `question`, `options`, `correctAnswers`
+- **True/False**: `question`, `options` (must be `["True", "False"]`), `correctAnswer`
+- **Flashcards**: `front`, `back`
+- **Fact Cards**: `fact`
+- **Matching**: `instruction`, `pairs` (with `term` and `definition` for each pair)
 
 ### Optional Fields
 - `chapter`: Chapter or section name
@@ -357,13 +299,12 @@ StudyQuest uses a configurable SM-2 (SuperMemo 2) algorithm for optimal retentio
 ## 📊 Progress Tracking
 
 The application tracks:
-- **Total questions** loaded from all files
+- **Total questions** loaded from project files
 - **Questions studied** (attempted at least once)
 - **Mastered questions** (answered correctly based on mastery threshold)
 - **Questions due for review** based on spaced repetition
 - **Subject-wise progress** with visual progress bars
 - **Topic-wise progress** with detailed breakdowns
-- **File-wise statistics** showing progress per uploaded file
 - **Recent activity** showing your latest study sessions
 
 ## 🎨 Design Philosophy
@@ -391,8 +332,6 @@ StudyQuest follows modern design principles:
 src/
 ├── components/          # React components
 │   ├── Dashboard.tsx    # Main dashboard with statistics
-│   ├── FileUpload.tsx   # File upload and project file loading
-│   ├── FileManagement.tsx # File management interface
 │   ├── ProjectFileLoader.tsx # Project file discovery and loading
 │   ├── QuestionCard.tsx # Individual question display
 │   ├── QuizMode.tsx     # Quiz interface and logic
@@ -403,7 +342,7 @@ src/
 ├── hooks/               # Custom React hooks
 │   └── useLocalStorage.ts # localStorage with date parsing and quota handling
 ├── types/               # TypeScript type definitions
-│   └── Question.ts      # Question, progress, and file types
+│   └── Question.ts      # Question, progress, and settings types
 ├── utils/               # Utility functions
 │   └── spacedRepetition.ts # SM-2 algorithm implementation
 ├── App.tsx              # Main application component
@@ -412,45 +351,106 @@ src/
 
 public/
 └── questions/           # Project question files
-    ├── sample-biology.json
-    └── sample-chemistry.json
+    └── tests/
+        ├── sample-biology.json
+        └── sample-chemistry.json
 ```
 
-## 🤝 Contributing
+## 🔧 Configuration
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+### Vite Configuration
 
-## 📝 License
+The application is configured to work with GitHub Pages deployment:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+```javascript
+// vite.config.ts
+export default defineConfig({
+  base: '/StudyQuest/',
+  plugins: [react()],
+  optimizeDeps: {
+    exclude: ['lucide-react'],
+  },
+});
+```
 
-## 🆘 Support
+### File Loading
 
-If you encounter any issues or have questions:
-1. Check the browser console for error messages
-2. Ensure your JSON files follow the correct format
-3. Verify that images are accessible via their URLs
-4. Use "Clear Data" if you encounter persistent data issues
-5. Check the File Management section to see which files are loaded
+Questions are loaded using Vite's `import.meta.glob` feature to discover all JSON files in the `public/questions/` directory and its subdirectories.
+
+## 🚀 Deployment
+
+### GitHub Pages
+
+The application is configured for GitHub Pages deployment:
+
+1. Build the project: `npm run build`
+2. Deploy the `dist` directory to GitHub Pages
+3. The GitHub Actions workflow in `.github/workflows/deploy.yml` handles automatic deployment
+
+### Other Platforms
+
+For other deployment platforms, you may need to adjust the `base` path in `vite.config.ts`:
+
+```javascript
+// For root domain deployment
+base: '/',
+
+// For subdirectory deployment
+base: '/your-subdirectory/',
+```
+
+## 📝 Best Practices
+
+### Question Creation
+1. **Consistent Naming**: Use consistent naming conventions for IDs and topics
+2. **Clear Topics**: Make topics specific enough to be meaningful but broad enough to group related questions
+3. **Balanced Difficulty**: Include questions of varying difficulty levels
+4. **Quality Images**: Use high-quality, relevant images with descriptive alt text
+5. **Comprehensive Explanations**: Provide detailed explanations for complex questions
+
+### File Organization
+6. **Logical Grouping**: Group related questions by subject and topic in separate files
+7. **Unique IDs**: Ensure all question IDs are unique across your question sets
+8. **Meaningful Facts**: For fact cards, include interesting, educational, and memorable information
+9. **Balanced Matching**: Create matching questions with 3-6 pairs for optimal difficulty
+10. **Source Attribution**: Include sources for fact cards to build credibility
+
+### Technical
+11. **Valid JSON**: Always validate JSON syntax before adding files
+12. **Image Accessibility**: Use external URLs for images and provide meaningful alt text
+13. **Reasonable File Sizes**: Keep JSON files manageable (under 1MB recommended)
+14. **Backup Copies**: Maintain backup copies of your question files
+15. **Version Control**: Use Git to track changes to your question files
+
+## 🆘 Troubleshooting
+
+### Common Issues
+
+1. **Questions not loading**: Check that JSON files are in `public/questions/` and have valid syntax
+2. **Images not displaying**: Verify image URLs are accessible and use proper formats
+3. **Progress not saving**: Check browser localStorage quota and clear data if needed
+4. **Validation errors**: Ensure all required fields are present for each question type
+
+### File Validation
+
+The application validates:
+- Required fields for each question type
+- Correct answer indices for multiple choice and select-all questions
+- True/False questions have exactly `["True", "False"]` options
+- Matching questions have at least 2 pairs with term and definition
+- JSON syntax and structure
 
 ## 🔮 Future Enhancements
 
 - Export/import progress data
 - Study streak tracking
 - Advanced analytics and insights
-- Collaborative study sets
 - Audio support for questions
 - Offline mode with service workers
-- Integration with popular study platforms
 - Question difficulty adjustment based on performance
-- Bulk question editing interface
-- Question search and filtering
 - Study session scheduling
 - Performance comparison over time
+- Collaborative question creation tools
 
 ---
 
