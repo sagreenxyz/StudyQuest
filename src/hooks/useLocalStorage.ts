@@ -24,8 +24,12 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     
     try {
       valueToStore = value instanceof Function ? value(storedValue) : value;
-      setStoredValue(valueToStore);
+      
+      // Try to save to localStorage first
       window.localStorage.setItem(key, JSON.stringify(valueToStore));
+      
+      // Only update React state if localStorage save was successful
+      setStoredValue(valueToStore);
     } catch (error) {
       console.error(`Error setting localStorage key "${key}":`, error);
       
