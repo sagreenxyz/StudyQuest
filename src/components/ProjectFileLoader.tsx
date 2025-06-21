@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { QuestionSet } from '../types/Question';
 import { FolderOpen, Download, FileText, AlertCircle, CheckCircle, Loader } from 'lucide-react';
 
@@ -24,27 +24,20 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
   useEffect(() => {
     const discoverFiles = async () => {
       setLoadingFiles(true);
-      const knownFiles = [
-        'sample-biology.json',
-        'sample-chemistry.json'
-      ];
-
-      const files: ProjectFile[] = [];
       
-      for (const filename of knownFiles) {
-        try {
-          const response = await fetch(`/StudyQuest/questions/${filename}`);
-          if (response.ok) {
-            files.push({
-              name: filename,
-              path: `/StudyQuest/questions/${filename}`,
-              loaded: false
-            });
-          }
-        } catch (error) {
-          // File doesn't exist or can't be accessed
-        }
-      }
+      // Use Vite's import.meta.glob to find all .json files recursively
+      const questionModules = import.meta.glob('/public/questions/**/*.json');
+      
+      const files: ProjectFile[] = Object.keys(questionModules).map(path => {
+        const filename = path.replace('/public/questions/', '');
+        // Note: vite.config.ts has base: '/StudyQuest/', so paths need to reflect that.
+        const fetchPath = `/StudyQuest/questions/${filename}`;
+        return {
+          name: filename,
+          path: fetchPath,
+          loaded: false,
+        };
+      });
 
       setAvailableFiles(files);
       setLoadingFiles(false);
@@ -270,7 +263,7 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
           <FolderOpen className="h-8 w-8 text-gray-400 mx-auto mb-2" />
           <h3 className="text-sm font-medium text-gray-900 mb-1">No Project Files Found</h3>
           <p className="text-xs text-gray-600">
-            Place JSON question files in the <code className="bg-gray-200 px-1 rounded">public/questions/</code> directory to load them here.
+            Place JSON question files in the <code className="bg-gray-200 px-1 rounded">public/questions/</code> directory (and subdirectories) to load them here.
           </p>
         </div>
       </div>
@@ -319,10 +312,14 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
             
             <div className="flex items-center space-x-2">
               {file.loaded && (
-                <CheckCircle className="h-4 w-4 text-green-600" title="Previously loaded" />
+                <span title="Previously loaded">
+                  <CheckCircle className="h-4 w-4 text-green-600" />
+                </span>
               )}
               {file.error && (
-                <AlertCircle className="h-4 w-4 text-red-600" title={file.error} />
+                <span title={file.error}>
+                  <AlertCircle className="h-4 w-4 text-red-600" />
+                </span>
               )}
             </div>
           </label>
@@ -355,7 +352,7 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
 
       <div className="mt-3 pt-3 border-t border-green-200">
         <p className="text-xs text-green-700">
-          <strong>Note:</strong> Project files are loaded from the <code className="bg-green-200 px-1 rounded">public/questions/</code> directory. 
+          <strong>Note:</strong> Project files are loaded from the <code className="bg-green-200 px-1 rounded">public/questions/</code> directory and its subdirectories. 
           Duplicate question IDs will be automatically skipped.
         </p>
       </div>
