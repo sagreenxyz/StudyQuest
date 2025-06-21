@@ -1,0 +1,43 @@
+{
+  "name": "Sample Chemistry Questions",
+  "description": "Basic chemistry concepts and atomic structure",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "chem-sample-001",
+      "type": "multiple-choice",
+      "subject": "Chemistry",
+      "topic": "Atomic Structure",
+      "difficulty": "easy",
+      "question": "What is the charge of a proton?",
+      "options": [
+        "Negative",
+        "Positive",
+        "Neutral",
+        "Variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protons have a positive charge, while electrons have a negative charge and neutrons are neutral."
+    },
+    {
+      "id": "chem-sample-002",
+      "type": "true-false",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Ionic bonds form between metals and non-metals.",
+      "options": ["True", "False"],
+      "correctAnswer": 0,
+      "explanation": "Ionic bonds typically form between metals (which lose electrons) and non-metals (which gain electrons)."
+    },
+    {
+      "id": "chem-sample-003",
+      "type": "flashcard",
+      "subject": "Chemistry",
+      "topic": "Periodic Table",
+      "difficulty": "easy",
+      "front": "What does the atomic number represent?",
+      "back": "The number of protons in an atom's nucleus, which determines the element's identity."
+    }
+  ]
+}

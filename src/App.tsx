@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Question, QuestionSet, StudyProgress, SpacedRepetitionSettings } from './types/Question';
+import { Question, QuestionSet, StudyProgress, SpacedRepetitionSettings, UploadedFile } from './types/Question';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { calculateNextReview, getQuestionsForReview, defaultSpacedRepetitionSettings } from './utils/spacedRepetition';
 import { FileUpload } from './components/FileUpload';
@@ -14,6 +14,7 @@ function App() {
   const [mode, setMode] = useState<AppMode>('home');
   const [questions, setQuestions] = useLocalStorage<Question[]>('studyquest-questions', []);
   const [progress, setProgress] = useLocalStorage<StudyProgress[]>('studyquest-progress', []);
+  const [uploadedFiles, setUploadedFiles] = useLocalStorage<UploadedFile[]>('studyquest-uploaded-files', []);
   const [spacedRepetitionSettings, setSpacedRepetitionSettings] = useLocalStorage<SpacedRepetitionSettings>(
     'studyquest-spaced-settings', 
     defaultSpacedRepetitionSettings
@@ -21,19 +22,36 @@ function App() {
   const [currentQuizQuestions, setCurrentQuizQuestions] = useState<Question[]>([]);
   const [quizResults, setQuizResults] = useState<QuizResultsType | null>(null);
 
-  const handleUpload = (questionSets: QuestionSet[]) => {
+  const handleUpload = (questionSets: QuestionSet[], filenames: string[]) => {
     // Process all question sets
     const allNewQuestions: Question[] = [];
+    const newUploadedFiles: UploadedFile[] = [];
     
-    questionSets.forEach(questionSet => {
+    questionSets.forEach((questionSet, index) => {
+      const filename = filenames[index];
       const newQuestions = questionSet.questions.map(q => ({
         ...q,
-        id: q.id || `${Date.now()}-${Math.random()}`
+        id: q.id || `${Date.now()}-${Math.random()}`,
+        sourceFile: filename
       }));
+      
       allNewQuestions.push(...newQuestions);
+      
+      // Create uploaded file record
+      const uploadedFile: UploadedFile = {
+        id: `${Date.now()}-${index}`,
+        filename,
+        uploadDate: new Date(),
+        questionCount: newQuestions.length,
+        subjects: [...new Set(newQuestions.map(q => q.subject))],
+        questionIds: newQuestions.map(q => q.id)
+      };
+      
+      newUploadedFiles.push(uploadedFile);
     });
     
     setQuestions(prev => [...prev, ...allNewQuestions]);
+    setUploadedFiles(prev => [...prev, ...newUploadedFiles]);
     
     // Initialize progress for all new questions
     const newProgress = allNewQuestions.map(q => ({
@@ -46,6 +64,80 @@ function App() {
     }));
     
     setProgress(prev => [...prev, ...newProgress]);
+  };
+
+  const handleDeleteFile = (fileId: string) => {
+    const fileToDelete = uploadedFiles.find(f => f.id === fileId);
+    if (!fileToDelete) return;
+
+    // Remove questions from this file
+    setQuestions(prev => prev.filter(q => !fileToDelete.questionIds.includes(q.id)));
+    
+    // Remove progress for questions from this file
+    setProgress(prev => prev.filter(p => !fileToDelete.questionIds.includes(p.questionId)));
+    
+    // Remove the file record
+    setUploadedFiles(prev => prev.filter(f => f.id !== fileId));
+  };
+
+  const handleReuploadFile = (fileId: string, file: File) => {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const content = e.target?.result as string;
+        const questionSet: QuestionSet = JSON.parse(content);
+        
+        if (!questionSet.questions || !Array.isArray(questionSet.questions)) {
+          alert(`Invalid question set format in file: ${file.name}`);
+          return;
+        }
+
+        const fileToReplace = uploadedFiles.find(f => f.id === fileId);
+        if (!fileToReplace) return;
+
+        // Remove old questions and progress
+        setQuestions(prev => prev.filter(q => !fileToReplace.questionIds.includes(q.id)));
+        setProgress(prev => prev.filter(p => !fileToReplace.questionIds.includes(p.questionId)));
+
+        // Add new questions
+        const newQuestions = questionSet.questions.map(q => ({
+          ...q,
+          id: q.id || `${Date.now()}-${Math.random()}`,
+          sourceFile: file.name
+        }));
+
+        setQuestions(prev => [...prev, ...newQuestions]);
+
+        // Update file record
+        const updatedFile: UploadedFile = {
+          ...fileToReplace,
+          filename: file.name,
+          uploadDate: new Date(),
+          questionCount: newQuestions.length,
+          subjects: [...new Set(newQuestions.map(q => q.subject))],
+          questionIds: newQuestions.map(q => q.id)
+        };
+
+        setUploadedFiles(prev => prev.map(f => f.id === fileId ? updatedFile : f));
+
+        // Initialize progress for new questions
+        const newProgress = newQuestions.map(q => ({
+          questionId: q.id,
+          correctCount: 0,
+          incorrectCount: 0,
+          lastAnswered: new Date(),
+          nextReview: new Date(),
+          easeFactor: 2.5
+        }));
+
+        setProgress(prev => [...prev, ...newProgress]);
+
+        alert(`Successfully re-uploaded "${file.name}" with ${newQuestions.length} questions!`);
+      } catch (error) {
+        alert(`Error re-uploading file "${file.name}": ${error instanceof Error ? error.message : 'Please check the file format.'}`);
+      }
+    };
+    reader.readAsText(file);
   };
 
   const handleStartQuiz = (quizQuestions: Question[]) => {
@@ -63,6 +155,7 @@ function App() {
   const handleClearData = () => {
     setQuestions([]);
     setProgress([]);
+    setUploadedFiles([]);
     setMode('home');
     setCurrentQuizQuestions([]);
     setQuizResults(null);
@@ -177,10 +270,13 @@ function App() {
                   questions={questions}
                   progress={progress}
                   spacedRepetitionSettings={spacedRepetitionSettings}
+                  uploadedFiles={uploadedFiles}
                   onStartQuiz={handleStartQuiz}
                   onStartReview={handleStartReview}
                   onClearData={handleClearData}
                   onUpdateSpacedRepetitionSettings={setSpacedRepetitionSettings}
+                  onDeleteFile={handleDeleteFile}
+                  onReuploadFile={handleReuploadFile}
                 />
               </>
             )}

@@ -1,15 +1,17 @@
-import React, { useRef } from 'react';
-import { Upload, FileText, Image } from 'lucide-react';
+import React, { useRef, useState } from 'react';
+import { Upload, FileText, Image, FolderOpen } from 'lucide-react';
 import { QuestionSet } from '../types/Question';
+import { ProjectFileLoader } from './ProjectFileLoader';
 
 interface FileUploadProps {
-  onUpload: (questionSets: QuestionSet[]) => void;
+  onUpload: (questionSets: QuestionSet[], filenames: string[]) => void;
   existingQuestionIds?: string[];
   className?: string;
 }
 
 export function FileUpload({ onUpload, existingQuestionIds = [], className = '' }: FileUploadProps) {
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const [activeTab, setActiveTab] = useState<'upload' | 'project'>('upload');
 
   const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
     const files = event.target.files;
@@ -18,6 +20,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
     let processedFiles = 0;
     const totalFiles = files.length;
     const successfulQuestionSets: QuestionSet[] = [];
+    const successfulFilenames: string[] = [];
     const errorMessages: string[] = [];
     const duplicateIds: string[] = [];
     const skippedQuestions: number[] = [];
@@ -105,6 +108,9 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
               });
             }
 
+            // Add sourceFile to track which file this question came from
+            question.sourceFile = file.name;
+
             // Add to filtered questions if it passes all validations
             filteredQuestions.push(question);
           });
@@ -123,6 +129,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
             };
 
             successfulQuestionSets.push(updatedQuestionSet);
+            successfulFilenames.push(file.name);
           }
 
           // Track skipped questions for this file
@@ -140,7 +147,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
         // Process results when all files are complete
         if (processedFiles === totalFiles) {
           if (successfulQuestionSets.length > 0) {
-            onUpload(successfulQuestionSets);
+            onUpload(successfulQuestionSets, successfulFilenames);
           }
           
           // Show user feedback
@@ -185,37 +192,73 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
 
   return (
     <div className={`relative ${className}`}>
-      <input
-        ref={fileInputRef}
-        type="file"
-        accept=".json"
-        multiple
-        onChange={handleFileUpload}
-        className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
-      />
-      <div className="flex items-center justify-center w-full h-32 border-2 border-dashed border-blue-300 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors duration-200 cursor-pointer group">
-        <div className="text-center">
-          <Upload className="mx-auto h-8 w-8 text-blue-500 group-hover:text-blue-600 transition-colors duration-200" />
-          <p className="mt-2 text-sm text-blue-600 group-hover:text-blue-700">
-            Click to upload JSON question files
-          </p>
-          <p className="text-xs text-blue-500 mt-1">
-            Select multiple files to upload at once
-          </p>
-          <div className="flex items-center justify-center space-x-2 text-xs text-blue-500 mt-1">
-            <FileText className="h-3 w-3" />
-            <span>JSON files</span>
-            <span>•</span>
-            <Image className="h-3 w-3" />
-            <span>Image support</span>
-          </div>
-          {existingQuestionIds.length > 0 && (
-            <p className="text-xs text-gray-500 mt-1">
-              Duplicate question IDs will be automatically skipped
-            </p>
-          )}
-        </div>
+      {/* Tab Navigation */}
+      <div className="flex mb-4 bg-gray-100 rounded-lg p-1">
+        <button
+          onClick={() => setActiveTab('upload')}
+          className={`flex-1 flex items-center justify-center px-3 py-2 text-sm font-medium rounded-md transition-colors duration-200 ${
+            activeTab === 'upload'
+              ? 'bg-white text-blue-700 shadow-sm'
+              : 'text-gray-600 hover:text-gray-900'
+          }`}
+        >
+          <Upload className="h-4 w-4 mr-2" />
+          Upload Files
+        </button>
+        <button
+          onClick={() => setActiveTab('project')}
+          className={`flex-1 flex items-center justify-center px-3 py-2 text-sm font-medium rounded-md transition-colors duration-200 ${
+            activeTab === 'project'
+              ? 'bg-white text-green-700 shadow-sm'
+              : 'text-gray-600 hover:text-gray-900'
+          }`}
+        >
+          <FolderOpen className="h-4 w-4 mr-2" />
+          Project Files
+        </button>
       </div>
+
+      {/* Tab Content */}
+      {activeTab === 'upload' ? (
+        <div>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept=".json"
+            multiple
+            onChange={handleFileUpload}
+            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+          />
+          <div className="flex items-center justify-center w-full h-32 border-2 border-dashed border-blue-300 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors duration-200 cursor-pointer group">
+            <div className="text-center">
+              <Upload className="mx-auto h-8 w-8 text-blue-500 group-hover:text-blue-600 transition-colors duration-200" />
+              <p className="mt-2 text-sm text-blue-600 group-hover:text-blue-700">
+                Click to upload JSON question files
+              </p>
+              <p className="text-xs text-blue-500 mt-1">
+                Select multiple files to upload at once
+              </p>
+              <div className="flex items-center justify-center space-x-2 text-xs text-blue-500 mt-1">
+                <FileText className="h-3 w-3" />
+                <span>JSON files</span>
+                <span>•</span>
+                <Image className="h-3 w-3" />
+                <span>Image support</span>
+              </div>
+              {existingQuestionIds.length > 0 && (
+                <p className="text-xs text-gray-500 mt-1">
+                  Duplicate question IDs will be automatically skipped
+                </p>
+              )}
+            </div>
+          </div>
+        </div>
+      ) : (
+        <ProjectFileLoader 
+          onLoad={onUpload} 
+          existingQuestionIds={existingQuestionIds} 
+        />
+      )}
     </div>
   );
 }
