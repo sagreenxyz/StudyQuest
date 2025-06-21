@@ -21,6 +21,7 @@ function App() {
   const [currentQuizQuestions, setCurrentQuizQuestions] = useState<Question[]>([]);
   const [quizResults, setQuizResults] = useState<QuizResultsType | null>(null);
   const [loadingError, setLoadingError] = useState<string | null>(null);
+  const [hasLoadedFiles, setHasLoadedFiles] = useLocalStorage<boolean>('studyquest-files-loaded', false);
 
   // Auto-load project files on startup
   useEffect(() => {
@@ -37,7 +38,6 @@ function App() {
 
         const allNewQuestions: Question[] = [];
         const errorMessages: string[] = [];
-        const existingQuestionIds = questions.map(q => q.id);
         let duplicateIds: string[] = [];
         let skippedQuestions = 0;
 
@@ -66,8 +66,8 @@ function App() {
                 throw new Error(`Question ${qIndex + 1} in file "${filename}" is missing required fields (id, type, subject, topic)`);
               }
 
-              // Check for duplicate IDs
-              if (existingQuestionIds.includes(question.id) || allNewQuestions.some(q => q.id === question.id)) {
+              // Check for duplicate IDs within this load
+              if (allNewQuestions.some(q => q.id === question.id)) {
                 duplicateIds.push(question.id);
                 skippedQuestions++;
                 return; // Skip this question
@@ -135,21 +135,33 @@ function App() {
           }
         }
 
-        // Only update questions if we have new ones and no existing questions
-        if (allNewQuestions.length > 0 && questions.length === 0) {
+        // Only update questions if we haven't loaded files before or if we have no questions
+        if (allNewQuestions.length > 0 && (!hasLoadedFiles || questions.length === 0)) {
+          console.log(`Loading ${allNewQuestions.length} questions from project files`);
           setQuestions(allNewQuestions);
           
-          // Initialize progress for all new questions
-          const newProgress = allNewQuestions.map(q => ({
-            questionId: q.id,
-            correctCount: 0,
-            incorrectCount: 0,
-            lastAnswered: new Date(),
-            nextReview: new Date(),
-            easeFactor: 2.5
-          }));
+          // Clean up progress - only keep progress for questions that actually exist
+          const validQuestionIds = allNewQuestions.map(q => q.id);
+          const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
           
-          setProgress(newProgress);
+          // Initialize progress for new questions that don't have progress yet
+          const existingProgressIds = cleanedProgress.map(p => p.questionId);
+          const newProgressEntries = allNewQuestions
+            .filter(q => !existingProgressIds.includes(q.id))
+            .map(q => ({
+              questionId: q.id,
+              correctCount: 0,
+              incorrectCount: 0,
+              lastAnswered: new Date(),
+              nextReview: new Date(),
+              easeFactor: 2.5
+            }));
+          
+          const finalProgress = [...cleanedProgress, ...newProgressEntries];
+          setProgress(finalProgress);
+          setHasLoadedFiles(true);
+          
+          console.log(`Final state: ${allNewQuestions.length} questions, ${finalProgress.length} progress entries`);
         }
 
         if (errorMessages.length > 0) {
@@ -165,13 +177,27 @@ function App() {
       }
     };
 
-    // Only auto-load if we don't have questions already
-    if (questions.length === 0) {
+    // Load files if we haven't loaded them before or if we have no questions
+    if (!hasLoadedFiles || questions.length === 0) {
       loadProjectFiles();
     } else {
       setMode('home');
     }
   }, []);
+
+  // Clean up progress when questions change to ensure consistency
+  useEffect(() => {
+    if (questions.length > 0) {
+      const validQuestionIds = questions.map(q => q.id);
+      const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
+      
+      // Only update if there's a mismatch
+      if (cleanedProgress.length !== progress.length) {
+        console.log(`Cleaning up progress: ${progress.length} -> ${cleanedProgress.length} entries`);
+        setProgress(cleanedProgress);
+      }
+    }
+  }, [questions]);
 
   const handleStartQuiz = (quizQuestions: Question[]) => {
     const shuffled = [...quizQuestions].sort(() => Math.random() - 0.5);
