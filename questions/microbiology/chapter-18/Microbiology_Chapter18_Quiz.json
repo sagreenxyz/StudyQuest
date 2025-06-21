@@ -1,0 +1,345 @@
+{
+  "name": "Microbiology Chapter 18 Quiz",
+  "description": "Quiz covering concepts from Microbiology Chapter 18, focusing on adaptive specific host defenses.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mcb_ch18_001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Antibodies (also called immunoglobulins) are glycoproteins that are present in both the blood and tissue fluids. The basic structure of an antibody monomer consists of  _______ protein chains held together by disulfide bonds.",
+      "options": [
+        "four",
+        "three",
+        "eight",
+        "six"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An antibody monomer is a Y-shaped molecule that consists of two identical heavy chains and two identical light chains, making a total of four protein chains. These chains are linked by disulfide bonds."
+    },
+    {
+      "id": "mcb_ch18_002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "The two ‘arms’ of the Y-shaped antibody molecule are known as the Fab region, which means:",
+      "options": [
+        "factor of antibody binding",
+        "fragment of antibody binding",
+        "factor of antigen binding",
+        "fragment of antigen binding"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Fab region, or 'fragment of antigen binding,' is the part of the antibody that recognizes and binds to a specific antigen."
+    },
+    {
+      "id": "mcb_ch18_003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "MHC I molecules present",
+      "options": [
+        "antibodies.",
+        "processed self-antigens from proteasomes.",
+        "processed foreign from phagolysosome.",
+        "T cell antigens."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Major Histocompatibility Complex (MHC) class I molecules are found on all nucleated cells and present endogenous antigens (self-antigens) that have been processed in the proteasome. This allows the immune system to distinguish between healthy self-cells and infected or cancerous cells."
+    },
+    {
+      "id": "mcb_ch18_004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which class of molecules is the most antigenic?",
+      "options": [
+        "carbohydrates",
+        "lipids",
+        "proteins",
+        "polysaccharides"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Proteins are the most antigenic class of molecules due to their complex three-dimensional structures, which provide a wide variety of shapes for antibodies to recognize."
+    },
+    {
+      "id": "mcb_ch18_005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "___  cells mature in the bone marrow and are responsible for the production of glycoproteins called antibodies, or immunoglobulins.",
+      "options": [
+        "T",
+        "T & B",
+        "B",
+        "neither of these"
+      ],
+      "correctAnswer": 2,
+      "explanation": "B lymphocytes (B cells) mature in the bone marrow and, upon activation, differentiate into plasma cells that produce and secrete antibodies."
+    },
+    {
+      "id": "mcb_ch18_006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "_______ is a monomer that is the most abundant antibody in human blood, accounting for about 80% of total serum antibody.",
+      "options": [
+        "IgA",
+        "IgE",
+        "IgM",
+        "IgG"
+      ],
+      "correctAnswer": 3,
+      "explanation": "IgG is the most abundant antibody in the blood, making up about 80% of the total serum antibody. It is a monomer and is crucial for long-term immunity."
+    },
+    {
+      "id": "mcb_ch18_007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which is the only antibody class with the ability to cross the placental barrier, providing passive immunity to the developing fetus during pregnancy?",
+      "options": [
+        "IgE",
+        "IgM",
+        "IgG",
+        "IgA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "IgG is the only antibody class that can cross the placenta, providing passive immunity to the fetus. This is a key mechanism for protecting newborns from infection."
+    },
+    {
+      "id": "mcb_ch18_008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Vaccines are an example of which class of immunity?",
+      "options": [
+        "active artificially acquired",
+        "passive artificially acquired",
+        "active naturally acquired",
+        "passive naturally acquired"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vaccines stimulate the body to produce its own antibodies and memory cells, which is a form of active immunity. Because it is induced by a medical intervention, it is considered artificially acquired."
+    },
+    {
+      "id": "mcb_ch18_009",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following are advantages to using live attenuated vaccines.",
+      "options": [
+        "The pathogen in the vaccine can trigger both cellular and humoral immunity.",
+        "The potential for a patient to acquire the disease.",
+        "A live attenuated vaccine can provide long-lasting immunity.",
+        "The attenuated pathogen can revert to full virulence."
+      ],
+      "correctAnswers": [0, 2],
+      "explanation": "Live attenuated vaccines contain a weakened form of the pathogen, which can induce a strong and long-lasting immune response, including both cellular and humoral immunity. The other options are disadvantages."
+    },
+    {
+      "id": "mcb_ch18_010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which class of antibodies assembles into a pentamer with five monomers of IgM bound together by a protein structure called the J chain and weighs the most?",
+      "options": [
+        "IgA",
+        "IgE",
+        "IgB",
+        "IgM"
+      ],
+      "correctAnswer": 3,
+      "explanation": "IgM antibodies are produced as a pentamer, which is a large molecule consisting of five monomers joined by a J chain. This structure makes IgM very effective at agglutination and complement activation."
+    },
+    {
+      "id": "mcb_ch18_011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which vaccine would be most protective against diphtheria?",
+      "options": [
+        "toxoid",
+        "conjugate",
+        "inactivated",
+        "live attenuated"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diphtheria is a disease caused by a toxin. A toxoid vaccine contains an inactivated toxin, which stimulates the body to produce antibodies against the toxin without causing the disease."
+    },
+    {
+      "id": "mcb_ch18_012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Agglutination or aggregation involves the cross-linking of pathogens by antibodies to create large aggregates.  When multiple IgG antibodies are involved, large aggregates can develop; these aggregates are easier for the kidneys and spleen to filter from the blood and easier for phagocytes to ingest for destruction.  Which is the most efficient antibody for agglutination?",
+      "options": [
+        "IgE",
+        "IgM",
+        "IgG",
+        "IgA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IgM is the most efficient antibody for agglutination because of its pentameric structure, which provides ten antigen-binding sites. This allows it to effectively cross-link and clump pathogens together."
+    },
+    {
+      "id": "mcb_ch18_013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "One reason the three-dimensional complexity of antigens is so important is that antibodies and T cells do not recognize and interact with an entire antigen but with smaller exposed regions on the surface of antigens called _____________ .  A single antigen may possess several different types of these.",
+      "options": [
+        "ecotopes",
+        "proteins",
+        "epitopes",
+        "haptens"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Epitopes are the specific regions on an antigen that are recognized by antibodies and T cells. A single antigen can have multiple epitopes, each capable of stimulating a specific immune response."
+    },
+    {
+      "id": "mcb_ch18_014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "What is the term used to describe programmed controlled cell death?",
+      "options": [
+        "agglutination",
+        "anergy",
+        "thymocytes",
+        "apoptosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Apoptosis is the process of programmed cell death, which is a normal and controlled part of an organism's growth or development. It is also a mechanism for eliminating infected or cancerous cells."
+    },
+    {
+      "id": "mcb_ch18_015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Herd immunity has nothing to do with an individual’s ability to mount an effective immune response; rather, it occurs because there are too few susceptible individuals in a population for the disease to spread effectively.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Herd immunity is a form of indirect protection from infectious disease that occurs when a sufficient percentage of a population has become immune to an infection, whether through vaccination or previous infections, thereby reducing the likelihood of infection for individuals who lack immunity."
+    },
+    {
+      "id": "mcb_ch18_016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Antibodies are produced by ________.",
+      "options": [
+        "Macrophages",
+        "T cells",
+        "plasma cells",
+        "bone marrow"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plasma cells are differentiated B lymphocytes that are specialized in producing and secreting large quantities of antibodies."
+    },
+    {
+      "id": "mcb_ch18_017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Cellular adaptive immunity is carried out by ________.",
+      "options": [
+        "neutrophils",
+        "bone marrow",
+        "T cells",
+        "B cells"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cellular adaptive immunity is mediated by T lymphocytes (T cells), which are responsible for recognizing and killing infected cells, activating other immune cells, and regulating the immune response."
+    },
+    {
+      "id": "mcb_ch18_018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "A single antigen molecule may be composed of many individual ________.",
+      "options": [
+        "B-cell receptors",
+        "T-cell receptors",
+        "MHC II",
+        "epitopes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An antigen is a large molecule that can have many different epitopes on its surface. Each epitope is a distinct site that can be recognized by a specific antibody or T-cell receptor."
+    },
+    {
+      "id": "mcb_ch18_019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Antibodies consist of ________ protein chains held together by ___________ bonds.",
+      "options": [
+        "four, disulfide",
+        "two, disulfide",
+        "two, monosulfide",
+        "four, trisulfide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An antibody molecule is composed of four protein chains: two identical heavy chains and two identical light chains. These chains are held together by disulfide bonds to form a Y-shaped structure."
+    },
+    {
+      "id": "mcb_ch18_020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "18",
+      "topic": "Adaptive Specific Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which vaccine would be most protective against the capsule-forming pathogen Neisseria meningitidis?",
+      "options": [
+        "conjugate",
+        "inactivated",
+        "live attenuated",
+        "toxoid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Neisseria meningitidis is a bacterium that has a polysaccharide capsule, which is a major virulence factor. A conjugate vaccine links the capsule polysaccharide to a protein carrier, which enhances the immune response and makes it more effective, especially in infants."
+    }
+  ]
+}

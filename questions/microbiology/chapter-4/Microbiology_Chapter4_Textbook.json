@@ -1,0 +1,263 @@
+{
+  "name": "Microbiology Chapter 4 Quiz",
+  "description": "Quiz questions for Microbiology Chapter 4, based on the content from OpenStax.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mc-ch4-01",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryote Diversity",
+      "difficulty": "easy",
+      "question": "The term prokaryotes refers to which of the following?",
+      "options": [
+        "very small organisms",
+        "unicellular organisms that have no nucleus",
+        "multicellular organisms",
+        "cells that resemble animal cells more than plant cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prokaryotes are unicellular organisms that lack a nucleus."
+    },
+    {
+      "id": "mc-ch4-02",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryote Habitats and Relationships",
+      "difficulty": "easy",
+      "question": "The term microbiota refers to which of the following?",
+      "options": [
+        "all microorganisms of the same species",
+        "all of the microorganisms involved in a symbiotic relationship",
+        "all microorganisms in a certain region of the human body",
+        "all microorganisms in a certain geographic region"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Microbiota refers to all microorganisms in a certain region of the human body."
+    },
+    {
+      "id": "mc-ch4-03",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryote Habitats and Relationships",
+      "difficulty": "easy",
+      "question": "Which of the following refers to the type of interaction between two prokaryotic populations in which one population benefits and the other is not affected?",
+      "options": [
+        "mutualism",
+        "commensalism",
+        "parasitism",
+        "neutralism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commensalism is an interaction in which one population benefits and the other is not affected."
+    },
+    {
+      "id": "mc-ch4-04",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Taxonomy of Prokaryotes",
+      "difficulty": "easy",
+      "question": "Which of the following describes Proteobacteria in domain Bacteria?",
+      "options": [
+        "phylum",
+        "class",
+        "species",
+        "genus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proteobacteria is a phylum in the domain Bacteria."
+    },
+    {
+      "id": "mc-ch4-05",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Proteobacteria",
+      "difficulty": "medium",
+      "question": "Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?",
+      "options": [
+        "Bartonella",
+        "Coxiella",
+        "Rickettsia",
+        "Ehrlichia",
+        "Brucella"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rickettsia is the cause of Rocky Mountain spotted fever and typhus."
+    },
+    {
+      "id": "mc-ch4-06",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Proteobacteria",
+      "difficulty": "medium",
+      "question": "Class Betaproteobacteria includes all but which of the following genera?",
+      "options": [
+        "Neisseria.",
+        "Bordetella.",
+        "Leptothrix.",
+        "Campylobacter."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Campylobacter belongs to the class Epsilonproteobacteria, not Betaproteobacteria."
+    },
+    {
+      "id": "mc-ch4-07",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Proteobacteria",
+      "difficulty": "medium",
+      "question": "Haemophilus influenzae is a common cause of which of the following?",
+      "options": [
+        "influenza",
+        "dysentery",
+        "upper respiratory tract infections",
+        "hemophilia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Haemophilus influenzae is a common cause of upper respiratory tract infections."
+    },
+    {
+      "id": "mc-ch4-08",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Nonproteobacteria and Spirochetes",
+      "difficulty": "easy",
+      "question": "Which of the following is the organelle that spirochetes use to propel themselves?",
+      "options": [
+        "plasma membrane",
+        "axial filament",
+        "pilum",
+        "fimbria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spirochetes use an axial filament to propel themselves."
+    },
+    {
+      "id": "mc-ch4-09",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Nonproteobacteria and Bacteroides",
+      "difficulty": "easy",
+      "question": "Which of the following bacteria are the most prevalent in the human gut?",
+      "options": [
+        "cyanobacteria",
+        "staphylococci",
+        "Borrelia",
+        "Bacteroides"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bacteroides are the most prevalent bacteria in the human gut."
+    },
+    {
+      "id": "mc-ch4-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Phototrophic Bacteria",
+      "difficulty": "easy",
+      "question": "Which of the following refers to photosynthesis performed by bacteria with the use of water as the donor of electrons?",
+      "options": [
+        "oxygenic",
+        "anoxygenic",
+        "heterotrophic",
+        "phototrophic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oxygenic photosynthesis is performed by bacteria with the use of water as the donor of electrons."
+    },
+    {
+      "id": "mc-ch4-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Gram-Positive Bacteria",
+      "difficulty": "medium",
+      "question": "Which of the following bacterial species is classified as high G+C gram-positive?",
+      "options": [
+        "Corynebacterium diphtheriae",
+        "Staphylococcus aureus",
+        "Bacillus anthracis",
+        "Streptococcus pneumonia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Corynebacterium diphtheriae is classified as high G+C gram-positive."
+    },
+    {
+      "id": "mc-ch4-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Deeply Branching Bacteria",
+      "difficulty": "easy",
+      "question": "The term ‘deeply branching’ refers to which of the following?",
+      "options": [
+        "the cellular shape of deeply branching bacteria",
+        "the position in the evolutionary tree of deeply branching bacteria",
+        "the ability of deeply branching bacteria to live in deep ocean waters",
+        "the pattern of growth in culture of deeply branching bacteria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The term ‘deeply branching’ refers to the position in the evolutionary tree of deeply branching bacteria."
+    },
+    {
+      "id": "mc-ch4-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Deeply Branching Bacteria",
+      "difficulty": "medium",
+      "question": "Which of these deeply branching bacteria is considered a polyextremophile?",
+      "options": [
+        "Aquifex pyrophilus",
+        "Deinococcus radiodurans",
+        "Staphylococcus aureus",
+        "Mycobacterium tuberculosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deinococcus radiodurans is considered a polyextremophile."
+    },
+    {
+      "id": "mc-ch4-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Archaea",
+      "difficulty": "easy",
+      "question": "Archaea and Bacteria are most similar in terms of their ________.",
+      "options": [
+        "genetics",
+        "cell wall structure",
+        "ecology",
+        "unicellular structure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Archaea and Bacteria are most similar in terms of their unicellular structure."
+    },
+    {
+      "id": "mc-ch4-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Archaea",
+      "difficulty": "easy",
+      "question": "Which of the following is true of archaea that produce methane?",
+      "options": [
+        "They reduce carbon dioxide in the presence of nitrogen.",
+        "They live in the most extreme environments.",
+        "They are always anaerobes.",
+        "They have been discovered on Mars."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Archaea that produce methane are always anaerobes."
+    }
+  ]
+}

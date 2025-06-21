@@ -1,0 +1,261 @@
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 25",
+  "description": "Multiple choice questions from the OpenStax Microbiology textbook, Chapter 25. This chapter covers infections of the circulatory and lymphatic systems.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-1",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which term refers to an inflammation of the blood vessels?",
+      "options": [
+        "lymphangitis",
+        "endocarditis",
+        "pericarditis",
+        "vasculitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vasculitis is the general term for inflammation of blood vessels."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-2",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of the following is located in the interstitial spaces within tissues and releases nutrients, immune factors, and oxygen to those tissues?",
+      "options": [
+        "lymphatics",
+        "arterioles",
+        "capillaries",
+        "veins"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Capillaries are the smallest blood vessels and are the site of exchange of nutrients, waste, and oxygen with tissues."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-3",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of these conditions results in the formation of a bubo?",
+      "options": [
+        "lymphangitis",
+        "lymphadenitis",
+        "ischemia",
+        "vasculitis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lymphadenitis, the inflammation of lymph nodes, can result in the formation of a swollen, painful lymph node called a bubo."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-4",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of the following is where are most microbes filtered out of the fluids that accumulate in the body tissues?",
+      "options": [
+        "spleen",
+        "lymph nodes",
+        "pericardium",
+        "blood capillaries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lymph nodes act as filters for the lymph, trapping microbes and other debris."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-5",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "medium",
+      "question": "Which of the following diseases is caused by a spirochete?",
+      "options": [
+        "tularemia",
+        "relapsing fever",
+        "rheumatic fever",
+        "Rocky Mountain spotted fever"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Relapsing fever is caused by spirochetes of the genus Borrelia."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-6",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "medium",
+      "question": "Which of the following diseases is transmitted by body lice?",
+      "options": [
+        "tularemia",
+        "bubonic plague",
+        "murine typhus",
+        "epidemic typhus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Epidemic typhus, caused by Rickettsia prowazekii, is transmitted by the human body louse."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-7",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "What disease is most associated with Clostridium perfringens?",
+      "options": [
+        "endocarditis",
+        "osteomyelitis",
+        "gas gangrene",
+        "rat bite fever"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Clostridium perfringens is the primary causative agent of gas gangrene."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-8",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which bacterial pathogen causes plague?",
+      "options": [
+        "Yersinia pestis",
+        "Bacillus moniliformis",
+        "Bartonella quintana",
+        "Rickettsia rickettsii"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The bacterium Yersinia pestis is the causative agent of plague."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-9",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "medium",
+      "question": "Which of the following viruses is most widespread in the human population?",
+      "options": [
+        "human immunodeficiency virus",
+        "Ebola virus",
+        "Epstein-Barr virus",
+        "hantavirus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Epstein-Barr virus (EBV), the cause of infectious mononucleosis, is one of the most common human viruses, with estimates of 90-95% of adults being infected worldwide."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of these viruses is spread through mouse urine or feces?",
+      "options": [
+        "Epstein-Barr",
+        "hantavirus",
+        "human immunodeficiency virus",
+        "cytomegalovirus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hantavirus is transmitted to humans through the inhalation of aerosolized rodent urine, feces, or saliva."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "A patient at a clinic has tested positive for HIV. Her blood contained 700/µL CD4 T cells and she does not have any apparent illness. Her infection is in which stage?",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stage 1 of HIV infection is characterized by a CD4 T-cell count of 500 cells/µL or greater and no AIDS-defining conditions."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "medium",
+      "question": "Which of the following diseases is caused by a helminth?",
+      "options": [
+        "leishmaniasis",
+        "malaria",
+        "Chagas disease",
+        "schistosomiasis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Schistosomiasis is a disease caused by parasitic flatworms called schistosomes."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of these is the most common form of leishmaniasis?",
+      "options": [
+        "cutaneous",
+        "mucosal",
+        "visceral",
+        "intestinal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cutaneous leishmaniasis, which causes skin sores, is the most common form of the disease."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "easy",
+      "question": "Which of the following is a causative agent of malaria?",
+      "options": [
+        "Trypanosoma cruzi",
+        "Toxoplasma gondii",
+        "Plasmodium falciparum",
+        "Schistosoma mansoni"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, with Plasmodium falciparum being the most virulent species."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-25-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Circulatory and Lymphatic Systems",
+      "chapter": "25",
+      "difficulty": "medium",
+      "question": "Which of the following diseases does not involve an arthropod vector?",
+      "options": [
+        "schistosomiasis",
+        "malaria",
+        "Chagas disease",
+        "babesiosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Schistosomiasis is transmitted through contact with contaminated freshwater containing the larval forms of the parasite, which are released from infected snails."
+    }
+  ]
+}

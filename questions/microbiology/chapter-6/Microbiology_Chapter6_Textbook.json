@@ -1,0 +1,262 @@
+{
+  "name": "Microbiology Chapter 6 - Textbook Questions",
+  "description": "Textbook questions for Chapter 6 of the OpenStax Microbiology textbook.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "microbiology-chapter6-textbook-1",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Acellular Pathogens",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "The component(s) of a virus that is/are extended from the envelope for attachment is/are the:",
+      "options": [
+        "capsomeres",
+        "spikes",
+        "nucleic acid",
+        "viral whiskers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spikes are glycoprotein structures that extend from the viral envelope and are responsible for attaching to host cells."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-2",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "topic": "Acellular Pathogens",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "Which of the following does a virus lack? Select all that apply.",
+      "options": [
+        "ribosomes",
+        "metabolic processes",
+        "nucleic acid",
+        "glycoprotein"
+      ],
+      "correctAnswers": [0, 1],
+      "explanation": "Viruses are obligate intracellular parasites and lack their own ribosomes and metabolic machinery. They rely on the host cell for replication."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-3",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Acellular Pathogens",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "The envelope of a virus is derived from the host’s",
+      "options": [
+        "nucleic acids",
+        "membrane structures",
+        "cytoplasm",
+        "genome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The viral envelope is acquired as the virus buds from a host cell, taking a piece of the host's membrane with it."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-4",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Acellular Pathogens",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "In naming viruses, the family name ends with ________ and genus name ends with _________.",
+      "options": [
+        "-virus; -viridae",
+        "-viridae; -virus",
+        "-virion; virus",
+        "-virus; virion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "According to the International Committee on Taxonomy of Viruses (ICTV), viral family names end in -viridae and genus names end in -virus."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-5",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Acellular Pathogens",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "What is another name for a nonenveloped virus?",
+      "options": [
+        "enveloped virus",
+        "provirus",
+        "naked virus",
+        "latent virus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A nonenveloped virus is also known as a naked virus because it lacks a lipid envelope."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-6",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "The Viral Life Cycle",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "Which of the following leads to the destruction of the host cells?",
+      "options": [
+        "lysogenic cycle",
+        "lytic cycle",
+        "prophage",
+        "temperate phage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lytic cycle is a viral replication cycle that results in the lysis (destruction) of the host cell and the release of new virions."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-7",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "The Viral Life Cycle",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "A virus obtains its envelope during which of the following phases?",
+      "options": [
+        "attachment",
+        "penetration",
+        "assembly",
+        "release"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Enveloped viruses acquire their envelope during the release phase, as they bud from the host cell."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-8",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "The Viral Life Cycle",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "Which of the following components is brought into a cell by HIV?",
+      "options": [
+        "a DNA-dependent DNA polymerase",
+        "RNA polymerase",
+        "ribosome",
+        "reverse transcriptase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "HIV is a retrovirus that brings its own reverse transcriptase into the host cell to convert its RNA genome into DNA."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-9",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "The Viral Life Cycle",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "A positive-strand RNA virus:",
+      "options": [
+        "must first be converted to a mRNA before it can be translated.",
+        "can be used directly to translate viral proteins.",
+        "will be degraded by host enzymes.",
+        "is not recognized by host ribosomes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Positive-strand RNA viruses have a genome that can be directly translated by the host cell's ribosomes, similar to mRNA."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "The Viral Life Cycle",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "What is the name for the transfer of genetic information from one bacterium to another bacterium by a phage?",
+      "options": [
+        "transduction",
+        "penetration",
+        "excision",
+        "translation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transduction is the process by which a bacteriophage transfers bacterial DNA from one bacterium to another."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Isolation, Culture, and Identification of Viruses",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "Which of the followings cannot be used to culture viruses?",
+      "options": [
+        "tissue culture",
+        "liquid medium only",
+        "embryo",
+        "animal host"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Viruses are obligate intracellular parasites and cannot be grown in non-living culture media like liquid medium alone."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Isolation, Culture, and Identification of Viruses",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "Which of the following tests can be used to detect the presence of a specific virus?",
+      "options": [
+        "EIA",
+        "RT-PCR",
+        "PCR",
+        "all of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Enzyme immunoassay (EIA), reverse transcriptase PCR (RT-PCR), and polymerase chain reaction (PCR) are all methods used to detect specific viruses."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Isolation, Culture, and Identification of Viruses",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a cytopathic effect?",
+      "options": [
+        "transformation",
+        "cell fusion",
+        "mononucleated cell",
+        "inclusion bodies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cytopathic effects (CPEs) are structural changes in host cells that are caused by viral invasion. A mononucleated cell is a normal cell, not a CPE."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Viroids, Virusoids, and Prions",
+      "chapter": "Chapter 6",
+      "difficulty": "easy",
+      "question": "Which of these infectious agents do not have nucleic acid?",
+      "options": [
+        "viroids",
+        "viruses",
+        "bacteria",
+        "prions"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prions are infectious agents composed entirely of protein; they do not contain DNA or RNA."
+    },
+    {
+      "id": "microbiology-chapter6-textbook-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Viroids, Virusoids, and Prions",
+      "chapter": "Chapter 6",
+      "difficulty": "medium",
+      "question": "Which of the following is true of prions?",
+      "options": [
+        "They can be inactivated by boiling at 100 °C.",
+        "They contain a capsid.",
+        "They are a rogue form of protein, PrP.",
+        "They can be reliably inactivated by an autoclave."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prions are misfolded, infectious forms of a normal protein (PrP). They are highly resistant to heat and autoclaving."
+    }
+  ]
+}

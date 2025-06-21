@@ -1,0 +1,144 @@
+
+{
+    "name": "OpenStax Microbiology Textbook - Chapter 16",
+    "description": "Multiple-choice questions from the 'Multiple Choice' section of Chapter 16 of the OpenStax Microbiology textbook.",
+    "subject": "Microbiology",
+    "questions": [
+        {
+            "id": "mic-16-1",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "easy",
+            "question": "Which is the most common type of biological vector of human disease?",
+            "options": [
+                "viruses",
+                "bacteria",
+                "mammals",
+                "arthropods"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Arthropods, such as mosquitoes, ticks, and fleas, are the most common type of biological vector of human disease."
+        },
+        {
+            "id": "mic-16-2",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "easy",
+            "question": "A mosquito bites a person who subsequently develops a fever and abdominal rash. What type of transmission would this be?",
+            "options": [
+                "mechanical vector transmission",
+                "biological vector transmission",
+                "direct contact transmission",
+                "vehicle transmission"
+            ],
+            "correctAnswer": 1,
+            "explanation": "This is an example of biological vector transmission, where the pathogen reproduces within the vector (the mosquito) and is then transmitted to a new host."
+        },
+        {
+            "id": "mic-16-3",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "medium",
+            "question": "Cattle are allowed to pasture in a field that contains the farmhouse well, and the farmer’s family becomes ill with a gastrointestinal pathogen after drinking the water. What type of transmission of infectious agents would this be?",
+            "options": [
+                "biological vector transmission",
+                "direct contact transmission",
+                "indirect contact transmission",
+                "vehicle transmission"
+            ],
+            "correctAnswer": 3,
+            "explanation": "This is an example of vehicle transmission, where the infectious agent is transmitted through a medium such as contaminated water."
+        },
+        {
+            "id": "mic-16-4",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "easy",
+            "question": "A blanket from a child with chickenpox is likely to be contaminated with the virus that causes chickenpox (Varicella-zoster virus). What is the blanket called?",
+            "options": [
+                "fomite",
+                "host",
+                "pathogen",
+                "vector"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A fomite is an inanimate object that can become contaminated with infectious agents and serve as a mechanism for transmission."
+        },
+        {
+            "id": "mic-16-5",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "medium",
+            "question": "Which of the following would NOT be considered an emerging disease?",
+            "options": [
+                "Ebola hemorrhagic fever",
+                "West Nile virus fever/encephalitis",
+                "Zika virus disease",
+                "Tuberculosis"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Tuberculosis is a reemerging disease, not an emerging one. Emerging diseases are new to the human population or have shown a recent increase in incidence."
+        },
+        {
+            "id": "mic-16-6",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "medium",
+            "question": "Which of the following would NOT be considered a reemerging disease?",
+            "options": [
+                "Drug-resistant tuberculosis",
+                "Drug-resistant gonorrhea",
+                "Malaria",
+                "West Nile virus fever/encephalitis"
+            ],
+            "correctAnswer": 3,
+            "explanation": "West Nile virus fever/encephalitis is considered an emerging disease, not a reemerging one. Reemerging diseases are those that have been controlled in the past but are now increasing in incidence."
+        },
+        {
+            "id": "mic-16-7",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "medium",
+            "question": "Which of the following factors can lead to reemergence of a disease?",
+            "options": [
+                "A mutation that allows it to infect humans",
+                "A period of decline in vaccination rates",
+                "A change in disease reporting procedures",
+                "Better education on the signs and symptoms of the disease"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A period of decline in vaccination rates can lead to the reemergence of a disease by reducing herd immunity and creating a larger population of susceptible individuals."
+        },
+        {
+            "id": "mic-16-8",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 16,
+            "difficulty": "medium",
+            "question": "Why are emerging diseases with very few cases the focus of intense scrutiny?",
+            "options": [
+                "They tend to be more deadly",
+                "They are increasing and therefore not controlled",
+                "They naturally have higher transmission rates",
+                "They occur more in developed countries"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Emerging diseases with very few cases are the focus of intense scrutiny because they are increasing in incidence and are not yet controlled, posing a potential threat to public health."
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 22",
+  "description": "Multiple choice questions from the OpenStax Microbiology textbook, Chapter 22. This chapter covers infections of the respiratory system.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-1",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of the following is not directly connected to the nasopharynx?",
+      "options": [
+        "middle ear",
+        "oropharynx",
+        "lacrimal glands",
+        "nasal cavity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The lacrimal glands are connected to the nasal cavity, but not directly to the nasopharynx."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-2",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "What type of cells produce the mucus for the mucous membranes?",
+      "options": [
+        "goblet cells",
+        "macrophages",
+        "phagocytes",
+        "ciliated epithelial cells"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Goblet cells are specialized epithelial cells that secrete mucus."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-3",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of these correctly orders the structures through which air passes during inhalation?",
+      "options": [
+        "pharynx → trachea → larynx → bronchi",
+        "pharynx → larynx → trachea → bronchi",
+        "larynx → pharynx → bronchi → trachea",
+        "larynx → pharynx → trachea → bronchi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During inhalation, air passes from the pharynx to the larynx, then to the trachea, and finally into the bronchi."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-4",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "The ___________ separates the upper and lower respiratory tract.",
+      "options": [
+        "bronchi",
+        "larynx",
+        "epiglottis",
+        "palatine tonsil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The epiglottis is the cartilaginous flap that separates the upper and lower respiratory tracts."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-5",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which microbial virulence factor is most important for attachment to host respiratory tissues?",
+      "options": [
+        "adhesins",
+        "lipopolysaccharide",
+        "hyaluronidase",
+        "capsules"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adhesins are molecules on the surface of microbes that bind to specific receptors on host cells, facilitating attachment."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-6",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of the following does not involve a bacterial exotoxin?",
+      "options": [
+        "diphtheria",
+        "whooping cough",
+        "scarlet fever",
+        "Q fever"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Q fever is caused by an intracellular bacterium, Coxiella burnetii, and does not involve an exotoxin."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-7",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "What disease is caused by Coxiella burnetii?",
+      "options": [
+        "Q fever",
+        "tuberculosis",
+        "diphtheria",
+        "walking pneumonia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coxiella burnetii is the causative agent of Q fever."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-8",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "In which stage of pertussis is the characteristic whooping sound made?",
+      "options": [
+        "convalescence",
+        "catarrhal",
+        "paroxysmal",
+        "prodromal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The characteristic whooping sound of pertussis occurs during the paroxysmal stage."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-9",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "What is the causative agent of Q fever?",
+      "options": [
+        "Coxiella burnetii",
+        "Chlamydia psittaci",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pyogenes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coxiella burnetii is the causative agent of Q fever."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of these microbes causes “walking pneumonia”?",
+      "options": [
+        "Klebsiella pneumoniae",
+        "Streptococcus pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Chlamydia pneumoniae"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mycoplasma pneumoniae is the most common cause of atypical pneumonia, often called 'walking pneumonia'."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of the following viruses is not commonly associated with the common cold?",
+      "options": [
+        "coronavirus",
+        "adenovirus",
+        "rhinovirus",
+        "varicella-zoster virus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Varicella-zoster virus causes chickenpox and shingles, not the common cold."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of the following viral diseases has been eliminated from the general population worldwide?",
+      "options": [
+        "smallpox",
+        "measles",
+        "German measles",
+        "influenza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smallpox was declared eradicated in 1980 after a successful global vaccination campaign."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "What term refers to multinucleated cells that form when many host cells fuse together during infections?",
+      "options": [
+        "Ghon elements",
+        "Reye syndrome",
+        "Koplik’s spots",
+        "syncytia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Syncytia are large, multinucleated cells formed by the fusion of multiple host cells, often as a result of viral infection."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of the following diseases is not associated with coronavirus infections?",
+      "options": [
+        "Middle East respiratory syndrome",
+        "German measles",
+        "the common cold",
+        "severe acute respiratory syndrome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "German measles is caused by the rubella virus, not a coronavirus."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "easy",
+      "question": "Which of these viruses is responsible for causing shingles?",
+      "options": [
+        "rubella virus",
+        "measles virus",
+        "varicella-zoster virus",
+        "variola major virus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Varicella-zoster virus, the same virus that causes chickenpox, can reactivate later in life to cause shingles."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-16",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of these infections is also referred to as Valley fever?",
+      "options": [
+        "histoplasmosis",
+        "coccidioidomycosis",
+        "blastomycosis",
+        "aspergillosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Coccidioidomycosis, a fungal infection common in the southwestern United States, is also known as Valley fever."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-17",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of the following is not caused by a dimorphic fungus?",
+      "options": [
+        "histoplasmosis",
+        "coccidioidomycosis",
+        "blastomycosis",
+        "aspergillosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aspergillosis is caused by Aspergillus, which is a mold and not a dimorphic fungus."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-18",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of the following is caused by infections by bread molds?",
+      "options": [
+        "mucormycosis",
+        "coccidioidomycosis",
+        "cryptococcosis",
+        "Pneumocystis pneumonia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mucormycosis is a serious fungal infection caused by a group of molds called mucormycetes, which includes common bread molds."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-19",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "In the United States, most histoplasmosis cases occur",
+      "options": [
+        "in the Pacific northwest.",
+        "in the desert southwest.",
+        "in the Mississippi river valley.",
+        "in Colorado river valley."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Histoplasmosis is most common in the central and eastern United States, particularly in the Ohio and Mississippi River valleys."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-22-20",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Respiratory System",
+      "chapter": "22",
+      "difficulty": "medium",
+      "question": "Which of the following infections can be diagnosed using a skin test similar to the tuberculin test?",
+      "options": [
+        "histoplasmosis",
+        "cryptococcosis",
+        "blastomycosis",
+        "aspergillosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A skin test using histoplasmin antigen can be used to diagnose histoplasmosis, similar to the tuberculin skin test for tuberculosis."
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 24",
+  "description": "Multiple choice questions from the OpenStax Microbiology textbook, Chapter 24. This chapter covers infections of the digestive system.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-1",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a way the normal microbiota of the intestine helps to prevent infection?",
+      "options": [
+        "It produces acids that lower the pH of the stomach.",
+        "It speeds up the process by which microbes are flushed from the digestive tract.",
+        "It consumes food and occupies space, outcompeting potential pathogens.",
+        "It generates large quantities of oxygen that kill anaerobic pathogens."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The normal microbiota of the intestine is primarily anaerobic and would not generate large quantities of oxygen."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-2",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "What types of microbes live in the intestines?",
+      "options": [
+        "Diverse species of bacteria, archaea, and fungi, especially Bacteroides and Firmicutes bacteria",
+        "A narrow range of bacteria, especially Firmicutes",
+        "A narrow range of bacteria and fungi, especially Bacteroides",
+        "Archaea and fungi only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The intestines harbor a complex and diverse community of microbes, including bacteria (like Bacteroides and Firmicutes), archaea, and fungi."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-3",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "What pathogen is the most important contributor to biofilms in plaque?",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus mutans",
+        "Escherichia coli",
+        "Clostridioides difficile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Streptococcus mutans is a primary colonizer of teeth and a key contributor to the formation of dental plaque."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-4",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "What type of organism causes thrush?",
+      "options": [
+        "a bacterium",
+        "a virus",
+        "a fungus",
+        "a protozoan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thrush, or oral candidiasis, is a fungal infection caused by an overgrowth of Candida species, most commonly Candida albicans."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-5",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "In mumps, what glands swell to produce the disease’s characteristic appearance?",
+      "options": [
+        "the sublingual glands",
+        "the gastric glands",
+        "the parotid glands",
+        "the submandibular glands"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mumps is characterized by the swelling of the parotid salivary glands."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-6",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which of the following is true of HSV-1?",
+      "options": [
+        "It causes oral thrush in immunocompromised patients.",
+        "Infection is generally self-limiting.",
+        "It is a bacterium.",
+        "It is usually treated with amoxicillin."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oral herpes infections caused by HSV-1 are typically self-limiting, although the virus remains latent in the body."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-7",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which type of E. coli infection can be severe with life-threatening consequences such as hemolytic uremic syndrome?",
+      "options": [
+        "ETEC",
+        "EPEC",
+        "EHEC",
+        "EIEC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Enterohemorrhagic E. coli (EHEC) can produce Shiga toxin, leading to severe complications like hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-8",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which species of Shigella has a type that produces Shiga toxin?",
+      "options": [
+        "S. boydii",
+        "S. flexneri",
+        "S. dysenteriae",
+        "S. sonnei"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shigella dysenteriae type 1 is known for producing Shiga toxin, which can cause severe dysentery."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-9",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which type of bacterium produces an A-B toxin?",
+      "options": [
+        "Salmonella",
+        "Vibrio cholera",
+        "ETEC",
+        "Shigella dysenteriae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vibrio cholerae produces cholera toxin, a classic example of an A-B exotoxin that causes watery diarrhea."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which form of hepatitisvirus can only infect an individual who is already infected with another hepatitisvirus?",
+      "options": [
+        "HDV",
+        "HAV",
+        "HBV",
+        "HEV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hepatitis D virus (HDV) is a satellite virus that requires the presence of hepatitis B virus (HBV) to replicate and cause infection."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "Which cause of viral gastroenteritis commonly causes projectile vomiting?",
+      "options": [
+        "hepatitisvirus",
+        "Astroviruses",
+        "Rotavirus",
+        "Noroviruses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Noroviruses are notorious for causing outbreaks of gastroenteritis with characteristic symptoms of projectile vomiting and diarrhea."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which protozoan is associated with the ability to cause severe dysentery?",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Entamoeba histolytica is the causative agent of amebic dysentery, a severe form of diarrhea with blood and mucus."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "medium",
+      "question": "Which protozoan has a unique appearance, with a blue halo, when viewed using ultraviolet fluorescence microscopy?",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cyclospora cayetanensis oocysts autofluoresce a brilliant blue when viewed with a UV fluorescence microscope."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "The micrograph shows protozoans attached to the intestinal wall of a gerbil. Based on what you know about protozoan intestinal parasites, what is it?",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The image shows the characteristic teardrop shape of Giardia lamblia trophozoites."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "What is another name for Trichuris trichiura?",
+      "options": [
+        "pinworm",
+        "whipworm",
+        "hookworm",
+        "ascariasis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trichuris trichiura is commonly known as the whipworm due to its whip-like shape."
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef-24-16",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Infections of the Digestive System",
+      "chapter": "24",
+      "difficulty": "easy",
+      "question": "Which type of helminth infection can be diagnosed using tape?",
+      "options": [
+        "pinworm",
+        "whipworm",
+        "hookworm",
+        "tapeworm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The diagnosis of pinworm infection is often made by applying clear adhesive tape to the perianal region to collect eggs."
+    }
+  ]
+}

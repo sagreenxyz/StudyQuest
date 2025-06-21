@@ -1,0 +1,297 @@
+{
+  "name": "Microbiology Chapter 3 Quiz",
+  "description": "Quiz questions for Microbiology Chapter 3, based on the content from OpenStax.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mc-ch3-01",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Spontaneous Generation",
+      "difficulty": "easy",
+      "question": "Which of the following individuals argued in favor of the theory of spontaneous generation?",
+      "options": [
+        "Francesco Redi",
+        "Louis Pasteur",
+        "John Needham",
+        "Lazzaro Spallanzani"
+      ],
+      "correctAnswer": 2,
+      "explanation": "John Needham argued in favor of the theory of spontaneous generation."
+    },
+    {
+      "id": "mc-ch3-02",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Spontaneous Generation",
+      "difficulty": "easy",
+      "question": "Which of the following individuals is credited for definitively refuting the theory of spontaneous generation using broth in swan-neck flask?",
+      "options": [
+        "Aristotle",
+        "Jan Baptista van Helmont",
+        "John Needham",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Louis Pasteur is credited for definitively refuting the theory of spontaneous generation using broth in swan-neck flask."
+    },
+    {
+      "id": "mc-ch3-03",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Spontaneous Generation",
+      "difficulty": "easy",
+      "question": "Which of the following scientists experimented with raw meat, maggots, and flies in an attempt to disprove the theory of spontaneous generation?",
+      "options": [
+        "Aristotle",
+        "Lazzaro Spallanzani",
+        "Antonie van Leeuwenhoek",
+        "Francesco Redi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Francesco Redi experimented with raw meat, maggots, and flies in an attempt to disprove the theory of spontaneous generation."
+    },
+    {
+      "id": "mc-ch3-04",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Cell Theory",
+      "difficulty": "easy",
+      "question": "Which of the following individuals did not contribute to the establishment of cell theory?",
+      "options": [
+        "Girolamo Fracastoro",
+        "Matthias Schleiden",
+        "Robert Remak",
+        "Robert Hooke"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Girolamo Fracastoro did not contribute to the establishment of cell theory."
+    },
+    {
+      "id": "mc-ch3-05",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Endosymbiotic Theory",
+      "difficulty": "medium",
+      "question": "Whose proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community?",
+      "options": [
+        "Rudolf Virchow",
+        "Ignaz Semmelweis",
+        "Lynn Margulis",
+        "Theodor Schwann"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lynn Margulis's proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community."
+    },
+    {
+      "id": "mc-ch3-06",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Germ Theory of Disease",
+      "difficulty": "medium",
+      "question": "Which of the following developed a set of postulates for determining whether a particular disease is caused by a particular pathogen?",
+      "options": [
+        "John Snow",
+        "Robert Koch",
+        "Joseph Lister",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Robert Koch developed a set of postulates for determining whether a particular disease is caused by a particular pathogen."
+    },
+    {
+      "id": "mc-ch3-07",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "easy",
+      "question": "Which of the following terms refers to a prokaryotic cell that is comma shaped?",
+      "options": [
+        "coccus",
+        "coccobacilli",
+        "vibrio",
+        "spirillum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vibrio refers to a prokaryotic cell that is comma shaped."
+    },
+    {
+      "id": "mc-ch3-08",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which bacterial structures are important for adherence to surfaces? (Select all that apply.)",
+      "options": [
+        "endospores",
+        "cell walls",
+        "fimbriae",
+        "capsules",
+        "flagella"
+      ],
+      "correctAnswers": [2, 3],
+      "explanation": "Fimbriae and capsules are important for adherence to surfaces."
+    },
+    {
+      "id": "mc-ch3-09",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which of the following cell wall components is unique to gram-negative cells?",
+      "options": [
+        "lipopolysaccharide",
+        "teichoic acid",
+        "mycolic acid",
+        "peptidoglycan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lipopolysaccharide (LPS) is a unique component of the outer membrane of gram-negative bacteria."
+    },
+    {
+      "id": "mc-ch3-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "easy",
+      "question": "Which of the following terms refers to a bacterial cell having a single tuft of flagella at one end?",
+      "options": [
+        "monotrichous",
+        "amphitrichous",
+        "peritrichous",
+        "lophotrichous"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lophotrichous refers to a bacterial cell having a single tuft of flagella at one end."
+    },
+    {
+      "id": "mc-ch3-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "easy",
+      "question": "Bacterial cell walls are primarily composed of which of the following?",
+      "options": [
+        "phospholipid",
+        "protein",
+        "carbohydrate",
+        "peptidoglycan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bacterial cell walls are primarily composed of peptidoglycan."
+    },
+    {
+      "id": "mc-ch3-12",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Eukaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which of the following organelles is not part of the endomembrane system?",
+      "options": [
+        "endoplasmic reticulum",
+        "Golgi apparatus",
+        "lysosome",
+        "peroxisome"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The peroxisome is not part of the endomembrane system."
+    },
+    {
+      "id": "mc-ch3-13",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Eukaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which type of cytoskeletal fiber is important in the formation of the nuclear lamina?",
+      "options": [
+        "microfilaments",
+        "intermediate filaments",
+        "microtubules",
+        "fibronectin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intermediate filaments are important in the formation of the nuclear lamina."
+    },
+    {
+      "id": "mc-ch3-14",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Eukaryotic Cells",
+      "difficulty": "medium",
+      "question": "Sugar groups may be added to proteins in which of the following?",
+      "options": [
+        "smooth endoplasmic reticulum",
+        "rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "lysosome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sugar groups may be added to proteins in the rough endoplasmic reticulum."
+    },
+    {
+      "id": "mc-ch3-15",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Endosymbiotic Theory",
+      "difficulty": "hard",
+      "question": "Which of the following structures of a eukaryotic cell is not likely derived from endosymbiotic bacterium?",
+      "options": [
+        "mitochondrial DNA",
+        "mitochondrial ribosomes",
+        "inner membrane",
+        "outer membrane"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The outer membrane of a mitochondrion is not likely derived from an endosymbiotic bacterium; it is derived from the host cell's membrane."
+    },
+    {
+      "id": "mc-ch3-16",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Eukaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which type of nutrient uptake involves the engulfment of small dissolved molecules into vesicles?",
+      "options": [
+        "active transport",
+        "pinocytosis",
+        "receptor-mediated endocytosis",
+        "facilitated diffusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pinocytosis involves the engulfment of small dissolved molecules into vesicles."
+    },
+    {
+      "id": "mc-ch3-17",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 3",
+      "topic": "Eukaryotic Cells",
+      "difficulty": "medium",
+      "question": "Which of the following is not composed of microtubules?",
+      "options": [
+        "desmosomes",
+        "centrioles",
+        "eukaryotic flagella",
+        "eukaryotic cilia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desmosomes are not composed of microtubules; they are composed of intermediate filaments."
+    }
+  ]
+}
