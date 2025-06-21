@@ -26,6 +26,31 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
       window.localStorage.setItem(key, JSON.stringify(valueToStore));
     } catch (error) {
       console.error(`Error setting localStorage key "${key}":`, error);
+      
+      // Handle quota exceeded error specifically
+      if (error instanceof DOMException && (
+        error.code === 22 || // QUOTA_EXCEEDED_ERR
+        error.name === 'QuotaExceededError' ||
+        error.name === 'NS_ERROR_DOM_QUOTA_REACHED'
+      )) {
+        // Calculate approximate size of data being stored
+        const dataSize = new Blob([JSON.stringify(valueToStore)]).size;
+        const dataSizeMB = (dataSize / (1024 * 1024)).toFixed(2);
+        
+        alert(
+          `Storage quota exceeded!\n\n` +
+          `The data you're trying to save (${dataSizeMB} MB) exceeds your browser's storage limit.\n\n` +
+          `To resolve this:\n` +
+          `• Use smaller question files (split large files into smaller ones)\n` +
+          `• Avoid base64-encoded images - use external URLs instead\n` +
+          `• Clear existing data using the "Clear Data" button in the dashboard\n` +
+          `• Consider using fewer questions per upload\n\n` +
+          `Your current upload was not saved.`
+        );
+      }
+      
+      // Don't update the state if storage failed
+      return;
     }
   };
 
