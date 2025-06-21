@@ -3,7 +3,7 @@ import { Upload, FileText, Image } from 'lucide-react';
 import { QuestionSet } from '../types/Question';
 
 interface FileUploadProps {
-  onUpload: (questionSets: QuestionSet[]) => void;
+  onUpload: (questionSets: QuestionSet[], filenames: string[]) => void;
   existingQuestionIds?: string[];
   className?: string;
 }
@@ -18,6 +18,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
     let processedFiles = 0;
     const totalFiles = files.length;
     const successfulQuestionSets: QuestionSet[] = [];
+    const successfulFilenames: string[] = [];
     const errorMessages: string[] = [];
     const duplicateIds: string[] = [];
     const skippedQuestions: number[] = [];
@@ -105,6 +106,9 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
               });
             }
 
+            // Add sourceFile to track which file this question came from
+            question.sourceFile = file.name;
+
             // Add to filtered questions if it passes all validations
             filteredQuestions.push(question);
           });
@@ -123,6 +127,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
             };
 
             successfulQuestionSets.push(updatedQuestionSet);
+            successfulFilenames.push(file.name);
           }
 
           // Track skipped questions for this file
@@ -140,7 +145,7 @@ export function FileUpload({ onUpload, existingQuestionIds = [], className = '' 
         // Process results when all files are complete
         if (processedFiles === totalFiles) {
           if (successfulQuestionSets.length > 0) {
-            onUpload(successfulQuestionSets);
+            onUpload(successfulQuestionSets, successfulFilenames);
           }
           
           // Show user feedback

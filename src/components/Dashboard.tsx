@@ -1,35 +1,43 @@
 import React, { useState } from 'react';
-import { Question, StudyProgress, SpacedRepetitionSettings } from '../types/Question';
-import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Trash2, AlertTriangle, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders } from 'lucide-react';
+import { Question, StudyProgress, SpacedRepetitionSettings, UploadedFile } from '../types/Question';
+import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Trash2, AlertTriangle, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders, FolderOpen } from 'lucide-react';
 import { QuizConfiguration } from './QuizConfiguration';
 import { SpacedRepetitionConfig } from './SpacedRepetitionConfig';
 import { SpacedRepetitionSettingsComponent } from './SpacedRepetitionSettings';
+import { FileManagement } from './FileManagement';
 import { getQuestionsForReview, isQuestionMastered } from '../utils/spacedRepetition';
 
 interface DashboardProps {
   questions: Question[];
   progress: StudyProgress[];
   spacedRepetitionSettings: SpacedRepetitionSettings;
+  uploadedFiles: UploadedFile[];
   onStartQuiz: (questions: Question[]) => void;
   onStartReview: () => void;
   onClearData: () => void;
   onUpdateSpacedRepetitionSettings: (settings: SpacedRepetitionSettings) => void;
+  onDeleteFile: (fileId: string) => void;
+  onReuploadFile: (fileId: string, file: File) => void;
 }
 
 export function Dashboard({ 
   questions, 
   progress, 
   spacedRepetitionSettings,
+  uploadedFiles,
   onStartQuiz, 
   onStartReview, 
   onClearData,
-  onUpdateSpacedRepetitionSettings
+  onUpdateSpacedRepetitionSettings,
+  onDeleteFile,
+  onReuploadFile
 }: DashboardProps) {
   const [showAllTopics, setShowAllTopics] = useState(false);
   const [showSpacedRepetitionInfo, setShowSpacedRepetitionInfo] = useState(false);
   const [showQuizConfig, setShowQuizConfig] = useState(false);
   const [showSpacedConfig, setShowSpacedConfig] = useState(false);
   const [showSpacedSettings, setShowSpacedSettings] = useState(false);
+  const [showFileManagement, setShowFileManagement] = useState(false);
   const [quizConfigType, setQuizConfigType] = useState<'practice' | 'subject'>('practice');
   const [selectedSubject, setSelectedSubject] = useState<string>('');
   
@@ -427,34 +435,51 @@ export function Dashboard({
         </div>
 
         <div className="bg-white rounded-xl shadow-lg p-6">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">Recent Activity</h3>
+          <h3 className="text-lg font-semibold text-gray-900 mb-4">File Management</h3>
           <div className="space-y-3">
-            {recentActivity.length > 0 ? (
-              recentActivity.map((activity, index) => {
-                const question = questions.find(q => q.id === activity.questionId);
-                return (
-                  <div key={index} className="flex items-center justify-between py-2">
-                    <div>
-                      <p className="text-sm font-medium text-gray-900">
-                        {question?.topic || 'Unknown Topic'}
-                      </p>
-                      <p className="text-xs text-gray-500">
-                        {question?.subject} • {activity.lastAnswered.toLocaleDateString()}
-                      </p>
+            <button
+              onClick={() => setShowFileManagement(true)}
+              className="w-full flex items-center justify-between p-4 bg-purple-50 border border-purple-200 rounded-lg hover:bg-purple-100 transition-colors duration-200"
+            >
+              <div className="flex items-center">
+                <FolderOpen className="h-5 w-5 text-purple-600 mr-3" />
+                <div className="text-left">
+                  <span className="font-medium text-purple-900 block">Manage Question Files</span>
+                  <span className="text-xs text-purple-600">View, delete, or re-upload files</span>
+                </div>
+              </div>
+              <span className="text-sm text-purple-600">{uploadedFiles.length} files</span>
+            </button>
+
+            <div className="bg-gray-50 rounded-lg p-3">
+              <h4 className="text-sm font-medium text-gray-700 mb-2">Recent Activity</h4>
+              {recentActivity.length > 0 ? (
+                recentActivity.slice(0, 3).map((activity, index) => {
+                  const question = questions.find(q => q.id === activity.questionId);
+                  return (
+                    <div key={index} className="flex items-center justify-between py-1">
+                      <div>
+                        <p className="text-xs font-medium text-gray-900">
+                          {question?.topic || 'Unknown Topic'}
+                        </p>
+                        <p className="text-xs text-gray-500">
+                          {question?.subject} • {activity.lastAnswered.toLocaleDateString()}
+                        </p>
+                      </div>
+                      <div className={`px-2 py-1 rounded-full text-xs font-medium ${
+                        isQuestionMastered(activity, spacedRepetitionSettings)
+                          ? 'bg-green-100 text-green-800' 
+                          : 'bg-yellow-100 text-yellow-800'
+                      }`}>
+                        {isQuestionMastered(activity, spacedRepetitionSettings) ? 'Mastered' : 'Learning'}
+                      </div>
                     </div>
-                    <div className={`px-2 py-1 rounded-full text-xs font-medium ${
-                      isQuestionMastered(activity, spacedRepetitionSettings)
-                        ? 'bg-green-100 text-green-800' 
-                        : 'bg-yellow-100 text-yellow-800'
-                    }`}>
-                      {isQuestionMastered(activity, spacedRepetitionSettings) ? 'Mastered' : 'Learning'}
-                    </div>
-                  </div>
-                );
-              })
-            ) : (
-              <p className="text-sm text-gray-500">No recent activity</p>
-            )}
+                  );
+                })
+              ) : (
+                <p className="text-xs text-gray-500">No recent activity</p>
+              )}
+            </div>
           </div>
         </div>
       </div>
@@ -599,7 +624,8 @@ export function Dashboard({
               <p className="text-amber-800 font-medium mb-1">Data Management</p>
               <p className="text-amber-700">
                 Your questions and progress are stored locally in your browser. Use "Clear Data" to remove all 
-                questions and progress when you want to start fresh with new study materials.
+                questions and progress when you want to start fresh with new study materials. Use "File Management" 
+                to view, delete, or re-upload specific question files.
               </p>
             </div>
           </div>
@@ -633,6 +659,18 @@ export function Dashboard({
           settings={spacedRepetitionSettings}
           onSave={onUpdateSpacedRepetitionSettings}
           onClose={() => setShowSpacedSettings(false)}
+        />
+      )}
+
+      {/* File Management Modal */}
+      {showFileManagement && (
+        <FileManagement
+          uploadedFiles={uploadedFiles}
+          questions={questions}
+          progress={progress}
+          onDeleteFile={onDeleteFile}
+          onReuploadFile={onReuploadFile}
+          onClose={() => setShowFileManagement(false)}
         />
       )}
     </div>

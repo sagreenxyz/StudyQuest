@@ -10,6 +10,7 @@ export interface BaseQuestion {
   tags?: string[];
   image?: string; // URL or base64 encoded image
   imageAlt?: string; // Alt text for accessibility
+  sourceFile?: string; // Track which file this question came from
 }
 
 export interface MultipleChoiceQuestion extends BaseQuestion {
@@ -75,6 +76,15 @@ export interface QuestionSet {
   description?: string;
   subject: string;
   questions: Question[];
+}
+
+export interface UploadedFile {
+  id: string;
+  filename: string;
+  uploadDate: Date;
+  questionCount: number;
+  subjects: string[];
+  questionIds: string[];
 }
 
 export interface QuizSession {
