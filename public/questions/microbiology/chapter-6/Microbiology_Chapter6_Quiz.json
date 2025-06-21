@@ -1,0 +1,267 @@
+{
+  "name": "Microbiology Chapter 6 Quiz",
+  "description": "Quiz questions for Chapter 6 of Microbiology covering acellular pathogens like viruses, viroids, and prions.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-ch6-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Characteristics",
+      "difficulty": "easy",
+      "question": "Which of the following are characteristics of Viruses?",
+      "options": [
+        "All of these",
+        "Genome is surrounded by a protein capsid",
+        "Obligate intracellular parasites with host and cell-type specificity",
+        "Infectious, acellular pathogens"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Viruses are infectious, acellular pathogens that are obligate intracellular parasites with host and cell-type specificity, and their genome is surrounded by a protein capsid."
+    },
+    {
+      "id": "micro-ch6-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Structure",
+      "difficulty": "easy",
+      "question": "Viruses formed from only a nucleic acid and capsid are called ___________ viruses.",
+      "options": ["bacteriophage", "enveloped", "prion", "naked"],
+      "correctAnswer": 3,
+      "explanation": "Naked viruses, or nonenveloped viruses, are composed only of a nucleic acid and a capsid."
+    },
+    {
+      "id": "micro-ch6-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Structure",
+      "difficulty": "easy",
+      "question": "The naked atadenovirus uses spikes made of _________________ from its capsid to bind to host cells.",
+      "options": ["carbohydrates", "none of these", "glycoproteins", "lipids"],
+      "correctAnswer": 2,
+      "explanation": "Adenoviruses have glycoprotein spikes protruding from their capsids that aid in attachment to host cells."
+    },
+    {
+      "id": "micro-ch6-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Virus Detection",
+      "difficulty": "medium",
+      "question": "Match the virus detection method of EIA to its proper description.",
+      "options": [
+        "making cDNA from RNA",
+        "using antibodies to detect viral antigens (proteins)",
+        "using primers to amplify DNA",
+        "isolating antibodies from a patient, adding them to a virus, and seeing if the virus can clump erythrocytes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enzyme Immunoassay (EIA) techniques use antibodies to detect the presence of specific viral antigens."
+    },
+    {
+      "id": "micro-ch6-005",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Virus Cultivation",
+      "difficulty": "medium",
+      "question": "Which of the following statement are true regarding HeLa cells? (select all that are true)",
+      "options": [
+        "HeLa cells were tumor cells isolated from Henrietta Lacks.",
+        "These HeLa cell lines allow scientists to culture and study viruses.",
+        "They were used to develop the first continuous tissue-culture cell line.",
+        "Viruses are facultative intracellular entities."
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "HeLa cells, derived from Henrietta Lacks' cervical tumor, formed the first continuous cell line and are vital for virus research. Viruses are obligate, not facultative, intracellular parasites."
+    },
+    {
+      "id": "micro-ch6-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Replication",
+      "difficulty": "easy",
+      "question": "With a few exceptions, RNA viruses that infect animal cells replicate in the_______________ .",
+      "options": ["ribosomes", "nucleus", "mitochondria", "cytoplasm"],
+      "correctAnswer": 3,
+      "explanation": "Most RNA viruses replicate in the cytoplasm of animal host cells."
+    },
+    {
+      "id": "micro-ch6-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Bacteriophages",
+      "difficulty": "easy",
+      "question": "____________________ occurs when a bacteriophage transfers bacterial DNA from one bacterium to another during sequential infections.",
+      "options": ["Transference", "Translation", "Transitional", "Transduction"],
+      "correctAnswer": 3,
+      "explanation": "Transduction is the process by which a bacteriophage transfers bacterial DNA between bacteria."
+    },
+    {
+      "id": "micro-ch6-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "History of Virology",
+      "difficulty": "easy",
+      "question": "Until the late 1930s and the advent of the  _______________ microscope, no one had seen a virus. Yet treatments for preventing or curing viral infections were used and developed long before that.",
+      "options": ["light", "compound", "inverted", "electron"],
+      "correctAnswer": 3,
+      "explanation": "The electron microscope, developed in the late 1930s, was necessary to visualize viruses due to their small size."
+    },
+    {
+      "id": "micro-ch6-009",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Other Acellular Pathogens",
+      "difficulty": "medium",
+      "question": "Which of the following are true regarding viroids, virusoids and prions?",
+      "options": [
+        "Viroids cannot replicate their genome in host cells.",
+        "A prion is a misfolded rogue form of a normal protein found in the cell.",
+        "The first viroid discovered was found to cause potato tuber spindle disease.",
+        "Virusoids require that the cell also be infected with a specific “helper” virus."
+      ],
+      "correctAnswers": [1, 2, 3],
+      "explanation": "Prions are misfolded proteins. The first viroid caused potato tuber spindle disease. Virusoids need a helper virus to replicate. Viroids can replicate their genome in host cells using host machinery."
+    },
+    {
+      "id": "micro-ch6-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Virus Classification",
+      "difficulty": "easy",
+      "question": "In naming viruses, the family name ends with ________ and genus name ends with _________.",
+      "options": ["-virion; virus", "-virus; -viridae", "-virus; virion", "-viridae; -virus"],
+      "correctAnswer": 3,
+      "explanation": "Viral family names end in -viridae, and genus names end in -virus."
+    },
+    {
+      "id": "micro-ch6-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Replication",
+      "difficulty": "easy",
+      "question": "Not all animal viruses undergo replication by the lytic cycle. There are viruses that are capable of remaining hidden or dormant inside the cell in a process called______________ .",
+      "options": ["persistence", "transcriptase", "dormancy", "latency"],
+      "correctAnswer": 3,
+      "explanation": "Latency is a period of dormancy for some viruses within a host cell."
+    },
+    {
+      "id": "micro-ch6-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Prions",
+      "difficulty": "medium",
+      "question": "Although there are no current treatments for prion infections, which of the following could be used?",
+      "options": ["sulfa drugs", "nucleases", "antibiotics", "proteases"],
+      "correctAnswer": 3,
+      "explanation": "Proteases can degrade proteins, and since prions are misfolded proteins, proteases might have a therapeutic role, though effective treatments are still lacking."
+    },
+    {
+      "id": "micro-ch6-013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Other Acellular Pathogens",
+      "difficulty": "medium",
+      "question": "An acellular entity composed of a small circular RNA molecule without a capsid and is not capable of replicating its genome is known as which of the following?",
+      "options": ["virion", "provirus", "virusoid", "viroid"],
+      "correctAnswer": 2,
+      "explanation": "A virusoid is a small, circular RNA that requires a helper virus for replication and lacks a capsid. The phrase 'not capable of replicating its genome' implies dependence on a helper."
+    },
+    {
+      "id": "micro-ch6-014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Plant Viruses",
+      "difficulty": "easy",
+      "question": "Viruses that infect plants are considered ______________ parasites, which means that they can establish an infection without killing the host.",
+      "options": ["osmotic", "biotrophic", "pathogenic", "hetermorphic"],
+      "correctAnswer": 1,
+      "explanation": "Biotrophic plant parasites establish infection without immediately killing the host cells."
+    },
+    {
+      "id": "micro-ch6-015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Virus Cultivation",
+      "difficulty": "easy",
+      "question": "Unlike bacteria, many of which can be grown on an artificial nutrient medium, ___________ require a living __________ cell for replication.",
+      "options": ["animals, endoparasitic", "viruses, host", "plants, ectoparasitic", "viruses, endoparasitic"],
+      "correctAnswer": 1,
+      "explanation": "Viruses are obligate intracellular parasites and require a living host cell for replication."
+    },
+    {
+      "id": "micro-ch6-016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Virus Cultivation",
+      "difficulty": "easy",
+      "question": "An example of an immortal cell line is the HeLa cell line, which was originally cultivated from tumor cells obtained from ________________  _________________, a patient who died of cervical cancer in 1951.",
+      "options": ["Harry Lacks", "Henrietta Lucas", "Henrietta Leeks", "Henrietta Lacks"],
+      "correctAnswer": 3,
+      "explanation": "The HeLa cell line was derived from cervical cancer cells taken from Henrietta Lacks."
+    },
+    {
+      "id": "micro-ch6-017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Structure",
+      "difficulty": "easy",
+      "question": "The component(s) of a virus that is/are extended from the envelope for attachment is/are the:",
+      "options": ["viral whiskers", "spikes", "nucleic acid", "capsomeres"],
+      "correctAnswer": 1,
+      "explanation": "Viral spikes, typically glycoproteins, extend from the envelope and are used for attachment to host cells."
+    },
+    {
+      "id": "micro-ch6-018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Replication",
+      "difficulty": "easy",
+      "question": "The third stage of a viral infection is _______________________ of new viral components.",
+      "options": ["penetration", "biosynthesis", "maturation", "attachment"],
+      "correctAnswer": 1,
+      "explanation": "Biosynthesis is the stage where the host cell machinery is used to synthesize new viral components (nucleic acids, proteins)."
+    },
+    {
+      "id": "micro-ch6-019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Bacteriophages",
+      "difficulty": "easy",
+      "question": "A virus that infects a bacterium is called a/an ___________________.",
+      "options": ["eclipse", "bacteriophage", "viron", "prion"],
+      "correctAnswer": 1,
+      "explanation": "A bacteriophage is a virus that specifically infects bacteria."
+    },
+    {
+      "id": "micro-ch6-020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 6",
+      "topic": "Viral Structure",
+      "difficulty": "easy",
+      "question": "The envelope of a virus is derived from the host’s",
+      "options": ["membrane structures", "cytoplasm", "nucleic acids", "genome"],
+      "correctAnswer": 0,
+      "explanation": "The viral envelope is derived from the host cell's membrane structures, such as the plasma membrane or internal membranes."
+    }
+  ]
+}

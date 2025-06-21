@@ -1,0 +1,198 @@
+{
+  "name": "Microbiology Chapter 2 Quiz",
+  "description": "Quiz questions for Microbiology Chapter 2, based on the content from OpenStax.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mc-ch2-01",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Properties of Light",
+      "difficulty": "easy",
+      "question": "Which of the following has the highest energy?",
+      "options": [
+        "light with a long wavelength",
+        "light with an intermediate wavelength",
+        "light with a short wavelength",
+        "It is impossible to tell from the information given."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Light with a short wavelength has the highest energy."
+    },
+    {
+      "id": "mc-ch2-02",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "easy",
+      "question": "You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.",
+      "options": [
+        "fluorescent",
+        "phosphorescent",
+        "transparent",
+        "opaque"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fluorescent materials emit light immediately upon absorbing it."
+    },
+    {
+      "id": "mc-ch2-03",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "History of Microscopy",
+      "difficulty": "easy",
+      "question": "Who was the first to describe “cells” in dead cork tissue?",
+      "options": [
+        "Hans Janssen",
+        "Zaccharias Janssen",
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Robert Hooke was the first to describe “cells” in dead cork tissue."
+    },
+    {
+      "id": "mc-ch2-04",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "History of Microscopy",
+      "difficulty": "easy",
+      "question": "Who is the probable inventor of the compound microscope?",
+      "options": [
+        "Girolamo Fracastoro",
+        "Zaccharias Janssen",
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zaccharias Janssen is the probable inventor of the compound microscope."
+    },
+    {
+      "id": "mc-ch2-05",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "Which would be the best choice for viewing internal structures of a living protist such as a Paramecium?",
+      "options": [
+        "a brightfield microscope with a stain",
+        "a brightfield microscope without a stain",
+        "a darkfield microscope",
+        "a transmission electron microscope"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A darkfield microscope is ideal for viewing living, unstained specimens, as it enhances contrast without killing the cells."
+    },
+    {
+      "id": "mc-ch2-06",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "Which type of microscope is especially useful for viewing thick structures such as biofilms?",
+      "options": [
+        "a transmission electron microscope",
+        "a scanning electron microscopes",
+        "a phase-contrast microscope",
+        "a confocal scanning laser microscope",
+        "an atomic force microscope"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A confocal scanning laser microscope is especially useful for viewing thick structures such as biofilms because it can create sharp, composite 3D images."
+    },
+    {
+      "id": "mc-ch2-07",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "Which type of microscope would be the best choice for viewing very small surface structures of a cell?",
+      "options": [
+        "a transmission electron microscope",
+        "a scanning electron microscope",
+        "a brightfield microscope",
+        "a darkfield microscope",
+        "a phase-contrast microscope"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A scanning electron microscope (SEM) is the best choice for viewing very small surface structures of a cell."
+    },
+    {
+      "id": "mc-ch2-08",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "What type of microscope uses an annular stop?",
+      "options": [
+        "a transmission electron microscope",
+        "a scanning electron microscope",
+        "a brightfield microscope",
+        "a darkfield microscope",
+        "a phase-contrast microscope"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A phase-contrast microscope uses an annular stop to create contrast."
+    },
+    {
+      "id": "mc-ch2-09",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "What type of microscope uses a cone of light so that light only hits the specimen indirectly, producing a light image on a dark background?",
+      "options": [
+        "a transmission electron microscope",
+        "a scanning electron microscope",
+        "a brightfield microscope",
+        "a darkfield microscope",
+        "a phase-contrast microscope"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A darkfield microscope uses a cone of light so that light only hits the specimen indirectly, producing a light image on a dark background."
+    },
+    {
+      "id": "mc-ch2-10",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Staining",
+      "difficulty": "easy",
+      "question": "What mordant is used in Gram staining?",
+      "options": [
+        "crystal violet",
+        "safranin",
+        "acid-alcohol",
+        "iodine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Iodine is used as a mordant in Gram staining."
+    },
+    {
+      "id": "mc-ch2-11",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 2",
+      "topic": "Microscopy",
+      "difficulty": "medium",
+      "question": "What is one difference between specimen preparation for a transmission electron microscope (TEM) and preparation for a scanning electron microscope (SEM)?",
+      "options": [
+        "Only the TEM specimen requires sputter coating.",
+        "Only the SEM specimen requires sputter-coating.",
+        "Only the TEM specimen must be dehydrated.",
+        "Only the SEM specimen must be dehydrated."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only the SEM specimen requires sputter-coating. Both require dehydration."
+    }
+  ]
+}

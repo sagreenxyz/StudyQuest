@@ -1,0 +1,347 @@
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 10",
+  "description": "Official textbook questions for Chapter 10 of the OpenStax Microbiology textbook.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-ch10-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biochemistry of the Genome",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "Frederick Griffith infected mice with a combination of dead R and live S bacterial strains. What was the outcome, and why did it occur?",
+      "options": [
+        "The mice will live. Transformation was not required.",
+        "The mice will die. Transformation of genetic material from R to S was required.",
+        "The mice will live. Transformation of genetic material from S to R was required.",
+        "The mice will die. Transformation was not required."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The live R strain acquired genetic material from the dead S strain (transformation), enabling it to produce a capsule and become virulent, leading to the death of the mice."
+    },
+    {
+      "id": "micro-ch10-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biochemistry of the Genome",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Why was the alga Acetabularia a good model organism for Joachim Hämmerling to use to identify the location of genetic material?",
+      "options": [
+        "It lacks a nuclear membrane.",
+        "It self-fertilizes.",
+        "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+        "It makes a protein capsid."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acetabularia's large size and distinct parts (foot, stalk, and cap) allowed for surgical manipulation to determine that the genetic information was located in the foot, which contains the nucleus."
+    },
+    {
+      "id": "micro-ch10-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biochemistry of the Genome",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "hard",
+      "question": "Which of the following best describes the results from Hershey and Chase’s experiment using bacterial viruses with 35S-labeled proteins or 32P-labeled DNA that are consistent with protein being the molecule responsible for hereditary?",
+      "options": [
+        "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+        "After infection with the 35S-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.",
+        "After infection with the 32P-labeled viruses and centrifugation, only the pellet would be radioactive.",
+        "After infection with the 32P-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive."
+      ],
+      "correctAnswer": 0,
+      "explanation": "If protein were the hereditary material, the 35S-labeled protein coat would have entered the bacteria, making the cell pellet radioactive after centrifugation."
+    },
+    {
+      "id": "micro-ch10-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biochemistry of the Genome",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "Which method did Morgan and colleagues use to show that hereditary information was carried on chromosomes?",
+      "options": [
+        "statistical predictions of the outcomes of crosses using true-breeding parents",
+        "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+        "transformation of nonpathogenic bacteria to pathogenic bacteria",
+        "mutations resulting in distinct defects in metabolic enzymatic pathways"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Morgan's work with fruit flies linked specific traits to the sex chromosomes, providing the first experimental evidence that genes reside on chromosomes."
+    },
+    {
+      "id": "micro-ch10-005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biochemistry of the Genome",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "According to Beadle and Tatum’s “one gene–one enzyme” hypothesis, which of the following enzymes will eliminate the transformation of hereditary material from pathogenic bacteria to nonpathogenic bacteria?",
+      "options": [
+        "carbohydrate-degrading enzymes",
+        "proteinases",
+        "ribonucleases",
+        "deoxyribonucleases"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Deoxyribonucleases (DNases) degrade DNA. Since DNA is the hereditary material, its destruction would prevent transformation."
+    },
+    {
+      "id": "micro-ch10-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following is not found within DNA?",
+      "options": [
+        "thymine",
+        "phosphodiester bonds",
+        "complementary base pairing",
+        "amino acids"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Amino acids are the building blocks of proteins, not DNA. DNA is composed of deoxyribonucleotides."
+    },
+    {
+      "id": "micro-ch10-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "If 30% of the bases within a DNA molecule are adenine, what is the percentage of thymine?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "According to Chargaff's rules, adenine and thymine are complementary base pairs, so their amounts in a DNA molecule are equal."
+    },
+    {
+      "id": "micro-ch10-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following statements about base pairing in DNA is incorrect?",
+      "options": [
+        "Purines always base pairs with pyrimidines.",
+        "Adenine binds to guanine.",
+        "Base pairs are stabilized by hydrogen bonds.",
+        "Base pairing occurs at the interior of the double helix."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adenine (a purine) pairs with thymine (a pyrimidine), and guanine (a purine) pairs with cytosine (a pyrimidine). Adenine does not pair with guanine."
+    },
+    {
+      "id": "micro-ch10-009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "If a DNA strand contains the sequence 5ʹ-ATTCCGGATCGA-3ʹ, which of the following is the sequence of the complementary strand of DNA?",
+      "options": [
+        "5ʹ-TAAGGCCTAGCT-3ʹ",
+        "5ʹ-ATTCCGGATCGA-3ʹ",
+        "3ʹ-TAACCGGTACGT-5ʹ",
+        "5ʹ-TCGATCCGGAAT-3ʹ"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The complementary strand is antiparallel and has complementary bases (A with T, G with C). The correct complementary sequence is 3'-TAAGGCCTAGCT-5', which is equivalent to 5'-TCGATCCGGAAT-3'."
+    },
+    {
+      "id": "micro-ch10-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "During denaturation of DNA, which of the following happens?",
+      "options": [
+        "Hydrogen bonds between complementary bases break.",
+        "Phosphodiester bonds break within the sugar-phosphate backbone.",
+        "Hydrogen bonds within the sugar-phosphate backbone break.",
+        "Phosphodiester bonds between complementary bases break."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Denaturation separates the two DNA strands by breaking the hydrogen bonds between complementary base pairs."
+    },
+    {
+      "id": "micro-ch10-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "RNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following types of RNA codes for a protein?",
+      "options": [
+        "dsRNA",
+        "mRNA",
+        "rRNA",
+        "tRNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Messenger RNA (mRNA) carries the genetic code from DNA to the ribosome for protein synthesis."
+    },
+    {
+      "id": "micro-ch10-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "RNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "A nucleic acid is purified from a mixture. The molecules are relatively small, contain uracil, and most are covalently bound to an amino acid. Which of the following was purified?",
+      "options": [
+        "DNA",
+        "mRNA",
+        "rRNA",
+        "tRNA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Transfer RNA (tRNA) molecules are small, contain uracil, and are responsible for carrying amino acids to the ribosome."
+    },
+    {
+      "id": "micro-ch10-013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "RNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following types of RNA is known for its catalytic abilities?",
+      "options": [
+        "dsRNA",
+        "mRNA",
+        "rRNA",
+        "tRNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ribosomal RNA (rRNA) is a component of the ribosome and has catalytic activity (ribozyme) in peptide bond formation."
+    },
+    {
+      "id": "micro-ch10-014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "RNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Ribosomes are composed of rRNA and what other component?",
+      "options": [
+        "protein",
+        "carbohydrates",
+        "DNA",
+        "mRNA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ribosomes are ribonucleoprotein complexes, composed of rRNA and proteins."
+    },
+    {
+      "id": "micro-ch10-015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "RNA Structure and Function",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following may use RNA as its genome?",
+      "options": [
+        "a bacterium",
+        "an archaeon",
+        "a virus",
+        "a eukaryote"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Some viruses, known as RNA viruses, use RNA as their genetic material."
+    },
+    {
+      "id": "micro-ch10-016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Chromosomes",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following correctly describes the structure of the typical eukaryotic genome?",
+      "options": [
+        "diploid",
+        "linear",
+        "singular",
+        "double stranded"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eukaryotic genomes are typically diploid, meaning they have two sets of chromosomes."
+    },
+    {
+      "id": "micro-ch10-017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Chromosomes",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Which of the following is typically found as part of the prokaryotic genome?",
+      "options": [
+        "chloroplast DNA",
+        "linear chromosomes",
+        "plasmids",
+        "mitochondrial DNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prokaryotic genomes often contain plasmids, which are small, circular DNA molecules that carry non-essential genes."
+    },
+    {
+      "id": "micro-ch10-018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Chromosomes",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Serratia marcescens cells produce a red pigment at room temperature. The red color of the colonies is an example of which of the following?",
+      "options": [
+        "genotype",
+        "phenotype",
+        "change in DNA base composition",
+        "adaptation to the environment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phenotype refers to the observable characteristics of an organism, such as the red color of the colonies."
+    },
+    {
+      "id": "micro-ch10-019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Chromosomes",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "medium",
+      "question": "Which of the following genes would not likely be encoded on a plasmid?",
+      "options": [
+        "genes encoding toxins that damage host tissue",
+        "genes encoding antibacterial resistance",
+        "gene encoding enzymes for glycolysis",
+        "genes encoding enzymes for the degradation of an unusual substrate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Glycolysis is an essential metabolic pathway, and the genes for its enzymes are typically found on the chromosome, not on a plasmid."
+    },
+    {
+      "id": "micro-ch10-020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Chromosomes",
+      "chapter": "Chapter 10: Biochemistry of the Genome",
+      "difficulty": "easy",
+      "question": "Histones are DNA binding proteins that are important for DNA packaging in which of the following?",
+      "options": [
+        "double-stranded and single-stranded DNA viruses",
+        "archaea and bacteria",
+        "bacteria and eukaryotes",
+        "eukaryotes and archaea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Histones are the primary proteins responsible for packaging DNA in eukaryotes and archaea."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Microbiology Chapter 21 Quiz",
+  "description": "Quiz covering concepts from Microbiology Chapter 21, focusing on Infections of the Skin and Eyes.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mcb_ch21_001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Some microbes are able to live on the surface of the skin, and some of these can be shed with dead skin cells in the process of ________________________, which is the shedding and peeling of skin that occurs as a normal process but that may be accelerated when infection is present.",
+      "options": [
+        "desquamation",
+        "deapoptosis",
+        "desalination",
+        "decallularization"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desquamation is the natural process of shedding dead skin cells from the epidermis. This process can be accelerated by certain skin infections."
+    },
+    {
+      "id": "mcb_ch21_002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which is the term that refers to the smooth spots of discoloration on the skin?",
+      "options": [
+        "macules",
+        "carbuncle",
+        "pyoderma",
+        "papules"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Macules are flat, discolored spots on the skin that are not raised or depressed. They are a common feature of many skin conditions."
+    },
+    {
+      "id": "mcb_ch21_003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "What is the term used for describing a lesion that resembles a cyst but with a less defined boundary?",
+      "options": [
+        "purulent",
+        "folliculitis",
+        "wheal",
+        "pseudocyst"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pseudocyst is a fluid-filled lesion that resembles a cyst but lacks a true epithelial lining. It has a less defined boundary than a true cyst."
+    },
+    {
+      "id": "mcb_ch21_004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Tinea barbae is located is the",
+      "options": [
+        "Scalp",
+        "Beard",
+        "Groin",
+        "Feet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tinea barbae, also known as barber's itch, is a fungal infection of the beard area."
+    },
+    {
+      "id": "mcb_ch21_005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "The  __________ serve(s) as an important barrier to microbial invasion. Not only is it (are they) a physical barrier to penetration of deeper tissues by potential pathogens, but it (they) also provides an inhospitable environment for the growth of many pathogens.",
+      "options": [
+        "skin",
+        "pilli",
+        "eyes",
+        "mucous membranes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The skin is the body's largest organ and serves as a primary physical barrier against microbial invasion. Its dry, acidic, and salty environment is inhospitable to many pathogens."
+    },
+    {
+      "id": "mcb_ch21_006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "___________________ is frequently caused by Staphylococcus epidermidis and/or Pseudomonas aeruginosa, especially among contact lens users, and can lead to blindness.",
+      "options": [
+        "Papillomas",
+        "Acne",
+        "Keratitis",
+        "Herpes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Keratitis is an inflammation of the cornea, the clear outer layer of the eye. It is a common and serious eye infection, especially in contact lens wearers, and can be caused by bacteria such as Staphylococcus epidermidis and Pseudomonas aeruginosa."
+    },
+    {
+      "id": "mcb_ch21_007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "_____________ glands produce a lipid-rich substance that contains proteins and minerals and protects the skin.",
+      "options": [
+        "Sweat",
+        "Endocrine",
+        "Sebaceous",
+        "Mammary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sebaceous glands are microscopic exocrine glands in the skin that secrete an oily or waxy matter, called sebum, to lubricate and waterproof the skin and hair."
+    },
+    {
+      "id": "mcb_ch21_008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which layer of skin contains living cells, is vascularized, and lies directly above the hypodermis?",
+      "options": [
+        "the conjunctiva",
+        "the epidermis",
+        "the dermis",
+        "the stratum corneum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dermis is the layer of skin beneath the epidermis that contains connective tissue, hair follicles, and sweat glands. It is vascularized, meaning it contains blood vessels, and it lies directly above the hypodermis."
+    },
+    {
+      "id": "mcb_ch21_009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Blackheads differ from whiteheads because whiteheads are covered by skin, whereas blackheads are open to the air. What causes the dark coloration?",
+      "options": [
+        "The sebum, dead cells, and lipids within the pore are naturally dark.",
+        "Lipids within the sebum react with air, resulting in chemical oxidation and the formation of the black color.",
+        "The dead cells turn black as they die.",
+        "Sebum is always a dark color, but it is more concentrated in blackheads and is visible because there is no skin covering it."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The black color of a blackhead is not due to dirt, but rather to the oxidation of lipids and melanin in the sebum when it is exposed to the air."
+    },
+    {
+      "id": "mcb_ch21_010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Why is a wet mount of a KOH preparation often used to diagnose tineas?",
+      "options": [
+        "KOH dissolves the fungal cells, allowing their internal structures to be viewed.",
+        "KOH helps dissolve the keratin in the tissues, which better reveals the fungal structures.",
+        "KOH is necessary to fully spread the sample on the slide.",
+        "KOH stains the tissue, making fungi more visible."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A potassium hydroxide (KOH) preparation is a simple and rapid method for diagnosing fungal infections of the skin, hair, and nails. The KOH solution dissolves the keratin in the tissue, making the fungal elements, such as hyphae and spores, more visible under a microscope."
+    },
+    {
+      "id": "mcb_ch21_011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which of these viruses can spread to the eye to cause a form of keratitis?",
+      "options": [
+        "human papillomavirus",
+        "parvovirus 19",
+        "circoviruses",
+        "herpes simplex virus 1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Herpes simplex virus 1 (HSV-1) is a common cause of oral herpes (cold sores), but it can also spread to the eye and cause a serious infection called herpes keratitis."
+    },
+    {
+      "id": "mcb_ch21_012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which of the following is not true of biofilms?",
+      "options": [
+        "Biofilms often form in wounds and are associated with medical devices such as prosthetic joints and catheters.",
+        "Cells in biofilms are generally more resistant to antibiotic treatment.",
+        "Nutrients are equally distributed throughout a biofilm, so all the cells are healthy and resistant.",
+        "The biofilm matrix helps attach cells to a surface."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrient distribution within a biofilm is often uneven, with cells in the deeper layers having less access to nutrients and oxygen. This can lead to the development of different metabolic states within the biofilm."
+    },
+    {
+      "id": "mcb_ch21_013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Biofilms are commonly considered bacterial structures. Are biofilms always bacterial?",
+      "options": [
+        "Yes, each biofilm consists of a monoculture of one species of bacterium.",
+        "No, biofilms may occasionally consist of viruses instead of bacteria.",
+        "No, fungi (including medically important fungi) may also form biofilms.",
+        "Yes, each biofilm consists of one or more bacterial species with no other species."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Biofilms are not exclusively bacterial. Fungi, such as Candida albicans, can also form biofilms, which are often associated with medical devices and can be difficult to treat."
+    },
+    {
+      "id": "mcb_ch21_014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Staphylococcus aureus is most often associated with being",
+      "options": [
+        "catalase-negative.",
+        "gram-negative",
+        "coagulase-negative.",
+        "coagulase-positive."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Staphylococcus aureus is a coagulase-positive bacterium, which means it produces the enzyme coagulase. This enzyme can clot blood plasma and is a key virulence factor for S. aureus."
+    },
+    {
+      "id": "mcb_ch21_015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "M protein is produced by",
+      "options": [
+        "Staphylococcus aureus",
+        "Propionibacterium acnes",
+        "Pseudomonas aeruginosa",
+        "Streptococcus pyogenes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "M protein is a major virulence factor of Streptococcus pyogenes (group A streptococcus). It is a cell surface protein that helps the bacterium evade phagocytosis by the host immune system."
+    },
+    {
+      "id": "mcb_ch21_016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Whereas cutaneous mycoses are superficial, subcutaneous mycoses can spread from the ____________ to deeper tissues.",
+      "options": [
+        "groin",
+        "skin",
+        "muscle",
+        "scalp"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subcutaneous mycoses are fungal infections that begin in the skin and then spread to deeper tissues, such as muscle and bone."
+    },
+    {
+      "id": "mcb_ch21_017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "___________ is a major cause of preventable blindness that can be reduced through improved sanitation.",
+      "options": [
+        "Ophthalmia neonatorum",
+        "Trachoma",
+        "Cutaneous anthrax",
+        "Keratitis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trachoma is a bacterial infection of the eye caused by Chlamydia trachomatis. It is the leading cause of preventable blindness worldwide and is often associated with poor sanitation and hygiene."
+    },
+    {
+      "id": "mcb_ch21_018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which species is frequently associated with nosocomial infections transmitted via medical devices inserted into the body?",
+      "options": [
+        "Staphylococcus epidermidis",
+        "Bacillus anthracis",
+        "Proproniobacterium acnes",
+        "Streptococcus pyogenes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Staphylococcus epidermidis is a common cause of nosocomial (hospital-acquired) infections, particularly those associated with medical devices such as catheters, prosthetic joints, and intravenous lines."
+    },
+    {
+      "id": "mcb_ch21_019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Warts are caused by",
+      "options": [
+        "herpes simplex virus.",
+        "parvovirus B19.",
+        "adenoviruses.",
+        "human papillomavirus."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Warts are benign skin growths caused by infection with the human papillomavirus (HPV)."
+    },
+    {
+      "id": "mcb_ch21_020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "21",
+      "topic": "Infections of the Skin and Eyes",
+      "difficulty": "Medium",
+      "question": "Which of the following statements is false?",
+      "options": [
+        "The immune system is often able to clear warts without medical treatment.",
+        "Isotretinoin is used to treat acne, but only in severe cases because of potentially severe side effects.",
+        "Bacillus anthracis uses a capsule to help evade the immune response.",
+        "Blackhead pimples are comedones that are covered by skin."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Blackhead pimples are open comedones, meaning they are open to the air, which causes the trapped sebum and dead skin cells to oxidize and turn black. Whiteheads are closed comedones, which are covered by a thin layer of skin."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Microbiology Chapter 17 Quiz",
+  "description": "Quiz covering concepts from Microbiology Chapter 17, focusing on nonspecific innate host defenses.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "mcb_ch17_001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following is not an example of a PAMP?",
+      "options": [
+        "peptidoglycan",
+        "lipopolysaccharide",
+        "glucose",
+        "flagellin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PAMPs (Pathogen-Associated Molecular Patterns) are molecules unique to pathogens. Peptidoglycan, lipopolysaccharide, and flagellin are all found on bacteria. Glucose is a simple sugar used for energy by both host cells and pathogens, so it is not a PAMP."
+    },
+    {
+      "id": "mcb_ch17_002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following is not a common component of neutrophil extracellular traps?",
+      "options": [
+        "chromatin",
+        "gelatinase",
+        "actin filaments",
+        "lactoferrin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neutrophil extracellular traps (NETs) are composed of a scaffold of chromatin (DNA and histones) and antimicrobial proteins like lactoferrin and gelatinase. Actin filaments are part of the neutrophil's cytoskeleton but are not a primary component of the NET itself."
+    },
+    {
+      "id": "mcb_ch17_003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "The topmost layer of skin, the epidermis, consists of cells that are packed with ________________ .. These dead cells remain as a tightly connected, dense layer of protein-filled cell husks on the surface of the skin.",
+      "options": [
+        "keratin",
+        "microglia",
+        "glands",
+        "vessels"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The epidermis is packed with keratin, a tough, fibrous protein that provides a physical barrier and makes the skin's surface waterproof and resistant to degradation by microbial enzymes."
+    },
+    {
+      "id": "mcb_ch17_004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Rose gardener’s disease can occur when the __________________ Sporothrix schenkii breaches the skin through small cuts, such as might be inflicted by thorns.",
+      "options": [
+        "virus",
+        "alga",
+        "fungus",
+        "bacteria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sporothrix schenkii is a fungus that can cause a subcutaneous mycosis known as sporotrichosis, or rose gardener's disease."
+    },
+    {
+      "id": "mcb_ch17_005",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Epithelial cells lining the upper parts of the respiratory tract are called ciliated epithelial cells because they have hair-like appendages known as cilia. Movement of the cilia propels debris-laden mucus out and away from the lungs. The expelled mucus is then (choose all -if any-  that apply)",
+      "options": [
+        "none of these",
+        "destroyed in the stomach",
+        "coughed up",
+        "sneezed out"
+      ],
+      "correctAnswers": [1, 2, 3],
+      "explanation": "The mucociliary escalator traps microbes and debris in mucus, which is then moved out of the respiratory system by being coughed up, sneezed out, or swallowed and destroyed by stomach acid."
+    },
+    {
+      "id": "mcb_ch17_006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which part of the brain controls body temperature?",
+      "options": [
+        "cerebellum",
+        "thalamus",
+        "brain stem",
+        "hypothalamus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The hypothalamus in the brain acts as the body's thermostat, regulating body temperature and initiating responses like fever."
+    },
+    {
+      "id": "mcb_ch17_007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Bacteriocins and defensins are types of which of the following?",
+      "options": [
+        "inflammation-eliciting mediators",
+        "cytokines",
+        "antimicrobial peptides",
+        "leukotrienes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bacteriocins (produced by bacteria) and defensins (produced by host cells) are both classes of antimicrobial peptides that have broad-spectrum activity against microbes."
+    },
+    {
+      "id": "mcb_ch17_008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Immediately following an injury, _______________________ of blood vessels will occur to minimize blood loss.",
+      "options": [
+        "vasocontraction",
+        "vasodilation",
+        "vasoconstriction",
+        "xenodilation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Immediately after an injury, the smooth muscles in the walls of blood vessels contract (vasoconstriction) to minimize blood loss."
+    },
+    {
+      "id": "mcb_ch17_009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "One of the cell types discussed in the inflammation section can be described as _________________ which are cells whose main function is to seek, ingest, and kill pathogens.",
+      "options": [
+        "monocytes",
+        "phagocytes",
+        "cytokines",
+        "microcytes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phagocytes are a type of cell that specializes in engulfing and destroying pathogens, cellular debris, and other foreign particles through the process of phagocytosis."
+    },
+    {
+      "id": "mcb_ch17_010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following is not a chemical defense with regards to immunity?",
+      "options": [
+        "Agranulocytes",
+        "Plasma protein mediators",
+        "Cytokines",
+        "Antimicrobial peptides"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Agranulocytes are a type of white blood cell (a cellular defense), whereas cytokines, antimicrobial peptides, and plasma protein mediators are all examples of chemical defenses."
+    },
+    {
+      "id": "mcb_ch17_011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Once pathogen recognition and attachment occurs, the pathogen is engulfed in a vesicle and brought into the internal compartment of the phagocyte in a process called ____________________ .",
+      "options": [
+        "phagocilitosis",
+        "phagocytosis",
+        "phagomytosis",
+        "phagosome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phagocytosis is the process by which a cell engulfs a large particle, such as a pathogen, into a vesicle called a phagosome."
+    },
+    {
+      "id": "mcb_ch17_012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following best describes the innate nonspecific immune system?",
+      "options": [
+        "the production of antibody molecules against pathogens",
+        "a targeted and highly specific response to a single pathogen or molecule",
+        "a generalized and nonspecific set of defenses against a class or group of pathogens",
+        "a set of barrier mechanisms that adapts to specific pathogens after repeated exposure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The innate immune system is a generalized set of defenses that acts against any pathogen. It is not specific and does not have memory, unlike the adaptive immune system."
+    },
+    {
+      "id": "mcb_ch17_013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "What areas of the body are lined with mucous membranes?",
+      "options": [
+        "all of these",
+        "digestive tract",
+        "nose",
+        "mouth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mucous membranes line body cavities and hollow passageways that open to the external environment, including the digestive, respiratory, urinary, and reproductive tracts."
+    },
+    {
+      "id": "mcb_ch17_014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following constantly sheds dead cells along with any microbes that may be attached to those cells?",
+      "options": [
+        "epidermis",
+        "hypodermis",
+        "mucous membrane",
+        "dermis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The epidermis, the outermost layer of skin, constantly sheds dead cells, which helps to remove any microbes attached to them."
+    },
+    {
+      "id": "mcb_ch17_015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following uses a particularly dense suite of tight junctions to prevent microbes from entering the underlying tissue?",
+      "options": [
+        "the epidermis",
+        "the urethra",
+        "the blood-brain barrier",
+        "the mucociliary escalator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The blood-brain barrier is formed by endothelial cells with very tight junctions that prevent microbes and other substances from passing from the bloodstream into the central nervous system."
+    },
+    {
+      "id": "mcb_ch17_016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following serve as chemical signals between cells and stimulate a wide range of nonspecific defenses?",
+      "options": [
+        "antibodies",
+        "cytokines",
+        "antimicrobial peptides",
+        "complement proteins"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cytokines are signaling molecules that allow cells to communicate with each other, stimulating and coordinating a wide range of immune responses."
+    },
+    {
+      "id": "mcb_ch17_017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following chemical mediators is secreted onto the surface of the skin?",
+      "options": [
+        "gastric acid",
+        "cerumen",
+        "prostaglandin",
+        "sebum"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sebum is an oily substance secreted by sebaceous glands onto the skin. It provides a protective layer and its fatty acids lower the pH, inhibiting microbial growth."
+    },
+    {
+      "id": "mcb_ch17_018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Identify the complement activation pathway that is triggered by the binding of an acute-phase protein to a pathogen.",
+      "options": [
+        "cathelicidin",
+        "lectin",
+        "classical",
+        "alternate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lectin pathway of complement activation is triggered by the binding of mannose-binding lectin, an acute-phase protein, to carbohydrates on the surface of pathogens."
+    },
+    {
+      "id": "mcb_ch17_019",
+      "type": "select-all",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following are benefits that a fever provides the body during an infection?",
+      "options": [
+        "All of these.",
+        "Fever can stimulate sodium production, to inhibit bacterial growth.",
+        "Fever raises the body temperature above the optimal growth condition for pathogens (35–37 °C).",
+        "Fever can also stimulate iron-sequestering compounds from the liver, thus preventing pathogens that require iron for growth."
+      ],
+      "correctAnswers": [2, 3],
+      "explanation": "Fever inhibits the growth of many pathogens by raising the body temperature and stimulates the liver to sequester iron, which microbes need for growth. It also enhances the overall immune response."
+    },
+    {
+      "id": "mcb_ch17_020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "17",
+      "topic": "Nonspecific Innate Host Defenses",
+      "difficulty": "Medium",
+      "question": "Which of the following statements about LPS is false?",
+      "options": [
+        "LPS can stimulate fever in the host.",
+        "The lipid A component of LPS is the toxic component.",
+        "LPS is an endogenous pyrogen.",
+        "Only gram-negative bacteria have LPS."
+      ],
+      "correctAnswer": 2,
+      "explanation": "LPS is an exogenous pyrogen because it is a component of foreign bacteria. Endogenous pyrogens are produced by the host's own immune cells (e.g., interleukin-1)."
+    }
+  ]
+}

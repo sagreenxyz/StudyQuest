@@ -1,0 +1,211 @@
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 12",
+  "description": "Official textbook questions for Chapter 12 of the OpenStax Microbiology textbook.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-ch12-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Modern Applications of Microbial Genetics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is required for repairing the phosphodiester backbone of DNA during molecular cloning?",
+      "options": [
+        "cDNA",
+        "reverse transcriptase",
+        "restriction enzymes",
+        "DNA ligase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "DNA ligase is an enzyme that facilitates the joining of DNA strands together by catalyzing the formation of a phosphodiester bond."
+    },
+    {
+      "id": "micro-ch12-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Modern Applications of Microbial Genetics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "All of the following are processes used to introduce DNA molecules into bacterial cells except:",
+      "options": [
+        "transformation",
+        "transduction",
+        "transcription",
+        "conjugation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transcription is the process of synthesizing RNA from a DNA template; it is not a method for introducing DNA into cells."
+    },
+    {
+      "id": "micro-ch12-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Modern Applications of Microbial Genetics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The enzyme that uses RNA as a template to produce a DNA copy is called:",
+      "options": [
+        "a restriction enzyme",
+        "DNA ligase",
+        "reverse transcriptase",
+        "DNA polymerase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reverse transcriptase synthesizes a complementary DNA (cDNA) strand from an RNA template."
+    },
+    {
+      "id": "micro-ch12-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Modern Applications of Microbial Genetics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "In blue-white screening, what do blue colonies represent?",
+      "options": [
+        "cells that have not taken up the plasmid vector",
+        "cells with recombinant plasmids containing a new insert",
+        "cells containing empty plasmid vectors",
+        "cells with a non-functional lacZ gene"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In blue-white screening, blue colonies indicate that the lacZ gene is functional, meaning the plasmid vector does not contain an insert. White colonies have a disrupted lacZ gene due to an insert."
+    },
+    {
+      "id": "micro-ch12-005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Modern Applications of Microbial Genetics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The Ti plasmid is used for introducing genes into:",
+      "options": [
+        "animal cells",
+        "plant cells",
+        "bacteriophages",
+        "E. coli cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ti (tumor-inducing) plasmid, from the bacterium Agrobacterium tumefaciens, is a widely used vector for introducing genes into plant cells."
+    },
+    {
+      "id": "micro-ch12-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biotechnology and Genetic Engineering",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which technique is used to separate protein fragments based on size?",
+      "options": [
+        "polyacrylamide gel electrophoresis",
+        "Southern blot",
+        "agarose gel electrophoresis",
+        "polymerase chain reaction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Polyacrylamide gel electrophoresis (PAGE) is used to separate proteins based on their size and charge."
+    },
+    {
+      "id": "micro-ch12-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biotechnology and Genetic Engineering",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which technique uses restriction enzyme digestion followed by agarose gel electrophoresis to generate a banding pattern for comparison to another sample processed in the same way?",
+      "options": [
+        "qPCR",
+        "RT-PCR",
+        "RFLP",
+        "454 sequencing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Restriction Fragment Length Polymorphism (RFLP) analysis compares DNA molecules based on the different patterns of fragments produced by restriction enzyme digestion."
+    },
+    {
+      "id": "micro-ch12-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Biotechnology and Genetic Engineering",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "All of the following techniques involve hybridization between single-stranded nucleic acid molecules except:",
+      "options": [
+        "Southern blot analysis",
+        "RFLP analysis",
+        "northern blot analysis",
+        "microarray analysis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RFLP is the analysis of the fragment lengths themselves. While often visualized with a Southern blot (which does use hybridization), the core RFLP technique is the fragmentation pattern."
+    },
+    {
+      "id": "micro-ch12-009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Genomics and Proteomics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The science of studying the entire collection of mRNA molecules produced by cells, allowing scientists to monitor differences in gene expression patterns between cells, is called:",
+      "options": [
+        "genomics",
+        "transcriptomics",
+        "proteomics",
+        "pharmacogenomics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transcriptomics is the study of the complete set of RNA transcripts (the transcriptome) produced by an organism under specific conditions."
+    },
+    {
+      "id": "micro-ch12-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Genomics and Proteomics",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The science of studying genomic fragments from microbial communities, allowing researchers to study genes from a collection of multiple species, is called:",
+      "options": [
+        "pharmacogenomics",
+        "transcriptomics",
+        "metagenomics",
+        "proteomics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Metagenomics is the study of genetic material recovered directly from environmental samples, which contain a mixture of organisms."
+    },
+    {
+      "id": "micro-ch12-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Therapy and Recombinant DNA Technology",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The insulin produced by recombinant DNA technology is",
+      "options": [
+        "a combination of E. coli and human insulin.",
+        "identical to human insulin produced in the pancreas.",
+        "cheaper but less effective than pig insulin for treating diabetes.",
+        "engineered to be more effective than human insulin."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recombinant DNA technology allows for the production of human insulin in microorganisms, which is identical to the insulin produced by the human pancreas."
+    },
+    {
+      "id": "micro-ch12-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Therapy and Recombinant DNA Technology",
+      "chapter": "Chapter 12: Modern Applications of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "At what point can the FDA halt the development or use of gene therapy?",
+      "options": [
+        "on submission of an IND application",
+        "during clinical trials",
+        "after manufacturing and marketing of the approved therapy",
+        "all of the answers are correct"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FDA has the authority to intervene at any stage of the gene therapy development and application process to ensure safety and efficacy."
+    }
+  ]
+}

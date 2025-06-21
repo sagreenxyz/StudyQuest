@@ -1,0 +1,277 @@
+{
+  "name": "Microbiology Chapter 4 Quiz",
+  "description": "Quiz questions for Chapter 4 of Microbiology covering prokaryotic diversity and symbiosis.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-ch4-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryotic Roles",
+      "difficulty": "easy",
+      "question": "Plants and animals also rely heavily on prokaryotes for ________________ fixation.",
+      "options": ["carbon", "hydrogen", "nitrogen", "helium"],
+      "correctAnswer": 2,
+      "explanation": "Prokaryotes play a crucial role in nitrogen fixation, converting atmospheric nitrogen into forms usable by plants and animals."
+    },
+    {
+      "id": "micro-ch4-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Symbiosis",
+      "difficulty": "easy",
+      "question": "Any interaction between different species that are associated with each other within a community is called_______________ .",
+      "options": ["mitochondria", "endocytosis", "symbiosis", "bacteriods"],
+      "correctAnswer": 2,
+      "explanation": "Symbiosis refers to any close and long-term interaction between two different biological species."
+    },
+    {
+      "id": "micro-ch4-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Symbiosis",
+      "difficulty": "easy",
+      "question": "When two species benefit from each other, the symbiosis is called_____________ .",
+      "options": ["Mutualism", "Neutralism", "Amensalism", "Parasitism"],
+      "correctAnswer": 0,
+      "explanation": "Mutualism is a symbiotic relationship where both species benefit."
+    },
+    {
+      "id": "micro-ch4-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Archaea",
+      "difficulty": "medium",
+      "question": "Which best describes the class Halobacteria?",
+      "options": [
+        "archaeans that require methane-rich environments",
+        "bacteria that require highly saline environments",
+        "archaeans that require highly saline environments",
+        "bacteria that require highly arid environments"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Halobacteria are a class of archaea that thrive in environments with very high salt concentrations."
+    },
+    {
+      "id": "micro-ch4-005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Microbiota",
+      "difficulty": "easy",
+      "question": "The term microbiota refers to which of the following:",
+      "options": [
+        "all of the microorganisms involved in a symbiotic relationship",
+        "all microorganisms in a certain region of the human body",
+        "all microorganisms of the same species",
+        "all microorganisms in a certain geographic region"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Microbiota refers to the community of microorganisms living in a particular environment, such as a specific region of the human body."
+    },
+    {
+      "id": "micro-ch4-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Archaea",
+      "difficulty": "medium",
+      "question": "Methanobrevibacter oralis is an example of which type of organism?",
+      "options": [
+        "a pathogenic archaean",
+        "a bacterium that takes advantage of the conditions caused by immunosuppression, as can occur during cancer treatment",
+        "an archaean that takes advantage of the conditions caused by periodontal disease to grow; may or may not affect disease progression",
+        "a pathogenic bacterium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Methanobrevibacter oralis is an archaean found in the human mouth that can proliferate in conditions associated with periodontal disease."
+    },
+    {
+      "id": "micro-ch4-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryotic Classification",
+      "difficulty": "easy",
+      "question": "The classification of prokaryotes was initially based on their shape, staining patterns, and biochemical or physiological differences.  We can also use __________________  __________________ to determine their classification.",
+      "options": ["nucleotide sequences", "golgi bodies", "cellular membranes", "mitochondrial ribosomes"],
+      "correctAnswer": 0,
+      "explanation": "Modern classification of prokaryotes heavily relies on nucleotide sequences, particularly of ribosomal RNA genes."
+    },
+    {
+      "id": "micro-ch4-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "easy",
+      "question": "The class Bacilli includes:",
+      "options": [
+        "only rod bacterial species.",
+        "neither rod-shaped and spherical bacterial species.",
+        "only spherical bacterial species.",
+        "both rod-shaped and spherical bacterial species."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The class Bacilli includes bacteria that are rod-shaped (bacilli) as well as some that are spherical (cocci), such as Staphylococcus."
+    },
+    {
+      "id": "micro-ch4-009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "medium",
+      "question": "What is the name of the class of organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil?",
+      "options": ["Oligotrophs", "Heterotrophs", "None of these", "Homeotrophs"],
+      "correctAnswer": 0,
+      "explanation": "Oligotrophs are organisms adapted to survive in environments with very low nutrient levels."
+    },
+    {
+      "id": "micro-ch4-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "medium",
+      "question": "This class of organisms require a copious amount of organic nutrients.",
+      "options": ["Betaproteobacteria", "Epsilonproteobacteria", "Alphaproteobacteria", "Gammaproteobacteria"],
+      "correctAnswer": 0,
+      "explanation": "Betaproteobacteria often require a substantial amount of organic nutrients and are metabolically diverse."
+    },
+    {
+      "id": "micro-ch4-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "easy",
+      "question": "This class of bacteria are characterized by their long, spiral-shaped then bodies.",
+      "options": ["Spirochetes", "Chlamydia is", "Cytophaga", "Fusobacteria"],
+      "correctAnswer": 0,
+      "explanation": "Spirochetes are a phylum of bacteria characterized by their long, helically coiled (spiral-shaped) cells."
+    },
+    {
+      "id": "micro-ch4-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Domains of Life",
+      "difficulty": "easy",
+      "question": "All living organisms are classified into three domains of life:",
+      "options": ["All of these", "Archaea", "Eukarya", "Bacteria"],
+      "correctAnswer": 0,
+      "explanation": "The three domains of life are Archaea, Bacteria, and Eukarya."
+    },
+    {
+      "id": "micro-ch4-013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "medium",
+      "question": "The____________________ are found in aquatic environments, inhabiting freshwater, saltwater, and brackish water.",
+      "options": ["Bacteroides", "Fusobacterium", "Leptospira", "Planctomycetes"],
+      "correctAnswer": 3,
+      "explanation": "Planctomycetes are a phylum of aquatic bacteria found in various water environments."
+    },
+    {
+      "id": "micro-ch4-014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "easy",
+      "question": "The class ___________ consists of high G+C bacteria.",
+      "options": ["Bacteriophylla", "Alphaproteobacteria", "Archaea", "Actinobacteria"],
+      "correctAnswer": 3,
+      "explanation": "Actinobacteria are a phylum of Gram-positive bacteria with high guanine and cytosine content in their DNA."
+    },
+    {
+      "id": "micro-ch4-015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "easy",
+      "question": "Another large, diverse group of phototrophic bacteria compose the phylum_________________ ; they get their blue-green color from the chlorophyll contained in their cells.  Scientists hypothesize that this group played a critical role in the change of our planet’s anoxic atmosphere 1–2 billion years ago to the oxygen-rich environment we have today.",
+      "options": ["Treponema", "Bacteroides", "Cyanobacteria", "Borrelia"],
+      "correctAnswer": 2,
+      "explanation": "Cyanobacteria are phototrophic bacteria that produce oxygen and are believed to have oxygenated Earth's early atmosphere."
+    },
+    {
+      "id": "micro-ch4-016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Pathogens",
+      "difficulty": "medium",
+      "question": "The genus ____________________ is an important cause of a diverse group of infectious diseases.  It is  is represented by bacilli covered with a mycolic acid coat.",
+      "options": ["Mycobacterium", "Gardnerella", "Corynebacterium", "Bifidobacterium"],
+      "correctAnswer": 0,
+      "explanation": "Mycobacterium species, such as those causing tuberculosis and leprosy, are characterized by their mycolic acid-rich cell walls."
+    },
+    {
+      "id": "micro-ch4-017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Prokaryotic Cells",
+      "difficulty": "easy",
+      "question": "The term prokaryotes refers to which of the following?",
+      "options": [
+        "cells that resemble animal cells more than plant cells",
+        "very small organisms",
+        "unicellular organisms that have no nucleus",
+        "multicellular organisms"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prokaryotes are unicellular organisms that lack a membrane-bound nucleus."
+    },
+    {
+      "id": "micro-ch4-018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Archaea",
+      "difficulty": "medium",
+      "question": "_______________________ is represented by strictly anaerobic organisms with an optimal growth temperature of 85 °C.",
+      "options": ["Thermoproteus", "Halobacteria", "Methanococci", "Euryarchaeota"],
+      "correctAnswer": 0,
+      "explanation": "Thermoproteus is a genus of thermophilic archaea that are strict anaerobes and grow at high temperatures."
+    },
+    {
+      "id": "micro-ch4-019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Metabolism",
+      "difficulty": "easy",
+      "question": "The __________________ bacteria are a large and diverse category of bacteria that do not represent a taxon but, rather, a group of bacteria that use sunlight as their primary source of energy.",
+      "options": ["autotrophic", "phototrophic", "mesotrophic", "oligotrophic"],
+      "correctAnswer": 1,
+      "explanation": "Phototrophic bacteria use sunlight as their primary energy source."
+    },
+    {
+      "id": "micro-ch4-020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "chapter": "Chapter 4",
+      "topic": "Bacterial Classification",
+      "difficulty": "medium",
+      "question": "A toga is which of the following?",
+      "options": [
+        "an outer peptidoglycan layer found in a taxon within the proteobacteria",
+        "an outer membrane found in a taxon within the deeply branching bacteria",
+        "an unusual cell wall found in some archaeans",
+        "a structure produced by the fungus Tolypocladium inflatum that has medicinal uses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The term 'toga' refers to a unique outer sheath-like membrane found in some deeply branching bacteria, such as Thermotogae."
+    }
+  ]
+}

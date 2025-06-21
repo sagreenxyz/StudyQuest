@@ -1,0 +1,483 @@
+{
+  "name": "OpenStax Microbiology Textbook - Chapter 11",
+  "description": "Official textbook questions for Chapter 11 of the OpenStax Microbiology textbook.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-ch11-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Mechanisms of Microbial Genetics",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "DNA does all but which of the following?",
+      "options": [
+        "serves as the genetic material passed from parent to offspring",
+        "remains constant despite changes in environmental conditions",
+        "provides the instructions for the synthesis of messenger RNA",
+        "is read by ribosomes during the process of translation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ribosomes read mRNA, not DNA, during translation."
+    },
+    {
+      "id": "micro-ch11-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Mechanisms of Microbial Genetics",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "According to the central dogma, which of the following represents the flow of genetic information in cells?",
+      "options": [
+        "protein to DNA to RNA",
+        "DNA to RNA to protein",
+        "RNA to DNA to protein",
+        "DNA to protein to RNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The central dogma of molecular biology describes the flow of genetic information from DNA to RNA (transcription) and from RNA to protein (translation)."
+    },
+    {
+      "id": "micro-ch11-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Replication",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following is the enzyme that replaces the RNA nucleotides in a primer with DNA nucleotides?",
+      "options": [
+        "DNA polymerase III",
+        "DNA polymerase I",
+        "primase",
+        "helicase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In bacteria, DNA polymerase I is responsible for removing the RNA primers and replacing them with DNA nucleotides."
+    },
+    {
+      "id": "micro-ch11-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Replication",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following is not involved in the initiation of replication?",
+      "options": [
+        "ligase",
+        "DNA gyrase",
+        "single-stranded binding protein",
+        "primase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DNA ligase is involved in joining Okazaki fragments on the lagging strand during elongation, not in the initiation of replication."
+    },
+    {
+      "id": "micro-ch11-005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Replication",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following enzymes involved in DNA replication is unique to eukaryotes?",
+      "options": [
+        "helicase",
+        "DNA polymerase",
+        "ligase",
+        "telomerase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Telomerase is an enzyme that extends the telomeres (ends) of linear eukaryotic chromosomes."
+    },
+    {
+      "id": "micro-ch11-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Replication",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following would be synthesized using 5′-CAGTTCGGA-3′ as a template?",
+      "options": [
+        "3′-AGGCTTGAC-4′",
+        "3′-TCCGAACTG-5′",
+        "3′-GTCAAGCCT-5′",
+        "3′-CAGTTCGGA-5′"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The new strand is synthesized in the 5' to 3' direction, and it is complementary and antiparallel to the template strand. So, the correct sequence is 3′-GTCAAGCCT-5′."
+    },
+    {
+      "id": "micro-ch11-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Transcription",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "During which stage of bacterial transcription is the σ subunit of the RNA polymerase involved?",
+      "options": [
+        "initiation",
+        "elongation",
+        "termination",
+        "splicing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The σ (sigma) subunit of RNA polymerase is responsible for recognizing and binding to the promoter sequence, thus initiating transcription."
+    },
+    {
+      "id": "micro-ch11-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Transcription",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following components is involved in the initiation of transcription?",
+      "options": [
+        "primer",
+        "origin",
+        "promoter",
+        "start codon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A promoter is a DNA sequence where RNA polymerase binds to initiate transcription. A primer is needed for DNA replication, not transcription."
+    },
+    {
+      "id": "micro-ch11-009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Transcription",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following is not a function of the 5’ cap and 3’ poly-A tail of a mature eukaryotic mRNA molecule?",
+      "options": [
+        "to facilitate splicing",
+        "to prevent mRNA degradation",
+        "to aid export of the mature transcript to the cytoplasm",
+        "to aid ribosome binding to the transcript"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Splicing occurs before the addition of the poly-A tail and is guided by sequences within the intron itself, not the cap or tail."
+    },
+    {
+      "id": "micro-ch11-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Transcription",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Mature mRNA from a eukaryote would contain each of these features except which of the following?",
+      "options": [
+        "exon-encoded RNA",
+        "intron-encoded RNA",
+        "5’ cap",
+        "3’ poly-A tail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Introns are non-coding regions that are removed from the pre-mRNA during splicing to produce mature mRNA."
+    },
+    {
+      "id": "micro-ch11-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Translation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is the name of the three-base sequence in the mRNA that binds to a tRNA molecule?",
+      "options": [
+        "P site",
+        "codon",
+        "anticodon",
+        "CCA binding site"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A codon is a sequence of three nucleotides in an mRNA molecule that specifies a particular amino acid or a stop signal. The anticodon is on the tRNA."
+    },
+    {
+      "id": "micro-ch11-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Translation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which component is the last to join the initiation complex during the initiation of translation?",
+      "options": [
+        "the mRNA molecule",
+        "the small ribosomal subunit",
+        "the large ribosomal subunit",
+        "the initiator tRNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The large ribosomal subunit binds to the initiation complex (small subunit, mRNA, and initiator tRNA) to complete the ribosome and start elongation."
+    },
+    {
+      "id": "micro-ch11-013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Translation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "During elongation in translation, to which ribosomal site does an incoming charged tRNA molecule bind?",
+      "options": [
+        "A site",
+        "P site",
+        "E site",
+        "B site"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The A (aminoacyl) site is the ribosomal site where incoming charged tRNA molecules bind."
+    },
+    {
+      "id": "micro-ch11-014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Translation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is the amino acid that appears at the N-terminus of all newly translated prokaryotic and eukaryotic polypeptides?",
+      "options": [
+        "tryptophan",
+        "methionine",
+        "selenocysteine",
+        "glycine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The start codon AUG codes for methionine, which is the first amino acid in most newly synthesized polypeptides."
+    },
+    {
+      "id": "micro-ch11-015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Translation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "When the ribosome reaches a nonsense codon, which of the following occurs?",
+      "options": [
+        "a methionine is incorporated",
+        "the polypeptide is released",
+        "a peptide bond forms",
+        "the A site binds to a charged tRNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nonsense (or stop) codon signals the termination of translation, and release factors cause the release of the completed polypeptide chain."
+    },
+    {
+      "id": "micro-ch11-016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Mutations",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is a change in the sequence that leads to formation of a stop codon?",
+      "options": [
+        "missense mutation",
+        "nonsense mutation",
+        "silent mutation",
+        "deletion mutation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nonsense mutation is a point mutation that results in a premature stop codon."
+    },
+    {
+      "id": "micro-ch11-017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Mutations",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The formation of pyrimidine dimers results from which of the following?",
+      "options": [
+        "spontaneous errors by DNA polymerase",
+        "exposure to gamma radiation",
+        "exposure to ultraviolet radiation",
+        "exposure to intercalating agents"
+      ],
+      "correctAnswer": 2,
+      "explanation": "UV radiation can cause adjacent pyrimidines (usually thymines) on a DNA strand to form covalent bonds, creating a pyrimidine dimer."
+    },
+    {
+      "id": "micro-ch11-018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Mutations",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of a frameshift mutation?",
+      "options": [
+        "a deletion of a codon",
+        "missense mutation",
+        "silent mutation",
+        "deletion of one nucleotide"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A frameshift mutation is caused by an insertion or deletion of a number of nucleotides that is not a multiple of three, which shifts the reading frame of the codons."
+    },
+    {
+      "id": "micro-ch11-019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "DNA Repair",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is the type of DNA repair in which thymine dimers are directly broken down by the enzyme photolyase?",
+      "options": [
+        "direct repair",
+        "nucleotide excision repair",
+        "mismatch repair",
+        "proofreading"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Direct repair, specifically photoreactivation, uses the enzyme photolyase to directly reverse the damage caused by UV radiation."
+    },
+    {
+      "id": "micro-ch11-020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Identifying Bacterial Mutants",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following regarding the Ames test is true?",
+      "options": [
+        "It is used to identify newly formed auxotrophic mutants.",
+        "It is used to identify mutants with restored biosynthetic activity.",
+        "It is used to identify spontaneous mutants.",
+        "It is used to identify mutants lacking photoreactivation activity."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ames test measures the rate of reversion mutations in an auxotrophic bacterial strain to determine the mutagenicity of a chemical."
+    },
+    {
+      "id": "micro-ch11-021",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Horizontal Gene Transfer",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which is the mechanism by which improper excision of a prophage from a bacterial chromosome results in packaging of bacterial genes near the integration site into a phage head?",
+      "options": [
+        "conjugation",
+        "generalized transduction",
+        "specialized transduction",
+        "transformation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Specialized transduction occurs when a prophage is improperly excised from the bacterial chromosome, taking some adjacent bacterial DNA with it."
+    },
+    {
+      "id": "micro-ch11-022",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Horizontal Gene Transfer",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following refers to the uptake of naked DNA from the surrounding environment?",
+      "options": [
+        "conjugation",
+        "generalized transduction",
+        "specialized transduction",
+        "transformation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Transformation is the process by which bacteria take up naked DNA from their environment."
+    },
+    {
+      "id": "micro-ch11-023",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Horizontal Gene Transfer",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "The F plasmid is involved in which of the following processes?",
+      "options": [
+        "conjugation",
+        "transduction",
+        "transposition",
+        "transformation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The F plasmid (or fertility factor) contains the genes necessary for bacterial conjugation."
+    },
+    {
+      "id": "micro-ch11-024",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Horizontal Gene Transfer",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following refers to the mechanism of horizontal gene transfer naturally responsible for the spread of antibiotic resistance genes within a bacterial population?",
+      "options": [
+        "conjugation",
+        "generalized transduction",
+        "specialized transduction",
+        "transformation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conjugation is a major mechanism for the transfer of genetic material, including antibiotic resistance genes, between bacteria."
+    },
+    {
+      "id": "micro-ch11-025",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Regulation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "An operon of genes encoding enzymes in a biosynthetic pathway is likely to be which of the following?",
+      "options": [
+        "inducible",
+        "repressible",
+        "constitutive",
+        "monocistronic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repressible operons are typically involved in anabolic (biosynthetic) pathways and are turned off when the end product is abundant."
+    },
+    {
+      "id": "micro-ch11-026",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Regulation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "An operon encoding genes that are transcribed and translated continuously to provide the cell with constant intermediate levels of the protein products is said to be which of the following?",
+      "options": [
+        "repressible",
+        "inducible",
+        "constitutive",
+        "activated"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Constitutive genes are always expressed because they are vital for the basic functions of the cell."
+    },
+    {
+      "id": "micro-ch11-027",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Regulation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following conditions leads to maximal expression of the lac operon?",
+      "options": [
+        "lactose present, glucose absent",
+        "lactose present, glucose present",
+        "lactose absent, glucose absent",
+        "lactose absent, glucose present"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For maximal expression of the lac operon, lactose must be present to inactivate the repressor, and glucose must be absent to allow for CAP activation."
+    },
+    {
+      "id": "micro-ch11-028",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Gene Regulation",
+      "chapter": "Chapter 11: Mechanisms of Microbial Genetics",
+      "difficulty": "easy",
+      "question": "Which of the following is a type of regulation of gene expression unique to eukaryotes?",
+      "options": [
+        "attenuation",
+        "use of alternate σ factor",
+        "chemical modification of histones",
+        "alarmones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chemical modification of histones is a key mechanism of epigenetic gene regulation in eukaryotes."
+    }
+  ]
+}

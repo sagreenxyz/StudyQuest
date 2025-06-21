@@ -1,0 +1,245 @@
+
+{
+    "name": "OpenStax Microbiology Textbook - Chapter 15",
+    "description": "Multiple-choice questions from the 'Multiple Choice' section of Chapter 15 of the OpenStax Microbiology textbook.",
+    "subject": "Microbiology",
+    "questions": [
+        {
+            "id": "mic-15-1",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "easy",
+            "question": "Which of the following would be a sign of an infection?",
+            "options": [
+                "muscle aches",
+                "headache",
+                "fever",
+                "nausea"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A sign is an objective and measurable indication of a medical condition. Fever is a measurable sign, while muscle aches, headache, and nausea are subjective symptoms."
+        },
+        {
+            "id": "mic-15-2",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Which of the following is an example of a noncommunicable infectious disease?",
+            "options": [
+                "infection with a respiratory virus",
+                "food poisoning due to a preformed bacterial toxin in food",
+                "skin infection acquired from a dog bite",
+                "infection acquired from the stick of a contaminated needle"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Food poisoning due to a preformed bacterial toxin is noncommunicable because it is not transmitted from person to person."
+        },
+        {
+            "id": "mic-15-3",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "During an oral surgery, the surgeon nicked the patient’s gum with a sharp instrument. This allowed Streptococcus, a bacterium normally present in the mouth, to gain access to the blood. As a result, the patient developed bacterial endocarditis (an infection of the heart). Which type of disease is this?",
+            "options": [
+                "iatrogenic",
+                "nosocomial",
+                "vectors",
+                "zoonotic"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An iatrogenic disease is a disease that is contracted as the result of a medical procedure."
+        },
+        {
+            "id": "mic-15-4",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "easy",
+            "question": "Which period is the stage of disease during which the patient begins to present general signs and symptoms?",
+            "options": [
+                "convalescence",
+                "incubation",
+                "illness",
+                "prodromal"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The prodromal period is the stage of disease during which the patient begins to present general signs and symptoms."
+        },
+        {
+            "id": "mic-15-5",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "easy",
+            "question": "A communicable disease that can be easily transmitted from person to person is which type of disease?",
+            "options": [
+                "contagious",
+                "iatrogenic",
+                "acute",
+                "nosocomial"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A contagious disease is a communicable disease that is easily transmitted from person to person."
+        },
+        {
+            "id": "mic-15-6",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Which of the following is a pathogen that could not be identified by the original Koch’s postulates?",
+            "options": [
+                "Staphylococcus aureus",
+                "Pseudomonas aeruginosa",
+                "Human immunodeficiency virus",
+                "Salmonella enterica serovar Typhimurium"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Human immunodeficiency virus (HIV) could not be identified by the original Koch's postulates because it is a virus and cannot be cultured in the same way as bacteria."
+        },
+        {
+            "id": "mic-15-7",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Pathogen A has an ID50 of 50 particles, pathogen B has an ID50 of 1,000 particles, and pathogen C has an ID50 of 1 × 106 particles. Which pathogen is most virulent?",
+            "options": [
+                "pathogen A",
+                "pathogen B",
+                "pathogen C"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The pathogen with the lowest ID50 is the most virulent. In this case, pathogen A is the most virulent."
+        },
+        {
+            "id": "mic-15-8",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "easy",
+            "question": "Which of the following choices lists the steps of pathogenesis in the correct order?",
+            "options": [
+                "invasion, infection, adhesion, exposure",
+                "adhesion, exposure, infection, invasion",
+                "exposure, adhesion, invasion, infection",
+                "disease, infection, exposure, invasion"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The correct order of the steps of pathogenesis is exposure, adhesion, invasion, and infection."
+        },
+        {
+            "id": "mic-15-9",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "easy",
+            "question": "Which of the following would be a virulence factor of a pathogen?",
+            "options": [
+                "a surface protein allowing the pathogen to bind to host cells",
+                "a secondary host the pathogen can infect",
+                "a surface protein the host immune system recognizes",
+                "the ability to form a provirus"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A virulence factor is a product of a pathogen that assists in its ability to cause infection and disease. A surface protein that allows a pathogen to bind to host cells is an example of a virulence factor."
+        },
+        {
+            "id": "mic-15-10",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "You have recently identified a new toxin. It is produced by a gram-negative bacterium. It is composed mostly of protein, has high toxicity, and is not heat stable. You also discover that it targets liver cells. Based on these characteristics, how would you classify this toxin?",
+            "options": [
+                "superantigen",
+                "endotoxin",
+                "exotoxin",
+                "leukocidin"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The toxin described is an exotoxin. Exotoxins are proteins produced by bacteria that are released into the surrounding environment. They are often highly toxic and heat-labile."
+        },
+        {
+            "id": "mic-15-11",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Which of the following applies to hyaluronidase?",
+            "options": [
+                "It acts as a spreading factor.",
+                "It promotes blood clotting.",
+                "It is an example of an adhesin.",
+                "It is produced by immune cells to target pathogens."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Hyaluronidase is an enzyme that degrades hyaluronic acid, a component of the extracellular matrix, and acts as a spreading factor, allowing pathogens to move deeper into tissues."
+        },
+        {
+            "id": "mic-15-12",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Phospholipases are enzymes that do which of the following?",
+            "options": [
+                "degrade antibodies",
+                "promote pathogen spread through connective tissue.",
+                "degrade nucleic acid to promote spread of pathogen",
+                "degrade cell membranes to allow pathogens to escape phagosomes"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Phospholipases are enzymes that degrade the phospholipids of cell membranes, which can allow pathogens to escape from phagosomes and spread to other cells."
+        },
+        {
+            "id": "mic-15-13",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "medium",
+            "question": "Which of the following is a major virulence factor for the fungal pathogen Cryptococcus?",
+            "options": [
+                "hemolysin",
+                "capsule",
+                "collagenase",
+                "fimbriae"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The capsule is a major virulence factor for Cryptococcus, as it protects the fungus from phagocytosis."
+        },
+        {
+            "id": "mic-15-14",
+            "type": "multiple-choice",
+            "subject": "Microbiology",
+            "topic": "Disease and Epidemiology",
+            "chapter": 15,
+            "difficulty": "hard",
+            "question": "Which of the following pathogens undergoes antigenic variation to avoid immune defenses?",
+            "options": [
+                "Candida",
+                "Cryptococcus",
+                "Plasmodium",
+                "Giardia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Plasmodium, the parasite that causes malaria, undergoes antigenic variation to evade the host's immune system."
+        }
+    ]
+}

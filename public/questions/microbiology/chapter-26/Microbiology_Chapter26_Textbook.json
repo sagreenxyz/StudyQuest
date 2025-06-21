@@ -1,0 +1,364 @@
+{
+  "name": "Microbiology Textbook - Chapter 26",
+  "description": "Multiple choice questions from the OpenStax Microbiology textbook, Chapter 26.",
+  "subject": "Microbiology",
+  "questions": [
+    {
+      "id": "micro-26-001",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "What is the outermost membrane surrounding the brain called?",
+      "options": [
+        "pia mater",
+        "arachnoid mater",
+        "dura mater",
+        "alma mater"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dura mater is the tough, outermost membrane that surrounds the brain and spinal cord."
+    },
+    {
+      "id": "micro-26-002",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "What term refers to an inflammation of brain tissues?",
+      "options": [
+        "encephalitis",
+        "meningitis",
+        "sinusitis",
+        "meningoencephalitis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Encephalitis is the inflammation of the brain. Meningitis is inflammation of the meninges, and meningoencephalitis is inflammation of both."
+    },
+    {
+      "id": "micro-26-003",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "Nerve cells form long projections called ________.",
+      "options": [
+        "soma",
+        "axons",
+        "dendrites",
+        "synapses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Axons are long projections of nerve cells (neurons) that conduct electrical impulses away from the neuron's cell body."
+    },
+    {
+      "id": "micro-26-004",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "Chemicals called ________ are stored in neurons and released when the cell is stimulated by a signal.",
+      "options": [
+        "toxins",
+        "cytokines",
+        "chemokines",
+        "neurotransmitters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Neurotransmitters are chemical messengers that transmit a signal from a neuron across the synapse to a target cell."
+    },
+    {
+      "id": "micro-26-005",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "The central nervous system is made up of",
+      "options": [
+        "sensory organs and muscles.",
+        "the brain and muscles.",
+        "the sensory organs and spinal cord.",
+        "the brain and spinal column."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The central nervous system (CNS) is composed of the brain and the spinal cord."
+    },
+    {
+      "id": "micro-26-006",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of the following organisms causes epidemic meningitis cases at college campuses?",
+      "options": [
+        "Haemophilus influenzae type b",
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Listeria monocytogenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neisseria meningitidis is a leading cause of bacterial meningitis and is known to cause epidemics in settings like college dormitories."
+    },
+    {
+      "id": "micro-26-007",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of the following is the most common cause of neonatal meningitis?",
+      "options": [
+        "Haemophilus influenzae b",
+        "Streptococcus agalactiae",
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Streptococcus agalactiae (Group B streptococcus) is the most common cause of meningitis in newborns."
+    },
+    {
+      "id": "micro-26-008",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "What sign/symptom would NOT be associated with infant botulism?",
+      "options": [
+        "difficulty suckling",
+        "limp body",
+        "stiff neck",
+        "weak cry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Infant botulism causes flaccid paralysis, leading to symptoms like a limp body, weak cry, and difficulty suckling. A stiff neck is characteristic of meningitis, not botulism."
+    },
+    {
+      "id": "micro-26-009",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of the following can NOT be prevented with a vaccine?",
+      "options": [
+        "tetanus",
+        "pneumococcal meningitis",
+        "meningococcal meningitis",
+        "listeriosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "There are vaccines for tetanus (DTaP), pneumococcal meningitis (PCV), and meningococcal meningitis (MenACWY, MenB), but not for listeriosis."
+    },
+    {
+      "id": "micro-26-010",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "How is leprosy primarily transmitted from person to person?",
+      "options": [
+        "contaminated toilet seats",
+        "shaking hands",
+        "blowing nose",
+        "sexual intercourse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leprosy is thought to be transmitted via respiratory droplets from the nose and mouth during close and frequent contact with untreated cases."
+    },
+    {
+      "id": "micro-26-011",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "hard",
+      "question": "Which of these diseases can be prevented with a vaccine for humans?",
+      "options": [
+        "eastern equine encephalitis",
+        "western equine encephalitis",
+        "West Nile encephalitis",
+        "Japanese encephalitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A vaccine is available for Japanese encephalitis. Vaccines for EEE, WEE, and WNV are generally only available for horses."
+    },
+    {
+      "id": "micro-26-012",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "hard",
+      "question": "Which of these diseases does NOT require the introduction of foreign nucleic acid?",
+      "options": [
+        "kuru",
+        "polio",
+        "rabies",
+        "St. Louis encephalitis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kuru is a prion disease, caused by misfolded proteins, and does not involve foreign nucleic acids like viruses (polio, rabies, SLE) do."
+    },
+    {
+      "id": "micro-26-013",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of these is true of the Sabin but NOT the Salk polio vaccine?",
+      "options": [
+        "requires four injections",
+        "currently administered in the United States",
+        "mimics the normal route of infection",
+        "is an inactivated vaccine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sabin vaccine is a live attenuated vaccine given orally, which mimics the natural route of poliovirus infection. The Salk vaccine is an inactivated, injected vaccine."
+    },
+    {
+      "id": "micro-26-014",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "Which of the following animals is NOT a typical reservoir for the spread of rabies?",
+      "options": [
+        "dog",
+        "bat",
+        "skunk",
+        "chicken"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mammals like dogs, bats, skunks, and raccoons are the primary reservoirs for rabies. Birds, like chickens, are not."
+    },
+    {
+      "id": "micro-26-015",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of these diseases results in meningitis caused by an encapsulated yeast?",
+      "options": [
+        "cryptococcosis",
+        "histoplasmosis",
+        "candidiasis",
+        "coccidiomycosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cryptococcosis is caused by the encapsulated yeast Cryptococcus neoformans and is a common cause of meningitis in immunocompromised individuals."
+    },
+    {
+      "id": "micro-26-016",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "What kind of stain is most commonly used to visualize the capsule of cryptococcus?",
+      "options": [
+        "Gram stain",
+        "simple stain",
+        "negative stain",
+        "fluorescent stain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A negative stain, such as an India ink stain, is used to visualize the capsule of Cryptococcus neoformans, as the capsule repels the ink, creating a clear halo around the yeast cell."
+    },
+    {
+      "id": "micro-26-017",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "hard",
+      "question": "Which of the following is the causative agent of East African trypanosomiasis?",
+      "options": [
+        "Trypanosoma cruzi",
+        "Trypanosoma vivax",
+        "Trypanosoma brucei rhodesiense",
+        "Trypanosoma brucei gambiense"
+      ],
+      "correctAnswer": 2,
+      "explanation": "East African trypanosomiasis (a more acute form of sleeping sickness) is caused by Trypanosoma brucei rhodesiense. T. b. gambiense causes the West African form."
+    },
+    {
+      "id": "micro-26-018",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "Which of the following is the causative agent of primary amoebic meningoencephalitis?",
+      "options": [
+        "Naegleria fowleri",
+        "Entameba histolyticum",
+        "Amoeba proteus",
+        "Acanthamoeba polyphaga"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Primary amoebic meningoencephalitis (PAM) is a rare and devastating infection of the brain caused by Naegleria fowleri."
+    },
+    {
+      "id": "micro-26-019",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "easy",
+      "question": "What is the biological vector for African sleeping sickness?",
+      "options": [
+        "mosquito",
+        "tsetse fly",
+        "deer tick",
+        "sand fly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The tsetse fly is the biological vector that transmits Trypanosoma brucei, the parasite that causes African sleeping sickness."
+    },
+    {
+      "id": "micro-26-020",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "medium",
+      "question": "How do humans usually contract neurocysticercosis?",
+      "options": [
+        "the bite of an infected arthropod",
+        "exposure to contaminated cat feces",
+        "swimming in contaminated water",
+        "ingestion of undercooked pork"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Humans contract cysticercosis, which can lead to neurocysticercosis, by ingesting tapeworm eggs from undercooked pork."
+    },
+    {
+      "id": "micro-26-021",
+      "type": "multiple-choice",
+      "subject": "Microbiology",
+      "topic": "Nervous System Infections",
+      "chapter": "26",
+      "difficulty": "hard",
+      "question": "Which of these is the most important cause of adult onset epilepsy?",
+      "options": [
+        "neurocysticercosis",
+        "neurotoxoplasmosis",
+        "primary amoebic meningoencephalitis",
+        "African trypanosomiasis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Neurocysticercosis, caused by infection with the pork tapeworm Taenia solium, is a leading cause of acquired epilepsy in adults worldwide."
+    }
+  ]
+}
