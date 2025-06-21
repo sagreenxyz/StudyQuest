@@ -369,7 +369,7 @@ export function ProjectFileLoader({ onLoad, existingQuestionIds }: ProjectFileLo
       <div className="mt-3 pt-3 border-t border-green-200">
         <p className="text-xs text-green-700">
           <strong>Note:</strong> Project files are loaded from the <code className="bg-green-200 px-1 rounded">public/questions/</code> directory and its subdirectories. 
-          Files and folders starting with "." are automatically ignored. Duplicate question IDs will be automatically skipped.
+          Files and folders starting with ".\" are automatically ignored. Duplicate question IDs will be automatically skipped.
         </p>
       </div>
     </div>
