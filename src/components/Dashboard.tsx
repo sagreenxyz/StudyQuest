@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { StudyProgress, SpacedRepetitionSettings } from '../types/Question';
-import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders, Trash2 } from 'lucide-react';
+import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders, Trash2, RefreshCw } from 'lucide-react';
 import { QuizConfiguration } from './QuizConfiguration';
 import { SpacedRepetitionConfig } from './SpacedRepetitionConfig';
 import { SpacedRepetitionSettingsComponent } from './SpacedRepetitionSettings';
@@ -14,6 +14,7 @@ interface DashboardProps {
   onStartQuiz: (questionIds: string[]) => void;
   onStartReview: () => void;
   onUpdateSpacedRepetitionSettings: (settings: SpacedRepetitionSettings) => void;
+  onRefreshQuestions: () => void;
 }
 
 export function Dashboard({
@@ -22,7 +23,8 @@ export function Dashboard({
   spacedRepetitionSettings,
   onStartQuiz,
   onStartReview,
-  onUpdateSpacedRepetitionSettings
+  onUpdateSpacedRepetitionSettings,
+  onRefreshQuestions
 }: DashboardProps) {
   const [showAllTopics, setShowAllTopics] = useState(false);
   const [showSpacedRepetitionInfo, setShowSpacedRepetitionInfo] = useState(false);
@@ -437,6 +439,19 @@ export function Dashboard({
                 <span className="text-sm text-gray-500">0 questions</span>
               </button>
             )}
+
+            <button
+              onClick={onRefreshQuestions}
+              className="w-full flex items-center justify-between p-4 bg-green-50 border border-green-200 rounded-lg hover:bg-green-100 transition-colors duration-200"
+            >
+              <div className="flex items-center">
+                <RefreshCw className="h-5 w-5 text-green-600 mr-3" />
+                <div className="text-left">
+                  <span className="font-medium text-green-900 block">Refresh Questions</span>
+                  <span className="text-xs text-green-600">Load new questions without losing progress</span>
+                </div>
+              </div>
+            </button>
 
             <button
               onClick={handleResetData}
