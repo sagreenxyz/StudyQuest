@@ -1,26 +1,27 @@
 import React, { useState } from 'react';
-import { Question, StudyProgress, SpacedRepetitionSettings } from '../types/Question';
+import { StudyProgress, SpacedRepetitionSettings } from '../types/Question';
 import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders, Trash2 } from 'lucide-react';
 import { QuizConfiguration } from './QuizConfiguration';
 import { SpacedRepetitionConfig } from './SpacedRepetitionConfig';
 import { SpacedRepetitionSettingsComponent } from './SpacedRepetitionSettings';
 import { getQuestionsForReview, isQuestionMastered } from '../utils/spacedRepetition';
+import { QuestionIndex } from '../services/QuestionService';
 
 interface DashboardProps {
-  questions: Question[];
+  questionIndex: QuestionIndex;
   progress: StudyProgress[];
   spacedRepetitionSettings: SpacedRepetitionSettings;
-  onStartQuiz: (questions: Question[]) => void;
+  onStartQuiz: (questionIds: string[]) => void;
   onStartReview: () => void;
   onUpdateSpacedRepetitionSettings: (settings: SpacedRepetitionSettings) => void;
 }
 
-export function Dashboard({ 
-  questions, 
-  progress, 
+export function Dashboard({
+  questionIndex,
+  progress,
   spacedRepetitionSettings,
-  onStartQuiz, 
-  onStartReview, 
+  onStartQuiz,
+  onStartReview,
   onUpdateSpacedRepetitionSettings
 }: DashboardProps) {
   const [showAllTopics, setShowAllTopics] = useState(false);
@@ -30,20 +31,19 @@ export function Dashboard({
   const [showSpacedSettings, setShowSpacedSettings] = useState(false);
   const [quizConfigType, setQuizConfigType] = useState<'practice' | 'subject'>('practice');
   const [selectedSubject, setSelectedSubject] = useState<string>('');
-  
-  const totalQuestions = questions.length;
+
+  const totalQuestions = questionIndex.questions.length;
   const studiedQuestions = progress.length;
   const masteredQuestions = progress.filter(p => isQuestionMastered(p, spacedRepetitionSettings)).length;
   const reviewDue = getQuestionsForReview(progress).length;
 
-  const subjects = [...new Set(questions.map(q => q.subject))];
+  const subjects = [...new Set(questionIndex.questions.map(q => q.subject))];
   const subjectStats = subjects.map(subject => {
-    const subjectQuestions = questions.filter(q => q.subject === subject);
-    const subjectProgress = progress.filter(p => 
-      subjectQuestions.some(q => q.id === p.questionId)
-    );
+    const subjectQuestions = questionIndex.questions.filter(q => q.subject === subject);
+    const subjectQuestionIds = subjectQuestions.map(q => q.id);
+    const subjectProgress = progress.filter(p => subjectQuestionIds.includes(p.questionId));
     const mastered = subjectProgress.filter(p => isQuestionMastered(p, spacedRepetitionSettings)).length;
-    
+
     return {
       subject,
       total: subjectQuestions.length,
@@ -54,15 +54,14 @@ export function Dashboard({
   });
 
   // Get topic statistics with proper progress calculation
-  const topics = [...new Set(questions.map(q => q.topic))];
+  const topics = [...new Set(questionIndex.questions.map(q => q.topic))];
   const topicStats = topics.map(topic => {
-    const topicQuestions = questions.filter(q => q.topic === topic);
-    const topicProgress = progress.filter(p => 
-      topicQuestions.some(q => q.id === p.questionId)
-    );
+    const topicQuestions = questionIndex.questions.filter(q => q.topic === topic);
+    const topicQuestionIds = topicQuestions.map(q => q.id);
+    const topicProgress = progress.filter(p => topicQuestionIds.includes(p.questionId));
     const mastered = topicProgress.filter(p => isQuestionMastered(p, spacedRepetitionSettings)).length;
     const studied = topicProgress.length;
-    
+
     return {
       topic,
       subject: topicQuestions[0]?.subject || 'Unknown',
@@ -90,17 +89,19 @@ export function Dashboard({
   };
 
   const handleTopicPracticeClick = (topic: string) => {
-    const topicQuestions = questions.filter(q => q.topic === topic);
-    onStartQuiz(topicQuestions);
+    const topicQuestionIds = questionIndex.questions
+      .filter(q => q.topic === topic)
+      .map(q => q.id);
+    onStartQuiz(topicQuestionIds);
   };
 
   const handleSpacedReviewClick = () => {
     setShowSpacedConfig(true);
   };
 
-  const handleSpacedReviewStart = (filteredQuestions: Question[]) => {
+  const handleSpacedReviewStart = (filteredQuestionIds: string[]) => {
     setShowSpacedConfig(false);
-    onStartQuiz(filteredQuestions);
+    onStartQuiz(filteredQuestionIds);
   };
 
   const handleResetData = () => {
@@ -138,11 +139,13 @@ export function Dashboard({
     }
   };
 
-  const getQuizConfigQuestions = () => {
+  const getQuizConfigQuestionIds = () => {
     if (quizConfigType === 'practice') {
-      return questions;
+      return questionIndex.questions.map(q => q.id);
     } else {
-      return questions.filter(q => q.subject === selectedSubject);
+      return questionIndex.questions
+        .filter(q => q.subject === selectedSubject)
+        .map(q => q.id);
     }
   };
 
@@ -455,15 +458,15 @@ export function Dashboard({
           <div className="space-y-3">
             {recentActivity.length > 0 ? (
               recentActivity.map((activity, index) => {
-                const question = questions.find(q => q.id === activity.questionId);
+                const questionMeta = questionIndex.questions.find(q => q.id === activity.questionId);
                 return (
                   <div key={index} className="flex items-center justify-between py-2 border-b border-gray-100 last:border-b-0">
                     <div>
                       <p className="text-sm font-medium text-gray-900">
-                        {question?.topic || 'Unknown Topic'}
+                        {questionMeta?.topic || 'Unknown Topic'}
                       </p>
                       <p className="text-xs text-gray-500">
-                        {question?.subject} • {activity.lastAnswered.toLocaleDateString()}
+                        {questionMeta?.subject} • {activity.lastAnswered.toLocaleDateString()}
                       </p>
                     </div>
                     <div className={`px-2 py-1 rounded-full text-xs font-medium ${
@@ -611,7 +614,8 @@ export function Dashboard({
       {/* Quiz Configuration Modal */}
       {showQuizConfig && (
         <QuizConfiguration
-          questions={getQuizConfigQuestions()}
+          questionIndex={questionIndex}
+          questionIds={getQuizConfigQuestionIds()}
           onStartQuiz={onStartQuiz}
           onClose={() => setShowQuizConfig(false)}
           title={getQuizConfigTitle()}
@@ -622,7 +626,7 @@ export function Dashboard({
       {/* Spaced Repetition Configuration Modal */}
       {showSpacedConfig && (
         <SpacedRepetitionConfig
-          questions={questions}
+          questionIndex={questionIndex}
           progress={progress}
           onStartReview={handleSpacedReviewStart}
           onClose={() => setShowSpacedConfig(false)}
