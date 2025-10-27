@@ -1,0 +1,778 @@
+{
+  "name": "Nutrition Chapter 1",
+  "description": "Chapter 1 nutrition questions covering nutritional guidelines, macronutrients, MyPlate, and dietary recommendations",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch1-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrition Resources",
+      "difficulty": "medium",
+      "question": "Which resource provides nurses with the most current scientific and medical research on nutrition available?",
+      "options": [
+        "2010 Advisory Committee",
+        "Food and Drug Administration (FDA)",
+        "Evidence-based practice",
+        "Nutrition Evidence Library (NEL)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The NEL provides the most current scientific and medical research on nutrition available. The 2010 Advisory Committee relies on the NEL to make the best recommendations. The FDA is not involved in making nutritional recommendations, just on the safety of food. Evidence-based practice is the method of providing reliable and valid research and is not specific to nutrition."
+    },
+    {
+      "id": "nutrition-ch1-002",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Macronutrients",
+      "difficulty": "medium",
+      "question": "Which macronutrient intake is recommended for a healthy diet? Select all that apply.",
+      "options": [
+        "30% to 40% of kcal intake from carbohydrates",
+        "45% to 65% of kcal intake from carbohydrates",
+        "20% to 35% of kcal intake from fat",
+        "40% to 50% of kcal intake from fat",
+        "20% to 35% of kcal intake from protein",
+        "10% to 35% of kcal intake from protein"
+      ],
+      "correctAnswers": [1, 2, 5],
+      "explanation": "Dietary reference intake values recommend that 45% to 65% of kcal intake should come from carbohydrates; 20% to 35% of kcal intake should come from fat; and 10% to 35% of kcal intake should come from protein. For carbohydrates, 30% to 40% is too low. For fat, 40% to 50% is too high. For protein, 20% to 35% is too high."
+    },
+    {
+      "id": "nutrition-ch1-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "The nurse is caring for an athlete who is participating in a new sport. Which factor will help the nurse determine the athlete's energy requirements? Select all that apply.",
+      "options": [
+        "Smoking status",
+        "Height",
+        "Weight",
+        "Food intake"
+      ],
+      "correctAnswers": [1, 2],
+      "explanation": "Sex, height, weight, age, and activity level are factors that determine an athlete's energy requirements. Smoking will affect an athlete's performance but not their energy requirements. Estimating the athlete's energy requirements will help determine ideal food intake."
+    },
+    {
+      "id": "nutrition-ch1-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Food Labels",
+      "difficulty": "easy",
+      "question": "A nurse is preparing an educational program on food labels. On what is the nutritional information on a food label based?",
+      "options": [
+        "National Nutritional Goals",
+        "Dietary reference intakes",
+        "Daily values",
+        "United States Department of Agriculture (USDA)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The daily values determine information on the food label. The National Nutritional Goals, dietary reference intakes, and USDA provide other information."
+    },
+    {
+      "id": "nutrition-ch1-005",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "A group of nursing students is learning to work with the MyPlate food guidelines. Which resource is available on the MyPlate website? Select all that apply.",
+      "options": [
+        "Serving size based on size of plate",
+        "Sample menus based on sex and age",
+        "Easy-to-read fact sheets",
+        "Healthy recipes",
+        "Location of food sources"
+      ],
+      "correctAnswers": [1, 2, 3],
+      "explanation": "Online, the MyPlate guidelines include resources on sample menus based on sex and age, easy-to-read fact sheets, and healthy recipes. MyPlate recommends using serving sizes based on food labels. The MyPlate website does not provide the locations of food sources."
+    },
+    {
+      "id": "nutrition-ch1-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "medium",
+      "question": "Which menu item does the nurse know fulfills the MyPlate guidelines of 1 oz of grain?",
+      "options": [
+        "Two slices of whole grain bread",
+        "A 1/2 cup serving of whole grain rice",
+        "Two tortillas (6-inch diameter)",
+        "Two cups of dry cereal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A 1/2 cup serving of whole grain rice is equal to 1 oz of grain, according to the MyPlate guidelines. One ounce of grain can be found in one slice of whole grain bread, one 6-in tortilla, and 1 cup of dry cereal."
+    },
+    {
+      "id": "nutrition-ch1-007",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrition and Energy",
+      "difficulty": "medium",
+      "question": "A patient complains of being tired all the time. After reviewing the patient's diet, the nurse hypothesizes that a lack of which nutritional element may be causing the fatigue? Select all that apply.",
+      "options": [
+        "Fried foods",
+        "Saturated fats",
+        "Vitamins",
+        "Minerals",
+        "Dietary fiber",
+        "Low-fat dairy"
+      ],
+      "correctAnswers": [2, 3, 4, 5],
+      "explanation": "Vitamins, minerals, dietary fiber, and low-fat dairy are foods recommended by the MyPlate guidelines to increase energy levels. Fried foods and foods high in saturated fats should be limited in order to reduce fatigue."
+    },
+    {
+      "id": "nutrition-ch1-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Vitamins and Minerals",
+      "difficulty": "easy",
+      "question": "Which vitamin nutrient is most important in the promotion of postoperative wound healing?",
+      "options": [
+        "Iron",
+        "Glycogen",
+        "Vitamin C",
+        "Phosphorus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin C promotes tissue healing by producing collagen and is therefore most important in the promotion of postoperative wound healing. Iron is a mineral that contributes to building the oxygen carrier protein hemoglobin in red blood cells. Glycogen, the main storage form of carbohydrate in the body, is a polysaccharide. Phosphorus is a mineral involved with calcium building and maintaining bone tissue."
+    },
+    {
+      "id": "nutrition-ch1-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Drug-Nutrient Interactions",
+      "difficulty": "hard",
+      "question": "What is the priority potential risk factor for the patient admitted to the hospital with uncontrolled chronic hypertension and a blood clot in the left lower leg?",
+      "options": [
+        "Overnutrition",
+        "Food insecurity",
+        "Increased metabolites",
+        "Drug-nutrient interactions"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The patient admitted with uncontrolled chronic hypertension and a blood clot in the lower left leg will be put on medication to treat both the cardiac and clotting conditions. Some prescribed medications may interact with nutrients in food or dietary supplements, thereby creating a drug-nutrient interaction. Overnutrition results from excess nutrient and/or energy intake over time and the use of excessive amounts of dietary supplements. Individuals suffering from chronic illness are at an increased risk for food insecurity independent of their socioeconomic status, which may need to be addressed but is not the priority risk factor. Metabolites are the product of various reactions as a result of chemical reactions and energy production in the body; increased metabolites are not the priority risk factor for this patient."
+    },
+    {
+      "id": "nutrition-ch1-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Protein and Amino Acids",
+      "difficulty": "medium",
+      "question": "Why is the intake of dietary foods that contain amino acids essential in a patient's diet?",
+      "options": [
+        "The amino acids are the building blocks of lipids.",
+        "The amino acids are required for the synthesis of protein.",
+        "The amino acids influence the absorption of nutrients.",
+        "The primary function of amino acids is to promote tissue building."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amino acids are nitrogen-bearing compounds that form the structural units of protein; after digestion, amino acids are available for synthesis of required proteins. Fatty acids are the building blocks of lipids, which help build the central fat substance that is necessary in all cell membranes, and promote the transport of fat-soluble nutrients throughout the body. Dietary fiber helps to regulate the passage of food material through the gastrointestinal tract and it influences the absorption of nutrients. The primary function of protein is tissue building."
+    },
+    {
+      "id": "nutrition-ch1-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Health Promotion",
+      "difficulty": "medium",
+      "question": "Which intervention will be the nurse's priority for a patient newly diagnosed with heart disease?",
+      "options": [
+        "Optimal nutrition",
+        "Health promotion",
+        "Preventive health care",
+        "Monitoring dietary reference intakes (DRIs)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The nurse will focus on health promotion for the patient newly diagnosed with heart disease. Health promotion, which includes nutritional intake, is the active engagement in behaviors or programs that advance positive well-being. Optimal nutrition occurs when a person receives and uses adequate nutrients obtained from a varied and balanced diet of carbohydrates, fats, proteins, minerals, vitamins, and water; this will be important for the patient, but it is included in health promotion. Preventive health care involves identifying risk factors in advance that increase a person's chances of developing a particular health problem; because the patient already has heart disease, it is too late for this intervention. DRIs are reference values for the nutrient intake needs of healthy individuals based on sex and age; monitoring them is less important than health promotion."
+    },
+    {
+      "id": "nutrition-ch1-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrition Professions",
+      "difficulty": "easy",
+      "question": "What is the correct term for the discipline that applies nutrition science to promote human health and treat disease?",
+      "options": [
+        "Dietetics",
+        "Health promotion",
+        "Gastroenterology",
+        "Proctology"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dietetics is the health profession responsible for applying nutrition science to promote human health and treat disease. A registered dietitian is a credentialed nutrition authority who participates on the health care team. Health promotion is the active engagement in behaviors or programs that advance positive well-being. Gastroenterology focuses on disorders of the digestive tract and liver; proctology focuses on disorders of the anus and rectum."
+    },
+    {
+      "id": "nutrition-ch1-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrient Density",
+      "difficulty": "easy",
+      "question": "Which food is the most nutrient dense?",
+      "options": [
+        "Oranges",
+        "Orange juice",
+        "Orange sherbet",
+        "Orange soda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Because oranges are a whole fruit, they have more nutrients and fewer calories than the other foods, making them the most nutrient dense. Orange juice, sherbet, and soda have fewer nutrients and more sugar and fat, making them higher in calories and therefore less nutrient dense."
+    },
+    {
+      "id": "nutrition-ch1-014",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "medium",
+      "question": "The nurse knows the MyPlate food guidelines are designed to help Americans make better food choices. On what are these recommendations based? Select all that apply.",
+      "options": [
+        "Current patterns of consumption",
+        "Nutritional facts",
+        "The 2020-2025 Dietary Guidelines for Americans",
+        "The Food Pyramid",
+        "Dietary reference intakes (DRIs)"
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "The MyPlate guidelines are based on current patterns of consumption, the 2020-2025 Dietary Guidelines, and DRIs. Nutritional facts are a tool used in conjunction with MyPlate. The Food Pyramid is the previous recommended food guide that MyPlate has replaced."
+    },
+    {
+      "id": "nutrition-ch1-015",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which dietary element does the nurse know is included on the MyPlate visual? Select all that apply.",
+      "options": [
+        "Vitamins",
+        "Fruit",
+        "Minerals",
+        "Grains",
+        "Vegetables",
+        "Protein"
+      ],
+      "correctAnswers": [1, 3, 4, 5],
+      "explanation": "The MyPlate visual includes fruit, grains, vegetables, and protein plus dairy. Vitamins and minerals do not appear on the visual, but if people adhere to the guidelines, they will increase their intake of vitamins and minerals."
+    },
+    {
+      "id": "nutrition-ch1-016",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Childhood Obesity Prevention",
+      "difficulty": "medium",
+      "question": "A nurse is providing nutrition education to a group of parents. Which recommendation will the nurse make for reducing childhood obesity? Select all that apply.",
+      "options": [
+        "Limit solid fats in the diet.",
+        "Consume a diet high in trans fats.",
+        "Consume less than 300 mg of cholesterol per day.",
+        "Use partially hydrogenated oils as sources of fat.",
+        "Limit added sugars.",
+        "Consume 2300 mg of sodium daily."
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "Solid fats should be limited, and cholesterol should be limited to less than 300 mg/day. Trans fats and partially hydrogenated oils should be limited, as should added sugars. Children should be limited to no more than 1500 mg/day of sodium."
+    },
+    {
+      "id": "nutrition-ch1-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Fats",
+      "difficulty": "easy",
+      "question": "The nurse is reviewing a food diary with a patient. Which food should be limited?",
+      "options": [
+        "Partially hydrogenated oils",
+        "Monounsaturated oils",
+        "Polyunsaturated oils",
+        "Whole grains"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Partially hydrogenated oils are trans fats and should be limited in the diet. Monounsaturated oils, polyunsaturated oils, and whole grains are part of a healthy diet, according to MyPlate."
+    },
+    {
+      "id": "nutrition-ch1-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Pregnancy Nutrition",
+      "difficulty": "medium",
+      "question": "A pregnant woman is concerned about mercury in her diet. Which recommendation does the nurse make for this patient? Select all that apply.",
+      "options": [
+        "Consume 4 oz of a variety of seafood per day",
+        "Limit white tuna intake to 6 oz per week",
+        "Consume foods with folate",
+        "Consume a diet high in vitamin C",
+        "Take an iron supplement",
+        "Consume swordfish weekly"
+      ],
+      "correctAnswers": [1, 2, 3, 4],
+      "explanation": "The nurse should recommend that the patient limit intake of white tuna to 6 oz per week, consume foods with folate, consume foods high in vitamin C, and take an iron supplement. These suggestions will keep the patient's mercury intake at a minimum while promoting the health of the mother and baby. Consuming 4 oz of seafood daily would result in too much mercury consumption, as would consuming swordfish weekly."
+    },
+    {
+      "id": "nutrition-ch1-019",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Physical Activity",
+      "difficulty": "easy",
+      "question": "An overweight child is signing up for after-school programs. Which activity is recommended to reduce the child's weight? Select all that apply.",
+      "options": [
+        "Bicycling",
+        "Tennis",
+        "Swimming",
+        "Newspaper reporting",
+        "Drama club",
+        "Speech team"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "Physical activity is recommended to reduce overweight and obesity. Bicycling, tennis, and swimming are physical activities that can reduce overall weight. Newspaper reporting, drama club, and speech team are not physical activities, although they may help the child's psychosocial development."
+    },
+    {
+      "id": "nutrition-ch1-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Diabetes Nutrition",
+      "difficulty": "medium",
+      "question": "The nurse is helping a patient with newly diagnosed diabetes plan meals. Which food item does the nurse recommend, especially because it is lowest in calories?",
+      "options": [
+        "Saltine crackers",
+        "Multigrain cereals",
+        "White bread",
+        "Apple crisp"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multigrain cereals are lower-calorie, nutrient-dense foods compared with refined grains high in sugar and fat, such as saltine crackers, white bread, and apple crisp."
+    },
+    {
+      "id": "nutrition-ch1-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Health Resources",
+      "difficulty": "medium",
+      "question": "A patient with a familial history of heart disease and diabetes asks the nurse, 'How can I prevent these diseases from happening to me?' Which is the most comprehensive resource for this patient?",
+      "options": [
+        "MyPlate",
+        "Healthy People 2030",
+        "National Health Goals",
+        "Recommended dietary allowances (RDAs)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Healthy People 2030 focuses on health promotion and disease prevention, so this is the best resource for a patient who wants to avoid heart disease and diabetes. MyPlate is a public educational tool focused only on nutrition. The National Health Goals reflect a wellness philosophy based on holistic health and health promotion and are less focused on disease prevention. RDAs provide the average daily dietary intake level that is sufficient to meet the nutrient requirement of nearly all healthy individuals in a group; they are not focused on disease prevention."
+    },
+    {
+      "id": "nutrition-ch1-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrition Education",
+      "difficulty": "medium",
+      "question": "A patient learning to use MyPlate states, 'I don't know how to prepare some of the food that is recommended.' What is the nurse's best response?",
+      "options": [
+        "\"Let me call the registered dietitian.\"",
+        "\"The Internet has a lot of recipes available.\"",
+        "\"There are sample menus on the MyPlate website.\"",
+        "\"Your local library has cookbooks you can check out.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The registered dietitian is the nutrition authority on the health care team and carries the major responsibility of nutrition care for patients. They can assess the patient's ability to prepare food and assist them by providing appropriate recipes. Searching the Internet for recipes may not yield healthy results if the patient does not know what to look for. Sample menus will not help the patient prepare the foods; the menu provides examples for daily meals, not actual recipes. Like the Internet, library cookbooks do not necessarily have healthy recipes."
+    },
+    {
+      "id": "nutrition-ch1-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Metabolic Processes",
+      "difficulty": "easy",
+      "question": "Which provides an essential base for all metabolic processes?",
+      "options": [
+        "Water",
+        "Protein",
+        "Glycogen",
+        "Carbohydrates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Water provides an essential base for all metabolic processes. Some of the roles for which protein is responsible include structure, enzyme and hormone production, and fluid balance. Glycogen is the main storage form of carbohydrates. Carbohydrates provide the body's primary and preferred source of fuel for energy."
+    },
+    {
+      "id": "nutrition-ch1-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Overnutrition",
+      "difficulty": "medium",
+      "question": "Which patient is at highest risk for harmful overnutrition?",
+      "options": [
+        "The patient who consumes alcohol",
+        "The patient who takes multiple vitamin supplements",
+        "The patient who consumes a diet high in saturated fat",
+        "The patient who has a suboptimal intake of fruits and vegetables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The patient taking multiple vitamin supplements is at greatest risk for harmful overnutrition. The overuse of supplements can lead to vitamin or mineral toxicity. The patient who consumes a diet high in saturated fat, alcohol, or who has a suboptimal intake of fruits and vegetables has made poor dietary choices and may experience suboptimal nutritional intake."
+    },
+    {
+      "id": "nutrition-ch1-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Calorie Calculation",
+      "difficulty": "easy",
+      "question": "How many kilocalories are consumed when eating 16 g of fat?",
+      "options": [
+        "64 kcal",
+        "96 kcal",
+        "128 kcal",
+        "144 kcal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "There are 9 kcal in each gram of fat. To determine the amount of kcal in 16 g of fat, 9 kcal is multiplied by 16 g. There are 144 kcal in 16 g of fat."
+    },
+    {
+      "id": "nutrition-ch1-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrient Functions",
+      "difficulty": "medium",
+      "question": "Which statement best describes the role of nutrients?",
+      "options": [
+        "Nutrients are units of heat measure.",
+        "Nutrients have specific metabolic functions.",
+        "Nutrients accomplish basic life-sustaining tasks.",
+        "Nutrients work individually to maintain bodily processes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Individual nutrients have specific metabolic functions, including primary and secondary roles. Human energy is measured in heat units called kilocalories. Metabolism refers to the sum of all body processes that accomplish the basic life-sustaining tasks. No nutrient ever works alone."
+    },
+    {
+      "id": "nutrition-ch1-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "In which category of the daily recommended intake (DRI) interconnected categories will the patient fall if a diet that is 35% fat is consumed?",
+      "options": [
+        "Adequate intake",
+        "Tolerable upper intake level",
+        "Estimated average requirement",
+        "Recommended dietary allowance (RDA)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The patient who has a dietary intake of 35% fat falls in the 'tolerable upper intake level' category, which is not recommended. Adequate intake is used as a guide when insufficient scientific evidence is available to establish an RDA. The estimated average requirement is the intake level that meets the needs of half of the individuals in specific groups. The RDA is the average daily dietary intake level sufficient to meet the nutrient requirements of nearly all healthy individuals in a group."
+    },
+    {
+      "id": "nutrition-ch1-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Aging and Nutrition",
+      "difficulty": "medium",
+      "question": "An older woman is asking which special nutrient she should consume as she ages. Which nutrient or food is important to include in her menu plan?",
+      "options": [
+        "Synthetic folic acid",
+        "Low-fat proteins",
+        "Foods fortified with vitamin B12",
+        "Low-fat milks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Older adults should consume foods fortified with vitamin B12, like fortified cereals and dietary supplements. Synthetic folic acid is recommended for women capable of becoming pregnant. Low-fat proteins and low-fat milks are recommended for all ages."
+    },
+    {
+      "id": "nutrition-ch1-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Food Insecurity",
+      "difficulty": "medium",
+      "question": "The nurse is assessing the diet of a family who is having trouble adhering to the MyPlate food guidelines. Which factor most limits their food choices?",
+      "options": [
+        "The father has two jobs to meet the family's financial needs.",
+        "The family receives food stamps for all six people.",
+        "The family has a car and can drive to the grocery store.",
+        "The family makes monthly trips to the food pantry."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Food pantries have foods to feed people in need but may be limited on choices, especially for people with allergies and special dietary needs. This can limit healthy food choices. Working two jobs to meet financial needs, access to food stamps, and a car for trips to the grocery store help allow for better choices."
+    },
+    {
+      "id": "nutrition-ch1-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Protein Sources",
+      "difficulty": "easy",
+      "question": "An athlete wants to improve performance by consuming more protein. Which food does the nurse recommend removing?",
+      "options": [
+        "Pancakes",
+        "Northern beans",
+        "Almonds",
+        "Eggs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pancakes are not a significant source of protein, so the nurse will recommend removing these. Northern beans, almonds, and eggs are excellent sources of protein."
+    },
+    {
+      "id": "nutrition-ch1-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Vitamins and Minerals",
+      "difficulty": "medium",
+      "question": "A patient consumes large amounts of fruits but no vegetables. Which nutrient might the nurse expect to be low in the patient's laboratory test results?",
+      "options": [
+        "Vitamin C",
+        "Folate",
+        "Vitamin K",
+        "Potassium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin K is found in green leafy vegetables but not fruits, so the patient may have low vitamin K levels. Vitamin C, folate, and potassium are nutrients found in fruits."
+    },
+    {
+      "id": "nutrition-ch1-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Variety",
+      "difficulty": "easy",
+      "question": "The nurse is helping a new mother plan menus for her growing family. Which recommendation most facilitates adding variety to the family's diet?",
+      "options": [
+        "Eating foods from all food groups and subgroups",
+        "Eating more fruits and vegetables and fewer foods with added sugars",
+        "Limiting foods that contain saturated and trans fats",
+        "Being physically active every day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Variety in the diet is facilitated by eating foods from all food groups and subgroups. Adding more fruits and vegetables in correct portions, limiting sugars and fats, and performing daily physical activity are recommended but do not necessarily add variety to the diet."
+    },
+    {
+      "id": "nutrition-ch1-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "Which statement provides the rationale for the creation of the dietary reference intakes (DRIs) guideline?",
+      "options": [
+        "The recommended Dietary Allowances (RDAs) guidelines were outdated.",
+        "A reliable way to assess nutrient deficiencies was needed.",
+        "There was a desire to document the average dietary requirement for each nutrient.",
+        "Public awareness shifted from deficiency prevention to maintaining optimal health."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Public awareness and research attention have shifted from the original goal of preventing deficiency disease to reflect an increasing emphasis on nutrient requirements for maintaining optimal health. This change of emphasis resulted in the DRIs project. Since 1941, the Recommended Dietary Allowances (RDAs) have been the authoritative source for setting standards for the minimum amounts of nutrients necessary to protect almost all people against the risk for nutrient deficiency and this remains true today. The Estimated Average Requirement guidelines already exist and provide the mean, or average, dietary requirement of a nutrient in a specific population group."
+    },
+    {
+      "id": "nutrition-ch1-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which is a recommendation from 'Choose MyPlate's 10 Tips to a Great Plate'?",
+      "options": [
+        "Switch to fat-free or 2% milk.",
+        "Compare iron content in foods.",
+        "Make half your grains whole grains.",
+        "Drink diet drinks instead of sugary drinks."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Choose MyPlate's 10 Tips to a Great Plate' includes making half of the grains consumed whole grains. The tips recommend switching to fat-free or low-fat (1%) milk, comparing sodium content in foods, and drinking water instead of sugary drinks."
+    },
+    {
+      "id": "nutrition-ch1-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrient Functions",
+      "difficulty": "medium",
+      "question": "To sustain life, the nutrients in food must perform which function in the body? Select all that apply.",
+      "options": [
+        "Build tissue",
+        "Build bones",
+        "Provide energy",
+        "Prevent infection",
+        "Regulate metabolic processes"
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "To sustain life, the nutrients in foods must perform three basic functions within the body: build tissue, provide energy, and regulate metabolic processes. Prevention of infection and the building of bones are supplemented by food nutrients but are not direct products of them."
+    },
+    {
+      "id": "nutrition-ch1-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which piece of information does the MyPlate food guidelines use to create a personalized food plan? Select all that apply.",
+      "options": [
+        "Age",
+        "Height",
+        "Sex",
+        "Weight",
+        "Income",
+        "Activity level",
+        "Geographic location"
+      ],
+      "correctAnswers": [0, 1, 2, 3, 5],
+      "explanation": "Participants can personalize their own food plan by accessing the website and entering their age, height, sex, weight, and activity level. Income and geographic location are not parts of the MyPlate personalized food plan but may have an impact on overall nutrition."
+    },
+    {
+      "id": "nutrition-ch1-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which resource is best used for determining optimal carbohydrate consumption for a healthy young adult?",
+      "options": [
+        "Healthy People 2030",
+        "Dietary reference intakes (DRIs)",
+        "Dietary Guidelines for Americans",
+        "Recommended dietary allowance (RDAs)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DRIs are reference values for the nutrient intake needs of healthy individuals based on sex and age. The Healthy People 2030 objective focuses on health promotion and disease prevention. The Dietary Guidelines for Americans is an overall guide for promoting dietary and lifestyle choices that reduce the risk for chronic disease. RDAs are the average daily dietary intake levels that are sufficient to meet the nutrient requirement of nearly all healthy individuals in a group."
+    },
+    {
+      "id": "nutrition-ch1-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Energy-Yielding Nutrients",
+      "difficulty": "easy",
+      "question": "Which nutrient breaks down to yield energy within the body? Select all that apply.",
+      "options": [
+        "Fats",
+        "Water",
+        "Proteins",
+        "Vitamins",
+        "Minerals",
+        "Carbohydrates"
+      ],
+      "correctAnswers": [0, 2, 5],
+      "explanation": "Of the six essential nutrients, the three energy-yielding nutrients are fats, proteins, and carbohydrates. Water, vitamins, and minerals are essential nutrients that do not provide energy."
+    },
+    {
+      "id": "nutrition-ch1-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Macronutrients",
+      "difficulty": "medium",
+      "question": "What percentage of total kilocalories is the maximum recommended intake of protein as part of a whole diet?",
+      "options": [
+        "25%",
+        "35%",
+        "45%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The recommended intake of protein as a percentage of total kilocalories of the whole diet is 35%. The overall recommendation for protein ranges from 10% to 35% of the whole diet; 25% is lower than the maximum. The percentage 45% is too high, and 15% is too low."
+    },
+    {
+      "id": "nutrition-ch1-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Food Insecurity",
+      "difficulty": "medium",
+      "question": "Which household has the highest risk for food insecurity?",
+      "options": [
+        "A household with children",
+        "A single-income household",
+        "A household with an elderly couple",
+        "A household in which the head is experiencing chronic illness"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Households with children report almost double the rate of food insecurity as households without children. A single-income household is not necessarily at risk for food insecurity. A household with an elderly couple is at risk for food insecurity when low socioeconomic status, disability, and/or chronic disease are present. If the head of a household is experiencing chronic disease, the household may be at risk for food insecurity but not as much as a household with children."
+    },
+    {
+      "id": "nutrition-ch1-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "Which dietary reference intake (DRI) panel was developed by the Food and Nutrition Board of the Institute of Medicine to examine the benefits of nutrition and the hazards of consuming too much of a nutrient? Select all that apply.",
+      "options": [
+        "Fatty acids",
+        "Antioxidants",
+        "Micronutrients",
+        "Trace elements",
+        "Folate and other B vitamins"
+      ],
+      "correctAnswers": [1, 3, 4],
+      "explanation": "Six DRI panels were developed by the Food and Nutrition Board of the Institute of Medicine to examine the benefits of nutrition and the hazards of consuming too much of a nutrient. These include antioxidants, trace elements, and folate and other B vitamins. DRI panels were not developed for fatty acids and micronutrients."
+    },
+    {
+      "id": "nutrition-ch1-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "When using MyPlate, participants are provided a recommendation of serving amounts from each food group. What other information can an individual expect in the recommendation?",
+      "options": [
+        "Ideal weight",
+        "Exercise plan",
+        "Calorie intake",
+        "Ideal body mass index (BMI)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The MyPlate food guidelines create a plan with individualized calorie levels. The site also offers participants worksheets, resources, and individualized tools, such as trackers for food, physical activity, and weight. MyPlate does not provide an ideal weight, exercise plan, or ideal BMI."
+    },
+    {
+      "id": "nutrition-ch1-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Healthy People 2030",
+      "difficulty": "medium",
+      "question": "Which specific national goal of the Healthy People 2030 initiative is listed under the Nutrition and Healthy Eating category? Select all that apply.",
+      "options": [
+        "Reducing poverty",
+        "Promoting access to healthier food",
+        "Increasing iron intake",
+        "Increasing folate intake",
+        "Improving nutrition in health care settings"
+      ],
+      "correctAnswers": [1, 2, 4],
+      "explanation": "Some of the specific national goals of Healthy People 2030 under the Nutrition and Healthy Eating category include promoting access to healthier food, reducing iron deficiency (increasing iron intake), and improving nutrition in health care settings. The goals do not include reducing poverty or increasing folate intake."
+    },
+    {
+      "id": "nutrition-ch1-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Healthy People 2030",
+      "difficulty": "medium",
+      "question": "What major theme is identified in the most recent major report in the Healthy People series? Select all that apply.",
+      "options": [
+        "Weight control",
+        "Healthy choices in diet",
+        "Reduction of alcohol intake",
+        "Education about risk factors for disease",
+        "Education about drug-nutrient interactions"
+      ],
+      "correctAnswers": [0, 1, 3],
+      "explanation": "The major themes of the most recent Healthy People report include promotion of weight control, encouragement of healthy diet choices, and education about disease risk factors. Reduction of alcohol consumption and drug-nutrient interactions are not major themes of this report."
+    }
+  ]
+}
