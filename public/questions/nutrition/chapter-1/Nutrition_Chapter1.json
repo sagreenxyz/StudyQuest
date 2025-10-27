@@ -577,6 +577,202 @@
       ],
       "correctAnswer": 3,
       "explanation": "Public awareness and research attention have shifted from the original goal of preventing deficiency disease to reflect an increasing emphasis on nutrient requirements for maintaining optimal health. This change of emphasis resulted in the DRIs project. Since 1941, the Recommended Dietary Allowances (RDAs) have been the authoritative source for setting standards for the minimum amounts of nutrients necessary to protect almost all people against the risk for nutrient deficiency and this remains true today. The Estimated Average Requirement guidelines already exist and provide the mean, or average, dietary requirement of a nutrient in a specific population group."
+    },
+    {
+      "id": "nutrition-ch1-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which is a recommendation from 'Choose MyPlate's 10 Tips to a Great Plate'?",
+      "options": [
+        "Switch to fat-free or 2% milk.",
+        "Compare iron content in foods.",
+        "Make half your grains whole grains.",
+        "Drink diet drinks instead of sugary drinks."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Choose MyPlate's 10 Tips to a Great Plate' includes making half of the grains consumed whole grains. The tips recommend switching to fat-free or low-fat (1%) milk, comparing sodium content in foods, and drinking water instead of sugary drinks."
+    },
+    {
+      "id": "nutrition-ch1-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Nutrient Functions",
+      "difficulty": "medium",
+      "question": "To sustain life, the nutrients in food must perform which function in the body? Select all that apply.",
+      "options": [
+        "Build tissue",
+        "Build bones",
+        "Provide energy",
+        "Prevent infection",
+        "Regulate metabolic processes"
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "To sustain life, the nutrients in foods must perform three basic functions within the body: build tissue, provide energy, and regulate metabolic processes. Prevention of infection and the building of bones are supplemented by food nutrients but are not direct products of them."
+    },
+    {
+      "id": "nutrition-ch1-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which piece of information does the MyPlate food guidelines use to create a personalized food plan? Select all that apply.",
+      "options": [
+        "Age",
+        "Height",
+        "Sex",
+        "Weight",
+        "Income",
+        "Activity level",
+        "Geographic location"
+      ],
+      "correctAnswers": [0, 1, 2, 3, 5],
+      "explanation": "Participants can personalize their own food plan by accessing the website and entering their age, height, sex, weight, and activity level. Income and geographic location are not parts of the MyPlate personalized food plan but may have an impact on overall nutrition."
+    },
+    {
+      "id": "nutrition-ch1-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which resource is best used for determining optimal carbohydrate consumption for a healthy young adult?",
+      "options": [
+        "Healthy People 2030",
+        "Dietary reference intakes (DRIs)",
+        "Dietary Guidelines for Americans",
+        "Recommended dietary allowance (RDAs)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DRIs are reference values for the nutrient intake needs of healthy individuals based on sex and age. The Healthy People 2030 objective focuses on health promotion and disease prevention. The Dietary Guidelines for Americans is an overall guide for promoting dietary and lifestyle choices that reduce the risk for chronic disease. RDAs are the average daily dietary intake levels that are sufficient to meet the nutrient requirement of nearly all healthy individuals in a group."
+    },
+    {
+      "id": "nutrition-ch1-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Energy-Yielding Nutrients",
+      "difficulty": "easy",
+      "question": "Which nutrient breaks down to yield energy within the body? Select all that apply.",
+      "options": [
+        "Fats",
+        "Water",
+        "Proteins",
+        "Vitamins",
+        "Minerals",
+        "Carbohydrates"
+      ],
+      "correctAnswers": [0, 2, 5],
+      "explanation": "Of the six essential nutrients, the three energy-yielding nutrients are fats, proteins, and carbohydrates. Water, vitamins, and minerals are essential nutrients that do not provide energy."
+    },
+    {
+      "id": "nutrition-ch1-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Macronutrients",
+      "difficulty": "medium",
+      "question": "What percentage of total kilocalories is the maximum recommended intake of protein as part of a whole diet?",
+      "options": [
+        "25%",
+        "35%",
+        "45%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The recommended intake of protein as a percentage of total kilocalories of the whole diet is 35%. The overall recommendation for protein ranges from 10% to 35% of the whole diet; 25% is lower than the maximum. The percentage 45% is too high, and 15% is too low."
+    },
+    {
+      "id": "nutrition-ch1-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Food Insecurity",
+      "difficulty": "medium",
+      "question": "Which household has the highest risk for food insecurity?",
+      "options": [
+        "A household with children",
+        "A single-income household",
+        "A household with an elderly couple",
+        "A household in which the head is experiencing chronic illness"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Households with children report almost double the rate of food insecurity as households without children. A single-income household is not necessarily at risk for food insecurity. A household with an elderly couple is at risk for food insecurity when low socioeconomic status, disability, and/or chronic disease are present. If the head of a household is experiencing chronic disease, the household may be at risk for food insecurity but not as much as a household with children."
+    },
+    {
+      "id": "nutrition-ch1-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "Which dietary reference intake (DRI) panel was developed by the Food and Nutrition Board of the Institute of Medicine to examine the benefits of nutrition and the hazards of consuming too much of a nutrient? Select all that apply.",
+      "options": [
+        "Fatty acids",
+        "Antioxidants",
+        "Micronutrients",
+        "Trace elements",
+        "Folate and other B vitamins"
+      ],
+      "correctAnswers": [1, 3, 4],
+      "explanation": "Six DRI panels were developed by the Food and Nutrition Board of the Institute of Medicine to examine the benefits of nutrition and the hazards of consuming too much of a nutrient. These include antioxidants, trace elements, and folate and other B vitamins. DRI panels were not developed for fatty acids and micronutrients."
+    },
+    {
+      "id": "nutrition-ch1-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "When using MyPlate, participants are provided a recommendation of serving amounts from each food group. What other information can an individual expect in the recommendation?",
+      "options": [
+        "Ideal weight",
+        "Exercise plan",
+        "Calorie intake",
+        "Ideal body mass index (BMI)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The MyPlate food guidelines create a plan with individualized calorie levels. The site also offers participants worksheets, resources, and individualized tools, such as trackers for food, physical activity, and weight. MyPlate does not provide an ideal weight, exercise plan, or ideal BMI."
+    },
+    {
+      "id": "nutrition-ch1-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Healthy People 2030",
+      "difficulty": "medium",
+      "question": "Which specific national goal of the Healthy People 2030 initiative is listed under the Nutrition and Healthy Eating category? Select all that apply.",
+      "options": [
+        "Reducing poverty",
+        "Promoting access to healthier food",
+        "Increasing iron intake",
+        "Increasing folate intake",
+        "Improving nutrition in health care settings"
+      ],
+      "correctAnswers": [1, 2, 4],
+      "explanation": "Some of the specific national goals of Healthy People 2030 under the Nutrition and Healthy Eating category include promoting access to healthier food, reducing iron deficiency (increasing iron intake), and improving nutrition in health care settings. The goals do not include reducing poverty or increasing folate intake."
+    },
+    {
+      "id": "nutrition-ch1-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Healthy People 2030",
+      "difficulty": "medium",
+      "question": "What major theme is identified in the most recent major report in the Healthy People series? Select all that apply.",
+      "options": [
+        "Weight control",
+        "Healthy choices in diet",
+        "Reduction of alcohol intake",
+        "Education about risk factors for disease",
+        "Education about drug-nutrient interactions"
+      ],
+      "correctAnswers": [0, 1, 3],
+      "explanation": "The major themes of the most recent Healthy People report include promotion of weight control, encouragement of healthy diet choices, and education about disease risk factors. Reduction of alcohol consumption and drug-nutrient interactions are not major themes of this report."
     }
   ]
 }
