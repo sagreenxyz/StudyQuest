@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Question, StudyProgress, SpacedRepetitionSettings } from '../types/Question';
-import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders } from 'lucide-react';
+import { BarChart3, Clock, Target, TrendingUp, BookOpen, Zap, Tag, ChevronDown, ChevronUp, Brain, Info, Calendar, RotateCcw, Settings, Sliders, Trash2 } from 'lucide-react';
 import { QuizConfiguration } from './QuizConfiguration';
 import { SpacedRepetitionConfig } from './SpacedRepetitionConfig';
 import { SpacedRepetitionSettingsComponent } from './SpacedRepetitionSettings';
@@ -101,6 +101,25 @@ export function Dashboard({
   const handleSpacedReviewStart = (filteredQuestions: Question[]) => {
     setShowSpacedConfig(false);
     onStartQuiz(filteredQuestions);
+  };
+
+  const handleResetData = () => {
+    const confirmed = window.confirm(
+      'Are you sure you want to reset all data?\n\n' +
+      'This will:\n' +
+      '• Clear all questions\n' +
+      '• Clear all progress\n' +
+      '• Reset all settings\n' +
+      '• Reload all question files from the project\n\n' +
+      'This action cannot be undone!'
+    );
+
+    if (confirmed) {
+      // Clear all localStorage
+      localStorage.clear();
+      // Reload the page to start fresh
+      window.location.reload();
+    }
   };
 
   const getQuizConfigTitle = () => {
@@ -415,6 +434,19 @@ export function Dashboard({
                 <span className="text-sm text-gray-500">0 questions</span>
               </button>
             )}
+
+            <button
+              onClick={handleResetData}
+              className="w-full flex items-center justify-between p-4 bg-red-50 border border-red-200 rounded-lg hover:bg-red-100 transition-colors duration-200"
+            >
+              <div className="flex items-center">
+                <Trash2 className="h-5 w-5 text-red-600 mr-3" />
+                <div className="text-left">
+                  <span className="font-medium text-red-900 block">Reset All Data</span>
+                  <span className="text-xs text-red-600">Clear progress and reload question files</span>
+                </div>
+              </div>
+            </button>
           </div>
         </div>
 
