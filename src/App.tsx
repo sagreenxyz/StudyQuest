@@ -173,6 +173,52 @@ function App() {
     setQuizResults(null);
   };
 
+  const handleRefreshQuestions = async () => {
+    const confirmed = window.confirm(
+      'Refresh question list?\n\n' +
+      'This will:\n' +
+      '• Reload all question files from the project\n' +
+      '• Add any new questions you\'ve added\n' +
+      '• Keep all your progress and settings intact\n\n' +
+      'Your study progress will NOT be affected.'
+    );
+
+    if (!confirmed) {
+      return;
+    }
+
+    try {
+      setMode('loading');
+      console.log('Refreshing question index...');
+      const index = await questionService.buildQuestionIndex();
+
+      if (index.questions.length === 0) {
+        alert('No question files found in the public/questions directory.');
+        setMode('home');
+        return;
+      }
+
+      console.log(`Question index refreshed: ${index.questions.length} questions from ${new Set(index.questions.map(q => q.sourceFile)).size} files`);
+      setQuestionIndex(index);
+
+      // Clean up progress - only keep progress for questions that actually exist
+      const validQuestionIds = index.questions.map(q => q.id);
+      const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
+
+      if (cleanedProgress.length !== progress.length) {
+        console.log(`Cleaned up orphaned progress: ${progress.length} -> ${cleanedProgress.length} entries`);
+        setProgress(cleanedProgress);
+      }
+
+      setMode('home');
+      alert(`Successfully refreshed! Found ${index.questions.length} questions from ${new Set(index.questions.map(q => q.sourceFile)).size} files.`);
+    } catch (error) {
+      console.error('Error refreshing question index:', error);
+      alert(`Failed to refresh questions: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      setMode('home');
+    }
+  };
+
   if (mode === 'loading') {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -258,6 +304,7 @@ function App() {
                   onStartQuiz={handleStartQuiz}
                   onStartReview={handleStartReview}
                   onUpdateSpacedRepetitionSettings={setSpacedRepetitionSettings}
+                  onRefreshQuestions={handleRefreshQuestions}
                 />
               </>
             )}
