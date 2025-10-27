@@ -1,240 +1,140 @@
 import React, { useState, useEffect } from 'react';
-import { Question, QuestionSet, StudyProgress, SpacedRepetitionSettings } from './types/Question';
+import { Question, StudyProgress, SpacedRepetitionSettings } from './types/Question';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { calculateNextReview, getQuestionsForReview, defaultSpacedRepetitionSettings } from './utils/spacedRepetition';
-import { ProjectFileLoader } from './components/ProjectFileLoader';
 import { Dashboard } from './components/Dashboard';
 import { QuizMode, QuizResults as QuizResultsType } from './components/QuizMode';
 import { QuizResults } from './components/QuizResults';
+import { questionService, QuestionIndex } from './services/QuestionService';
 import { BookOpen, Home, Loader } from 'lucide-react';
 
 type AppMode = 'loading' | 'home' | 'quiz' | 'results';
 
 function App() {
   const [mode, setMode] = useState<AppMode>('loading');
-  const [questions, setQuestions] = useLocalStorage<Question[]>('studyquest-questions', []);
+  const [questionIndex, setQuestionIndex] = useLocalStorage<QuestionIndex>('studyquest-index', {
+    questions: [],
+    lastUpdated: new Date()
+  });
   const [progress, setProgress] = useLocalStorage<StudyProgress[]>('studyquest-progress', []);
   const [spacedRepetitionSettings, setSpacedRepetitionSettings] = useLocalStorage<SpacedRepetitionSettings>(
-    'studyquest-spaced-settings', 
+    'studyquest-spaced-settings',
     defaultSpacedRepetitionSettings
   );
   const [currentQuizQuestions, setCurrentQuizQuestions] = useState<Question[]>([]);
   const [quizResults, setQuizResults] = useState<QuizResultsType | null>(null);
   const [loadingError, setLoadingError] = useState<string | null>(null);
-  const [hasLoadedFiles, setHasLoadedFiles] = useLocalStorage<boolean>('studyquest-files-loaded', false);
+  const [hasLoadedIndex, setHasLoadedIndex] = useLocalStorage<boolean>('studyquest-index-loaded', false);
 
-  // Helper function to check if a path should be ignored
-  const shouldIgnorePath = (path: string): boolean => {
-    // Split the path into segments and check if any segment starts with a period
-    const segments = path.split('/');
-    return segments.some(segment => segment.startsWith('.'));
-  };
-
-  // Auto-load project files on startup
+  // Auto-load question index on startup
   useEffect(() => {
-    const loadProjectFiles = async () => {
+    const loadQuestionIndex = async () => {
       try {
-        // Use Vite's import.meta.glob to find all .json files recursively
-        const questionModules = import.meta.glob('/public/questions/**/*.json');
-        
-        // Filter out files and folders that start with a period
-        const filteredModules = Object.fromEntries(
-          Object.entries(questionModules).filter(([path]) => {
-            const filename = path.replace('/public/questions/', '');
-            return !shouldIgnorePath(filename);
-          })
-        );
-        
-        if (Object.keys(filteredModules).length === 0) {
+        console.log('Building question index...');
+        const index = await questionService.buildQuestionIndex();
+
+        if (index.questions.length === 0) {
           setLoadingError('No question files found in the public/questions directory.');
           setMode('home');
           return;
         }
 
-        const allNewQuestions: Question[] = [];
-        const errorMessages: string[] = [];
-        let duplicateIds: string[] = [];
-        let skippedQuestions = 0;
+        console.log(`Question index built: ${index.questions.length} questions from ${new Set(index.questions.map(q => q.sourceFile)).size} files`);
+        setQuestionIndex(index);
 
-        for (const [path, moduleLoader] of Object.entries(filteredModules)) {
-          try {
-            const filename = path.replace('/public/questions/', '');
-            const fetchPath = `/StudyQuest/questions/${filename}`;
-            
-            const response = await fetch(fetchPath);
-            if (!response.ok) {
-              throw new Error(`Failed to fetch file: ${response.statusText}`);
-            }
+        // Clean up progress - only keep progress for questions that actually exist
+        const validQuestionIds = index.questions.map(q => q.id);
+        const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
 
-            const questionSet: QuestionSet = await response.json();
-
-            // Validate the structure
-            if (!questionSet.questions || !Array.isArray(questionSet.questions)) {
-              throw new Error(`Invalid question set format in file: ${filename}`);
-            }
-
-            // Track duplicates and filter them out
-            const filteredQuestions: typeof questionSet.questions = [];
-
-            questionSet.questions.forEach((question, qIndex) => {
-              if (!question.id || !question.type || !question.subject || !question.topic) {
-                throw new Error(`Question ${qIndex + 1} in file "${filename}" is missing required fields (id, type, subject, topic)`);
-              }
-
-              // Check for duplicate IDs within this load
-              if (allNewQuestions.some(q => q.id === question.id)) {
-                duplicateIds.push(question.id);
-                skippedQuestions++;
-                return; // Skip this question
-              }
-
-              // Validate question type specific fields
-              if (question.type === 'multiple-choice') {
-                const mcq = question as any;
-                if (!mcq.question || !mcq.options || typeof mcq.correctAnswer !== 'number') {
-                  throw new Error(`Multiple choice question ${qIndex + 1} in file "${filename}" is missing required fields`);
-                }
-              } else if (question.type === 'select-all') {
-                const saq = question as any;
-                if (!saq.question || !saq.options || !Array.isArray(saq.correctAnswers)) {
-                  throw new Error(`Select-all question ${qIndex + 1} in file "${filename}" is missing required fields`);
-                }
-              } else if (question.type === 'true-false') {
-                const tfq = question as any;
-                if (!tfq.question || !tfq.options || typeof tfq.correctAnswer !== 'number') {
-                  throw new Error(`True-false question ${qIndex + 1} in file "${filename}" is missing required fields`);
-                }
-                if (!Array.isArray(tfq.options) || tfq.options.length !== 2 || 
-                    tfq.options[0] !== "True" || tfq.options[1] !== "False") {
-                  throw new Error(`True-false question ${qIndex + 1} in file "${filename}" must have options ["True", "False"]`);
-                }
-                if (tfq.correctAnswer !== 0 && tfq.correctAnswer !== 1) {
-                  throw new Error(`True-false question ${qIndex + 1} in file "${filename}" must have correctAnswer 0 (True) or 1 (False)`);
-                }
-              } else if (question.type === 'flashcard') {
-                const fcq = question as any;
-                if (!fcq.front || !fcq.back) {
-                  throw new Error(`Flashcard ${qIndex + 1} in file "${filename}" is missing required fields (front, back)`);
-                }
-              } else if (question.type === 'fact-card') {
-                const factq = question as any;
-                if (!factq.fact) {
-                  throw new Error(`Fact card ${qIndex + 1} in file "${filename}" is missing required field (fact)`);
-                }
-              } else if (question.type === 'matching') {
-                const matchq = question as any;
-                if (!matchq.instruction || !matchq.pairs || !Array.isArray(matchq.pairs)) {
-                  throw new Error(`Matching question ${qIndex + 1} in file "${filename}" is missing required fields (instruction, pairs)`);
-                }
-                matchq.pairs.forEach((pair: any, pairIndex: number) => {
-                  if (!pair.term || !pair.definition) {
-                    throw new Error(`Matching question ${qIndex + 1}, pair ${pairIndex + 1} in file "${filename}" is missing term or definition`);
-                  }
-                });
-              }
-
-              // Add sourceFile to track which file this question came from
-              question.sourceFile = filename;
-
-              // Add to filtered questions if it passes all validations
-              filteredQuestions.push(question);
-            });
-
-            // Add questions to the collection
-            allNewQuestions.push(...filteredQuestions);
-
-          } catch (error) {
-            const errorMessage = `Error in file "${path}": ${error instanceof Error ? error.message : 'Please check the file format.'}`;
-            errorMessages.push(errorMessage);
-            console.error(`File parsing error for ${path}:`, error);
-          }
+        if (cleanedProgress.length !== progress.length) {
+          console.log(`Cleaned up progress: ${progress.length} -> ${cleanedProgress.length} entries`);
+          setProgress(cleanedProgress);
         }
 
-        // Only update questions if we haven't loaded files before or if we have no questions
-        if (allNewQuestions.length > 0 && (!hasLoadedFiles || questions.length === 0)) {
-          console.log(`Loading ${allNewQuestions.length} questions from project files`);
-          setQuestions(allNewQuestions);
-          
-          // Clean up progress - only keep progress for questions that actually exist
-          const validQuestionIds = allNewQuestions.map(q => q.id);
-          const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
-          
-          // Initialize progress for new questions that don't have progress yet
-          const existingProgressIds = cleanedProgress.map(p => p.questionId);
-          const newProgressEntries = allNewQuestions
-            .filter(q => !existingProgressIds.includes(q.id))
-            .map(q => ({
-              questionId: q.id,
-              correctCount: 0,
-              incorrectCount: 0,
-              lastAnswered: new Date(),
-              nextReview: new Date(),
-              easeFactor: 2.5
-            }));
-          
-          const finalProgress = [...cleanedProgress, ...newProgressEntries];
-          setProgress(finalProgress);
-          setHasLoadedFiles(true);
-          
-          console.log(`Final state: ${allNewQuestions.length} questions, ${finalProgress.length} progress entries`);
-        }
-
-        if (errorMessages.length > 0) {
-          setLoadingError(`Errors loading some files:\n${errorMessages.join('\n')}`);
-        }
-
+        setHasLoadedIndex(true);
         setMode('home');
 
       } catch (error) {
-        console.error('Error loading project files:', error);
-        setLoadingError(`Failed to load project files: ${error instanceof Error ? error.message : 'Unknown error'}`);
+        console.error('Error building question index:', error);
+        setLoadingError(`Failed to build question index: ${error instanceof Error ? error.message : 'Unknown error'}`);
         setMode('home');
       }
     };
 
-    // Load files if we haven't loaded them before or if we have no questions
-    if (!hasLoadedFiles || questions.length === 0) {
-      loadProjectFiles();
+    // Load index if we haven't loaded it before or if we have no questions in the index
+    if (!hasLoadedIndex || questionIndex.questions.length === 0) {
+      loadQuestionIndex();
     } else {
       setMode('home');
     }
   }, []);
 
-  // Clean up progress when questions change to ensure consistency
+  // Clean up progress when index changes to ensure consistency
   useEffect(() => {
-    if (questions.length > 0) {
-      const validQuestionIds = questions.map(q => q.id);
+    if (questionIndex.questions.length > 0) {
+      const validQuestionIds = questionIndex.questions.map(q => q.id);
       const cleanedProgress = progress.filter(p => validQuestionIds.includes(p.questionId));
-      
+
       // Only update if there's a mismatch
       if (cleanedProgress.length !== progress.length) {
         console.log(`Cleaning up progress: ${progress.length} -> ${cleanedProgress.length} entries`);
         setProgress(cleanedProgress);
       }
     }
-  }, [questions]);
+  }, [questionIndex]);
 
-  const handleStartQuiz = (quizQuestions: Question[]) => {
-    const shuffled = [...quizQuestions].sort(() => Math.random() - 0.5);
-    setCurrentQuizQuestions(shuffled);
-    setMode('quiz');
+  const handleStartQuiz = async (questionIds: string[]) => {
+    try {
+      setMode('loading');
+      console.log(`Loading ${questionIds.length} questions for quiz...`);
+
+      const questions = await questionService.loadQuestions(questionIds, questionIndex);
+
+      // Initialize progress for any new questions
+      const existingProgressIds = progress.map(p => p.questionId);
+      const newProgressEntries = questions
+        .filter(q => !existingProgressIds.includes(q.id))
+        .map(q => ({
+          questionId: q.id,
+          correctCount: 0,
+          incorrectCount: 0,
+          lastAnswered: new Date(),
+          nextReview: new Date(),
+          easeFactor: 2.5
+        }));
+
+      if (newProgressEntries.length > 0) {
+        setProgress([...progress, ...newProgressEntries]);
+      }
+
+      const shuffled = [...questions].sort(() => Math.random() - 0.5);
+      setCurrentQuizQuestions(shuffled);
+      setMode('quiz');
+    } catch (error) {
+      console.error('Error loading quiz questions:', error);
+      alert(`Failed to load questions: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      setMode('home');
+    }
   };
 
   const handleStartReview = () => {
     const dueQuestionIds = getQuestionsForReview(progress);
-    const reviewQuestions = questions.filter(q => dueQuestionIds.includes(q.id));
-    handleStartQuiz(reviewQuestions);
+    if (dueQuestionIds.length === 0) {
+      alert('No questions are due for review!');
+      return;
+    }
+    handleStartQuiz(dueQuestionIds);
   };
 
   const handleQuizComplete = (results: QuizResultsType) => {
     setQuizResults(results);
-    
+
     // Update progress for each question using current settings
     const updatedProgress = [...progress];
-    
+
     results.questionResults.forEach(result => {
       const existingProgressIndex = updatedProgress.findIndex(p => p.questionId === result.questionId);
-      
+
       if (existingProgressIndex >= 0) {
         updatedProgress[existingProgressIndex] = calculateNextReview(
           updatedProgress[existingProgressIndex],
@@ -258,7 +158,7 @@ function App() {
         updatedProgress.push(newProgress);
       }
     });
-    
+
     setProgress(updatedProgress);
     setMode('results');
   };
@@ -280,7 +180,7 @@ function App() {
           <div className="bg-white rounded-xl shadow-lg p-8 max-w-md mx-auto">
             <Loader className="h-12 w-12 text-blue-600 animate-spin mx-auto mb-4" />
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Loading StudyQuest</h2>
-            <p className="text-gray-600">Discovering and loading question files...</p>
+            <p className="text-gray-600">Loading questions...</p>
             <p className="text-gray-500 text-sm mt-2">Files starting with "." are ignored</p>
           </div>
         </div>
@@ -298,7 +198,7 @@ function App() {
               <BookOpen className="h-8 w-8 text-blue-600 mr-3" />
               <h1 className="text-2xl font-bold text-gray-900">StudyQuest</h1>
             </div>
-            
+
             <nav className="flex items-center space-x-4">
               {mode !== 'home' && (
                 <button
@@ -310,7 +210,7 @@ function App() {
                 </button>
               )}
               <div className="text-sm text-gray-500">
-                {questions.length} questions loaded
+                {questionIndex.questions.length} questions available
               </div>
             </nav>
           </div>
@@ -321,7 +221,7 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {mode === 'home' && (
           <div className="space-y-8">
-            {questions.length === 0 ? (
+            {questionIndex.questions.length === 0 ? (
               <div className="text-center py-12">
                 <BookOpen className="mx-auto h-12 w-12 text-gray-400 mb-4" />
                 <h2 className="text-xl font-semibold text-gray-900 mb-2">No Questions Available</h2>
@@ -352,7 +252,7 @@ function App() {
                   <h2 className="text-2xl font-bold text-gray-900">Study Dashboard</h2>
                 </div>
                 <Dashboard
-                  questions={questions}
+                  questionIndex={questionIndex}
                   progress={progress}
                   spacedRepetitionSettings={spacedRepetitionSettings}
                   onStartQuiz={handleStartQuiz}
