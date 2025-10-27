@@ -773,6 +773,247 @@
       ],
       "correctAnswers": [0, 1, 3],
       "explanation": "The major themes of the most recent Healthy People report include promotion of weight control, encouragement of healthy diet choices, and education about disease risk factors. Reduction of alcohol consumption and drug-nutrient interactions are not major themes of this report."
+    },
+    {
+      "id": "nutrition-ch1-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Healthy People 2030",
+      "difficulty": "medium",
+      "question": "Which is an example of a nutrition intervention recommended in the Healthy People 2030 national goal for Nutrition and Healthy Eating?",
+      "options": [
+        "An improved school lunch menu",
+        "Greater variety in healthy options on the workplace food menu",
+        "Increased physical activity in school",
+        "Added vitamins to the nation's food supply"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One nutrition intervention recommended in the Healthy People 2030 national goal for nutrition and weight status is improved nutrition in the workplace. Improved school lunch menus, increased physical activity in school, and adding vitamins to the nation's food supply are not specifically identified as recommended interventions under Nutrition and Healthy Eating."
+    },
+    {
+      "id": "nutrition-ch1-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Calcium Sources",
+      "difficulty": "medium",
+      "question": "After reviewing 'Choose MyPlate's 10 Tips to a Great Plate,' a patient tells the nurse, 'I do not like milk, but I know I need calcium. Can I substitute ice cream for milk?' What is the nurse's most appropriate response?",
+      "options": [
+        "\"Let's explore some other dietary options.\"",
+        "\"Increase your intake of dark leafy vegetables.\"",
+        "\"You most certainly can; you need the calcium.\"",
+        "\"You should increase the amount of cheese in your diet.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most appropriate response by the nurse is 'Let's explore some other dietary options.' This will provide the nurse the opportunity to better assess the patient's diet and make more appropriate recommendations than ice cream for the patient. Increasing the intake of some dark green leafy vegetables will help provide the patient with added calcium, but calcium from these sources is not as easily absorbed in the body compared with other dietary sources. Encouraging the patient to eat ice cream will add unnecessary fat, added sugar, and added salt in the diet. Cheese is an excellent source of calcium but also high in fat. The patient should be educated on the varied sources of calcium in order to make the best dietary choices."
+    },
+    {
+      "id": "nutrition-ch1-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Fats",
+      "difficulty": "easy",
+      "question": "According to the Dietary Guidelines for Americans, which type of fat should be limited in the diet? Select all that apply.",
+      "options": [
+        "Trans fats",
+        "Saturated fats",
+        "Hydrogenated fats",
+        "Polyunsaturated fats",
+        "Monounsaturated fats"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "Trans, saturated, and hydrogenated fats should be limited in the diet. Polyunsaturated and monounsaturated fats can be included in healthy diets."
+    },
+    {
+      "id": "nutrition-ch1-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Weight Loss Diets",
+      "difficulty": "medium",
+      "question": "What is the nurse's best approach to educating a patient who wants to start a popular weight-loss diet?",
+      "options": [
+        "Review the diet.",
+        "Support the patient's decision.",
+        "Provide a meal plan for the patient.",
+        "Encourage the diet in addition to increased physical activity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Providing a patient-centered approach, the nurse should review the popular weight-loss diet to ensure that the general dietary needs are still being met in accordance with the dietary reference intake recommendations before supporting the patient's decision. Dismissing a dietary preference in favor of a meal plan may promote patient resistance. Encouraging the diet in addition to increased physical activity before review of the diet is not a safe practice."
+    },
+    {
+      "id": "nutrition-ch1-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Guidelines",
+      "difficulty": "medium",
+      "question": "Dietary recommendations from various organizations, such as the American Cancer Society and American Heart Association, are modeled after what?",
+      "options": [
+        "MyPlate",
+        "Healthy People 2030",
+        "Dietary reference intakes (DRIs)",
+        "Dietary Guidelines for Americans"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dietary recommendations from various organizations are modeled after the Dietary Guidelines for Americans. MyPlate is a food guidance system created by the U.S. Department of Agriculture to provide the public with a nutrition education tool. Healthy People 2030 focuses on health promotion and disease prevention. The DRIs are reference values for the nutrient needs of healthy individuals based on sex and age."
+    },
+    {
+      "id": "nutrition-ch1-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "What food group is included in the MyPlate visual pattern? Select all that apply.",
+      "options": [
+        "Oils",
+        "Dairy",
+        "Meats",
+        "Grains",
+        "Vegetables"
+      ],
+      "correctAnswers": [1, 3, 4],
+      "explanation": "The MyPlate visual pattern includes the five basic food groups: dairy, grains, vegetables, fruits, and proteins. Oils and meats are not included."
+    },
+    {
+      "id": "nutrition-ch1-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Blood Pressure Management",
+      "difficulty": "medium",
+      "question": "The nurse is providing nutrition education to a patient with high blood pressure. Which nutrient will the nurse recommend to offset sodium intake?",
+      "options": [
+        "Calcium",
+        "Vitamin D",
+        "Fiber",
+        "Potassium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Potassium is essential and is often lacking in the diet; it should be consumed to offset sodium intake to help control blood pressure. Calcium, vitamin D, and fiber are necessary and often also lacking in the American diet, but they do not affect sodium intake."
+    },
+    {
+      "id": "nutrition-ch1-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Fats",
+      "difficulty": "medium",
+      "question": "The nurse is helping an overweight adult with menu options. Which fats should be limited to less than 10% of overall kilocalories consumed?",
+      "options": [
+        "Saturated fats",
+        "Monounsaturated fats",
+        "Polyunsaturated fats",
+        "Alcohol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Saturated fats should be limited to less than 10% of overall kilocalories consumed and replaced with monounsaturated and polyunsaturated fats. Alcohol is not a fat."
+    },
+    {
+      "id": "nutrition-ch1-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Vegetable Variety",
+      "difficulty": "easy",
+      "question": "The nurse is educating a community group on what color vegetables to include in the diet. Which should the nurse include? Select all that apply.",
+      "options": [
+        "Red",
+        "Dark green",
+        "Orange",
+        "Blue",
+        "Pink"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "The nurse will recommend red, dark green, and orange vegetables. Blue and pink colors may be found in fruits but not in vegetables."
+    },
+    {
+      "id": "nutrition-ch1-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Pregnancy Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is discussing folate with a pregnant patient. What will the nurse tell her?",
+      "options": [
+        "Folic acid is a synthetic supplement.",
+        "Folate is not found naturally in foods.",
+        "Folate is not required while pregnant.",
+        "Folate is dangerous to consume while pregnant."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The nurse will explain that folic acid is a synthetic supplement. Folate is naturally found in foods and is required for pregnant women. It is not dangerous; rather, it supports a healthy pregnancy."
+    },
+    {
+      "id": "nutrition-ch1-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which are the preferred reference values for evaluating diets in healthy people?",
+      "options": [
+        "Adequate intakes",
+        "Tolerable upper intake levels",
+        "Dietary reference intakes",
+        "Recommended dietary allowances"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dietary reference intakes are the preferred reference values for evaluating diets in healthy people. Adequate intake is the suggested daily intake of a nutrient to support health. Tolerable upper intake level is the maximum daily intake of a nutrient unlikely to cause adverse effects. Recommended dietary allowance is the average daily intake of a nutrient that meets the requirements of nearly all healthy people."
+    },
+    {
+      "id": "nutrition-ch1-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Who establishes the recommended dietary allowances (RDAs)?",
+      "options": [
+        "An experienced dietitian",
+        "A group of dietitians",
+        "A doctor of nutrition",
+        "An expert panel of nutrition scientists"
+      ],
+      "correctAnswer": 3,
+      "explanation": "RDAs are established and updated by an expert panel of nutrition scientists, which may include experienced dietitians and doctors of nutrition."
+    },
+    {
+      "id": "nutrition-ch1-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "The nurse is evaluating the supplements a patient reports taking. What resource will aid in the nurse's assessment?",
+      "options": [
+        "Adequate intake",
+        "Tolerable upper intake level",
+        "Dietary reference intake",
+        "Recommended dietary allowance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tolerable upper intake level is the maximum daily intake of a nutrient unlikely to cause adverse effects. This is valuable information for the nurse to know when evaluating a patient's supplement intake. Adequate intake is the suggested daily intake of nutrient to support health. Dietary reference intakes are the reference values for evaluating diets in healthy people. Recommended dietary allowance is the average daily intake of a nutrient that meets the requirements of nearly all healthy people."
+    },
+    {
+      "id": "nutrition-ch1-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 1",
+      "topic": "Aging and Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is helping a group of patients understand changes with aging. At what age do nutrient requirements change?",
+      "options": [
+        "40 years",
+        "50 years",
+        "60 years",
+        "65 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nutrient requirements change at age 50 years. There are two categories for requirement of nutrients, one for under the age of 50 and one for over the age of 50."
     }
   ]
 }
