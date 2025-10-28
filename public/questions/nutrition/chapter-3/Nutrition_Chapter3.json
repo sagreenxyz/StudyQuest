@@ -1,0 +1,1050 @@
+{
+  "questions": [
+    {
+      "id": "nutrition-ch3-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Saturated Fats",
+      "difficulty": "easy",
+      "question": "Which food is the most abundant dietary source of saturated fats?",
+      "options": [
+        "Fish",
+        "Olives",
+        "Legumes",
+        "Red meat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Most saturated fats are of animal origin, coming from foods like red meat and eggs. Olives, fish, and legumes are examples of food sources of monounsaturated and polyunsaturated fats."
+    },
+    {
+      "id": "nutrition-ch3-002",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Chronic Disease Risk",
+      "difficulty": "medium",
+      "question": "Which important dietary factor contributes to a higher risk for chronic disease?",
+      "options": [
+        "Low intake of omega-3 fats",
+        "Consuming poultry and fish",
+        "High intake of processed meat",
+        "Adding coconut and palm oils to the diet",
+        "Consuming dairy fats and egg yolks"
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "Two important dietary factors that are associated with a higher risk of chronic disease are low intake of omega-3 fats from seafood, which are important components of the diet, and high intake of processed meat. Dairy fats and egg yolks contain saturated fats and cholesterol, which can contribute to a higher risk for chronic disease. Consuming lean poultry and fish is important to reduce the risk of chronic disease. Coconut and palm oils are not considered to contribute to a higher risk for chronic disease, although they do contain saturated fats derived from plants."
+    },
+    {
+      "id": "nutrition-ch3-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lipid Components",
+      "difficulty": "easy",
+      "question": "Which element is a basic component of a lipid?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Hydrogen",
+        "Calcium",
+        "Phosphate",
+        "Sodium"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "All lipids are composed of the same basic chemical elements: carbon, hydrogen, and oxygen. Calcium, phosphate, and sodium are not the basic components of lipids."
+    },
+    {
+      "id": "nutrition-ch3-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Trans Fats",
+      "difficulty": "medium",
+      "question": "A tablespoon of which food has the greatest amount of trans fat?",
+      "options": [
+        "Butter",
+        "Cream cheese",
+        "Margarine",
+        "Mayonnaise"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One tablespoon of margarine has 3 g of trans fat, which is more than that found in butter (0.5 g), cream cheese (0.1 g), and mayonnaise (0 g)."
+    },
+    {
+      "id": "nutrition-ch3-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Trans Fats",
+      "difficulty": "medium",
+      "question": "Which products contain trans fats and should be limited in the diet?",
+      "options": [
+        "Fats that are liquid at room temperature",
+        "Partially hydrogenated oils",
+        "Fatty acids",
+        "Animal fats"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Partially hydrogenated oils are trans fats with double-bonded structures and are high in hydrogenated unsaturated fats; these should be limited in the diet. Fats that are liquid at room temperature are high in monounsaturated and polyunsaturated oils and can be consumed as part of a healthy diet. Fatty acids are the basic elements of fats and are consumed with all fats. Animal fats are high in saturated fats and cholesterol and should be limited in the diet."
+    },
+    {
+      "id": "nutrition-ch3-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Types",
+      "difficulty": "easy",
+      "question": "Which type of fat remains in meat after the excess fat has been trimmed off?",
+      "options": [
+        "Visible",
+        "Obvious",
+        "Reduced",
+        "Invisible"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Invisible fat is the fat in the meat that remains after the excess fat has been removed. The visible fats and obvious fats can be trimmed off. Reduced fat is the term to apply to foods containing less fat than usual."
+    },
+    {
+      "id": "nutrition-ch3-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Triglycerides",
+      "difficulty": "medium",
+      "question": "Which substance combines with fatty acids to become a triglyceride?",
+      "options": [
+        "Glycerol",
+        "Bile salts",
+        "Monoglycerides",
+        "Cholesterol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glycerol and fatty acids combine to form triglycerides after passing through the villi. Bile salts move cholesterol, monoglycerides, and fatty acids from the lumen to the villi for absorption. Monoglycerides and cholesterol are transported by bile salts from the lumen to the villi."
+    },
+    {
+      "id": "nutrition-ch3-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Digestion",
+      "difficulty": "easy",
+      "question": "Which part of the digestive system begins the process of digesting fats?",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Liver",
+        "Small intestine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The mouth begins the mechanical digestion of fats. The stomach provides virtually no chemical digestion of fats. The liver does not digest fats. Although the small intestine is involved in the digestion of fats, this is not where the process of digesting fats begins."
+    },
+    {
+      "id": "nutrition-ch3-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Cholecystokinin",
+      "difficulty": "medium",
+      "question": "Production of which substance is initiated when fat enters the duodenum?",
+      "options": [
+        "Monoglycerides",
+        "Fatty acids",
+        "Cholecystokinin",
+        "Bile salts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cholecystokinin is released from the duodenum walls when fat enters the duodenum. Triglycerides are broken down into monoglycerides and fatty acids by cholecystokinin. Bile salts move cholesterol, monoglycerides, and fatty acids from the lumen to the villi for absorption."
+    },
+    {
+      "id": "nutrition-ch3-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Bile Storage",
+      "difficulty": "easy",
+      "question": "Which organ stores bile?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Gallbladder",
+        "Small intestine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The gallbladder stores bile, whereas the liver produces it. The pancreas secretes glucagon and insulin, as well as amylase and lipase. The small intestine receives bile and pancreatic enzymes to aid in the digestion and absorption of fats."
+    },
+    {
+      "id": "nutrition-ch3-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Bile Production",
+      "difficulty": "easy",
+      "question": "Which organ produces bile?",
+      "options": [
+        "Stomach",
+        "Pancreas",
+        "Liver",
+        "Gallbladder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The liver produces bile. The stomach secretes gastric juice. The pancreas produces lipase and amylase. The gallbladder stores bile."
+    },
+    {
+      "id": "nutrition-ch3-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Pancreatic Enzymes",
+      "difficulty": "medium",
+      "question": "Which substance does the pancreas produce?",
+      "options": [
+        "Bile",
+        "Lecithinase",
+        "Cholecystokinin",
+        "Lipase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The pancreas produces lipase. Bile is produced in the liver. The small intestine secretes an enzyme in the intestinal juice called lecithinase, which breaks down lecithin for absorption. Cholecystokinin is released from the duodenum walls when fat enters the duodenum."
+    },
+    {
+      "id": "nutrition-ch3-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Storage",
+      "difficulty": "easy",
+      "question": "Which is true regarding the storage of fat after digestion?",
+      "options": [
+        "The body is unable to store fat.",
+        "Fat is stored in the nuclei of cells.",
+        "Fat is stored in adipose tissue.",
+        "Fat is stored in muscle."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fat is stored in the body in adipose tissue. Fat is not stored in the nuclei of cells or in muscles."
+    },
+    {
+      "id": "nutrition-ch3-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Digestive Enzymes",
+      "difficulty": "medium",
+      "question": "Which substance is secreted by the Ebner glands?",
+      "options": [
+        "Lingual lipase",
+        "Pancreatic lipase",
+        "Cholesterol esterase",
+        "Bile salts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lingual lipase is secreted by the Ebner glands. Pancreatic lipase and cholesterol esterase are secreted by the pancreas. Bile salts are produced in the liver."
+    },
+    {
+      "id": "nutrition-ch3-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lipoproteins",
+      "difficulty": "medium",
+      "question": "Which lipoproteins are formed after lipids are absorbed from food?",
+      "options": [
+        "Low-density lipoproteins",
+        "High-density lipoproteins",
+        "Very low-density lipoproteins",
+        "Chylomicrons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chylomicrons are the first lipoproteins formed after the absorption of lipids from food. Low-density and very low-density lipoproteins carry fat and cholesterol to the cells. High-density lipoproteins carry cholesterol from the tissues to the liver."
+    },
+    {
+      "id": "nutrition-ch3-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Absorption",
+      "difficulty": "easy",
+      "question": "Where is dietary fat absorbed in the digestive system?",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Gallbladder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dietary fat is absorbed in the small intestine. The stomach begins the mechanical digestion of fat. The large intestine is a vehicle to remove undigested fat into the feces. The gallbladder releases bile into the small intestine to aid in the digestion and absorption of fat."
+    },
+    {
+      "id": "nutrition-ch3-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Micelles",
+      "difficulty": "medium",
+      "question": "Which is the package that transports fat from the lumen to the villi?",
+      "options": [
+        "Chylomicrons",
+        "Micelles",
+        "Bile salts",
+        "Monoglycerides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Within the small intestine, bile salts surround the monoglycerides and fatty acids to form micelles, which transport the lipids across the membrane. Chylomicrons are the first lipoproteins formed after the absorption of lipids from food. Bile salts and monoglycerides help form micelles."
+    },
+    {
+      "id": "nutrition-ch3-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Vegan Heart-Healthy Diet",
+      "difficulty": "medium",
+      "question": "Which food would be recommended for a vegan patient who has been advised by the doctor to eat a heart-healthy diet?",
+      "options": [
+        "Nuts",
+        "Fish",
+        "Olives",
+        "Palm oil",
+        "Soybean oil",
+        "Low-fat milk"
+      ],
+      "correctAnswers": [0, 2, 4],
+      "explanation": "Nuts, olives, and soybean oil are foods do not contain cholesterol and are recommended for a heart-healthy diet. Fish are high in unsaturated fats, which are appropriate for a heart-healthy diet, but vegans do not eat fish. Palm oil is high in saturated fat and is not recommended for a heart-healthy diet. Low-fat milk may be low in fat, but it is from an animal source, and vegans do not consume animal-based products."
+    },
+    {
+      "id": "nutrition-ch3-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lipid Transport",
+      "difficulty": "medium",
+      "question": "Which substance transports lipids into the bloodstream?",
+      "options": [
+        "Lipoproteins",
+        "Bile salts",
+        "Enteric lipase",
+        "Glycerol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lipoproteins transport lipids into the bloodstream via the lymphatic system. Bile salts emulsify fat. Enteric lipase within the intestinal wall completes the digestion of the remaining diglycerides and monoglycerides, releasing fatty acids and glycerol. Glycerol combines with fatty acid chains to form triglycerides."
+    },
+    {
+      "id": "nutrition-ch3-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Emulsifiers",
+      "difficulty": "medium",
+      "question": "Which substance is an emulsifier?",
+      "options": [
+        "Bile salts",
+        "Enteric lipase",
+        "Triglycerides",
+        "Glycerol"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bile salts act as an emulsifier. Enteric lipase within the intestinal wall completes digestion of diglycerides and monoglycerides, releasing fatty acids and glycerol. Triglycerides facilitate lipid absorption and transport via the lymphatic system. Glycerol combines with fatty acid chains to form triglycerides."
+    },
+    {
+      "id": "nutrition-ch3-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Emulsifiers",
+      "difficulty": "medium",
+      "question": "Which component helps split large fat globules into smaller particles?",
+      "options": [
+        "Lipase",
+        "Micelle",
+        "Emulsifier",
+        "Chylomicron"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emulsifiers break down large fat globules into smaller particles. A lipase is a type of enzyme that breaks triglycerides into fatty acids and glycerol. A micelle is a bile and fat complex that transports fat into the wall of the small intestine. A chylomicron is a lipoprotein that transports food fats into the lymph and then into the general circulation."
+    },
+    {
+      "id": "nutrition-ch3-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Absorption",
+      "difficulty": "medium",
+      "question": "Which substance surrounds monoglycerides and fatty acids in the lumen of the intestine, allowing them to travel to the villi for absorption?",
+      "options": [
+        "Micelles",
+        "Bile salts",
+        "Glycerol",
+        "Triglycerides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bile salts surround monoglycerides and fatty acids in the lumen of the intestine, allowing them to travel to the villi for absorption. Micelles are formed when bile salts surround the monoglycerides and fatty acids. Glycerol and fatty acids combine after passing through the villi to make triglycerides. Triglycerides are a combination of fatty acids and glycerol once transported to the villi for absorption."
+    },
+    {
+      "id": "nutrition-ch3-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lipid Absorption",
+      "difficulty": "easy",
+      "question": "What is true regarding the absorption of lipids?",
+      "options": [
+        "Lipid absorption occurs in the small intestine.",
+        "The body is unable to absorb lipids.",
+        "Lipids are transported via hemoglobin.",
+        "Lipids are small, easily absorbed molecules."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Absorption of lipids occurs in the small intestine. Lipids are absorbed in the body. Lipids are transported via the lymph system, not hemoglobin, into the circulation. Lipids are larger molecules and require significant breakdown before transport."
+    },
+    {
+      "id": "nutrition-ch3-024",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Saturated Fats",
+      "difficulty": "medium",
+      "question": "Which product would the nurse advise patients to avoid, as it is high in saturated fat?",
+      "options": [
+        "Canola oil",
+        "Olive oil",
+        "Butter",
+        "T-bone steak",
+        "Salmon",
+        "Canned tuna"
+      ],
+      "correctAnswers": [2, 3],
+      "explanation": "Butter and fatty beef, like T-bone steak, are animal fats high in saturated fats. Canola and olive oils are not animal fats. They contain unsaturated fats and are recommended to lower the risk of heart disease. Salmon and canned tuna contain high amounts of omega-3 fatty acids, which are recommended to lower heart disease; fish is considered a lean protein."
+    },
+    {
+      "id": "nutrition-ch3-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "High-Fat Foods",
+      "difficulty": "medium",
+      "question": "Which food is high in fat and recommended in small portions only?",
+      "options": [
+        "Eggs",
+        "Cheese",
+        "Frozen yogurt",
+        "Nuts",
+        "Mayonnaise",
+        "Fruit"
+      ],
+      "correctAnswers": [1, 3, 4],
+      "explanation": "Cheese has 14 to 18 g of fat per ounce, nuts have 22 g of fat per ounce, and mayonnaise has 11 g of fat per tablespoon, making these the fattiest foods of the answer choices. One egg has 5 g of fat, frozen yogurt has 2 g of fat per 1/2 c, and fruit has only a trace amount of fat, making these low-fat options."
+    },
+    {
+      "id": "nutrition-ch3-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Plant Oils",
+      "difficulty": "medium",
+      "question": "Which plant oil is high in saturated fat?",
+      "options": [
+        "Cottonseed oil",
+        "Olive oil",
+        "Canola oil",
+        "Coconut oil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Coconut oil is high in saturated fat. Cottonseed, olive, and canola oils are high in monounsaturated and polyunsaturated fats and low in saturated fats."
+    },
+    {
+      "id": "nutrition-ch3-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fatty Acid Classification",
+      "difficulty": "medium",
+      "question": "In what way are fatty acids classified?",
+      "options": [
+        "Essentiality",
+        "Degree of saturation",
+        "Length of the chain",
+        "Appearance of the chains, with a methyl group in the middle",
+        "Appearance of the chains, with an acid carboxyl group in the middle"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "Fatty acids can be classified according to their essentiality, degree of saturation, and chain length. The appearance of fatty acid chains is marked by a methyl group on the omega end and a carboxylic acid group on the alpha end."
+    },
+    {
+      "id": "nutrition-ch3-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Low-Fat Foods",
+      "difficulty": "easy",
+      "question": "Which food option has the least amount of fat per serving?",
+      "options": [
+        "Danish pastry",
+        "Slice of cheese",
+        "Whole milk",
+        "Skim milk"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Skim milk contains a trace amount of fat; a Danish pastry, a slice of cheese, and whole milk contain more fat."
+    },
+    {
+      "id": "nutrition-ch3-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Terminology",
+      "difficulty": "medium",
+      "question": "Which term is the chemical group name for fats?",
+      "options": [
+        "Lipids",
+        "Glycerides",
+        "Fatty acids",
+        "Triglycerides"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glycerides is the chemical group name for fats. The chemical group name for organic substances of a fatty nature is lipids. Fatty acids are the major structural component of fats. Triglycerides is the chemical name for fats in the body and in food."
+    },
+    {
+      "id": "nutrition-ch3-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Essential Fatty Acids",
+      "difficulty": "medium",
+      "question": "Which is a role of linoleic acid and alpha-linolenic acid in the body?",
+      "options": [
+        "Maintain skin integrity",
+        "Support immune function",
+        "Form bile acids",
+        "Aggregate blood platelets",
+        "Serve as a precursor to steroid hormones"
+      ],
+      "correctAnswers": [0, 1, 3],
+      "explanation": "Linoleic and alpha-linolenic acids maintain skin integrity by strengthening cell membranes, support immune function, and aggregate blood platelets. Cholesterol is necessary for the formation of bile acids and is a precursor to steroid hormones."
+    },
+    {
+      "id": "nutrition-ch3-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Adipose Tissue",
+      "difficulty": "medium",
+      "question": "For which purpose are lipids stored in the body as adipose tissue?",
+      "options": [
+        "Regulates body temperature",
+        "Provide energy",
+        "Store energy",
+        "Support vital organs",
+        "Supply essential acids"
+      ],
+      "correctAnswers": [0, 2, 3],
+      "explanation": "Lipids stored as adipose tissue promote thermal insulation for regulating body temperature, store energy for later use, and serve as protection and support for vital organs. Dietary lipids provide energy and supply essential fatty acids."
+    },
+    {
+      "id": "nutrition-ch3-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Cholesterol",
+      "difficulty": "medium",
+      "question": "Which types of fat raise blood levels of total cholesterol and low-density lipoprotein (LDL) cholesterol?",
+      "options": [
+        "Saturated and trans fats",
+        "Trans and polyunsaturated fats",
+        "Monounsaturated and saturated fats",
+        "Saturated and polyunsaturated fats"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Saturated and trans fats are known to raise the levels of total cholesterol and LDL cholesterol. Polyunsaturated fats lower blood levels of total cholesterol and LDL cholesterol. Monounsaturated fats lower blood levels of total cholesterol and LDL cholesterol when substituted for saturated fat. Although saturated fats raise total and LDL cholesterol levels, polyunsaturated fats do not."
+    },
+    {
+      "id": "nutrition-ch3-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Digestion Sequence",
+      "difficulty": "medium",
+      "question": "Place the organs of the gastrointestinal system in the correct sequence for the digestion of fat. (Select the correct answer showing the sequence: Mouth → Esophagus → Stomach → Pancreas → Small and large intestines)",
+      "options": [
+        "Pancreas → Mouth → Stomach → Esophagus → Small and large intestines",
+        "Mouth → Esophagus → Stomach → Pancreas → Small and large intestines",
+        "Esophagus → Mouth → Pancreas → Stomach → Small and large intestines",
+        "Stomach → Esophagus → Mouth → Small and large intestines → Pancreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digestion begins when food enters the oral cavity. Mastication breaks down the food into small particles, and saliva amylase begins to digest carbohydrates. The chewed food forms a ball called a bolus, which passes through the esophagus to the stomach via peristalsis. Once in the stomach, digestive juices kill bacteria, and enzymes break down proteins. The liver secretes bile to break down fats. Next, the pancreas is stimulated, resulting in the secretion of more digestive enzymes. Food mixed with bile from the liver and enzymes from the pancreas enter the small intestine for absorption. The final phase of digestion occurs as indigestible food and water are processed, stored, and dispersed by the large intestine."
+    },
+    {
+      "id": "nutrition-ch3-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Energy Content",
+      "difficulty": "easy",
+      "question": "How many kilocalories are yielded when the body burns 1 g of fat?",
+      "options": [
+        "4 kcal",
+        "7 kcal",
+        "9 kcal",
+        "11 kcal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fats, also known as lipids, yield 9 kcal/g when oxidized by the body, whereas carbohydrates and protein yield only 4 kcal/g."
+    },
+    {
+      "id": "nutrition-ch3-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Essential Fatty Acids",
+      "difficulty": "medium",
+      "question": "Which statement is true about essential fatty acids?",
+      "options": [
+        "They are complexes of fat with protein that carry lipids through the bloodstream.",
+        "They are fatty acids that must be obtained by dietary sources because the body cannot synthesize them.",
+        "Essential fatty acids is the chemical name for fats with a structure of three fatty acids attached to a glycerol base.",
+        "They are fats formed from glycerol by the replacement of one to three hydroxyl (OH) groups with a fatty acid."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Essential fatty acids must be present in the diet because the body cannot synthesize them. Lipoproteins are complexes of fat with protein that carry lipids through the bloodstream. Triglyceride is the chemical name for fats with a structure of three fatty acids attached to a glycerol base. Glycerides are fats formed from glycerol by the replacement of one to three hydroxyl groups with a fatty acid."
+    },
+    {
+      "id": "nutrition-ch3-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Food Lipid Functions",
+      "difficulty": "medium",
+      "question": "Which is a function of food lipids?",
+      "options": [
+        "Add to food palatability",
+        "Promote feeling full",
+        "Supply essential fatty acids",
+        "Form cell membranes",
+        "Transmit nerve impulses"
+      ],
+      "correctAnswers": [0, 1, 2],
+      "explanation": "The functions of food lipids are to add to the palatability of food, promote satiety (or feeling full), and supply essential fatty acids. The formation of cell membranes and transmission of nerve impulses are functions of lipids in the body, such as adipose tissue, not food lipids."
+    },
+    {
+      "id": "nutrition-ch3-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Bile Function",
+      "difficulty": "medium",
+      "question": "Which is the best description of what happens to bile after it emulsifies fat?",
+      "options": [
+        "It is excreted in feces with undigested fats.",
+        "It becomes cholesterol and is stored in the muscle.",
+        "It becomes bilirubin and is excreted in urine.",
+        "It is reabsorbed and returned to the liver for reuse."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bile is reabsorbed and returned to the liver for reuse after it emulsifies fat. Bile is not excreted in feces with undigested fats. Bile does not become cholesterol, and cholesterol is stored in adipose tissue, not muscle. Bile does not become bilirubin for excretion in the urine."
+    },
+    {
+      "id": "nutrition-ch3-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Pancreatic Lipase",
+      "difficulty": "medium",
+      "question": "Which substance is responsible for separating fatty acids from triglycerides?",
+      "options": [
+        "Pancreatic lipase",
+        "Cholesterol esterase",
+        "Lecithinase",
+        "Bile salts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pancreatic lipase breaks off one fatty acid at a time from the glycerol base of triglycerides. The enzyme cholesterol esterase acts on cholesterol esters. The small intestine secretes an enzyme in the intestinal juice called lecithinase, which breaks down lecithin for absorption. Bile salts move cholesterol, monoglycerides, and fatty acids from the lumen to the villi for absorption."
+    },
+    {
+      "id": "nutrition-ch3-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fatty Acid Chain Length",
+      "difficulty": "medium",
+      "question": "How many carbon atoms are attached to a medium-chain fatty acid?",
+      "options": [
+        "5 to 8",
+        "6 to 10",
+        "12 to 15",
+        "More than 15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Medium-chain fatty acids have 6 to 10 carbon atoms. Short-chain fatty acids have 2 to 4 carbons. Carbon atoms in the range of 5 to 8 do not classify a particular type of fatty acid. Long-chain fatty acids have more than 12 carbon atoms attached to the chain."
+    },
+    {
+      "id": "nutrition-ch3-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Essential Fatty Acids",
+      "difficulty": "medium",
+      "question": "Which essential fatty acid must be obtained from food because the body cannot make sufficient amounts?",
+      "options": [
+        "Linoleic",
+        "Palmitic",
+        "Arachidonic",
+        "Alpha-linolenic",
+        "Omega-3 fatty"
+      ],
+      "correctAnswers": [0, 3],
+      "explanation": "Linoleic and alpha-linolenic acids are the essential acids that must be obtained from food because the body cannot synthesize them. Palmitic acid is a saturated fatty acid found in food sources. Arachidonic acid is converted in the body from dietary linoleic acid. Omega-3 fatty acid is a type of polyunsaturated fatty acid found in food. Alpha-linolenic acid is an omega-3 fatty acid."
+    },
+    {
+      "id": "nutrition-ch3-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Digestion Location",
+      "difficulty": "easy",
+      "question": "In which part of the digestive tract does fat digestion largely occur?",
+      "options": [
+        "Stomach",
+        "Pancreas",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fat digestion largely occurs in the small intestine, where the major enzymes necessary for chemical changes in fat are present. Little, if any, chemical digestion of fat occurs in the stomach. No digestion of food occurs in the pancreas. Pancreatic juice that flows into the small intestine helps in the digestion of fat. Some fats are partially digested in the large intestine; the rest pass through unchanged, exiting in feces."
+    },
+    {
+      "id": "nutrition-ch3-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "FDA Food Labeling",
+      "difficulty": "medium",
+      "question": "According to the U.S. Food and Drug Administration (FDA) food-labeling regulations for nutrition facts panel content, which information is mandatory relating to dietary fat in food products?",
+      "options": [
+        "Monounsaturated fat",
+        "Total fat",
+        "Polyunsaturated fat",
+        "Saturated fat",
+        "Trans fat",
+        "Cholesterol"
+      ],
+      "correctAnswers": [1, 3, 4, 5],
+      "explanation": "According to the FDA food-labeling regulations for nutrition facts panel content, mandatory information relating to dietary fat in food products includes total fat, saturated fat, trans fat, and cholesterol. Disclosure of information about monounsaturated fat and polyunsaturated fat is voluntary, not mandatory."
+    },
+    {
+      "id": "nutrition-ch3-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Benefits of Fats",
+      "difficulty": "medium",
+      "question": "Which feature describes the benefit of fats?",
+      "options": [
+        "Serve as a fuel source for cellular energy",
+        "Support and protect vital organs",
+        "Aid in absorption of proteins",
+        "Help in regulation of body temperature",
+        "Form the fatty center of cell membranes, thereby creating the selectively permeable lipid bilayer"
+      ],
+      "correctAnswers": [0, 1, 3, 4],
+      "explanation": "In addition to carbohydrates, fats serve as a fuel source for cellular energy. A web-like padding of fat tissue supports and protects vital organs, and a layer of fat directly under the skin is important for the regulation of body temperature. Fat forms the fatty center of cell membranes, thereby creating the selectively permeable lipid bilayer. Embedded within this layer are proteins that allow for the transport of various nutrients in and out of the cells. Fats do not aid in the absorption of proteins."
+    },
+    {
+      "id": "nutrition-ch3-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Trans Fats",
+      "difficulty": "medium",
+      "question": "Which type of fat is present in foods such as margarine and considered unnecessary in human nutrition?",
+      "options": [
+        "Linoleic acid",
+        "Trans-fatty acid",
+        "Alpha-linolenic acid",
+        "Lecithin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commercially hydrogenated fats found in foods such as margarine are high in trans fats, which are unnecessary in human nutrition and associated with many negative health consequences, such as cardiovascular disease. Linoleic acid and alpha-linolenic acid are polyunsaturated fatty acids known to be essential for complete human nutrition. Lecithin is a major phospholipid produced by the liver and is provided by foods derived from animal products."
+    },
+    {
+      "id": "nutrition-ch3-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Unsaturated Fats",
+      "difficulty": "medium",
+      "question": "Which description is characteristic of unsaturated fats?",
+      "options": [
+        "Not completely filled with all of the hydrogen that they can hold",
+        "Less heavy than saturated fats",
+        "Liquid at room temperature",
+        "More dense than saturated fats",
+        "Found in safflower, sunflower, corn, and soybean oils"
+      ],
+      "correctAnswers": [0, 1, 2, 4],
+      "explanation": "Fatty acids are saturated or unsaturated according to whether hydrogen ions fill each available spot on the carbon backbone. A fatty acid that is not completely filled with all of the hydrogen that it can hold is an unsaturated fat. Unsaturated fats are less dense and less heavy than saturated fats. This means they are liquid at room temperature. Examples of foods that contain polyunsaturated fats are safflower, sunflower, corn, and soybean oils. Unsaturated fats are not more dense than saturated fats."
+    },
+    {
+      "id": "nutrition-ch3-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Absorption Sequence",
+      "difficulty": "hard",
+      "question": "Place the steps of fat absorption into the bloodstream in the correct order. (Select the answer showing the correct sequence)",
+      "options": [
+        "Fats absorbed → Micelles form → Triglycerides reconstructed → Chylomicrons package → Enter bloodstream",
+        "Micelles form → Fats absorbed → Triglycerides reconstructed → Chylomicrons package → Enter bloodstream",
+        "Triglycerides reconstructed → Micelles form → Fats absorbed → Chylomicrons package → Enter bloodstream",
+        "Chylomicrons package → Micelles form → Fats absorbed → Triglycerides reconstructed → Enter bloodstream"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Within the small intestine, bile salts surround the monoglycerides and fatty acids to form micelles. The micelles allow the products of lipid digestion to travel to the brush border membrane, where fats are absorbed into the epithelial cells of the intestine. Monoglycerides and fatty acids that make it into the intestinal cells via micelle transport reconstruct to form triglycerides. A carrier, chylomicron, packages the triglycerides, along with cholesterol, phospholipids, and proteins. Chylomicrons first enter the lacteals, then the lymphatic circulatory system, and then eventually the bloodstream."
+    },
+    {
+      "id": "nutrition-ch3-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Eicosanoids",
+      "difficulty": "hard",
+      "question": "For which function are eicosanoids responsible?",
+      "options": [
+        "Blood clotting",
+        "Cellular signaling",
+        "Membrane fluidity",
+        "Blood pressure regulation",
+        "Messengers for the central nervous system",
+        "Inflammatory response"
+      ],
+      "correctAnswers": [0, 3, 4, 5],
+      "explanation": "Eicosanoids are responsible for multiple functions in the body, such as blood clotting and blood pressure regulation. Eicosanoids also serve as messengers for the central nervous system. The inflammatory response in the body is controlled by eicosanoids. Cellular signaling is controlled by sterols, not eicosanoids. Membrane fluidity is a responsibility of sterols, not eicosanoids."
+    },
+    {
+      "id": "nutrition-ch3-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Hydrogenation",
+      "difficulty": "hard",
+      "question": "In which way is the structure of unsaturated fatty acid molecules altered when vegetable oils are hydrogenated?",
+      "options": [
+        "The cis configuration of the molecule is changed to the trans form.",
+        "Hydrogen atoms on either side of the double carbon bond move to opposite sides.",
+        "The normal bend of the molecule remains the same but the hydrogen atoms relocate.",
+        "Short-chain fatty acids are converted to long-chain fatty acids with more than 12 carbons.",
+        "Both hydrogen atoms around the double carbon bond are moved to the same side of the bond."
+      ],
+      "correctAnswers": [0, 1],
+      "explanation": "Hydrogenation causes the configuration of the molecule to change from the cis form, meaning 'same side,' to the trans form, meaning 'opposite side.' When vegetable oils are hydrogenated, the hydrogen atoms on either side of the double carbon bond move to opposite sides from their original location on the same side of the bond. When hydrogenation occurs, the normal bend of the molecule changes so that hydrogen atoms on either side of the double carbon bond can move to opposite sides. The length of the fatty acid chains are not altered when hydrogenation occurs. When vegetable oils are hydrogenated, the hydrogen atoms are moved to opposite sides of the double carbon bond; they are not moved to the same side of the bond."
+    },
+    {
+      "id": "nutrition-ch3-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Monounsaturated Fats",
+      "difficulty": "medium",
+      "question": "Which cooking oil contains monounsaturated fat?",
+      "options": [
+        "Olive oil",
+        "Canola oil",
+        "Coconut oil",
+        "Peanut oil",
+        "Sunflower oil"
+      ],
+      "correctAnswers": [0, 1, 3],
+      "explanation": "Monounsaturated fat can be found in vegetable oils like olive oil. Canola oil is vegetable oil that contains monounsaturated fat. Peanut oil is a vegetable oil that contains monounsaturated fat. Coconut oil predominantly contains saturated fats. Sunflower oil is a vegetable oil containing polyunsaturated fat."
+    },
+    {
+      "id": "nutrition-ch3-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Trans Fats Health Effects",
+      "difficulty": "medium",
+      "question": "Before trans-fatty acids were banned by the U.S. Food and Drug Administration, which detrimental health effect had been associated with their consumption?",
+      "options": [
+        "Increased low-density-lipoprotein (LDL) cholesterol levels",
+        "Decreased high-density-lipoprotein (HDL) cholesterol levels",
+        "Decreased LDL cholesterol levels",
+        "Increased HDL cholesterol levels",
+        "Increased production of inflammatory cytokines"
+      ],
+      "correctAnswers": [0, 1, 4],
+      "explanation": "Observed effects of diets high in trans-fatty acids included an increase in LDL cholesterol, which is considered the 'bad' cholesterol. Decreased HDL cholesterol levels, the 'good' cholesterol, were observed with diets high in trans-fatty acids. Increased production of atherosclerotic inflammatory cytokines, leading to atherosclerosis was also observed. Decreased LDL cholesterol levels are a desirable effect and were not associated with the consumption of trans-fatty acids. Increased HDL cholesterol levels are also a desirable effect and were not associated with the consumption of trans-fatty acids."
+    },
+    {
+      "id": "nutrition-ch3-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Solid Fats",
+      "difficulty": "medium",
+      "question": "Which is a food source of solid fats?",
+      "options": [
+        "Milk",
+        "Butter",
+        "Chicken",
+        "Pork",
+        "Sunflower seeds",
+        "Safflower oil"
+      ],
+      "correctAnswers": [0, 1, 2, 3],
+      "explanation": "Milk, butter, chicken, and pork are all sources of solid fats. Sunflower seeds and safflower oil provide polyunsaturated fats, not solid fats."
+    },
+    {
+      "id": "nutrition-ch3-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Low-Fat Meals",
+      "difficulty": "easy",
+      "question": "Which is the best choice for a low-fat meal?",
+      "options": [
+        "Egg salad",
+        "Blueberry muffin",
+        "Chicken and rice",
+        "Ice cream"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chicken and rice is a low-fat meal. Egg salad contains additional fat from mayonnaise. Muffins and ice cream are high in fat."
+    },
+    {
+      "id": "nutrition-ch3-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Cholesterol-Free Cooking",
+      "difficulty": "medium",
+      "question": "A patient who is attempting a recipe using cholesterol-free substances would eliminate the use of which oil?",
+      "options": [
+        "Corn oil",
+        "Soybean oil",
+        "Peanut oil",
+        "Lard"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lard is made from animal fats, and its use should be limited in cooking to keep foods low in cholesterol. Only animal fats contain cholesterol, so corn oil, soybean oil, and peanut oil are cholesterol-free choices."
+    },
+    {
+      "id": "nutrition-ch3-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Fat Substitutes",
+      "difficulty": "medium",
+      "question": "The nursing student is educating a patient about the functions of fat in the body. Which statement requires correction by the preceptor?",
+      "options": [
+        "Excess caloric intake from any macronutrient source is converted into stored fat throughout the body.",
+        "As long as adequate amounts of essential fatty acids are in the diet, the body is capable of making other fats and cholesterol as needed.",
+        "The effects of satiety and improved flavor are partly caused by the slower rate of digestion of fats compared with that of carbohydrates.",
+        "Fat substitutes are not considered safe by the Food and Drug Administration because their risks and benefits have not been clearly identified."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fat substitutes currently on the market are considered safe by the Food and Drug Administration, but their risks and benefits have not been clearly identified. Caloric intake from any macronutrient source is converted into stored fat throughout the body. As long as adequate amounts of essential fatty acids are in the diet, the body is capable of making other fats and cholesterol as needed. The effects of satiety and improved flavor are partly caused by the slower rate of digestion of fats compared with carbohydrates."
+    },
+    {
+      "id": "nutrition-ch3-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Chylomicrons",
+      "difficulty": "medium",
+      "question": "Which description is accurate regarding a chylomicron?",
+      "options": [
+        "Combines with glycerol to form triglycerides",
+        "Released from gallbladder to emulsify fat in the small intestine",
+        "A lipoprotein formed in the intestine to transport fat to the liver via the lymphatic system",
+        "A digestive enzyme that breaks down triglycerides into fatty acids and glycerol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A chylomicron is a lipoprotein formed in the intestinal wall to transport fat to the liver via the lymphatic system. Triglycerides are formed from longer chain fatty acids, not chylomicrons, and glycerol to form new human triglycerides. Bile, not chylomicrons, is released from the gallbladder to emulsify fat. A lipase is a type of enzyme that break down triglycerides to fatty acids and glycerol."
+    },
+    {
+      "id": "nutrition-ch3-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Eicosanoids",
+      "difficulty": "hard",
+      "question": "Which phospholipid has control over inflammatory response, blood clotting, and blood pressure regulation and serves as a messenger for the central nervous system?",
+      "options": [
+        "Bile",
+        "Lecithin",
+        "Eicosanoids",
+        "Cholesterol",
+        "Phytosterols"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eicosanoids are signaling hormones in the phospholipid classification that exert control over multiple functions in the body, like inflammatory response, blood clotting, and blood pressure regulation, and serve as a messenger for the central nervous system. Bile is not a phospholipid; it is a substance produced by the liver and stored in the gallbladder for use when fat digestion is needed. Lecithin is a major phospholipid that transports fats and cholesterol throughout the body; it does not control body functions. Cholesterol is a member of the sterol classification and is a precursor for some hormones; it does not control body functions. Phytosterols are plant-made sterols that are responsible for membrane fluidity and cellular signaling, not controlling body functions."
+    },
+    {
+      "id": "nutrition-ch3-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lecithin",
+      "difficulty": "medium",
+      "question": "What is the lipid substance produced by the liver that is a key building block of cell membranes?",
+      "options": [
+        "Lecithin",
+        "Bile",
+        "Cholesterol",
+        "Lipoproteins"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lecithin is a lipid substance produced by the liver and a key building block of cell membranes. Bile, also produced by the liver, emulsifies fat. Cholesterol is a precursor for some hormones, along with serving other important roles in human metabolism. Lipoproteins are the major vehicles for lipid transport in the bloodstream."
+    },
+    {
+      "id": "nutrition-ch3-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Lipoproteins",
+      "difficulty": "medium",
+      "question": "Which describes the role of lipoproteins?",
+      "options": [
+        "Provides membrane fluidity and cellular signaling",
+        "Combines with triglycerides, protein, phospholipids, cholesterol, and other fat-soluble substances, allowing fat to travel throughout the bloodstream",
+        "Signals hormones that exert control over multiple functions in the body and are messengers for the central nervous system",
+        "Replaces one fatty acid with a phosphate group and is derived from a triglyceride, which allows for cell membrane fluidity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The role of lipoproteins is to combine with triglycerides, proteins, phospholipids, cholesterol, and other fat-soluble substances, allowing fat to travel throughout the bloodstream. Sterols play a variety of important roles, including membrane fluidity and cellular signaling. Eicosanoids signal hormones that exert control over multiple functions in the body and are messengers for the central nervous system. Phospholipids are triglyceride derivatives in which one fatty acid has been replaced with a phosphate group, which allows for cell membrane fluidity."
+    },
+    {
+      "id": "nutrition-ch3-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Trans Fatty Acids",
+      "difficulty": "medium",
+      "question": "Which type of fatty acid is unnecessary in human nutrition and poses multiple negative health consequences?",
+      "options": [
+        "Trans",
+        "Saturated",
+        "Unsaturated",
+        "Polyunsaturated"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Trans fatty acids are unnecessary in human nutrition, pose a great number of negative health consequences related to cardiovascular disease, and should be avoided in the diet. Saturated describes the state of being filled; the more filled, the denser the fat is at room temperature. Unsaturated fats are liquid at room temperature and include the essential fatty acids, which need to be supplied by food for the body. Polyunsaturated fatty acids are the fatty acids that have two or more unfilled spots on the chain."
+    },
+    {
+      "id": "nutrition-ch3-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 3",
+      "topic": "Polyunsaturated Fats",
+      "difficulty": "easy",
+      "question": "Which food is the most abundant source of polyunsaturated fats?",
+      "options": [
+        "Canola oil",
+        "Hazelnuts",
+        "Coconut oil",
+        "Sunflower oil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sunflower oil contains large amounts of polyunsaturated fats, which mean the fatty acids have two or more unfilled spots on the chain. Canola oil and hazelnuts contain large amounts of monounsaturated fats, and coconut oil is an example of a saturated fat."
+    }
+  ]
+}
