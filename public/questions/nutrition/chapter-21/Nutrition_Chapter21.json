@@ -1,0 +1,1028 @@
+{
+  "name": "Nutrition Kidney Disease",
+  "description": "Chapter 21 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch21-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Es Which term describes dilute urine that presents during the early stages of chronic kidney disease?",
+      "options": [
+        "Ketonuria"
+      ],
+      "correctAnswer": null,
+      "explanation": "During the early stages of chronic kidney failure, the kidneys are unable to reabsorb water or properly concentrate urine. Therefore large amounts of dilute urine are produced, called polyuria. As the disease progresses, urine production declines. Anuria occurs when there is no urine output and oliguria when there are abnormally small amounts of it. Ketonuria is the presence of ketone bodies in the urine."
+    },
+    {
+      "id": "nutrition-ch21-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which findings in the patient with chronic kidney disease are described by the term azotemia?",
+      "options": [
+        "Production of large amounts of dilute urine"
+      ],
+      "correctAnswer": null,
+      "explanation": "Azotemia describes elevated blood urea nitrogen, serum creatinine, and serum uric acid levels. Polyuria is the production of large amounts of dilute urine. Protein-energy malnutrition is a common complication of protein catabolism in patients with chronic kidney disease. Metabolic acidosis is caused by the accumulation of phosphate, sulfate, and organic acids in the blood. Test-Taking Tip: Sometimes the reading of a question in the middle or toward the end of an exam may trigger your mind with the answer or provide an important clue to an earlier question."
+    },
+    {
+      "id": "nutrition-ch21-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How does glomerular filtration rate change as chronic kidney disease progresses?",
+      "options": [
+        "Glomerular filtration rate increases."
+      ],
+      "correctAnswer": null,
+      "explanation": "As chronic kidney disease progresses, glomerular filtration rate decreases. It does not increase, stay the same, or initially increase and then decrease rapidly."
+    },
+    {
+      "id": "nutrition-ch21-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which term describes the process of removing waste and excess fluid from the blood?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Dialysis is the process of removing waste and fluid from the blood when the kidneys are unable to do so. Anuria describes the failure of the kidneys to produce urine. Diuresis describes increased urine output. Oliguria describes low urine output."
+    },
+    {
+      "id": "nutrition-ch21-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which term describes the failure of the kidneys to produce urine? Cy) © Anuria",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Anuria describes the failure of the kidneys to produce urine. Oliguria describes low urine output. Diuresis describes increased urine output. Dialysis is the clinical purification of the blood when the kidneys are unable to do so."
+    },
+    {
+      "id": "nutrition-ch21-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which term describes low urine output?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Oliguria describes low urine output. Anuria describes the failure of the kidneys to produce urine. Dialysis is the clinical purification of the blood when the kidneys are unable to do so. Diuresis describes increased urine output. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch21-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which cause of acute kidney injury is categorized as postrenal obstruction?",
+      "options": [
+        "Severe dehydration",
+        "Interstitial nephritis",
+        "Systemic vasodilation",
+        "Prostatic hypertrophy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prostatic hypertrophy with urinary retention is a common cause of postrenal obstruction acute kidney injury. Severe dehydration is a cause of prerenal acute kidney injury. Interstitial nephritis is a common cause of intrinsic acute kidney injury. Like severe dehydration, systemic vasodilation can cause prerenal acute kidney injury."
+    },
+    {
+      "id": "nutrition-ch21-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "If hypertension and edema are present in the patient with chronic kidney disease, what is the recommended limit for sodium intake?",
+      "options": [
+        "1 g/day"
+      ],
+      "correctAnswer": null,
+      "explanation": "If hypertension and edema are present in the patient with chronic kidney disease, sodium intake should be limited to 2 g/day. Intake of only 1 g/day may not meet sodium requirements. Intake of 3 g/day or 4 g/day is too high."
+    },
+    {
+      "id": "nutrition-ch21-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which criteria are used in the diagnosis of acute kidney injury?",
+      "options": [
+        "©@ Increased serum blood urea nitrogen levels and anuria",
+        "Decreased serum blood urea nitrogen levels and diuresis",
+        "Increased serum creatinine levels and oliguria",
+        "Decreased serum creatinine levels and diuresis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The diagnostic criteria for acute kidney injury are increased serum creatinine levels and oliguria, which is caused when cellular debris from tissue damage blocks the tubules. Increased serum blood urea nitrogen levels, anuria, decreased serum blood urea nitrogen levels, diuresis, and decreased serum creatinine levels are not diagnostic criteria for acute kidney injury. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch21-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "During which phase of acute kidney injury do losses of sodium and potassium need to be replaced?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "During the diuretic phase, patients may lose excessive electrolytes. Losses of both sodium and potassium (2 to 3 g/day of each) should be replaced during this phase. During anuria or oliguria, electrolytes may need to be restricted due to accumulation in the blood and increased risk for hyperkalemia. During recovery, kidney function gradually improves, and intake of nutrients may normalize."
+    },
+    {
+      "id": "nutrition-ch21-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which macronutrient should be restricted in patients with acute kidney injury?",
+      "options": [
+        "Carbohydrates"
+      ],
+      "correctAnswer": null,
+      "explanation": "Protein should be restricted in patients with acute kidney injury. Fat should not be restricted. Fiber is not a macronutrient and should not be restricted. Carbohydrates should not be restricted. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Rely on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch21-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "In chronic kidney disease, which metabolic condition is the result of the kidney’s inability to properly filter materials and their buildup in the blood?",
+      "options": [
+        "Ketosis"
+      ],
+      "correctAnswer": null,
+      "explanation": "In chronic kidney disease, a concentration of materials (e.g., phosphate, sulfate, organic acids) is produced by the metabolism of nutrients. Without appropriate filtering by the failing kidneys, these materials accumulate in the blood, thereby causing metabolic acidosis. Ketosis, alkalosis, and ketoacidosis occur as a result of different imbalances."
+    },
+    {
+      "id": "nutrition-ch21-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which condition marked by an alteration in bone morphology is found in patients with chronic kidney disease?",
+      "options": [
+        "Osteopenia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Osteodystrophy is an alteration of bone morphology found in patients with chronic kidney disease. Osteopenia occurs when the body makes new bone at a slower rate than it reabsorbs old bone. Osteoporosis is a condition of weak and brittle bones. Osteomyelitis is inflammation of bone caused by infection."
+    },
+    {
+      "id": "nutrition-ch21-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Weight Management",
+      "difficulty": "medium",
+      "question": "Which conditions are the most common causes of chronic kidney disease?",
+      "options": [
+        "Obesity and anemia",
+        "Lupus and hyperlipidemia",
+        "Glomerulonephritis and hepatitis",
+        "Diabetic nephropathy and hypertension"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The most common causes of chronic kidney disease are diabetic nephropathy and hypertension. Obesity, anemia, lupus, hyperlipidemia, glomerulonephritis, and hepatitis are not typically common causes of chronic kidney disease."
+    },
+    {
+      "id": "nutrition-ch21-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which term describes the removal of certain elements from the blood according to their rates of diffusion through a semipermeable membrane? rv) © Hemodialysis",
+      "options": [
+        "Glomerular filtration",
+        "Immune complex deposition",
+        "Antigen-antibody complex formation"
+      ],
+      "correctAnswer": null,
+      "explanation": "Hemodialysis is the removal of certain elements from the blood according to their rates of diffusion through a semipermeable membrane. Glomerular filtration is the rate at which substances are cleared from the plasma by the glomerulus. Immune complex deposition and antigen-antibody complex formation occur in nondiabetic glomerular diseases and do not involve filtration."
+    },
+    {
+      "id": "nutrition-ch21-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which health care provider is responsible for evaluating laboratory assessments and determining current versus ideal nutrient intake in the patient with chronic kidney disease?",
+      "options": [
+        "Urologist",
+        "Nephrologist"
+      ],
+      "correctAnswer": null,
+      "explanation": "The renal dietitian is responsible for evaluating laboratory assessments and determining current versus ideal nutrient intake in the patient with chronic kidney disease. The urologist, nephrologist, and registered nurse play other roles in the care of the patient with chronic kidney disease."
+    },
+    {
+      "id": "nutrition-ch21-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which condition may result from the diminished ability of failing kidneys to synthesize adequate amounts of erythropoietin in the patient with chronic kidney disease? rv) © Anemia",
+      "options": [
+        "Diabetes",
+        "Hypertension",
+        "Hyperlipidemia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Because of the diminished ability of failing kidneys to synthesize adequate amounts of erythropoietin, most patients with chronic renal failure develop anemia if left untreated. Diabetes, hypertension, and hyperlipidemia are not results of inadequate amounts of erythropoietin."
+    },
+    {
+      "id": "nutrition-ch21-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which statement regarding nutrition for patients with chronic kidney disease is incorrect?",
+      "options": [
+        "Dietary guidelines should be adapted as needed for individual patient requirements.",
+        "Fluid intake does not typically require restriction if balanced with output.",
+        "A protein-restricted diet can still provide the full daily requirement of all essential nutrients.",
+        "©@ Most animal sources of protein have a higher biological value and are preferred over most plant-"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The statement requiring correction is \"A protein-restricted diet can still provide the full daily requirement of all essential nutrients.\" A protein-restricted diet does not contribute the full daily requirement of all essential nutrients and usually requires supplementation. It is true that dietary guidelines should be adapted as needed for individual patient requirements, fluid intake does not typically require restriction if balanced with output, and most animal sources of protein have a higher biological value and are preferred over most plant-based sources."
+    },
+    {
+      "id": "nutrition-ch21-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement explains the occurrence of oliguria in the patient with acute kidney injury?",
+      "options": [
+        "Accumulated uremic toxins not completely removed by dialysis",
+        "Diminished ability of failing kidneys to synthesize adequate amounts of erythropoietin",
+        "Decreased ability of kidneys to excrete potassium in an amount equal to that absorbed by the"
+      ],
+      "correctAnswer": null,
+      "explanation": "Blockage of tubules caused by cellular debris from tissue trauma or urinary failure with backup retention of filtrate materials explains the occurrence of oliguria in the patient with acute kidney injury. Accumulation of uremic toxins not completely removed by dialysis is a cause of uremia in the acute kidney injury patient. Diminished ability of failing kidneys to synthesize adequate amounts of erythropoietin often leads to anemia in the acute kidney injury patient. Decreased ability of kidneys to excrete potassium in an amount equal to that absorbed by the gastrointestinal tract leads to excessive potassium levels."
+    },
+    {
+      "id": "nutrition-ch21-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "When assessing the dietary intake of a patient with chronic kidney disease, what",
+      "options": [
+        "information should the nurse obtain?",
+        "Current dietary intake only",
+        "Previous dietary intake only"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse should obtain qualitative and quantitative information about both previous and current dietary intakes. Previous dietary intake information is highly relevant for assessing nutrition status, as is current dietary intake. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch21-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which diagnostic marker determines the stage of chronic kidney disease?",
+      "options": [
+        "Urinary albumin",
+        "Serum creatinine",
+        "Blood urea nitrogen"
+      ],
+      "correctAnswer": null,
+      "explanation": "Glomerular filtration rate determines the stage of chronic kidney disease. Urinary albumin, serum creatinine, and blood urea nitrogen are important for the health care provider to monitor in the patient with chronic kidney disease, but they are not diagnostic markers for the stage of chronic kidney disease."
+    },
+    {
+      "id": "nutrition-ch21-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement about chronic kidney disease is incorrect?",
+      "options": [
+        "Renal transplantation is one type of renal replacement treatment.",
+        "Chronic kidney disease may result from congenital birth defects of the kidneys and urinary tract.",
+        "Loss of kidney function is reversible if the patient follows the treatment protocol.",
+        "Once chronic kidney disease progresses to end-stage renal disease, treatment focuses on reducing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Loss of kidney function is not reversible. Chronic kidney disease involves progressive, irreversible loss of kidney function over days, months, or years. It is true that renal transplantation is one type of renal replacement treatment, that chronic kidney disease may result from congenital birth defects of the kidneys and urinary tract, and that end-stage renal disease treatment focuses on reducing uremia. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words, (2) read each answer thoroughly, and see if it completely covers the material the question asks, and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch21-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which cause of acute kidney injury is due decreased blood supply?",
+      "options": [
+        "Uremia",
+        "Nephrosclerosis",
+        "©@ Glomerulonephritis"
+      ],
+      "correctAnswer": null,
+      "explanation": "A common cause of acute kidney injury is renal occlusion, which results in decreased blood supply and subsequent reduction in glomerular filtration rate. Uremia is a symptom of kidney disease marked by excessive amounts of urea and other nitrogenous waste products in the blood. Nephrosclerosis is necrosis of the renal arterioles from hypertension, which is a cause of chronic kidney disease. Glomerulonephritis is acute inflammation of the kidneys, often caused by an immune response."
+    },
+    {
+      "id": "nutrition-ch21-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which goal would be included in the plan of care for a patient newly diagnosed with nephrotic syndrome? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nephrotic syndrome results from nephron tissue damage to the major filtering membrane of the glomeruli, thereby allowing protein to pass into the tubule. This high protein concentration may cause further damage to the tubule. The goals of medical nutrition therapy for nephrotic syndrome are to control the major symptoms, replace nutrients lost in the urine, reduce the progression to chronic kidney disease, and decrease the risk of atherosclerosis. The higher the glomerular filtration rate the better, so a decrease in the glomerular filtration rate would not be a goal of therapy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch21-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factors contribute to the development of chronic kidney disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Several disease conditions may interfere with the normal functioning of the nephron and eventually result in kidney disease. Infections, including urinary tract infections, can lead to chronic disease and formation of kidney stones. Other causes of obstruction, such as prostatic hypertrophy, which blocks urinary tract drainage, may lead to general tissue damage and kidney disease. Various environmental agents, animal venom, certain plants, heavy metals, and some drugs, including nonsteroidal anti-inflammatory drugs, aminoglycoside antibiotics, and radiographic contrast dye, are nephrotoxic and can cause kidney damage."
+    },
+    {
+      "id": "nutrition-ch21-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which laboratory marker is an indication of kidney function?",
+      "options": [
+        "Hemoglobin",
+        "Prothrombin time"
+      ],
+      "correctAnswer": null,
+      "explanation": "Glomerular filtration rate is the rate at which glomeruli filter blood. This is the current method of monitoring kidney function and defining stages of kidney disease. Hemoglobin is a protein in red blood cells that carries oxygen and is measured in a complete blood count. Prothrombin time is a blood test that measures how long it takes for blood to clot. Aspartate aminotransferase is used to detect liver damage. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch21-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which part of the body is negatively affected by inappropriate blood phosphorous and calcium levels in the patient with chronic kidney disease? rv) © Bone",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Inappropriate blood phosphorus and calcium levels negatively affect bone composition. They do not directly affect the brain, heart, or muscle. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Rely on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch21-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Chronic kidney disease interferes with the conversion of which vitamin to its active form?",
+      "options": [
+        "Vitamin A"
+      ],
+      "correctAnswer": null,
+      "explanation": "Chronic kidney disease interferes with the conversion of vitamin D to its active form. Vitamin A can accumulate to toxic levels in the patient with chronic kidney disease. Vitamin K can interfere with clotting. Vitamin E can accumulate to toxic levels in the patient with chronic kidney disease."
+    },
+    {
+      "id": "nutrition-ch21-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "Which patient is at risk of developing struvite kidney stones?",
+      "options": [
+        "Amale patient who is diagnosed with gout and is obese",
+        "Amale patient who is obese and has a history of inflammatory bowel disease",
+        "A female patient recently diagnosed with diabetes who consumes a low-calcium diet",
+        "A female patient who has experienced frequent urinary tract infections during her life"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Struvite kidney stones are also referred to as infection stones. The patient with the history of urinary tract infections would be most at risk of developing struvite stones since these types of stones are primarily caused by urinary tract infections and not associated with any nutrient. The patient who is obese and has a diagnosis of gout would be most at risk for developing uric acid stones. The patient who is obese with a history of inflammatory bowel disease would be most at risk for cystine stones. The patient who has diabetes and consumes a diet low in calcium would be most at risk for developing calcium stones. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses. pp. 408-409"
+    },
+    {
+      "id": "nutrition-ch21-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which assessment information is a risk factor for acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Baseline risk factors for the development of acute kidney injury include diabetes, advanced age, and underlying renal insufficiency attributable to systemic infection, organ failure, or the use of nephrotoxic medications. Obesity and diuretic medication use are not recognized as risk factors for acute kidney injury."
+    },
+    {
+      "id": "nutrition-ch21-032",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Recommended total fluid intake for the patient with acute kidney injury will depend on which factor? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Total fluid intake for the patient with acute kidney injury depends on fluid and sodium status as well as the degree of residual renal function. Height and weight are not used to determine recommended total fluid intake. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch21-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which teaching would the nurse provide a patient with a frequent history of calcium stones about foods to avoid? x) © \"You need to avoid foods with calcium.\"",
+      "options": [
+        "\"You should limit your intake of cheese.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Foods that are high in oxalate content increase the risk of calcium stones. Foods with high oxalate content include dark, green and leafy vegetables, beans, beets, potatoes, bran products, tea, cocoa, and some nuts. An adequate dietary calcium intake will help to prevent the development of calcium oxalate stone formation. Cheese is rich in calcium and should be consumed. Drinking an adequate amount of fluids will help to prevent calcium stone formation."
+    },
+    {
+      "id": "nutrition-ch21-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which statement about the pathophysiology of uric stone formation is accurate?",
+      "options": [
+        "Uric acid stones are the result of a genetic defect.",
+        "Uric acid stones are the result of urinary tract infections.",
+        "Uric acid stones may result from an impairment in purine metabolism.",
+        "Uric acid stones result from the supersaturation of kidney stone material in the urine."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The primary risk factors for uric acid stone formation is acidic urine, excess urinary excretion of uric acid, and low urine volume. Hyperuricosuria may result from an impairment in purine metabolism. Purine is a nitrogen product of protein metabolism and forms uric acid. Cystine stones are the result of a genetic defect in the renal reabsorption process of the amino acid cystine. Struvite stones, also called infection stones, are primarily caused by urinary tract infections. Calcium stones occur from the supersaturation of kidney stone material in the urine. Test-Taking Tip: Multiple-choice questions can be challenging, because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 408-409"
+    },
+    {
+      "id": "nutrition-ch21-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which teaching would the nurse include when educating a patient about why nutrition is",
+      "options": [
+        "important in the prevention of kidney stones? Select all that apply. One, some, or all"
+      ],
+      "correctAnswer": null,
+      "explanation": "General medical nutrition therapy for nephrolithiasis includes a calcium intake between 1000 and 1200 mg/day, fluid intake of at least 2 to 3 L per day, weight loss if the patient is obese, adequate vitamin C intake but not exceeding the dietary reference intake, and avoiding any unnecessary intake of high-oxalate foods. Limiting dietary oxalates reduces urinary oxalate excretion and the risk of stone formation."
+    },
+    {
+      "id": "nutrition-ch21-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which response would the nurse provide a patient with a history of frequent nephrolithiasis who is asking how to prevent future occurrences?",
+      "options": [
+        "\"You should consume a low-potassium diet.\"",
+        "\"Make sure you are consuming a diet high in sodium.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Nephrolithiasis is the medical term for kidney stones. Low dietary calcium intake is a risk for calcium oxalate stone formation. The patient should be encouraged to consume 1000 to 1200 mg of calcium per day and balance their intake throughout the day. Citrate and potassium are helpful in solubilizing calcium salts and preventing stone formation. Patients should be encouraged to consume 4.7 g of potassium per day. High sodium intake increases the amount of calcium excretion in the urine, thereby increasing the risk for stone formation. Excessive protein intake from animal sources is a risk factor for stone formation. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. pp. 408-409"
+    },
+    {
+      "id": "nutrition-ch21-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which response would the nurse provide to support the nutrition status of a patient who recently started dialysis?",
+      "options": [
+        "\"You should be consuming very little protein.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The diet of a patient receiving hemodialysis is important for maintaining biochemical balance. Calcium intake should not exceed 2 g/day, including the amount received through food, dietary supplements, and medications. Protein-energy malnutrition is a major concern for people on hemodialysis. For most people on dialysis, a protein allowance of at least 1.2 g/kg is ideal to prevent protein malnutrition. It is recommended to limit sodium intake to 2.4 g/day, not 3 g/day, to control body fluid retention and hypertension. To prevent potassium accumulation, which can cause cardiac problems, potassium intake should be limited to less than 2.4 g/day. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be very helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch21-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient develops acute kidney injury while admitted to the hospital for community- acquired pneumonia. Which action would the nurse take if the patient has been prescribed peritoneal dialysis?",
+      "options": [
+        "Secure the vascular access site.",
+        "Educate the patient about how to perform peritoneal dialysis.",
+        "Inform the patient that they cannot move during this type of dialysis.",
+        "©@ Inform the patient that peritoneal dialysis lasts approximately 4 hours."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peritoneal dialysis is a form of dialysis where the peritoneal membrane serves as a filter in which metabolic wastes can pass into the dialysate for removal from the body. The nurse would educate the patient on how to perform peritoneal dialysis as the patient introduces the dialysate solution directly into the peritoneal cavity. The access for peritoneal dialysis is a permanent catheter in the peritoneal cavity, not a vascular access as with hemodialysis. Peritoneal dialysis allows for mobility. Hemodialysis typically is required three times per week and lasts about 3 to 4 hours. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points. pp. 403-404"
+    },
+    {
+      "id": "nutrition-ch21-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which descriptor is a cause-based category of acute kidney injury? Select all that apply.",
+      "options": [
+        "| Intrinsic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Depending on the underlying cause, acute kidney injury is divided into three categories: intrinsic, prerenal, and postrenal obstruction. Diuretic and oliguric are phases, not causes, of acute kidney injury."
+    },
+    {
+      "id": "nutrition-ch21-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrient may be restricted in patients with acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "In patients with acute kidney injury, protein, sodium, potassium, and phosphorus may be restricted. Iron and calcium may be depleted in protein-restricted diets and may require supplementation."
+    },
+    {
+      "id": "nutrition-ch21-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which condition is a long-term complication of chronic kidney disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Long-term complications of chronic kidney disease include anemia, malnutrition, bone disorders, and cardiovascular disease. Diabetes and metabolic syndrome are risk factors for chronic kidney disease, not complications of it."
+    },
+    {
+      "id": "nutrition-ch21-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What effect can nutritional therapy have on the outcomes of patients with chronic kidney disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nutrition therapy in the patient with chronic kidney disease can prevent wasting and malnutrition, minimize uremic toxicity, and delay progression of renal disease. Prevention of weight gain is not a goal in chronic kidney disease, the patient already being in a catabolic state."
+    },
+    {
+      "id": "nutrition-ch21-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food should be restricted during the oliguric phase of acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During the oliguric phase, potassium may be restricted to 1000 mg per day. Banana, broccoli, and cantaloupe are high in potassium. Asparagus and cucumber are low in potassium and safe to consume during this phase."
+    },
+    {
+      "id": "nutrition-ch21-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Place in the correct order the process of tubular secretion and reabsorption. tx} 1. The remaining 20% of fluid enters the loop of Henle. tx} 2. Secretion of hydrogen ions occurs to control the acid-base balance. tx} 3. Reabsorption of glucose and amino acids, along with water, occurs. rv) 4. Concentrated urine is produced.",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A small tubule carries the filtered fluid from Bowman’s capsule through its winding pathway and empties into the central area of the kidney medulla. The four sections of the tubular component reabsorb and secrete specific substances starting with the proximal tubule, a brush border membrane containing thousands of microvilli that greatly increase the surface area of the first section. This section usually reabsorbs glucose and amino acids. Next, the remaining 20% of fluid enters the loop of Henle. Next, the secretion of hydrogen ions occurs as needed in the distal tubule to control the acid-base balance. Lastly, concentrated urine is produced in the collecting tubule section."
+    },
+    {
+      "id": "nutrition-ch21-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient with acute kidney injury has a 24-hour urine output of 400 mL. What is the recommended fluid intake for this patient? Record your answer using a whole number.",
+      "options": [
+        "| 500 @| 900 | mt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In general, recommended fluid intake can be calculated by adding 500 mL (for insensible losses) to the 24- hour urine output. 400 mL + 500 mL = 900 mL."
+    },
+    {
+      "id": "nutrition-ch21-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrition recommendation is appropriate for a patient who has progressed to stage 5 chronic kidney disease (CKD) and will begin renal replacement therapy (RRT)? rv) O Sodium should be restricted to less than 2.4 g/day.",
+      "options": [
+        "The saturated fat intake would be the same as that recommended for the general population."
+      ],
+      "correctAnswer": null,
+      "explanation": "CKD is staged by disease severity, and treatment should be based on the level of progression. In a patient with stage 5 CKD, sodium should be restricted to <2.4 g/day to control interdialytic fluid gain. In stage 5 CKD, the patient receiving RRT would reduce and substitute saturated fat with healthier fat sources. When a patient is receiving RRT, protein intake should be 1.1 to 1.5 g/kg of body weight per day. If the patient had stage 5 CKD but was not receiving RRT, the protein intake recommendation would be 0.6 to 0.8 g/kg of body weight per day. If the patient is receiving hemodialysis, potassium intake should be 2 to 4 g/day, or 40 mg/kg of body weight per day. Potassium intake would only be restricted based on serum potassium laboratory test values in patients with stage 3 to 5 CKD who are not receiving RRT. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly, because there usually is no pattern to the answers. pp. 399-400, 407"
+    },
+    {
+      "id": "nutrition-ch21-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "Which patient is at greatest risk of developing chronic kidney disease (CKD)?",
+      "options": [
+        "A 65-year-old patient who is obese and trying to quit smoking.",
+        "A59-year-old patient diagnosed with lupus who runs 5 miles every day.",
+        "A61-year-old patient with a history of diabetes and long-term nonsteroidal anti-inflammatory drug",
+        "NSAID) use.",
+        "A55-year old patient who recently had kidney stones and has a normal body mass index (BM)."
+      ],
+      "correctAnswer": 2,
+      "explanation": "CKD is a progressive breakdown of kidney tissue, which impairs all kidney functions. Individuals older than 60 years have the highest prevalence of CKD. The patient who has a history of diabetes and with long-term NSAID use would be at highest risk. Metabolic diseases with kidney involvement, including diabetes, hypertension, cardiovascular disease (CVD), metabolic syndrome, and obesity increases a patient’s risk of CKD. Other causes of CKD are the long-term use of nephrotoxic substances, including NSAIDs. The patient who is trying to quit smoking is lowering their risk. Lupus does increase the risk of CKD, but the patient is physically active, which helps to decrease the risk. Kidney stones increase the risk of CKD, but a normal BMI will help lower the risk."
+    },
+    {
+      "id": "nutrition-ch21-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "The patient with chronic kidney disease has a glomerular filtration rate of 27 mL/min/1.73 m “and a body weight of 180 Ib. The patient is not receiving dialysis. How much protein should the patient consume daily? x HO) 16 to 22 g",
+      "options": [
+        "iv @) 49 to 66 g",
+        "82 to 106 g",
+        "108 to 144g"
+      ],
+      "correctAnswer": null,
+      "explanation": "Protein is generally limited to 0.6 to 0.8 g/kg daily for individuals who are not receiving dialysis and have a glomerular filtration rate of less than 30 mL/min/1.73 m 2. To find protein intake requirements, the nurse converts the patient’s weight in pounds to kilograms (180/2.2 = 82) and multiplies by the protein cofactors (82 x 0.6 = 49 and 82 x 0.8 = 66). The patient should consume 49 to 66 g of protein daily. Daily protein intake of 16 to 22 g would not be enough for this patient to maintain tissue integrity, while daily protein intakes of 82 to 106 g or 108 to 144 g would be excessive for this patient. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch21-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient is recovering in the hospital after kidney transplantation. At patient discharge, which teaching would the nurse provide when discussing side effects of corticosteroids? Select all that apply.",
+      "options": [
+        "| \"You may notice that you retain some fluid.”"
+      ],
+      "correctAnswers": [],
+      "explanation": "Most kidney transplant recipients undergo multidrug immunosuppressive therapy that includes corticosteroids to reduce the risk of acute rejection. Corticosteroid use is associated with a number of adverse effects that specifically alter overall nutrition status, including fluid retention, increased appetite and unintentional weight gain, cardiovascular disease and mortality, and gastrointestinal irritation. A side effect of corticosteroid use is hyperglycemia, not hypoglycemia."
+    },
+    {
+      "id": "nutrition-ch21-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which intervention would the nurse use to support the nutrition of patients with acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The nurse should assess the patient with acute kidney injury for constipation resulting from restricted intake of fluid and fresh fruits. The nurse should closely monitor fluid intake and output. The nurse should coordinate patient and family education with the renal dietitian. Constipation is more likely than diarrhea in the patient with acute kidney injury. Acute kidney injury requires a protein-restricted diet."
+    },
+    {
+      "id": "nutrition-ch21-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Recommended total fluid intake for the patient with acute kidney injury will depend on which factor? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Total fluid intake for the patient with acute kidney injury depends on fluid and sodium status as well as the degree of residual renal function. Height and weight are not used to determine recommended total fluid intake. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch21-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which teaching would the nurse provide a patient with a frequent history of calcium stones about foods to avoid?",
+      "options": [
+        "\"You need to avoid foods with calcium.\"",
+        "\"You should limit your intake of cheese.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Foods that are high in oxalate content increase the risk of calcium stones. Foods with high oxalate content include dark, green and leafy vegetables, beans, beets, potatoes, bran products, tea, cocoa, and some nuts. An adequate dietary calcium intake will help to prevent the development of calcium oxalate stone formation. Cheese is rich in calcium and should be consumed. Drinking an adequate amount of fluids will help to prevent calcium stone formation."
+    },
+    {
+      "id": "nutrition-ch21-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which response would the nurse provide a patient with a history of frequent nephrolithiasis who is asking how to prevent future occurrences?",
+      "options": [
+        "\"You should consume a low-potassium diet.\"",
+        "\"Make sure you are consuming a diet high in sodium.\"",
+        "‘A diet high in protein will help to prevent kidney stones.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Nephrolithiasis is the medical term for kidney stones. Low dietary calcium intake is a risk for calcium oxalate stone formation. The patient should be encouraged to consume 1000 to 1200 mg of calcium per day and balance their intake throughout the day. Citrate and potassium are helpful in solubilizing calcium salts and preventing stone formation. Patients should be encouraged to consume 4.7 g of potassium per day. High sodium intake increases the amount of calcium excretion in the urine, thereby increasing the risk for stone formation. Excessive protein intake from animal sources is a risk factor for stone formation. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. pp. 408-409"
+    },
+    {
+      "id": "nutrition-ch21-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient develops acute kidney injury while admitted to the hospital for community- acquired pneumonia. Which action would the nurse take if the patient has been prescribed peritoneal dialysis?",
+      "options": [
+        "Secure the vascular access site.",
+        "Educate the patient about how to perform peritoneal dialysis.",
+        "Inform the patient that they cannot move during this type of dialysis.",
+        "Inform the patient that peritoneal dialysis lasts approximately 4 hours."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peritoneal dialysis is a form of dialysis where the peritoneal membrane serves as a filter in which metabolic wastes can pass into the dialysate for removal from the body. The nurse would educate the patient on how to perform peritoneal dialysis as the patient introduces the dialysate solution directly into the peritoneal cavity. The access for peritoneal dialysis is a permanent catheter in the peritoneal cavity, not a vascular access as with hemodialysis. Peritoneal dialysis allows for mobility. Hemodialysis typically is required three times per week and lasts about 3 to 4 hours. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points. pp. 403-404"
+    },
+    {
+      "id": "nutrition-ch21-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrient may be restricted in patients with acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "In patients with acute kidney injury, protein, sodium, potassium, and phosphorus may be restricted. Iron and calcium may be depleted in protein-restricted diets and may require supplementation."
+    },
+    {
+      "id": "nutrition-ch21-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which condition is a long-term complication of chronic kidney disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Long-term complications of chronic kidney disease include anemia, malnutrition, bone disorders, and cardiovascular disease. Diabetes and metabolic syndrome are risk factors for chronic kidney disease, not complications of it."
+    },
+    {
+      "id": "nutrition-ch21-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What effect can nutritional therapy have on the outcomes of patients with chronic kidney disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nutrition therapy in the patient with chronic kidney disease can prevent wasting and malnutrition, minimize uremic toxicity, and delay progression of renal disease. Prevention of weight gain is not a goal in chronic kidney disease, the patient already being in a catabolic state."
+    },
+    {
+      "id": "nutrition-ch21-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food should be restricted during the oliguric phase of acute kidney injury? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During the oliguric phase, potassium may be restricted to 1000 mg per day. Banana, broccoli, and cantaloupe are high in potassium. Asparagus and cucumber are low in potassium and safe to consume during this phase."
+    },
+    {
+      "id": "nutrition-ch21-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Place in the correct order the process of tubular secretion and reabsorption. Cy) 1. Reabsorption of glucose and amino acids, along with water, occurs. Cy) 2. The remaining 20% of fluid enters the loop of Henle. Cy) 3. Secretion of hydrogen ions occurs to control the acid-base balance. rv) 4. Concentrated urine is produced.",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A small tubule carries the filtered fluid from Bowman’s capsule through its winding pathway and empties into the central area of the kidney medulla. The four sections of the tubular component reabsorb and secrete specific substances starting with the proximal tubule, a brush border membrane containing thousands of microvilli that greatly increase the surface area of the first section. This section usually reabsorbs glucose and amino acids. Next, the remaining 20% of fluid enters the loop of Henle. Next, the secretion of hydrogen ions occurs as needed in the distal tubule to control the acid-base balance. Lastly, concentrated urine is produced in the collecting tubule section."
+    },
+    {
+      "id": "nutrition-ch21-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient with acute kidney injury has a 24-hour urine output of 400 mL. What is the recommended fluid intake for this patient? Record your answer using a whole number.",
+      "options": [
+        "900 =m"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In general, recommended fluid intake can be calculated by adding 500 mL (for insensible losses) to the 24- hour urine output. 400 mL + 500 mL = 900 mL."
+    },
+    {
+      "id": "nutrition-ch21-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrition recommendation is appropriate for a patient who has progressed to stage 5 chronic kidney disease (CKD) and will begin renal replacement therapy (RRT)? rv) O Sodium should be restricted to less than 2.4 g/day.",
+      "options": [
+        "The saturated fat intake would be the same as that recommended for the general population."
+      ],
+      "correctAnswer": null,
+      "explanation": "CKD is staged by disease severity, and treatment should be based on the level of progression. In a patient with stage 5 CKD, sodium should be restricted to <2.4 g/day to control interdialytic fluid gain. In stage 5 CKD, the patient receiving RRT would reduce and substitute saturated fat with healthier fat sources. When a patient is receiving RRT, protein intake should be 1.1 to 1.5 g/kg of body weight per day. If the patient had stage 5 CKD but was not receiving RRT, the protein intake recommendation would be 0.6 to 0.8 g/kg of body weight per day. If the patient is receiving hemodialysis, potassium intake should be 2 to 4 g/day, or 40 mg/kg of body weight per day. Potassium intake would only be restricted based on serum potassium laboratory test values in patients with stage 3 to 5 CKD who are not receiving RRT. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly, because there usually is no pattern to the answers. pp. 399-400, 407"
+    },
+    {
+      "id": "nutrition-ch21-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "The patient with chronic kidney disease has a glomerular filtration rate of 27 mL/min/1.73 m “and a body weight of 180 Ib. The patient is not receiving dialysis. How much protein should the patient consume daily?",
+      "options": [
+        "16 to 22 g"
+      ],
+      "correctAnswer": null,
+      "explanation": "Protein is generally limited to 0.6 to 0.8 g/kg daily for individuals who are not receiving dialysis and have a glomerular filtration rate of less than 30 mL/min/1.73 m 2. To find protein intake requirements, the nurse converts the patient’s weight in pounds to kilograms (180/2.2 = 82) and multiplies by the protein cofactors (82 x 0.6 = 49 and 82 x 0.8 = 66). The patient should consume 49 to 66 g of protein daily. Daily protein intake of 16 to 22 g would not be enough for this patient to maintain tissue integrity, while daily protein intakes of 82 to 106 g or 108 to 144 g would be excessive for this patient. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch21-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which condition would the nurse suspect if a patient reports bloody urine and a urinalysis shows protein in the urine?",
+      "options": [
+        "Diabetes",
+        "Hypertension",
+        "Prostatic hypertrophy"
+      ],
+      "correctAnswer": null,
+      "explanation": "Acute glomerulonephritis and nephrotic syndrome are inflammatory diseases that affect the glomeruli, which are small blood vessels in the cupped membrane at the head of the nephron. Classic symptoms include hematuria, or blood in the urine, and proteinuria. Edema and hypertension may also be present. Diabetes is not associated with hematuria. Hypertension may be a present in acute glomerulonephritis but these symptoms are not indicative of hypertension. Prostatic hypertrophy is an overgrowth of the prostate tissue and may present as excessive urination at night, frequent urination, or dribbling after urination."
+    },
+    {
+      "id": "nutrition-ch21-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the general recommended daily intake of phosphorus per kilogram of body weight",
+      "options": [
+        "in the patient with acute kidney injury?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Phosphorus restriction to 8-15 mg per kilogram of body weight daily may be required in the patient with acute kidney injury. Requirements may increase with daily dialysis, return of kidney function, and anabolism. The general recommendation is more than 3 to 7 mg, 0.8 to 1.0 mg, and 1.0 to 1.4 mg per kilogram of body weight. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch21-065",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Under which circumstance should potassium intake be restricted in the patient with chronic kidney disease?",
+      "options": [
+        "For stage 4 chronic kidney disease only",
+        "When fluid intake is restricted",
+        "When sodium intake is restricted"
+      ],
+      "correctAnswer": null,
+      "explanation": "Potassium intake is usually unrestricted unless the patient’s serum potassium level is high. Potassium intake restriction is not indicated for patients with stage 4 chronic kidney disease, when fluid intake is restricted, or when sodium intake is restricted."
+    },
+    {
+      "id": "nutrition-ch21-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "How many nonprotein calories should be provided for weight maintenance and to meet the demands of the stress of acute kidney injury?",
+      "options": [
+        "15 to 25 kcal/kg per day"
+      ],
+      "correctAnswer": null,
+      "explanation": "Nonprotein calories must be provided in sufficient amounts for weight maintenance and to meet the demands of the stress of acute kidney injury; this is usually 25 to 35 kcal/kg per day. Amounts of 15 to 25 kcal/kg per day would be insufficient, whereas 35 to 45 kcal/kg and 45 to 55 kcal/kg per day would be excessive. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch21-067",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the general recommended daily potassium intake for a patient with acute kidney",
+      "options": [
+        "injury?",
+        "Less than 1 g",
+        "lto2g"
+      ],
+      "correctAnswer": null,
+      "explanation": "Potassium requirements depend on laboratory test values and the degree of hyperkalemia. In general, 2 to 3 g per day is suggested, though requirements may increase with dialysis, restoration of kidney function, and anabolism. The general recommended daily potassium intake is greater than 1 g, greater than 1 to 2 g, and less than 3 to 4 g/day."
+    },
+    {
+      "id": "nutrition-ch21-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the general recommended daily sodium intake for patients with acute kidney",
+      "options": [
+        "injury?",
+        "Less than 1 g"
+      ],
+      "correctAnswer": null,
+      "explanation": "Sodium needs may increase to restore losses from diuresis, but the general recommendation is 2 to 3 g/day. The general recommended daily sodium intake is greater than 1 g, greater than 1 to 2 g, and less than 3 to 4 g-"
+    },
+    {
+      "id": "nutrition-ch21-069",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor may contribute to insensible fluid loss in the patient with acute kidney injury? Cy) © Fever",
+      "options": [
+        "Urination",
+        "Diaphoresis",
+        "Sodium intake"
+      ],
+      "correctAnswer": null,
+      "explanation": "Insensible fluid loss may increase as a result of fever. Urination and diaphoresis are routes of sensible water loss. Sodium intake does not contribute to fluid loss."
+    },
+    {
+      "id": "nutrition-ch21-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which condition marked by an alteration in bone morphology is found in patients with chronic kidney disease?",
+      "options": [
+        "Osteopenia",
+        "Osteoporosis",
+        "Osteomyelitis"
+      ],
+      "correctAnswer": null,
+      "explanation": "Osteodystrophy is an alteration of bone morphology found in patients with chronic kidney disease. Osteopenia occurs when the body makes new bone at a slower rate than it reabsorbs old bone. Osteoporosis is a condition of weak and brittle bones. Osteomyelitis is inflammation of bone caused by infection."
+    },
+    {
+      "id": "nutrition-ch21-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which statement regarding nutrition for patients with chronic kidney disease is incorrect?",
+      "options": [
+        "Dietary guidelines should be adapted as needed for individual patient requirements.",
+        "Fluid intake does not typically require restriction if balanced with output.",
+        "A protein-restricted diet can still provide the full daily requirement of all essential nutrients.",
+        "Most animal sources of protein have a higher biological value and are preferred over most plant-"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The statement requiring correction is \"A protein-restricted diet can still provide the full daily requirement of all essential nutrients.\" A protein-restricted diet does not contribute the full daily requirement of all essential nutrients and usually requires supplementation. It is true that dietary guidelines should be adapted as needed for individual patient requirements, fluid intake does not typically require restriction if balanced with output, and most animal sources of protein have a higher biological value and are preferred over most plant-based sources."
+    },
+    {
+      "id": "nutrition-ch21-072",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 21",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which cause of acute kidney injury is due decreased blood supply?",
+      "options": [
+        "Uremia",
+        "Nephrosclerosis",
+        "Glomerulonephritis"
+      ],
+      "correctAnswer": null,
+      "explanation": "A common cause of acute kidney injury is renal occlusion, which results in decreased blood supply and subsequent reduction in glomerular filtration rate. Uremia is a symptom of kidney disease marked by excessive amounts of urea and other nitrogenous waste products in the blood. Nephrosclerosis is necrosis of the renal arterioles from hypertension, which is a cause of chronic kidney disease. Glomerulonephritis is acute inflammation of the kidneys, often caused by an immune response."
+    }
+  ]
+}

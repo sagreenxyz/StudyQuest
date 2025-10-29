@@ -1,0 +1,1132 @@
+{
+  "name": "Nutrition Coronary Heart Disease and Hypertension",
+  "description": "Chapter 19 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch19-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which condition is marked by the weakened heart muscle’s inability to maintain adequate cardiac output to sustain normal blood circulation?",
+      "options": [
+        "Hypertension",
+        "Myocardial ischemia",
+        "Myocardial infarction"
+      ],
+      "correctAnswer": null,
+      "explanation": "Congestive heart failure is a condition in which a progressively weakened heart muscle, the myocardium, is unable to maintain adequate cardiac output to sustain normal blood circulation. Hypertension is a risk factor for congestive heart failure. Myocardial ischemia is the most common cause of congestive heart failure. Myocardial infarction is a heart attack."
+    },
+    {
+      "id": "nutrition-ch19-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "a Which term describes the accumulation of fluid in lung tissue?",
+      "options": [
+        "Necrosis",
+        "@ Pulmonary edema",
+        "Respiratory distress",
+        "Myocardial ischemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulmonary edema describes accumulation of fluid in lung tissue. Necrosis is tissue death. Respiratory distress is difficulty in breathing caused by pulmonary edema. Myocardial ischemia occurs when blood flow to the heart is reduced."
+    },
+    {
+      "id": "nutrition-ch19-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "a Increased levels of which type of lipoprotein are a risk factor for atherosclerosis and why?",
+      "options": [
+        "Low-density lipoproteins (LDLs) are a risk factor because they carry cholesterol to tissues.",
+        "High-density lipoproteins (HDLs) are a risk factor because they carry cholesterol to the liver.",
+        "Very low-density lipoproteins (VLDLs) are a risk factor because they are formed from endogenous fat.",
+        "Intermediate-density lipoproteins are a risk factor because they remain in the circulation after"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Increased levels of LDLs are a risk factor for atherosclerosis because they carry cholesterol to tissues, where it may be deposited in the form of plaque. HDLs are considered beneficial because they carry cholesterol to the liver for catabolism. High levels of all non-high-density lipoproteins are a risk factor for atherosclerosis, but not as a result of being formed from endogenous fat or remaining in circulation after degradation of VLDLs. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch19-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Es Which step or goal of medical nutrition therapy is appropriate for a patient who is recovering from myocardial infarction (MI)? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Medical nutrition therapy goals for patients after MI are to promote recovery and strength and provide support in lowering LDL cholesterol levels and other known risk factors to prevent additional cardiovascular events. The Mediterranean and DASH diets are appropriate long-term eating plans for patients with cardiovascular disease who have suffered an MI. Immediately after an MI, the health care team may treat the patient with the MONA protocol, which is drug therapy. Fluid is limited to 2 L per day for individuals with serum sodium levels of less than 130 mEq/L. pp. 352-353"
+    },
+    {
+      "id": "nutrition-ch19-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "— Es Which lipoprotein transports cholesterol from the tissues and arteries back to the liver for catabolism?",
+      "options": [
+        "Chylomicrons"
+      ],
+      "correctAnswer": null,
+      "explanation": "HDLs transport cholesterol from the tissue and arteries back to the liver for catabolism. Chylomicrons transport absorbed dietary fat to plasma and tissues, primarily the liver. LDLs are formed endogenously by the liver and deliver cholesterol to tissues. IDLs deliver triglycerides, not cholesterol, to cells and tissues throughout the body. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch19-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which blood test results indicate the highest risk for atherosclerosis?",
+      "options": [
+        "low-density-lipoprotein (LDL) cholesterol, 180 mg/dL; high-density-lipoprotein (HDL) cholesterol, 39"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The blood test results indicating the highest risk for atherosclerosis are LDL cholesterol, 180 mg/dL, and HDL cholesterol, 39 mg/dL. The other three sets of results are outside of the high-risk range for atherosclerosis."
+    },
+    {
+      "id": "nutrition-ch19-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which category of hypertension has an identifiable cause and is a symptom or side effect of another primary condition?",
+      "options": [
+        "Primary hypertension",
+        "Essential hypertension",
+        "Resistant hypertension"
+      ],
+      "correctAnswer": null,
+      "explanation": "Secondary hypertension is elevated blood pressure for which the cause can be identified and is a symptom or side effect of another primary condition. Primary or essential hypertension is an inherent form of high blood pressure with no specific identifiable cause; it is considered to be familial. Resistant hypertension is the presence of high blood pressure despite treatment with three antihypertensive medications. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch19-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "How do the kidneys exacerbate edema in the patient with congestive heart failure?",
+      "options": [
+        "By increasing the glomerular filtration rate (GFR)",
+        "Byallowing protein to pass into the tubule from the glomerulus",
+        "By upregulating the conversion of inactive vitamin D into active vitamin D hormone",
+        "By triggering the vasopressin and renin-angiotensin-aldosterone systems to increase blood pressure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the patient with congestive heart failure, kidney nephrons sense decreased renal blood flow, which is normally an indication of dehydration and hypovolemia, and they respond by triggering the vasopressin and renin-angiotensin-aldosterone systems to increase blood pressure. Consequently, fluid retention is increased, and edema is exacerbated. The GFR is decreased in kidney disease. Protein is allowed to pass through the glomerulus into the tubule as a result of nephrosis. The kidneys convert inactive vitamin D into active vitamin D, but this process is not upregulated in the patient with congestive heart failure."
+    },
+    {
+      "id": "nutrition-ch19-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which daily fluid intake level is recommended for the patient with congestive heart failure whose serum sodium levels are less than 130 mEq/L? O@® iL OO 2L",
+      "options": [
+        "3L"
+      ],
+      "correctAnswer": null,
+      "explanation": "Fluid is limited to 2 L per day for patients with serum sodium levels of less than 130 mEq/L in order to avoid exacerbating edema. Daily intake of 1 L is too little; 3 or 4 L daily is too much. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch19-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the recommended daily sodium intake limit for the patient with congestive heart failure?",
+      "options": [
+        "ls"
+      ],
+      "correctAnswer": null,
+      "explanation": "The recommended daily sodium intake limit for the patient with congestive heart failure is 2 g. Patients with congestive heart failure can consume more than 1 g of sodium, but 3 g and 4 g are too much."
+    },
+    {
+      "id": "nutrition-ch19-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which disease process is associated with elevated serum cholesterol levels, low levels of high-density lipoproteins (HDLs), and high levels of low-density lipoproteins (LDLs)?",
+      "options": [
+        "Diabetes mellitus"
+      ],
+      "correctAnswer": null,
+      "explanation": "Coronary heart disease is associated with elevated serum cholesterol levels, low levels of HDLs, and high levels of LDLs. Diabetes mellitus results in an abnormal metabolism of carbohydrates. Cirrhosis develops when scar tissue replaces normal liver tissue and is often associated with alcohol abuse. Chronic kidney disease is a gradual loss of renal function. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch19-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "The nurse is teaching a patient about risk factors for coronary heart disease (CHD). Which risk factor cannot be modified by lifestyle changes?",
+      "options": [
+        "Obesity",
+        "Smoking"
+      ],
+      "correctAnswer": null,
+      "explanation": "Age cannot be modified. Advanced age increases a patient’s risk for CHD. Obesity, smoking, and physical inactivity are modifiable risk factors. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch19-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "The student nurse is providing discharge instructions to a patient newly diagnosed with cardiovascular disease. Which instruction given by the student nurse requires correction?",
+      "options": [
+        "\"Choose 2 to 4 servings of fresh fruit per day.\"",
+        "\"Choose 3 to 5 servings of fresh vegetables per day.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The student nurse requires correction when advising the patient to choose white bread over whole grains. The patient should choose whole grains, fresh fruits and vegetables, lean meats, and low-fat or fat-free milk. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch19-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which dietary restriction is necessary for safe administration of atorvastatin?",
+      "options": [
+        "Avoid taking with food",
+        "Avoid grapefruit or grapefruit juice",
+        "Avoid apples or apple juice",
+        "Avoid strawberries or strawberry jelly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Patients taking statin drugs, such as atorvastatin, should avoid grapefruit or grapefruit juice because these may affect the rate at which the medication is absorbed by the liver, causing side effects ranging from mild muscle pain to severe kidney failure. Atorvastatin can be taken with or without food. Apples and strawberries do not interfere with this drug."
+    },
+    {
+      "id": "nutrition-ch19-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the major cause and underlying pathophysiology of cardiovascular disease?",
+      "options": [
+        "Hypertension"
+      ],
+      "correctAnswer": null,
+      "explanation": "The major cause and underlying pathophysiology of cardiovascular disease is atherosclerosis. Hypertension, myocardial infarction, and hypercholesterolemia are all complicating factors but are not the major cause of cardiovascular disease. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch19-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which dietary substance involved in the atherogenic disease process carries fat in the bloodstream?",
+      "options": [
+        "Chyme",
+        "Cholesterol"
+      ],
+      "correctAnswer": null,
+      "explanation": "Because fat is not soluble in water, it is carried in the bloodstream in small packages wrapped with protein called lipoproteins. Chyme is the semifluid food mass in the gastrointestinal tract that is present after gastric digestion. Cholesterol is a fat-related compound called a sterol. Triglycerides are fats in the body or in food composed of three fatty acids attached to a glycerol base. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch19-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which are the principles of medical nutrition therapy for congestive heart failure (CHF)?",
+      "options": [
+        "Limiting sodium, potassium, and fluids in the diet",
+        "Achieving a positive fluid balance and limiting sodium intake",
+        "Achieving adequate nutrition, limiting sodium intake, and controlling edema",
+        "Increasing fluid intake and lowering serum sodium levels"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The principles of medical nutrition therapy for CHF include achieving adequate nutrition, limiting sodium intake, and controlling edema. Limiting potassium may result in hypokalemia if the patient is treated with a loop diuretic. A positive fluid balance means there is more fluid being taken in than being excreted, which is a problem with CHF. Increasing fluid intake will further exacerbate CHF, a condition with fluid volume excess."
+    },
+    {
+      "id": "nutrition-ch19-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which dietary mineral should be reduced in the patient with congestive heart failure?",
+      "options": [
+        "Zinc",
+        "@ Sodium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Medical nutrition therapy for the patient with congestive heart failure focuses on achieving nutritional adequacy of the diet by limiting sodium and fluid intake to control edema. It is not recommended to limit zinc, potassium, or magnesium."
+    },
+    {
+      "id": "nutrition-ch19-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which element comprises a plaque that forms inside artery walls? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A plaque that forms inside artery walls is composed of fibrin, calcium, cholesterol, fatty substances, and cellular debris. It is not composed of pepsin or potassium."
+    },
+    {
+      "id": "nutrition-ch19-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the effect of altered fluid-shift mechanisms in a patient with congestive heart failure?",
+      "options": [
+        "Decreased fluid retention",
+        "Excretion of large amounts of dilute urine"
+      ],
+      "correctAnswer": null,
+      "explanation": "With decreased heart function, blood accumulates in the vascular system. This buildup offsets the delicate balance of filtration pressures and causes fluid to collect within intracellular spaces instead of flowing into fluid compartments. Fluid retention increases as a result of hormonal alterations. Excretion of large amounts of dilute urine occurs during the early stages of kidney failure. Reduction in GFR occurs in kidney disease. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch19-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which incident may occur as a result of coronary artery blood flow to the heart being completely occluded?",
+      "options": [
+        "Thrombus",
+        "Angina pectoris"
+      ],
+      "correctAnswer": null,
+      "explanation": "If blood flow to the heart is completely occluded, myocardial infarction may occur. A thrombus is a blood clot that can cause the occlusion of blood flow. Angina pectoris may occur if blood flow is partially occluded. A cerebrovascular accident may occur if blood flow is occluded in a cerebral artery. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch19-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the nurse’s best response to a patient who asks, \"What can you recommend for seasoning chicken soup if | cannot eat sodium?\" rv) © \"Use salt alternatives, such as thyme, savory, ginger, white pepper, cloves, or allspice, to flavor your chicken soup.\"",
+      "options": [
+        "\"Just sprinkle a very small amount of salt in your soup, and you should be fine.\"",
+        "\"Use Italian seasonings, such as nutmeg, oregano, basil, red pepper, and tarragon, to flavor your"
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient should be encouraged to use a salt alternative. Salt alternatives that may pair well with chicken soup include thyme, savory, ginger, white pepper, cloves, and allspice. The patient should not be encouraged to eat any amount of salt. Italian seasonings, such as nutmeg, oregano, basil, red pepper, and tarragon, are better suited for pasta, beans, or rice dishes. Eating soup without seasoning may not help the patient comply with the diet. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; however, every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch19-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "The nurse is teaching a patient with coronary artery disease about following the Mediterranean diet. Which statement made by the patient indicates that teaching was successful?",
+      "options": [
+        "\"Iwill increase dairy products, such as whole milk and cottage cheese.\"",
+        "\"Iwill eat pork at least four times per week and limit butter.\"",
+        "\"Iwill eat more fruits and vegetables and replace saturated fats with olive oil.\"",
+        "\"Iwill increase carbohydrates and proteins in my diet.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The nurse knows the teaching was successful when the patient states, \"| will eat more fruits and vegetables and replace saturated fats with olive oil.\" Adherence to the Mediterranean diet reduces risk factors for cardiovascular disease, reduces levels of inflammatory markers following myocardial infarction, and increases the life span. Low-fat milk should be consumed rather than whole milk. Eating pork four times per week is excessive, though limiting butter intake is healthy. Increasing carbohydrates may cause a rise in low-density lipoproteins."
+    },
+    {
+      "id": "nutrition-ch19-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which statement made by the patient indicates understanding of the dietary recommendations to reduce the risk for cardiovascular disease?",
+      "options": [
+        "\"| will avoid plant-based proteins, such as whole grains or legumes.”"
+      ],
+      "correctAnswer": null,
+      "explanation": "Dietary recommendations for prevention of heart disease include substituting polyunsaturated fats (e.g., vegetable oils) for saturated fats (e.g., butter). Plant-based proteins, such as whole grains or legumes are encouraged over animal proteins. Egg whites are preferred over egg yolks. Low-fat dairy products are preferred over whole milk, which is high in fat."
+    },
+    {
+      "id": "nutrition-ch19-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which step taken during the purchase of food helps ensure sound food habits? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "An important part of purchasing food is carefully reading food labels. The Nutrition Facts labels provide basic nutrition information in a standard format that is easily recognized and clearly expressed. For a healthy diet, use fresh, whole foods primarily, with a limited selection of processed foods when necessary. Ensure food is prepared with little to no trans fat."
+    },
+    {
+      "id": "nutrition-ch19-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which food helps train taste preferences to adapt to a lowered sodium intake? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Many seasonings, such as lemon, onion, garlic, nonfat milk and yogurt, wine, fat-free/low-sodium broth, herbs, and spices, can help to train taste preferences for a lower-sodium diet. Grilled chicken and butter do not train taste preferences to adapt to a lowered sodium intake."
+    },
+    {
+      "id": "nutrition-ch19-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which phrase describes a systolic blood pressure of 130 to 139 mm Hg or a diastolic blood pressure of 80 to 89 mm Hg? rv) O Stage 1 hypertension x) © Stage 2 hypertension",
+      "options": [
+        "Elevated blood pressure",
+        "Normal blood pressure"
+      ],
+      "correctAnswer": null,
+      "explanation": "Stage 1 hypertension is defined as a systolic blood pressure of 130 to 139 mm Hg or a diastolic blood pressure of 80 to 89 mm Hg. Stage 2 hypertension is classified as a systolic blood pressure of 140 mm Hg or greater or a diastolic blood pressure of 90 mm Hg or greater. Elevated blood pressure, also known as prehypertension, is defined as a systolic blood pressure of 120 to 129 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Normal blood pressure is defined as a systolic blood pressure of less than 120 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch19-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "Which factor significantly increases the risk for heart failure? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The most significant risk factors for heart failure are coronary artery disease, obesity, cigarette smoking, hypertension, and diabetes. A high-fiber diet is not a risk factor for heart failure."
+    },
+    {
+      "id": "nutrition-ch19-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which description of the Dietary Approaches to Stop Hypertension (DASH) diet eating plan would the nurse provide to a patient who was recently diagnosed with stage 2 hypertension? Cy) O Eat lean meats, beans, and nuts.",
+      "options": [
+        "Eat low-fiber grains and low-sodium foods.",
+        "Eat four servings of low-fat dairy foods per day.",
+        "©@ Lat three servings of fruit and three servings of vegetables per day."
+      ],
+      "correctAnswer": null,
+      "explanation": "The DASH diet is the result of the DASH landmark study, in which blood pressure was significantly lowered by diet alone over 2 weeks. The DASH diet recommends eating lean meats, beans, and nuts. The diet recommends eating high-fiber, not low-fiber, foods and low-sodium foods. It also recommends eating two to three servings of low-fat dairy foods per day, not four servings. Further, the diet recommends eating four to six servings of fruits and four to six servings of vegetables per day, not three servings. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient’s blood pressure is 134/83 mm Hg at a yearly well-care visit. Which phrase describes this blood pressure measurement? rv) © Stage 1 hypertension",
+      "options": [
+        "Stage 2 hypertension",
+        "Elevated blood pressure",
+        "Normal blood pressure"
+      ],
+      "correctAnswer": null,
+      "explanation": "Common blood pressure measurements indicate the pressure of the blood surge in the arteries of the upper arm with each heartbeat. A blood pressure of 134/83 mm Hg would be categorized as stage 1 hypertension. Stage 1 hypertension is defined as a systolic blood pressure of 130 to 139 mm Hg or a diastolic blood pressure of 80 to 89 mm Hg. Stage 2 hypertension is classified as a systolic blood pressure of 140 mm Hg or greater or a diastolic blood pressure of 90 mm Hg or greater. Elevated blood pressure, also known as prehypertension, is defined as a systolic blood pressure of 120 to 129 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Normal blood pressure is defined as a systolic blood pressure of less than 120 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be very helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur. pp. 357-358"
+    },
+    {
+      "id": "nutrition-ch19-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which patient has the highest risk for atherosclerosis?",
+      "options": [
+        "A 60-year-old Caucasian man with high levels of high-density-lipoprotein cholesterol",
+        "A55-year-old postmenopausal African American woman",
+        "A 40-year-old man with poor diet quality and high levels of inflammatory markers",
+        "©@ 4 35-year-old woman with a body mass index (BMI) of 30 kg/m 2 and a history of cigarette smoking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 55-year-old postmenopausal African American woman has the highest risk for atherosclerosis. Her age and race put her at a higher risk than the others. Although men have a greater risk of developing atherosclerosis than do women, the relative risks are similar for both sexes after women reach menopause. High levels of high-density-lipoprotein cholesterol are protective against atherosclerosis. Poor diet quality, high levels of inflammatory markers, high BMI, and cigarette smoking are modifiable risk factors that could impact risk, particularly for men and women in their 30s and early 40s."
+    },
+    {
+      "id": "nutrition-ch19-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "The nurse is reviewing the medical record of a patient admitted to the hospital with cardiovascular disease. Which statement made by the patient is the nurse’s highest priority for addressing?",
+      "options": [
+        "\"My cholesterol level last week was 199 mg/dL.\"",
+        "\"My body mass index (BMI) is 19.0 kg/m a",
+        "\"My father died of a heart attack.\"",
+        "@ \"My mother has diabetes and high blood pressure.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "There is a strong genetic predisposition for cardiovascular disease. The patient’s father (a first-degree relative) died of a coronary event, increasing the patient’s risk for a heart attack. A total cholesterol level of less than 200 mg/dL is considered optimal. A BMI of 19.0 kg/m 2 is normal. The fact that the patient’s mother has diabetes and high blood pressure increases the patient’s risk for those illnesses, but they are of a less- immediate concern in this scenario. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch19-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient with a history of atherosclerosis is admitted to the coronary care unit after myocardial infarction. Which diet order does the nurse anticipate for this patient? rv) O Liquid diet as tolerated x) © Low-sodium diet",
+      "options": [
+        "Low-fat, high-protein diet",
+        "Meals supplemented with Ensure"
+      ],
+      "correctAnswer": null,
+      "explanation": "The focus of a patient with myocardial infarction is to reduce the workload of the heart. As such, the patient is placed on liquids and may progress food consistency as tolerated. A low-sodium diet is recommended for patients with hypertension. Low-fat, high-protein diets are optimal for patients recovering from surgery or those with depleted energy stores. Supplementing meals with Ensure is usually recommended for patients with poor oral intake."
+    },
+    {
+      "id": "nutrition-ch19-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "The nurse is reviewing medical records of patients on the unit. Which patient is displaying signs of metabolic syndrome? x) © Male: blood pressure, 140/88 mm Hg; triglycerides, 157 mg/dL; high-density-lipoprotein (HDL) cholesterol, 60 mg/dL",
+      "options": [
+        "Female: waist circumference, 40 in; blood pressure, 110/70 mm Hg; HDL cholesterol, 55 mg/dL",
+        "Male: triglycerides, 200 mg/dL; HDL cholesterol, 30 mg/dL; fasting blood glucose, 90 mg/dL",
+        "Female: blood pressure, 138/88 mm Hg; waist circumference, 37 in; HDL cholesterol, 40 mg/dL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Metabolic syndrome is a group of risk factors that increase the risk for heart disease, diabetes mellitus, peripheral vascular disease, and stroke. Patients with at least three of the following risk factors are said to have metabolic syndrome: Abdominal obesity (waist circumference of 40 in or more for men and 35 in or more for women); elevated triglycerides (150 mg/dL or greater); reduced HDL cholesterol (less than 40 mg/dL for men and less than 50 mg/dL for women); elevated blood pressure (135/85 mm Hg or greater); and elevated fasting blood glucose (100 mg/dL or greater). As such, the female patient with the blood pressure of 138/88 mm Hg, waist circumference of 37 in, and HDL cholesterol of 40 mg/dL meets the criteria for metabolic syndrome. The other patients do not meet at least three criteria of metabolic syndrome. One of the male patients has a normal HDL cholesterol (60 mg/dL), the other male has a fasting blood glucose level within normal limits, and the female patient with the waist circumference of 40 in meets only one criteria for metabolic syndrome."
+    },
+    {
+      "id": "nutrition-ch19-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which statement made by the patient indicates understanding of the dietary recommendations to reduce the risk for cardiovascular disease?",
+      "options": [
+        "\"| will avoid plant-based proteins, such as whole grains or legumes.”"
+      ],
+      "correctAnswer": null,
+      "explanation": "Dietary recommendations for prevention of heart disease include substituting polyunsaturated fats (e.g., vegetable oils) for saturated fats (e.g., butter). Plant-based proteins, such as whole grains or legumes are encouraged over animal proteins. Egg whites are preferred over egg yolks. Low-fat dairy products are preferred over whole milk, which is high in fat."
+    },
+    {
+      "id": "nutrition-ch19-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which statement by a patient following the Dietary Approaches to Stop Hypertension (DASH) diet indicates to the nurse more teaching is needed?",
+      "options": [
+        "\"| eat nuts and grains regularly.”",
+        "\"| eat five servings of fruit every day.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The DASH diet has been shown to lower blood pressure significantly in a 2-week period by diet alone. A patient who consumes four servings of low-fat dairy per day is exceeding the recommendation of the DASH diet and would require additional teaching by the nurse. The recommendation for low-fat dairy intake is two to three servings per day. The patient indicating that nuts and grains are consumed regularly is following the guidelines of this diet. The DASH diet recommends eating four to six servings of fruits and four to six servings of vegetables per day. Lean meats are recommended for consumption as part of the diet. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which teaching would the nurse include when providing education about lifestyle modifications that will help lower blood pressure to a patient diagnosed with stage 1 hypertension?",
+      "options": [
+        "\"Try to reduce your weight by at least 2 kg .\"",
+        "\"Exercise for 30 minutes every day.\"",
+        "\"Eat 3500 to 5000 mg of potassium per day.\"",
+        "@ \"Do not consume more than 2000 mg of sodium per day.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best proven lifestyle interventions for the prevention and treatment of hypertension include consuming 3500 to 5000 mg of potassium per day because there is an inverse association between potassium intake and blood pressure. Excess weight is closely associated with hypertension risk factors; however, the recommended weight loss would be 1 kg (2.2 |b), not at least 2 kg (4.4 Ib). The patient should be encouraged to perform 90 to 150 minutes of aerobic exercise per week, not 30 minutes of daily exercise. Sodium intake should be limited to 1500 mg per day. pp. 358, 359, 360"
+    },
+    {
+      "id": "nutrition-ch19-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which long-term dietary modification would be recommended for a patient who has had a myocardial infarction (MI)? Select all that apply.",
+      "options": [
+        "BM] Adopt the Mediterranean diet."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Long-term dietary modifications for patients who have had an MI include limiting consumption of red meat and sodium intake. The Mediterranean diet, which includes plant-based foods and whole grains, is also recommended for these patients. Monounsaturated and polyunsaturated fats are recommended, instead of other forms of saturated fat. Consumption of a variety of fish at least twice per week is recommended. pp. 351, 352"
+    },
+    {
+      "id": "nutrition-ch19-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which serving of food is recommended by the Dietary Approaches to Stop Hypertension (DASH) diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The DASH diet recommends eating two to three servings of low-fat dairy foods, four to six servings of fruits, and four to six servings of vegetables per day in addition to lean meats, nuts, seeds, dried beans, and high- fiber grains. The DASH diet recommends three to six servings of lean meats, poultry, and fish per day and two to three servings of fats and oils per day. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which lifestyle modification is recommended to prevent cardiovascular disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The recommended lifestyle modifications to prevent cardiovascular disease include aiming for at least 150 minutes of moderate physical activity per week, burning at least as many calories as consumed, and limiting dietary sodium intake to 2300 mg per day. Fat-free or low-fat dairy products, not high-fat dairy products, are recommended to be chosen more often. Red meat consumption should be limited, while lean meats are encouraged."
+    },
+    {
+      "id": "nutrition-ch19-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which intervention by the nurse would be appropriate when a patient reports pain, loss of appetite, and shortness of breath with eating following a myocardial infarction (Ml)?",
+      "options": [
+        "Request pain medication.",
+        "Contact the health care provider.",
+        "Suggest that the patient drink some coffee or tea."
+      ],
+      "correctAnswer": null,
+      "explanation": "Patients who are experiencing a loss of appetite because of pain, medication side effects, or other complications following an MI may benefit from a brief period of reduced energy intake to reduce the metabolic workload on the damaged heart. Eating small meals over the course of the day helps decrease the level of metabolic activity that the weakened heart must perform. Pain medication may be beneficial, but pain may be reduced by spreading small meals out over the course of the day, and nonpharmacologic measures should be tried first. Contacting the health care provider would be appropriate, but the nurse can first attempt to reduce the workload on the heart by spreading the patient’s feedings out over the course of the day. Suggesting tea or coffee would be inappropriate because patients should avoid caffeine-containing substances and temperature extremes. Test-Taking Tip: Make certain that the answer you select is reasonable and attainable under ordinary circumstances and that the action can be carried out in the given situation. pp. 352-353"
+    },
+    {
+      "id": "nutrition-ch19-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which intervention is priority with a patient with a history of hypertension and hyperlipidemia who experiences a myocardial infarction (MI)? rv) © Cardiac rest",
+      "options": [
+        "Prescribe a statin",
+        "Lower low-density lipoprotein (LDL) cholesterol level",
+        "Educate about the Dietary Approaches to Stop Hypertension (DASH) diet"
+      ],
+      "correctAnswer": null,
+      "explanation": "Immediately following an MI, the health care team would direct all care, including diet, toward ensuring cardiac rest to promote the return of normal functioning to the damaged heart. Prescribing statins, lowering the patient’s LDL cholesterol level, and educating the patient about the DASH diet are all important interventions following an MI, but ensuring cardiac rest is the priority."
+    },
+    {
+      "id": "nutrition-ch19-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Hypertension is a clinical sign of which possible nutrient deficiency? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Hypertension is a clinical sign of possible deficiencies of calcium, magnesium, potassium, and vegetable- derived protein. It does not indicate deficiencies of meat protein, sodium, or selenium."
+    },
+    {
+      "id": "nutrition-ch19-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Through which pathway does obesity worsen the condition of hypertension? Select all that apply.",
+      "options": [
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Obesity worsens hypertension via inflammation, renal damage, oxidative stress, and endothelial damage. Brain damage and hypoglycemia are not relevant pathways in this scenario."
+    },
+    {
+      "id": "nutrition-ch19-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutritional supplement may be indicated for the patient taking diuretics for congestive heart failure? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Thiamin and potassium supplements may be needed to overcome losses from the use of diuretics. Zinc, sodium, and magnesium are unlikely to be depleted from diuretic use."
+    },
+    {
+      "id": "nutrition-ch19-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which is a component of the Mediterranean diet? Select all that apply.",
+      "options": [
+        "| Limited dairy products"
+      ],
+      "correctAnswers": [],
+      "explanation": "The Mediterranean diet includes fresh fruits and vegetables in moderation; whole grains, nuts, garlic, fish, and wine in moderation; meat and animal products in very small amounts; and dairy products used sparingly. Up to 4% of calories come from fat, mainly olive oil. Chicken, fish, and pork are not the main sources of protein; they should be consumed in very small amounts. Although dairy products have benefits for healthy teeth and bones, they are consumed sparingly in the Mediterranean diet. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch19-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which protein is recommended to reduce the risk for cardiovascular disease? Select all that apply.",
+      "options": [
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Dietary protein has little effect on low-density lipoproteins, but consuming plant-based proteins appears to be beneficial. Plant-based proteins include whole grains, legumes, dry beans, nuts, and vegetables. Other good protein choices include skinless chicken, egg whites, fish, and lean cuts of beef and pork. Low-fat dairy products and lean meats should be selected rather than whole milk or a prime cut of beef. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch19-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which intervention would be appropriate for the nurse to teach a patient who wants to lower the risk for cardiovascular disease? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The American Heart Association Diet and Lifestyle recommendations for the prevention of cardiovascular disease include allowance of moderate intake of alcohol (if at all) and aiming for at least 150 minutes of physical activity per week. A variety of fish should be consumed at least twice per week. Also included is the recommendation to avoid red meat; however, skinless poultry is considered a lean meat and can be consumed. Sodium intake should be limited to 1500 to 2300 mg per day, not 2500 mg per day. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers. pp. 350-351"
+    },
+    {
+      "id": "nutrition-ch19-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which patient would be at greatest risk for premature cardiovascular mortality?",
+      "options": [
+        "An Asian-American patient who has a college education and is physically inactive",
+        "A Native American patient who is obese, smokes, and has a high school diploma",
+        "AHispanic patient who is currently in college but is 100% below the poverty level",
+        "An African-American patient who works as an accountant, has moderate alcohol intake, and is"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The prevalence of premature cardiovascular mortality is significantly higher in certain high-risk populations, such as Native Americans and South Asian Americans, individuals with low education levels, those with few socioeconomic resources, and overweight/obese individuals. The Native American patient who is obese, smokes, and has a high school diploma would be at greatest risk for premature cardiovascular mortality. The Asian-American patient who is inactive would be at a risk, but having a college degree helps lower that risk. The Hispanic patient who is 100% below the poverty level would be at risk but is obtaining a higher level of education, which helps lower the risk. The African-American patient who is overweight would be at risk but has a college degree and works as an accountant, both of which lower the risk. Test-Taking Tip: Multiple-choice questions can be challenging because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 363-364"
+    },
+    {
+      "id": "nutrition-ch19-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "Which response by the nurse would be appropriate when a patient with heart failure who was given a prescription for a diuretic for a recent diagnosis of hypertension asks about specific dietary restrictions or foods that should be consumed while taking a diuretic?",
+      "options": [
+        "\"You should avoid eating nuts because they are high in fat.\"",
+        "\"You should avoid drinking orange juice to prevent toxicity.\"",
+        "\"You should eat green, leafy vegetables because they are high in potassium.\"",
+        "\"You will need to drink more water because the diuretic will make you urinate more.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diuretics are one of the first-line medications used to lower blood pressure. The continuous use of diuretics may cause a loss of potassium. The nurse would recommend eating green, leafy vegetables to help maintain a normal serum potassium level. Nuts would also be recommended for consumption because they are also high in potassium. Orange juice is another food that contains potassium and should be recommended to the patient. Informing the patient to drink more fluids would counteract the reason for using a diuretic. Because this patient has a history of heart failure, they may have fluid restrictions."
+    },
+    {
+      "id": "nutrition-ch19-052",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which dietary recommendation would the nurse recognize as part of the Mediterranean diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Mediterranean diet and Dietary Approaches to Stop Hypertension diets are appropriate long-term eating plans for patients with cardiovascular disease who have suffered a myocardial infarction. The Mediterranean diet includes moderate amounts of dairy products and eggs, nuts, olive oil as the primary source of fat, moderate intake of red wine with meals, plant-based foods, whole grains, fish and poultry, and fresh fruit as dessert. The use of herbs and spices should be used instead of salt. Red meat consumption is limited in the Mediterranean diet. pp. 351, 352, 353"
+    },
+    {
+      "id": "nutrition-ch19-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which discharge instruction would the nurse provide regarding nutrition for a patient newly diagnosed with atherosclerosis after experiencing a myocardial infarction?",
+      "options": [
+        "\"You should consume 3 cups of fruits and vegetables per day.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Atherosclerosis is the underlying pathology of coronary artery disease. Poor diet quality is a risk factor to the development of atherosclerosis. Recommending that a patient consume more than 3 cups of whole grains a day would be correct. Patients should consume at least 4.5 cups of fruits and vegetables daily. Patients should not consume more than 1500 g of sodium per day. Patients should not consume more than 36 oz of sugar- sweetened beverages per week. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points. pp. 350, 351"
+    },
+    {
+      "id": "nutrition-ch19-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which intervention would the nurse teach about preventing heart disease when providing education to a group of patients who have an increased risk for developing cardiovascular disease (CVD)? Select all that apply.",
+      "options": [
+        "| Read food labels."
+      ],
+      "correctAnswers": [],
+      "explanation": "Education and disease prevention are important factors for preventing CVD, the primary cause of death in the United States. An important part of purchasing food is reading food labels. Many seasonings, such as herbs and spices, can be used to train taste preferences for decreased sodium intake. Complex carbohydrates will help make healthier main dishes. Different resources and programs are available to the public, including registered dietitian nutritionists in private practice or health care centers, who can assist with education to prevent CVD. The prevention of hypertension and heart disease needs to begin during childhood, not during adulthood. pp. 362-363"
+    },
+    {
+      "id": "nutrition-ch19-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which teaching point would the nurse include when educating the patient about nutrition modifications and lifestyle modifications to help lower blood pressure? Select all that apply.",
+      "options": [
+        "|B] “Losing weight is beneficial.\"",
+        "|B] \"Eat a diet high in potassium.\""
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "Regardless of hypertensive stage, all patients should receive patient-centered, culturally sensitive guidance on achieving applicable behavioral and lifestyle modifications. The American College of Cardiology/American Heart Association (ACC/AHA) guidelines suggest limiting alcohol intake because moderate alcohol intake is associated with a reduction of systolic blood pressure by 4 mm Hg. Chronic stress takes a toll on the body and may lead to elevated blood pressure. Excess weight is closely associated with hypertensive risk factors; the ACC/AHA guidelines note that weight loss is the most important intervention for treating hypertension. There is an inverse relationship between potassium intake and blood pressure; a high-potassium intake lowers blood pressure. The recommended sodium intake for blood pressure control is 1500 to 2300 mg per day. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,\" be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which goal related to nutrition therapy would the nurse include in discharge instructions when caring for a patient who had a myocardial infarction (MI)? Select all that apply.",
+      "options": [
+        "| Promote strength"
+      ],
+      "correctAnswers": [],
+      "explanation": "An MI occurs when there is tissue death in the myocardium due to lack of oxygen. Medical nutrition therapy goals for patients after MI include promoting recovery and strength and providing support in lowering LDL cholesterol and other known risk factors to prevent additional cardiovascular disease events. Medical nutrition therapy also involves reducing metabolic workload on the damaged heart by spreading small meals out over the course of the day. Early feedings may include foods that are relatively soft in texture or easily digested to avoid excess effort during eating. To lose weight and achieve a healthy BMI, the patient should increase exercise, so the effort exceeds the number of calories consumed each day. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 352-353"
+    },
+    {
+      "id": "nutrition-ch19-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which teaching would the nurse include when providing education about lifestyle modifications that will help lower blood pressure to a patient diagnosed with stage 1 hypertension?",
+      "options": [
+        "\"Try to reduce your weight by at least 2 kg .\"",
+        "\"Exercise for 30 minutes every day.\"",
+        "\"Eat 3500 to 5000 mg of potassium per day.\"",
+        "@ \"Do not consume more than 2000 mg of sodium per day.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best proven lifestyle interventions for the prevention and treatment of hypertension include consuming 3500 to 5000 mg of potassium per day because there is an inverse association between potassium intake and blood pressure. Excess weight is closely associated with hypertension risk factors; however, the recommended weight loss would be 1 kg (2.2 |b), not at least 2 kg (4.4 Ib). The patient should be encouraged to perform 90 to 150 minutes of aerobic exercise per week, not 30 minutes of daily exercise. Sodium intake should be limited to 1500 mg per day. pp. 358, 359, 360"
+    },
+    {
+      "id": "nutrition-ch19-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which serving of food is recommended by the Dietary Approaches to Stop Hypertension (DASH) diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The DASH diet recommends eating two to three servings of low-fat dairy foods, four to six servings of fruits, and four to six servings of vegetables per day in addition to lean meats, nuts, seeds, dried beans, and high- fiber grains. The DASH diet recommends three to six servings of lean meats, poultry, and fish per day and two to three servings of fats and oils per day. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Hypertension is a clinical sign of which possible nutrient deficiency? Select all that apply.",
+      "options": [
+        "| Potassium"
+      ],
+      "correctAnswers": [],
+      "explanation": "Hypertension is a clinical sign of possible deficiencies of calcium, magnesium, potassium, and vegetable- derived protein. It does not indicate deficiencies of meat protein, sodium, or selenium."
+    },
+    {
+      "id": "nutrition-ch19-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutritional supplement may be indicated for the patient taking diuretics for congestive heart failure? Select all that apply.",
+      "options": [
+        "| Potassium"
+      ],
+      "correctAnswers": [],
+      "explanation": "Thiamin and potassium supplements may be needed to overcome losses from the use of diuretics. Zinc, sodium, and magnesium are unlikely to be depleted from diuretic use."
+    },
+    {
+      "id": "nutrition-ch19-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which is a component of the Mediterranean diet? Select all that apply.",
+      "options": [
+        "| Limited dairy products"
+      ],
+      "correctAnswers": [],
+      "explanation": "The Mediterranean diet includes fresh fruits and vegetables in moderation; whole grains, nuts, garlic, fish, and wine in moderation; meat and animal products in very small amounts; and dairy products used sparingly. Up to 4% of calories come from fat, mainly olive oil. Chicken, fish, and pork are not the main sources of protein; they should be consumed in very small amounts. Although dairy products have benefits for healthy teeth and bones, they are consumed sparingly in the Mediterranean diet. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch19-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which intervention would be appropriate for the nurse to teach a patient who wants to lower the risk for cardiovascular disease? Select all that apply.",
+      "options": [
+        "| Drinking alcohol in moderation is allowed."
+      ],
+      "correctAnswers": [],
+      "explanation": "The American Heart Association Diet and Lifestyle recommendations for the prevention of cardiovascular disease include allowance of moderate intake of alcohol (if at all) and aiming for at least 150 minutes of physical activity per week. A variety of fish should be consumed at least twice per week. Also included is the recommendation to avoid red meat; however, skinless poultry is considered a lean meat and can be consumed. Sodium intake should be limited to 1500 to 2300 mg per day, not 2500 mg per day. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers. pp. 350-351"
+    },
+    {
+      "id": "nutrition-ch19-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which dietary recommendation would the nurse recognize as part of the Mediterranean diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Mediterranean diet and Dietary Approaches to Stop Hypertension diets are appropriate long-term eating plans for patients with cardiovascular disease who have suffered a myocardial infarction. The Mediterranean diet includes moderate amounts of dairy products and eggs, nuts, olive oil as the primary source of fat, moderate intake of red wine with meals, plant-based foods, whole grains, fish and poultry, and fresh fruit as dessert. The use of herbs and spices should be used instead of salt. Red meat consumption is limited in the Mediterranean diet. pp. 351, 352, 353"
+    },
+    {
+      "id": "nutrition-ch19-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which discharge instruction would the nurse provide regarding nutrition for a patient newly diagnosed with atherosclerosis after experiencing a myocardial infarction? x) © \"You should consume 3 cups of fruits and vegetables per day.\" rv) O \"You should consume more than 3 cups per day of whole grains.\"",
+      "options": [
+        "\"You should not consume more than 2000 g of sodium per day.\"",
+        "\"You should not consume more than 48 oz of sugar-sweetened drinks per week.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Atherosclerosis is the underlying pathology of coronary artery disease. Poor diet quality is a risk factor to the development of atherosclerosis. Recommending that a patient consume more than 3 cups of whole grains a day would be correct. Patients should consume at least 4.5 cups of fruits and vegetables daily. Patients should not consume more than 1500 g of sodium per day. Patients should not consume more than 36 oz of sugar- sweetened beverages per week. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points. pp. 350, 351"
+    },
+    {
+      "id": "nutrition-ch19-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which intervention would the nurse teach about preventing heart disease when providing education to a group of patients who have an increased risk for developing cardiovascular disease (CVD)? Select all that apply.",
+      "options": [
+        "| Use herbs and spices."
+      ],
+      "correctAnswers": [],
+      "explanation": "Education and disease prevention are important factors for preventing CVD, the primary cause of death in the United States. An important part of purchasing food is reading food labels. Many seasonings, such as herbs and spices, can be used to train taste preferences for decreased sodium intake. Complex carbohydrates will help make healthier main dishes. Different resources and programs are available to the public, including registered dietitian nutritionists in private practice or health care centers, who can assist with education to prevent CVD. The prevention of hypertension and heart disease needs to begin during childhood, not during adulthood. pp. 362-363"
+    },
+    {
+      "id": "nutrition-ch19-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which teaching would the nurse include when providing education about lifestyle modifications that will help lower blood pressure to a patient diagnosed with stage 1 hypertension?",
+      "options": [
+        "\"Try to reduce your weight by at least 2 kg .\"",
+        "\"Exercise for 30 minutes every day.\"",
+        "\"Eat 3500 to 5000 mg of potassium per day.\"",
+        "\"Do not consume more than 2000 mg of sodium per day.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best proven lifestyle interventions for the prevention and treatment of hypertension include consuming 3500 to 5000 mg of potassium per day because there is an inverse association between potassium intake and blood pressure. Excess weight is closely associated with hypertension risk factors; however, the recommended weight loss would be 1 kg (2.2 |b), not at least 2 kg (4.4 Ib). The patient should be encouraged to perform 90 to 150 minutes of aerobic exercise per week, not 30 minutes of daily exercise. Sodium intake should be limited to 1500 mg per day. pp. 358, 359, 360"
+    },
+    {
+      "id": "nutrition-ch19-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which serving of food is recommended by the Dietary Approaches to Stop Hypertension (DASH) diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The DASH diet recommends eating two to three servings of low-fat dairy foods, four to six servings of fruits, and four to six servings of vegetables per day in addition to lean meats, nuts, seeds, dried beans, and high- fiber grains. The DASH diet recommends three to six servings of lean meats, poultry, and fish per day and two to three servings of fats and oils per day. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which high-density-lipoprotein cholesterol value contributes to a decreased risk for heart disease?",
+      "options": [
+        "60 mg/dL or lower"
+      ],
+      "correctAnswer": null,
+      "explanation": "Because high-density-lipoprotein cholesterol carries cholesterol from the body’s tissue to the liver for catabolism, it is referred to as the \"good\" cholesterol. A value of 60 mg/dL or higher is associated with a decreased risk for heart disease. Values of 60 mg/dL or lower, 30 mg/dL to 50 mg/dL, and 15 mg/dL or lower do not decrease the risk for heart disease."
+    },
+    {
+      "id": "nutrition-ch19-069",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which patient would benefit the most from statin therapy?",
+      "options": [
+        "@ A patient with a history of cardiovascular disease",
+        "A patient with a history of hypertension",
+        "A patient with a history of cancer",
+        "A patient with a history of smoking"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The patient who would benefit the most from a statin drug is one with a history of cardiovascular disease. Statin therapy is not recommended for a person with hypertension, a person with cancer, or a person who smokes."
+    },
+    {
+      "id": "nutrition-ch19-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "According to the American Heart Association’s dietary guidelines, how often should fish be consumed as part of a healthy diet?",
+      "options": [
+        "Four times per week",
+        "Once daily"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the American Heart Association’s dietary guidelines, fish should be eaten twice per week. Fish is low in fat and high in protein, making it a heart-healthy meal option. Eating fish four times per week is excessive, as is once daily. Once per week is not enough."
+    },
+    {
+      "id": "nutrition-ch19-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "An older patient with heart failure is reviewing menu options and wants to reduce sodium",
+      "options": [
+        "intake. What is the recommended daily sodium intake?",
+        "1000 mg/day"
+      ],
+      "correctAnswer": null,
+      "explanation": "Older adults with heart failure should limit sodium intake to 1500 mg daily. It is alright to consume 1000 mg of sodium daily, though the patient can have more. Daily consumption of 2000 mg or 2300 mg of sodium is higher than recommended for this patient."
+    },
+    {
+      "id": "nutrition-ch19-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which food helps train taste preferences to adapt to a lowered sodium intake? Select all that apply.",
+      "options": [
+        "| Onion"
+      ],
+      "correctAnswers": [],
+      "explanation": "Many seasonings, such as lemon, onion, garlic, nonfat milk and yogurt, wine, fat-free/low-sodium broth, herbs, and spices, can help to train taste preferences for a lower-sodium diet. Grilled chicken and butter do not train taste preferences to adapt to a lowered sodium intake."
+    },
+    {
+      "id": "nutrition-ch19-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which phrase describes a systolic blood pressure of 130 to 139 mm Hg or a diastolic blood pressure of 80 to 89 mm Hg? rv) © Stage 1 hypertension",
+      "options": [
+        "Stage 2 hypertension",
+        "Elevated blood pressure",
+        "Normal blood pressure"
+      ],
+      "correctAnswer": null,
+      "explanation": "Stage 1 hypertension is defined as a systolic blood pressure of 130 to 139 mm Hg or a diastolic blood pressure of 80 to 89 mm Hg. Stage 2 hypertension is classified as a systolic blood pressure of 140 mm Hg or greater or a diastolic blood pressure of 90 mm Hg or greater. Elevated blood pressure, also known as prehypertension, is defined as a systolic blood pressure of 120 to 129 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Normal blood pressure is defined as a systolic blood pressure of less than 120 mm Hg and a diastolic blood pressure of less than 80 mm Hg. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch19-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which description of the Dietary Approaches to Stop Hypertension (DASH) diet eating plan would the nurse provide to a patient who was recently diagnosed with stage 2 hypertension? Cy) © Eat lean meats, beans, and nuts.",
+      "options": [
+        "Eat low-fiber grains and low-sodium foods.",
+        "Eat four servings of low-fat dairy foods per day.",
+        "Eat three servings of fruit and three servings of vegetables per day."
+      ],
+      "correctAnswer": null,
+      "explanation": "The DASH diet is the result of the DASH landmark study, in which blood pressure was significantly lowered by diet alone over 2 weeks. The DASH diet recommends eating lean meats, beans, and nuts. The diet recommends eating high-fiber, not low-fiber, foods and low-sodium foods. It also recommends eating two to three servings of low-fat dairy foods per day, not four servings. Further, the diet recommends eating four to six servings of fruits and four to six servings of vegetables per day, not three servings. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten. pp. 360-361"
+    },
+    {
+      "id": "nutrition-ch19-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which patient has the highest risk for atherosclerosis?",
+      "options": [
+        "A 60-year-old Caucasian man with high levels of high-density-lipoprotein cholesterol",
+        "@ A 55-year-old postmenopausal African American woman",
+        "A 40-year-old man with poor diet quality and high levels of inflammatory markers",
+        "A35-year-old woman with a body mass index (BMI) of 30 kg/m 2 and a history of cigarette smoking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 55-year-old postmenopausal African American woman has the highest risk for atherosclerosis. Her age and race put her at a higher risk than the others. Although men have a greater risk of developing atherosclerosis than do women, the relative risks are similar for both sexes after women reach menopause. High levels of high-density-lipoprotein cholesterol are protective against atherosclerosis. Poor diet quality, high levels of inflammatory markers, high BMI, and cigarette smoking are modifiable risk factors that could impact risk, particularly for men and women in their 30s and early 40s."
+    },
+    {
+      "id": "nutrition-ch19-076",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "The nurse is reviewing the medical record of a patient admitted to the hospital with cardiovascular disease. Which statement made by the patient is the nurse’s highest priority for addressing?",
+      "options": [
+        "\"My cholesterol level last week was 199 mg/dL.\"",
+        "\"My body mass index (BMI) is 19.0 kg/m a",
+        "@ \"My father died of a heart attack.\"",
+        "\"My mother has diabetes and high blood pressure.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "There is a strong genetic predisposition for cardiovascular disease. The patient’s father (a first-degree relative) died of a coronary event, increasing the patient’s risk for a heart attack. A total cholesterol level of less than 200 mg/dL is considered optimal. A BMI of 19.0 kg/m 2 is normal. The fact that the patient’s mother has diabetes and high blood pressure increases the patient’s risk for those illnesses, but they are of a less- immediate concern in this scenario. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch19-077",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 19",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient with a history of atherosclerosis is admitted to the coronary care unit after myocardial infarction. Which diet order does the nurse anticipate for this patient? rv) © Liquid diet as tolerated",
+      "options": [
+        "Low-sodium diet",
+        "Low-fat, high-protein diet",
+        "Meals supplemented with Ensure"
+      ],
+      "correctAnswer": null,
+      "explanation": "The focus of a patient with myocardial infarction is to reduce the workload of the heart. As such, the patient is placed on liquids and may progress food consistency as tolerated. A low-sodium diet is recommended for patients with hypertension. Low-fat, high-protein diets are optimal for patients recovering from surgery or those with depleted energy stores. Supplementing meals with Ensure is usually recommended for patients with poor oral intake."
+    }
+  ]
+}

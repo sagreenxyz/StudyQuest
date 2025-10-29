@@ -1,0 +1,1039 @@
+{
+  "name": "Nutrition Food Habits and Cultural Patterns",
+  "description": "Chapter 14 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch14-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which meal is the largest meal of the day according to the traditional meal patterns in a Mexican diet?",
+      "options": [
+        "Breakfast",
+        "Brunch"
+      ],
+      "correctAnswer": null,
+      "explanation": "Traditional meal patterns in a Mexican diet focus on lunch as the largest meal of the day, with a lighter breakfast and dinner. Brunch is not part of a traditional meal pattern in a Mexican diet. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options . Example: If the item relates to and identifies stroke rehabilitation as its focus and only one of the options contains the word stroke in relation to rehabilitation, you are safe in identifying this choice as the correct response."
+    },
+    {
+      "id": "nutrition-ch14-002",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "a Children’s consumption of which type of food is rarely affected by marketing influences? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Advertising strategies that use brand mascots and cartoon media characters on food packaging greatly affect children’s eating patterns by increasing the preference for products bearing the familiar character logo. Because fresh fruits and vegetables are not processed or packaged, they rarely include such logos. Hence their consumption by children are rarely affected by marketing influences. Foods such as cereal, candies, and carbonated drinks often use brand mascots and cartoon media characters on their packaging, which affects children’s preference for these items."
+    },
+    {
+      "id": "nutrition-ch14-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which is a physiologic factor that influences personal food choice?",
+      "options": [
+        "Available food supply",
+        "Allergies",
+        "Food technology",
+        "Geography"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Allergies are a physiologic factor that influences personal food choices. Available food supply, food technology, and geography are physical factors that influence personal food choices. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: [f you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch14-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which religious group follows the strictest observance of Jewish food laws?",
+      "options": [
+        "Islam",
+        "Reform"
+      ],
+      "correctAnswer": null,
+      "explanation": "One of the three most common groups within Judaism, orthodox Jews, follow the strictest observance of Jewish food laws. Islamic teachings guide Muslim dietary laws, not Jewish food laws. Reform Jews, one of the three most common groups within Judaism, has less ceremonial emphasis on Jewish food laws and minimal general use. The conservative Jews, one of the three most common groups within Judaism, are less strict in their observance of Jewish food laws, whereas orthodox Jews follow Jewish food laws with strict observance."
+    },
+    {
+      "id": "nutrition-ch14-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is served as a symbol of sacrifice during Eid-al-Fitr?",
+      "options": [
+        "Veal"
+      ],
+      "correctAnswer": null,
+      "explanation": "At the end of Ramadan, during Eid-al-Fitr, a whole lamb is served as a symbol of sacrifice. Veal is served during Eid-al-Fitr, but it does not represent sacrifice; it is one of the many delicacies symbolizing the joy of returning from fasting. Rich pastries and other sweets conclude the post-Ramadan meal symbolizing the joy of returning from fasting and the heightened sense of unity, goodwill, and charity that the fasting experience has brought to the people. Chicken is served during Eid-al-Fitr, but it does not represent sacrifice; it is one of the many delicacies symbolizing the joy of returning from fasting. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch14-006",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which country has strongly influenced Asian cultural food patterns commonly found in the United States? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Asian cultural food patterns most commonly encountered in the United States have been influenced by several countries, including India. China and Japan have influenced Asian cultural food patterns commonly found in the United States. Some southeastern Asian countries like Vietnam and the Philippines have strongly influenced Asian cultural food patterns commonly encountered in the United States."
+    },
+    {
+      "id": "nutrition-ch14-007",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which fruit is typically found in an African-American diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The fruit group of the African-American population typically includes peaches, bananas, and watermelon. Avocados are not typically consumed by African Americans. Strawberries and other berries are not usually included in the African-American diet."
+    },
+    {
+      "id": "nutrition-ch14-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which religion’s dietary practices prohibits or strongly discourages beef consumption?",
+      "options": [
+        "Eastern Orthodox Catholicism",
+        "Islam",
+        "Judaism"
+      ],
+      "correctAnswer": null,
+      "explanation": "Hindu dietary practices prohibits or strongly discourages the consumption of beef. The consumption of beef is not prohibited in Eastern Orthodox, Jewish, and Muslim religious dietary practices."
+    },
+    {
+      "id": "nutrition-ch14-010",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "SE Which food or drink is traditionally consumed at sunset to break the daily fast during Ramadan? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During Ramadan, Muslims all over the world fast daily by taking no food or drink from dawn until sunset. They traditionally break the daily fast by eating an odd number of dates and having a glass of water or another beverage. Consumption of pork and any form of alcohol is traditionally prohibited in Islam. Coffee and fish are not the traditional foods consumed at the breaking of fast during Ramadan."
+    },
+    {
+      "id": "nutrition-ch14-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which culture’s dietary pattern is often recommended by health care providers as an effective method for cardiovascular disease prevention?",
+      "options": [
+        "African American",
+        "Native American",
+        "Puerto Rican American"
+      ],
+      "correctAnswer": null,
+      "explanation": "Mediterranean dietary pattern is high in heart-healthy fats, vitamins, minerals, fiber, and antioxidants. Individuals following a Mediterranean food pattern have a lower risk for cardiovascular disease. African- American, Native-American and Puerto-Rican-American diets are not usually recommended by health care providers as effective methods for cardiovascular disease prevention. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some Casé€s, responses."
+    },
+    {
+      "id": "nutrition-ch14-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which meal pattern represents that of a traditional Mexican diet?",
+      "options": [
+        "Wine is served with most meals.",
+        "Lunch is the largest meal of the day.",
+        ", Dinner is the largest meal of the day.",
+        "Soup is included with lunch and dinner."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional meal patterns of the Mexican diet focus on lunch as the largest meal of the day, with a lighter breakfast and dinner. Including wine with most meals is a tradition that is part of the meal pattern of Italians, not Mexicans. Mexican Americans, not traditional Mexicans, follow the American eating patterns, which include dinner as the largest meal of the day. The Japanese food pattern includes a bowl of soup with both lunch and dinner; it is not a Mexican meal pattern."
+    },
+    {
+      "id": "nutrition-ch14-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which hormone is responsible for making a person \"feel good,\" giving a mild \"high\" by easing the sensation of pain with pleasurable flavors?",
+      "options": [
+        "Testosterone",
+        "Progesterone"
+      ],
+      "correctAnswer": null,
+      "explanation": "Certain foods, particularly sweets and other pleasurable flavors, stimulate \"feel good\" hormones in the brain called endorphins that give a mild \"high\" that may help ease the sensation of pain. Testosterone is a male sex hormone secreted by the testes. Progesterone and estrogen are female sex hormones."
+    },
+    {
+      "id": "nutrition-ch14-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which culture introduced \"soul food\" during the Civil Rights movement in the 1960s?",
+      "options": [
+        "Native American",
+        "French American"
+      ],
+      "correctAnswer": null,
+      "explanation": "African Americans introduced \"soul food\" during the Civil Rights movement in the 1960s, creating wholesome food that uses everything available. Native Americans did not develop \"soul food\"; their dietary pattern depends on which food is grown locally, harvested, hunted, or fished in each region. French Americans have contributed a unique cuisine by developing a distinctive food pattern from the available seafood and from what they could grow and harvest; this is not considered \"soul food.\" Central Americans did not introduce \"soul food\"; their dishes center on corn, tomatoes, squashes, chilies, avocado, rice, legumes, and various fruits; they also have Asian, European, and African influences."
+    },
+    {
+      "id": "nutrition-ch14-015",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "In which way do the dietary laws of a religion direct dietary intake? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The dietary laws of a religion may specify how food can be eaten, when food can be eaten, which foods should be avoided, and how the food should be prepared. The dietary laws of religion do not specify who can eat food."
+    },
+    {
+      "id": "nutrition-ch14-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which description of food laws observed by basic groups within Judaism is correct?",
+      "options": [
+        "Conservative, with conditional use of food laws"
+      ],
+      "correctAnswer": null,
+      "explanation": "A basic group within the religion of Judaism is the Orthodox, who practice strict observance. The remaining groups include Conservative, with less strict observance, and Reform, with minimal general use. Reform, not Orthodox, has less ceremonial emphasis on food laws. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch14-017",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which feature is a characteristic of dietary pattern of Cajun cuisine? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Cajun foods have abundant seafood as a base, which is usually cooked as a stew and served over rice. Wine is a staple for drinking and cooking for the Cajuns and French Canadians because of its French heritage. Fat sources in traditional Cajun cooking include poultry fat. Cajun foods have strong, spicy flavors. Milk and yogurt are not heavily used in traditional dishes. pp. 241-242"
+    },
+    {
+      "id": "nutrition-ch14-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which food is part of the historical dietary patterns of Native American cuisine? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Blue corn flour used to make cornbread and mush dumplings, wild bananas, and smoked meat are some of the foods that are part of the historical dietary patterns of Native American cuisine. Fats that are part of the historical dietary patterns of Native American cuisine include lard and shortening, not olive oil. Dairy products like milk, yogurt, and cheese are not heavily used in the traditional dishes of Native Americans."
+    },
+    {
+      "id": "nutrition-ch14-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which Mediterranean culture has a dietary pattern that includes plentiful portions of",
+      "options": [
+        "vegetables frequently served as the main entrée?"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Greek culture frequently serves plentiful portions of vegetables as the main entrée, although sources of protein include lamb, chicken, and fish. Italian dishes include few high-quality ingredients; vegetables are served by themselves, mixed in main dishes, or added to soups, sauces, and salads. China is one of the Asian countries, not Mediterranean. Japan is an Asian country, not from the Mediterranean region."
+    },
+    {
+      "id": "nutrition-ch14-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physical factor influences personal food choices? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The availability of food supply is a physical factor that has an influence on personal food choices; food is chosen according to what is available and affordable. Sanitation and housing is a physical factor that has an influence on personal food choices; living conditions determine what food can be purchased and prepared. Storing and cooking food is a concern for those in poor living conditions and has an influence on food choices. The geographic area, local agriculture, and the distribution of available food have an influence on personal food choices. Advertising and marketing is a social factor, not a physical factor, that has an influence on personal food choices."
+    },
+    {
+      "id": "nutrition-ch14-021",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which risk is lowered as a result of following a Mediterranean diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Individuals following a Mediterranean diet have an overall lower risk for mortality, cancer, and neurodegenerative diseases because of healthy fats, vitamins, minerals, fiber, and antioxidants included in the diet. The risk for diabetes is lowered as a result of following a Mediterranean diet, and the risk for developing cardiovascular disease is lower because the diet is high in heart-healthy mono- and polyunsaturated fats."
+    },
+    {
+      "id": "nutrition-ch14-022",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "According to research, which benefit is associated with family meals? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "According to research, when families regularly sit down to eat meals together, there is a lower risk for obesity in adulthood because of healthier food choices. Increased fruit and vegetable intake, and decreased intake of unhealthy foods occur when families have meals together. When families sit down to eat meals together, there is a decreased risk for disordered eating. Research has shown that family meals are positively associated with improved academic performance. Family meals may be protective against alcohol and substance use among children. Test-Taking Tip: Answer the question that is asked. Read the situation and the question carefully, looking for key words or phrases. Do not read anything into the question or apply what you did in a similar situation during one of your clinical experiences. Think of each question as being an ideal, yet realistic, situation."
+    },
+    {
+      "id": "nutrition-ch14-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Individuals who practice which faith avoid consuming beef products? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Hindu religious dietary practice prohibits or strongly discourages beef consumption. In the Buddhist religion, beef is avoided by the most devout. The Jewish faith allows for the consumption of meat including beef, but it cannot be consumed at the same time as dairy. Muslims, who practice Islam, have some restrictions on the consumption of beef, but it is not forbidden. During Lent, Roman Catholics must avoid all meat on Fridays, but otherwise, beef is allowed in the Catholic faith."
+    },
+    {
+      "id": "nutrition-ch14-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Figs and olives are mentioned in the Quran as having special value to physical and social health. According to the Quran, honey is a food that also has special value to physical and social health. Buttermilk is mentioned in the Quran as having special value to physical and social health. Pork is considered a haram food, which is forbidden by Muslim dietary laws. Alcohol in any form is forbidden by Muslim dietary laws. Test-Taking Tip: Avoid spending excessive time on any one question. Most questions can be answered in 1 to 2 minutes."
+    },
+    {
+      "id": "nutrition-ch14-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food pattern differentiates Mexican American cuisine from traditional Mexican cuisine? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Mexican Americans use less lard than traditional Mexicans. More dairy products are consumed by Mexican Americans than traditional Mexicans. Mexican Americans tend to follow American eating patterns, which include dinner as the largest meal of the day. Because of a more Americanized diet leading to poor dietary habits, Mexican Americans are prone to develop more chronic diseases than traditional Mexicans. Traditional Mexicans still focus on lunch as the largest meal of the day. pp. 238-239"
+    },
+    {
+      "id": "nutrition-ch14-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which religion abstains from consuming pork? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Religions that abstain from pork include Islam, Buddhism, Hinduism, and Seventh-Day Adventism. Mormons do not restrict the consumption of pork."
+    },
+    {
+      "id": "nutrition-ch14-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food has special value for Muslims, based on the Islamic teachings of the Quran? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Foods that Muslims consider to have special value based on the teachings of the Quran include figs, olives, dates, milk, honey, and buttermilk. Fermented fruit is strictly prohibited due to the breakdown of sugars into alcohol."
+    },
+    {
+      "id": "nutrition-ch14-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which religion’s dietary practices permits leavened food with some restrictions?",
+      "options": [
+        "Hinduism"
+      ],
+      "correctAnswer": null,
+      "explanation": "Jewish dietary practices permit leavened food, but not during Passover. Hindu, Muslim, and Mormons dietary practices do not have any restriction on leavened food."
+    },
+    {
+      "id": "nutrition-ch14-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which feature describes the impact of changing household dynamics on food patterns? Select all that apply.",
+      "options": [
+        "| Increasing portion sizes"
+      ],
+      "correctAnswers": [],
+      "explanation": "Changing household dynamics have led people increasingly to rely on spending less time preparing and cooking meals. They are eating out more frequently. Growing portion sizes are a concerning trend in typical American meals and snacks. Rarely do families regularly sit down to eat meals together anymore, particularly for breakfast and lunch. The number of snacks that Americans consume has remained relatively stable, but the percentage of calories coming from snacks is increasing at a faster rate as compared with the increase in calories coming from meals. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch14-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food item is considered of special value to health in the Quran? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Islamic dietary law outlines foods that are permissible, called halal, based on what it is and how individuals obtain and prepare the food. The Quran mentions certain foods as being of special value to physical and social health, including figs, dates, and buttermilk. Foods forbidden by Islamic dietary law are haram. Haram foods include pork and alcohol in any form."
+    },
+    {
+      "id": "nutrition-ch14-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food product can be consumed according to Jewish dietary laws? Select all that apply.",
+      "options": [
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Jewish dietary laws allow the consumption of meats that come from animals that chew their cud and that have cloven hooves such as beef, dairy products, and eggs. However, kosher laws do not permit consumption of meat and milk products at the same meal or prepared with the same dishes. Eggs can be consumed with either dairy or meat, but eggs containing a blood spot cannot be consumed. Jewish dietary laws restrict the consumption of pork, fish without fins and scales, and shellfish."
+    },
+    {
+      "id": "nutrition-ch14-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which advertising strategy targets children and can affect their eating patterns?",
+      "options": [
+        "Advertising on television",
+        "Marketing at the grocery store",
+        "labeling fresh fruits and vegetables",
+        "Using brand mascots and cartoon characters on food packages"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advertising strategies that use brand mascots and cartoon media characters on food packages greatly affect children’s eating patterns by increasing the preference for products bearing the familiar character logo. Television advertising can play a part in children’s food choices, but using mascots and cartoon characters on food packaging are directly aimed at children. Children are not usually affected by marketing at the grocery store because most marketing is targeted to the adult shoppers. Fresh fruits and vegetables are not processed or packaged and rarely have any type of advertising logo. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: [f you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch14-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which meal is acceptable for a patient in accordance with Jewish dietary laws (kashrut)? Cy) © Chicken, rice, peas, and tea",
+      "options": [
+        "Shrimp, broccoli, rice, and juice",
+        "Steak, potatoes, green beans, and milk",
+        "Pork roast, potatoes, cabbage, and coffee"
+      ],
+      "correctAnswer": null,
+      "explanation": "The meal consisting of chicken, rice, peas, and tea is acceptable for a patient following kashrut laws. Shellfish (e.g., shrimp) are not permitted. Meat and dairy are not consumed together, so the meal consisting of steak, potatoes, green beans, and milk is not acceptable. Pork roast, potatoes, cabbage, and coffee are not acceptable because the consumption of pork is not permitted."
+    },
+    {
+      "id": "nutrition-ch14-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which food is part of the historical dietary patterns of Native American cuisine? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Blue corn flour used to make cornbread and mush dumplings, wild bananas, and smoked meat are some of the foods that are part of the historical dietary patterns of Native American cuisine. Fats that are part of the historical dietary patterns of Native American cuisine include lard and shortening, not olive oil. Dairy products like milk, yogurt, and cheese are not heavily used in the traditional dishes of Native Americans."
+    },
+    {
+      "id": "nutrition-ch14-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physical factor influences personal food choices? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The availability of food supply is a physical factor that has an influence on personal food choices; food is chosen according to what is available and affordable. Sanitation and housing is a physical factor that has an influence on personal food choices; living conditions determine what food can be purchased and prepared. Storing and cooking food is a concern for those in poor living conditions and has an influence on food choices. The geographic area, local agriculture, and the distribution of available food have an influence on personal food choices. Advertising and marketing is a social factor, not a physical factor, that has an influence on personal food choices."
+    },
+    {
+      "id": "nutrition-ch14-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Individuals who practice which faith avoid consuming beef products? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Hindu religious dietary practice prohibits or strongly discourages beef consumption. In the Buddhist religion, beef is avoided by the most devout. The Jewish faith allows for the consumption of meat including beef, but it cannot be consumed at the same time as dairy. Muslims, who practice Islam, have some restrictions on the consumption of beef, but it is not forbidden. During Lent, Roman Catholics must avoid all meat on Fridays, but otherwise, beef is allowed in the Catholic faith."
+    },
+    {
+      "id": "nutrition-ch14-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is consumed by individuals who practice Islam because the food represents a special value to physical and social health? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Figs and olives are mentioned in the Quran as having special value to physical and social health. According to the Quran, honey is a food that also has special value to physical and social health. Buttermilk is mentioned in the Quran as having special value to physical and social health. Pork is considered a haram food, which is forbidden by Muslim dietary laws. Alcohol in any form is forbidden by Muslim dietary laws. Test-Taking Tip: Avoid spending excessive time on any one question. Most questions can be answered in 1 to 2 minutes."
+    },
+    {
+      "id": "nutrition-ch14-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food pattern differentiates Mexican American cuisine from traditional Mexican cuisine? Select all that apply.",
+      "options": [
+        "| More chronic diseases are caused by poor dietary habits."
+      ],
+      "correctAnswers": [],
+      "explanation": "Mexican Americans use less lard than traditional Mexicans. More dairy products are consumed by Mexican Americans than traditional Mexicans. Mexican Americans tend to follow American eating patterns, which include dinner as the largest meal of the day. Because of a more Americanized diet leading to poor dietary habits, Mexican Americans are prone to develop more chronic diseases than traditional Mexicans. Traditional Mexicans still focus on lunch as the largest meal of the day. pp. 238-239"
+    },
+    {
+      "id": "nutrition-ch14-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which traditional dietary staple is found in the Native American diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Traditional dietary staples found in the Native American diet include rice, maize, and beans. Beets are a vegetable frequently consumed by Caribbean populations. Avocado is a fruit consumed largely by Mexican populations."
+    },
+    {
+      "id": "nutrition-ch14-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which diet change has occurred with the acculturation of Latinos living in the United States? Select all that apply.",
+      "options": [
+        "| Intake of empty calories"
+      ],
+      "correctAnswers": [],
+      "explanation": "The overall diet quality of accultured Latinos living in the United States has declined, according to researchers. Increased sodium intake, increased intake of empty calories, and less fruit and vegetable intake have occurred with the acculturation of Latinos living in the United States. Hispanic individuals who are less accultured tend to follow dietary patterns that are more compliant with the ADA's guidelines."
+    },
+    {
+      "id": "nutrition-ch14-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which problem is common in individuals struggling with food insecurity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Individuals struggling with food insecurity because of their socioeconomic situation suffer from unnecessary illness resulting in greater health care costs. Higher rates of chronic disease and poor physical and mental health outcomes are common in individuals struggling with food insecurity. Food neophobia, a fear of new food, is not acommon problem for individuals struggling with food insecurity. Individuals struggling with food insecurity do not necessarily have poor attitudes about food."
+    },
+    {
+      "id": "nutrition-ch14-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor that influences food choices is rooted in childhood experiences and has a psychologic impact? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food neophobia may be a trigger for the picky eating habits of a toddler who is using food to show independence; this may also carry over to adulthood as a fear of new food. When parents offer a \"treat\" to a child as a distraction from pain or disappointment, it may carry over into adulthood and the same type of foods trigger endorphins in the brain. Nutrition literacy is a social factor that is not rooted in childhood experiences; it is learned throughout adulthood. Health and disease status is not rooted in childhood experiences; health and disease are developed according to an individual’s lifestyle and eating patterns. Alcoholism and drug abuse are social problems that develop in adolescence or adulthood; they are not rooted in childhood experiences. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch14-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "I Which physiologic factor influences personal food choices? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nutrient and energy needs and health and disease status are all physiologic factors that influence personal food choices. Nutrition literacy is a social factor that influences food choices, not a physiologic factor. Food preference is a psychologic, not physiologic, factor that has an influence on personal food choices. Attitudes about food are a psychologic, not physiologic, factor that has an influence on personal food choices."
+    },
+    {
+      "id": "nutrition-ch14-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement describes how family relationships and friendships influence personal food habits? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food or food advice is readily accepted from friends and acquaintances and can have an influence on personal food habits. A type of food used as a \"treat\" to distract a child is often recalled by the adult who will use this comfort food to cope with stress. Food is a symbol of acceptance, warmth, and friendliness in social relationships and can have a positive influence on personal food habits. During adulthood, certain foods may trigger a flood of childhood memories; these triggers of family sentiments stay with people throughout their lives. Religious dietary laws, not family relationships, determine which foods should be consumed or avoided for religious purposes."
+    },
+    {
+      "id": "nutrition-ch14-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "According to a biopsychosocial model, which factor influences individual food choices? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A biopsychosocial model proposes that biologic or genetically based factors have a main influence on individual food choices. Environmental and societal influences are main factors in personal food choices according to a biopsychosocial model. Ethnic and regional cultural practices influence the establishment of food traditions early in life, which influence individual food choices. The behavioral environment, including family relationships, is a main influence on personal food choices, according to a biopsychosocial model. Food neophobia is not one of the main influences on individual food choices; it is a normal developmental trait from the evolutionary past that protected children from eating harmful foods."
+    },
+    {
+      "id": "nutrition-ch14-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Although there are many variations of the Mediterranean diet, which beneficial food do they all have in common? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Fatty fish and olive oil; nuts and whole grains; and fruits, vegetables, and legumes are beneficial foods included in all variations of the Mediterranean diet. High-glycemic foods are not beneficial and are usually avoided by reducing the intake of processed and packaged foods. Processed and packaged foods are usually avoided when following a Mediterranean diet because it reduces the intake of trans fats, added sugar, and high-glycemic foods."
+    },
+    {
+      "id": "nutrition-ch14-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which recommendation about economic buying can be offered to a patient to help promote a healthy lifestyle for all members of a family? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Understanding proper portion size is important when planning meals and buying in bulk; often food purchased this way has spoiled before it has been used. A patient must be educated on the correct way to purchase food in bulk to buy the proper amount and consume it before it spoils. When purchasing in large quantities, it is important to store food properly so that it maintains its freshness for later use. It is not necessary to avoid warehouse stores, but the patient should be educated on how to properly plan to use large quantities efficiently. Snack items purchased at warehouse clubs are often high in added sugars, sodium, saturated fat, and overall calories; this should be considered but does not necessarily require all snacks to be avoided."
+    },
+    {
+      "id": "nutrition-ch14-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is served as the first course of the Sabbath evening meal? TOM",
+      "options": [
+        "Challah",
+        "Borscht",
+        "Gefilte fish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gefilte fish is usually served as the first course of the Sabbath evening meal. Lox, smoked salmon, and salted salmon are not served as the first course of the Sabbath evening meal. Challah is served at the beginning of the Sabbath meal after the blessing over the wine and before the first course of the meal. Borscht is not served as the first course of the Sabbath evening meal. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch14-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food restriction is governed by current Jewish dietary laws? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Under current Jewish dietary laws, pork, rabbit, and birds of prey must be avoided to follow a kosher diet. Eggs are permitted under kosher laws, but if they contain a blood spot they should not be consumed. Shellfish and crustacean consumption is not permitted, but kosher law allows its followers to consume fish with fins and scales. Under current Jewish dietary laws, meat and milk products are allowed, but they cannot be consumed together or prepared with the same dishes. Appropriate meats under kosher law should come from animals that chew their cud and have cloven hooves."
+    },
+    {
+      "id": "nutrition-ch14-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "When Muslims observe Ramadan, which dietary restriction is followed? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Ramadan is a 30-day period of a sacred fasting during daylight; no food or drink is consumed from dawn until sunset. At sunset, the family breakfast, called the iftar, is consumed when the daily fast is broken. Before the family breakfast, the daily fast is broken by consuming an odd number of dates and a glass of water or other beverage. Alcohol, including wine, is forbidden by Muslim dietary laws. All Muslims past the age of puberty, regardless of medical condition, observe the fast of Ramadan; if complications occur, such as those that can occur with diabetes, they may abstain from the fast, but they are required to make up the days of fasting before the next Ramadan fast."
+    },
+    {
+      "id": "nutrition-ch14-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which factor has contributed to the American Indian population having the highest rates of type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Genetic factors, which are hereditary and cannot be controlled, is one factor causing the American Indian population to have the highest rates of type 2 diabetes. Another factor is changing dietary patterns, such as increasing fast-food intake. Socioeconomic factors contribute to the American Indian population having the highest rates of type 2 diabetes. An increasing reliance on modern convenience and snack foods contributes to health concerns leading to type 2 diabetes because these foods are high in fat, sugar, calories, and sodium. Traditional staples of American Indians, now combined with modern food products from supermarkets, is another factor affecting the health of the American Indian population because of the reliance on unhealthy foods. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch14-052",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which change in the American household affects food patterns and overall nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Americans are eating out more frequently than in the past because of changing family structures and time constraints. Unhealthy food choices may be easier and quicker for families on the run. The number of women in the workforce has increased over the years, decreasing the time available for planning, preparing, and cooking healthy meals. Subsequently, food is prepared and consumed outside the home and may not have the nutrition value of a home-cooked meal. Because women are working outside the home, they have less time to spend on preparing and cooking meals, resulting in fast-food choices or other less nutritious meals. Often, women are the primary or sole earners in the household and may rely on meals that are less expensive, often having less nutritional value. Food items and cooking methods that save time, space, and labor are important for American households because of convenience; this often results in unhealthy food habits."
+    },
+    {
+      "id": "nutrition-ch14-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which fact about portion sizes has raised concerns regarding Americans dining at fast-food restaurants? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Along with larger portion sizes, sodium content in fast-food menu items has increased significantly. Portion sizes of processed foods have increased over the past several decades, along with increased consumption of processed foods, leading to an unhealthy diet pattern. Consumption of larger portions of nutrient-poor foods has increased because of changes to fast-food menu offerings and Americans dining frequently at fast-food restaurants. Healthy eating patterns include portion size control; however, when presented with larger portion sizes, it is more difficult to control food consumption. Most consumers continue to eat and drink relative to the amount of food and beverage served, instead of in response to their actual hunger and energy needs."
+    },
+    {
+      "id": "nutrition-ch14-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is a leading cause of food insecurity for many American families? Select all that apply.",
+      "options": [
+        "| High cost of healthy diet"
+      ],
+      "correctAnswers": [],
+      "explanation": "The dietary patterns that are recommended by the U.S. Department of Agriculture are nutrient dense but more costly than the typical American diet. Poverty and high cost of a healthy diet are the leading causes of food insecurity for many American families. Limited agricultural produce and influence of social media are not leading causes of food insecurity in America. High taxation on \"junk food\" is not a cause of food insecurity either. In fact, it is expected that a high taxation on such foods will help decrease the consumption of such foods and subsidize the cost of healthy choices."
+    },
+    {
+      "id": "nutrition-ch14-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which item from the bread, cereal, rice, and pasta group is commonly served as part of African-American and Cajun cuisine? Select all that apply.",
+      "options": [
+        "Hushpuppies"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Grits are an item from the bread, cereal, rice, and pasta group that is served as part of African-American and Cajun cuisine. Both the African-American and Cajun ethnic groups serve hushpuppies as part of their cuisine. Biscuits are not served as part of Cajun cuisine, but they are part of African-American cuisine. Cush-cush is only served as part of Cajun cuisine, not African-American cuisine. Spoonbread is a type of cornbread served by African Americans, not Cajuns. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch14-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which ethnic group has historically used lard as the fat in meal preparation? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Mexicans have historically used lard as the only fat in meal preparation. Caribbean people typically use lard in meal preparation, along with olive and peanut oil. Native Americans use lard and shortening as the fat in meal preparation. African Americans use lard in meal preparation, along with shortening and vegetable oils. The Japanese use soy and rice oil, not lard, in meal preparation. French/Cajun people typically use poultry fat, not lard, in meal preparation. pp. 239, 241"
+    },
+    {
+      "id": "nutrition-ch14-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor has resulted in reduced geographic and ethnic boundaries that have historically preserved food cultures?",
+      "options": [
+        "Less time for traditional food preparation",
+        "Dilution of traditional food patterns by younger generations",
+        "Increased availability of various ethnic food markets and restaurants"
+      ],
+      "correctAnswer": null,
+      "explanation": "Globalization and the increased flow of technology, information, goods, and people across borders have resulted in the spread of various culture-specific elements, effectively reducing geographic and ethnic boundaries. After the spread of culture-specific elements, lifestyle changes have provided less time for traditional food preparation. Younger generations opting for more diverse cuisines have caused a dilution of traditional food patterns; this is a result of the reduction of geographic and ethnic boundaries. As people have crossed borders and brought traditions and food cultures with them, there has been an increased availability of various ethnic food markets and restaurants; this is a result of the reduction of geographic and ethnic boundaries, not a factor causing it."
+    },
+    {
+      "id": "nutrition-ch14-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which factor has influenced changes in American food patterns? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Portion sizes of processed foods have increased substantially, leading Americans to overeat because serving sizes are unnecessarily large; most consumers continue to eat and drink relative to the amount of food and beverage served instead of in response to their actual hunger and energy needs. Fast-food menu options have increased and are less healthy because of significant increase in energy content and sodium content; this is problematic because of the frequency with which Americans dine at fast-food restaurants. Family structures have changed, and women currently make up nearly 47% of the workforce in the United States; working parents rely on food items and cooking methods that save time, space, and labor. Although research shows that family meals have many benefits, families rarely sit down to eat meals together. Structured mealtimes have decreased, not increased, over the past 40 years, leading in part to unhealthy snacking."
+    },
+    {
+      "id": "nutrition-ch14-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which traditional dietary staple is found in the Native American diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Traditional dietary staples found in the Native American diet include rice, maize, and beans. Beets are a vegetable frequently consumed by Caribbean populations. Avocado is a fruit consumed largely by Mexican populations."
+    },
+    {
+      "id": "nutrition-ch14-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which problem is common in individuals struggling with food insecurity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Individuals struggling with food insecurity because of their socioeconomic situation suffer from unnecessary illness resulting in greater health care costs. Higher rates of chronic disease and poor physical and mental health outcomes are common in individuals struggling with food insecurity. Food neophobia, a fear of new food, is not acommon problem for individuals struggling with food insecurity. Individuals struggling with food insecurity do not necessarily have poor attitudes about food."
+    },
+    {
+      "id": "nutrition-ch14-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement describes how family relationships and friendships influence personal food habits? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food or food advice is readily accepted from friends and acquaintances and can have an influence on personal food habits. A type of food used as a \"treat\" to distract a child is often recalled by the adult who will use this comfort food to cope with stress. Food is a symbol of acceptance, warmth, and friendliness in social relationships and can have a positive influence on personal food habits. During adulthood, certain foods may trigger a flood of childhood memories; these triggers of family sentiments stay with people throughout their lives. Religious dietary laws, not family relationships, determine which foods should be consumed or avoided for religious purposes."
+    },
+    {
+      "id": "nutrition-ch14-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "According to a biopsychosocial model, which factor influences individual food choices? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A biopsychosocial model proposes that biologic or genetically based factors have a main influence on individual food choices. Environmental and societal influences are main factors in personal food choices according to a biopsychosocial model. Ethnic and regional cultural practices influence the establishment of food traditions early in life, which influence individual food choices. The behavioral environment, including family relationships, is a main influence on personal food choices, according to a biopsychosocial model. Food neophobia is not one of the main influences on individual food choices; it is a normal developmental trait from the evolutionary past that protected children from eating harmful foods."
+    },
+    {
+      "id": "nutrition-ch14-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which recommendation about economic buying can be offered to a patient to help promote a healthy lifestyle for all members of a family? Select all that apply.",
+      "options": [
+        "|B] Understand proper portion sizes."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Understanding proper portion size is important when planning meals and buying in bulk; often food purchased this way has spoiled before it has been used. A patient must be educated on the correct way to purchase food in bulk to buy the proper amount and consume it before it spoils. When purchasing in large quantities, it is important to store food properly so that it maintains its freshness for later use. It is not necessary to avoid warehouse stores, but the patient should be educated on how to properly plan to use large quantities efficiently. Snack items purchased at warehouse clubs are often high in added sugars, sodium, saturated fat, and overall calories; this should be considered but does not necessarily require all snacks to be avoided."
+    },
+    {
+      "id": "nutrition-ch14-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is served as the first course of the Sabbath evening meal? Cy) © Gefilte fish",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Gefilte fish is usually served as the first course of the Sabbath evening meal. Lox, smoked salmon, and salted salmon are not served as the first course of the Sabbath evening meal. Challah is served at the beginning of the Sabbath meal after the blessing over the wine and before the first course of the meal. Borscht is not served as the first course of the Sabbath evening meal. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch14-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is a leading cause of food insecurity for many American families? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The dietary patterns that are recommended by the U.S. Department of Agriculture are nutrient dense but more costly than the typical American diet. Poverty and high cost of a healthy diet are the leading causes of food insecurity for many American families. Limited agricultural produce and influence of social media are not leading causes of food insecurity in America. High taxation on \"junk food\" is not a cause of food insecurity either. In fact, it is expected that a high taxation on such foods will help decrease the consumption of such foods and subsidize the cost of healthy choices."
+    },
+    {
+      "id": "nutrition-ch14-066",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which item from the bread, cereal, rice, and pasta group is commonly served as part of African-American and Cajun cuisine? Select all that apply.",
+      "options": [
+        "Hushpuppies"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Grits are an item from the bread, cereal, rice, and pasta group that is served as part of African-American and Cajun cuisine. Both the African-American and Cajun ethnic groups serve hushpuppies as part of their cuisine. Biscuits are not served as part of Cajun cuisine, but they are part of African-American cuisine. Cush-cush is only served as part of Cajun cuisine, not African-American cuisine. Spoonbread is a type of cornbread served by African Americans, not Cajuns. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch14-067",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which religious dietary practice is followed only by the Jewish and Muslim religions?",
+      "options": [
+        "Avoidance of alcohol",
+        "Ritual slaughter of animals",
+        "Consumption of dairy and eggs",
+        "Consuming meat and dairy at the same meal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jews and Muslims practice the ritual slaughter of animals in preparation for high holidays and festivals; Jews slaughter chickens on the eve of Yom Kippur, and Muslims slaughter lamb for the post-Ramadan festival. Alcohol is discouraged or avoided by practitioners of several religions, including Seventh-Day Adventists, Buddhists, Hindus, Mormons, and Muslims. The consumption of dairy and eggs is permitted by practitioners of several religions, including Seventh-Day Adventists, Buddhists, Eastern Orthodox Christians, Hindus, and Jewish. Most religions allow the consumption of meat and dairy at the same meal, but the Jewish religion does not. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch14-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which feature describes snacks that Americans commonly consume?",
+      "options": [
+        "Low in added sugar",
+        "Low in fats",
+        "Highly nutritious",
+        "High in sodium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Many of the snacks that Americans consume provide significant amounts of sodium. They also contain large amounts of added sugar and saturated fats. Snacks are generally high, not low, in calories. Snacks are not known to be highly nutritious."
+    },
+    {
+      "id": "nutrition-ch14-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is prohibited or strongly discouraged for Mormons? Select all that apply.",
+      "options": [
+        "| Caffeine"
+      ],
+      "correctAnswers": [],
+      "explanation": "Alcohol and caffeine are prohibited or strongly discouraged for Mormons. Mormons have no restrictions on the consumption of pork, shellfish, or leavened food."
+    },
+    {
+      "id": "nutrition-ch14-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which religion abstains from consuming pork? Select all that apply.",
+      "options": [
+        "|"
+      ],
+      "correctAnswers": [],
+      "explanation": "Religions that abstain from pork include Islam, Buddhism, Hinduism, and Seventh-Day Adventism. Mormons do not restrict the consumption of pork."
+    },
+    {
+      "id": "nutrition-ch14-071",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food has special value for Muslims, based on the Islamic teachings of the Quran? Select all that apply.",
+      "options": [
+        "| Figs"
+      ],
+      "correctAnswers": [],
+      "explanation": "Foods that Muslims consider to have special value based on the teachings of the Quran include figs, olives, dates, milk, honey, and buttermilk. Fermented fruit is strictly prohibited due to the breakdown of sugars into alcohol."
+    },
+    {
+      "id": "nutrition-ch14-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which feature describes the impact of changing household dynamics on food patterns? Select all that apply.",
+      "options": [
+        "| Increasing portion sizes"
+      ],
+      "correctAnswers": [],
+      "explanation": "Changing household dynamics have led people increasingly to rely on spending less time preparing and cooking meals. They are eating out more frequently. Growing portion sizes are a concerning trend in typical American meals and snacks. Rarely do families regularly sit down to eat meals together anymore, particularly for breakfast and lunch. The number of snacks that Americans consume has remained relatively stable, but the percentage of calories coming from snacks is increasing at a faster rate as compared with the increase in calories coming from meals. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch14-073",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food product can be consumed according to Jewish dietary laws? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Jewish dietary laws allow the consumption of meats that come from animals that chew their cud and that have cloven hooves such as beef, dairy products, and eggs. However, kosher laws do not permit consumption of meat and milk products at the same meal or prepared with the same dishes. Eggs can be consumed with either dairy or meat, but eggs containing a blood spot cannot be consumed. Jewish dietary laws restrict the consumption of pork, fish without fins and scales, and shellfish."
+    },
+    {
+      "id": "nutrition-ch14-074",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "I Which food is prohibited or strongly discouraged for Mormons? Select all that apply.",
+      "options": [
+        "iv)",
+        "| Caffeine"
+      ],
+      "correctAnswers": [],
+      "explanation": "Alcohol and caffeine are prohibited or strongly discouraged for Mormons. Mormons have no restrictions on the consumption of pork, shellfish, or leavened food."
+    },
+    {
+      "id": "nutrition-ch14-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "When providing dietary counseling to a Hispanic patient who consumes traditional Mexican foods, which food should the nurse consider recommending to the patient in order to help meet the recommended dietary allowance (RDA) for calcium?",
+      "options": [
+        "Milk",
+        "Cheese",
+        "Yogurt",
+        "© Low-fat milk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When providing dietary counseling for a Hispanic patient who consumes traditional Mexican foods, the nurse should consider recommending cheese in order to help meet the RDA for calcium. There is a high prevalence of lactose intolerance in the Mexican population, which limits the intake of large quantities of milk products. Cheese is a dairy food group that may be easier to tolerate and can be utilized frequently in the diet. Milk, yogurt, and low-fat milk are less easy to tolerate and are generally not consumed in large amounts in the Hispanic culture. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch14-076",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which meal is the largest meal of the day according to the traditional meal patterns in a Mexican diet?",
+      "options": [
+        "Breakfast",
+        "Brunch"
+      ],
+      "correctAnswer": null,
+      "explanation": "Traditional meal patterns in a Mexican diet focus on lunch as the largest meal of the day, with a lighter breakfast and dinner. Brunch is not part of a traditional meal pattern in a Mexican diet. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options . Example: If the item relates to and identifies stroke rehabilitation as its focus and only one of the options contains the word stroke in relation to rehabilitation, you are safe in identifying this choice as the correct response."
+    },
+    {
+      "id": "nutrition-ch14-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which country has strongly influenced Asian cultural food patterns commonly found in the United States? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Asian cultural food patterns most commonly encountered in the United States have been influenced by several countries, including India. China and Japan have influenced Asian cultural food patterns commonly found in the United States. Some southeastern Asian countries like Vietnam and the Philippines have strongly influenced Asian cultural food patterns commonly encountered in the United States."
+    },
+    {
+      "id": "nutrition-ch14-078",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 14",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which food or drink is traditionally consumed at sunset to break the daily fast during Ramadan? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During Ramadan, Muslims all over the world fast daily by taking no food or drink from dawn until sunset. They traditionally break the daily fast by eating an odd number of dates and having a glass of water or another beverage. Consumption of pork and any form of alcohol is traditionally prohibited in Islam. Coffee and fish are not the traditional foods consumed at the breaking of fast during Ramadan."
+    }
+  ]
+}

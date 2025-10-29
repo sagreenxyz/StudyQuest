@@ -1,0 +1,1013 @@
+{
+  "name": "Nutrition Digestion Absorption Metabolism",
+  "description": "Chapter 5 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch5-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "In which absorption process in the small intestine does the cell engulf large molecules in order to absorb them?",
+      "options": [
+        "iv) © Pinocytosis",
+        "Active transport",
+        "Simple diffusion",
+        "Facilitated diffusion"
+      ],
+      "correctAnswer": null,
+      "explanation": "Pinocytosis is the engulfing of a large molecule by the cell; materials attach to the cell membrane before the cell engulfs it. Active transport assists particles to move against their concentration gradient with the help of a carrier molecule; it does not involve engulfing large molecules. Simple diffusion is the force by which molecules move from an area of greater concentration to an area of lesser concentration, not engulfing molecules. Facilitated diffusion is a carrier-assisted movement of larger items across the mucosal cell membrane; it does not involve engulfing large molecules."
+    },
+    {
+      "id": "nutrition-ch5-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which genetic disease causes complications for patients despite rigorous treatment?",
+      "options": [
+        "iv) O Galactosemia",
+        "Celiac disease",
+        "Phenylketonuria",
+        "@ Glycogen-storage diseases"
+      ],
+      "correctAnswer": null,
+      "explanation": "Despite rigorous treatment of adhering to a strict galactose-free diet, patients with galactosemia generally experience complications, such as cognitive disability, speech problems, neurologic and/or movement disorders, and ovarian dysfunction, at some point in life. Celiac disease is an allergy to the protein gluten and is not a genetic disorder. Phenylketonuria can cause severe irreversible brain damage and central nervous system damage if left untreated but can be controlled by a low-phenylalanine diet consisting of a special supplemental nutrition formula. Glycogen-storage diseases are controlled by dietary treatment to avoid hypoglycemia."
+    },
+    {
+      "id": "nutrition-ch5-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which statement describes the Krebs cycle? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Krebs cycle is the hub of energy production that occurs in the mitochondria of the cell. The mitochondria convert energy into a form the body can use. The combined processes of metabolism, catabolism, and anabolism occur in the Krebs cycle to ensure that the body has much needed energy in the form of ATP. ATP is not produced at a consistent rate; its production fluctuates depending on the energy needs at a given time. The Krebs cycle is not the sum of chemical reactions that occur within a cell; this is the definition of metabolism."
+    },
+    {
+      "id": "nutrition-ch5-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "If phenylketonuria is left untreated, which consequence is possible? Select all that apply.",
+      "options": [
+        "iv) [ml] Convulsive seizures",
+        "Psychiatric disorders",
+        "Developmental problems",
+        "Irreversible brain damage",
+        "Central nervous system damage"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "If left untreated phenylketonuria may cause convulsive seizures, psychiatric disorders, developmental problems, irreversible brain damage, and central nervous system damage. pp. 69-70"
+    },
+    {
+      "id": "nutrition-ch5-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which digestive alteration is a food allergy that causes cellular destruction of the gastrointestinal tract lining?",
+      "options": [
+        "Galactosemia",
+        "iv) © Celiac disease",
+        "Phenylketonuria",
+        "Lactose intolerance"
+      ],
+      "correctAnswer": null,
+      "explanation": "Celiac disease is a food allergy to the protein gluten, which causes destruction of the gastrointestinal tract lining. Galactosemia is a genetic disease, not a food allergy. Phenylketonuria is a genetic disease, not a food allergy. Lactose intolerance is a deficiency of disaccharidases in the small intestines and can cause abdominal cramping and diarrhea."
+    },
+    {
+      "id": "nutrition-ch5-006",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which action must occur to simplify whole food into molecules small enough for absorption? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The process of simplifying whole food into molecules small enough for absorption requires vitamins and minerals to be liberated. When digestion is complete, carbohydrates are reduced to monosaccharides. The process of digestion frees individual acids from complex proteins, and fatty acids and monoglycerides are freed from triglycerides. With a water base for solution and transport, in addition to the necessary electrolytes, the whole fluid food-derived mass is primed for absorption. pp. 62-63"
+    },
+    {
+      "id": "nutrition-ch5-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which gastrointestinal secretion assists in carrying the products of digestion through the gastrointestinal tract?",
+      "options": [
+        "Bile"
+      ],
+      "correctAnswer": null,
+      "explanation": "Water and electrolytes assist in carrying the products of digestion through the gastrointestinal tract into the tissues. Bile emulsifies fat into smaller pieces to expose more surface area for the actions of fat-splitting enzymes. Mucus lubricates and protects the mucosal tissues that line the gastrointestinal tract and help moisten the food mass. Digestive enzymes are responsible for breaking down nutrients. Hydrochloric acid and buffer ions are needed to produce the correct pH (i.e., the degree of acidity or alkalinity) that is necessary for enzymatic activity."
+    },
+    {
+      "id": "nutrition-ch5-008",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which information would be included when teaching a patient about gastroesophageal reflux? Select all that apply.",
+      "options": [
+        "|B] Gastroesophageal reflux is commonly called heartburn.",
+        "The uncomfortable sensations originate in the heart.",
+        "A sphincter in the stomach may not be working properly.",
+        "|B] Acid-mixed food may be seeping back into the esophagus.",
+        "By A hiatal hernia may be the cause of gastroesophageal reflux."
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Gastroesophageal reflux is commonly called heartburn. When the gastroesophageal sphincter is working properly, it prevents acid-mixed food from seeping from the stomach back into the esophagus. One cause of gastroesophageal reflux is a hiatal hernia, which occurs when part of the stomach protrudes upward into the chest cavity. Heartburn has nothing to do with the heart, but it was so named because the sensations are perceived as originating in the region of the heart."
+    },
+    {
+      "id": "nutrition-ch5-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which description explains why the metabolism of glucose yields less energy than the metabolism of fat?",
+      "options": [
+        "Fat has fewer kilocalories per gram compared with carbohydrates.",
+        "Carbohydrates have fewer kilocalories per gram compared with fat.",
+        "Metabolism of fat yields more nitrogen waste compared with glucose.",
+        "Metabolism of glucose yields more nitrogen waste compared with glucose."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The metabolism of glucose yields less energy than the metabolism of fat because carbohydrates have 4 kcal/g and fat has 9 kcal/g. Fat does not have fewer kilocalories per gram compared with carbohydrates. The use of protein as a source of energy is inefficient and yields extra nitrogen waste. Metabolism of fat and glucose does not yield extra nitrogen waste."
+    },
+    {
+      "id": "nutrition-ch5-010",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which process is a function of the liver? Select all that apply.",
+      "options": [
+        "Bile production",
+        "Regulation of blood glucose levels",
+        "iv) [ml] Metabolism of hormones and medications",
+        "iv) [ml] Conversion of excess ammonia to urea",
+        "Synthesis of proteins and blood-clotting factors"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ],
+      "explanation": "Bile production, regulation of blood glucose levels, metabolism of hormones and medications, conversion of excess ammonia to urea, and synthesis of proteins and blood-clotting factors are all major functions of the liver."
+    },
+    {
+      "id": "nutrition-ch5-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which secreted substance facilitates swallowing of the food bolus during chemical digestion in the mouth and esophagus?",
+      "options": [
+        "Mucous material"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The salivary glands secrete a mucous material that lubricates and binds food particles to facilitate the swallowing of each food bolus. Lingual lipase is secreted by small glands at the back of the tongue, and during infancy this enzyme helps with the digestion of milk fat. Gastrin is a hormone found in gastric secretions that helps with chemical digestion in the stomach. Salivary amylase, secreted by the salivary glands, is a starch-splitting enzyme."
+    },
+    {
+      "id": "nutrition-ch5-012",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which result is the consequence of decreased hydrochloric acid secretion in the stomach? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Because hydrochloric acid kills microorganisms in the stomach, decreased secretion will increase the bacterial load. Decreased secretion of hydrochloric acid in the stomach will reduce the activation of pepsinogen. The digestive process of protein may be altered if the secretion of hydrochloric acid is decreased, because hydrochloric acid begins the digestive process of protein. Situations that decrease hydrochloric acid in the stomach will reduce the bioavailability of vitamin B 12, calcium, iron, and magnesium further along in the digestive process. Stomach content is normally very acidic because the release of hydrochloric acid lowers the pH."
+    },
+    {
+      "id": "nutrition-ch5-013",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "In which way does the intramural nerve plexus assist the gastrointestinal system to move food along the digestive pathway? Select all that apply.",
+      "options": [
+        "Controls muscle tone in the gastrointestinal (Gl) wall",
+        "iv) [ml] Coordinates all of the various movements",
+        "Tonic contraction ensures valve control",
+        "|B] Regulates rate and intensity of muscle contractions"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": "Muscle tone in the gastrointestinal wall is controlled by the intramural nerve plexus. The intramural nerve plexus is responsible for coordinating all movements within the gastrointestinal wall. The rate and intensity of muscle contractions is regulated by the intramural nerve plexus. The layers of smooth muscle in the gastrointestinal wall are responsible for peristalsis, forcing contents forward in the gastrointestinal tract. Tonic contraction is a type of movement provided by the smooth muscle."
+    },
+    {
+      "id": "nutrition-ch5-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which condition is a food allergy that can affect the normal functioning of the gastrointestinal tract?",
+      "options": [
+        "iv) © Celiac disease",
+        "Lactose intolerance",
+        "Galactosemia",
+        "Phenylketonuria"
+      ],
+      "correctAnswer": null,
+      "explanation": "Celiac disease is an allergy to the protein gluten. Lactose intolerance is due to insufficient lactase and is an error in digestion, not a food allergy. Galactosemia is not a food allergy; it is a genetic disease caused by a missing enzyme that alters normal carbohydrate metabolism. Phenylketonuria is a rare autosomal recessive genetic disorder and is not considered a food allergy."
+    },
+    {
+      "id": "nutrition-ch5-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which factor influences the rate of stomach-emptying time at the pyloric valve?",
+      "options": [
+        "Gastric lipase",
+        "Protein content",
+        "Caloric density",
+        "Volume of chyme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The caloric density of the food influences the rate of stomach-emptying time at the pyloric valve. Gastric lipase, protein content, and volume of chyme do not influence the stomach-emptying time of chyme at the pyloric valve."
+    },
+    {
+      "id": "nutrition-ch5-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "What effect does hydrochloric acid have on minerals?",
+      "options": [
+        "Breaks down minerals",
+        "Activates minerals",
+        "Transports minerals",
+        "Aids in the absorption of minerals"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hydrochloric acid aids in the absorption of minerals. Hydrochloric acid is unable to break down, activate, or transport minerals. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch5-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which process moves glucose across a cell membrane?",
+      "options": [
+        "iv) © Active transport",
+        "Filtration",
+        "Facilitated diffusion",
+        "Colloid osmotic pressure"
+      ],
+      "correctAnswer": null,
+      "explanation": "Glucose enters absorbing cells through an active transport mechanism that involves sodium as a partner. Filtration is a form of a passive transport by which water and molecules move down a hydrostatic pressure gradient. Colloid osmotic pressure is a pressure exerted by proteins in the blood vessels that maintain a fluid balance between the plasma and interstitial fluid. Facilitated diffusion makes use of a protein channel for the carrier-assisted movement of larger items across the mucosal cell membrane. pp. 66-67"
+    },
+    {
+      "id": "nutrition-ch5-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "When the amount of food consumed yields more energy than is needed, in which way is the remaining energy stored for use by the body? Select all that apply.",
+      "options": [
+        "Excess protein is stored as muscle in the body.",
+        "Excess kilocalories are wasted because they cannot be stored.",
+        "Excess protein is broken down into glucose or fat for storage.",
+        "|B] Excess glucose is stored as glycogen for quick energy when required.",
+        "|B] Excess energy from carbohydrates is stored as fat in adipose tissue."
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": "Excess protein is broken down by removing the nitrogen unit and converting the remaining carbon chain into glucose or fat for storage. Through glycogenesis, extra glucose is converted to glycogen and stored to be used for quick energy when needed. Excess energy from carbohydrates is stored as fat in adipose tissue and is available for use when required. Excess protein is not stored as muscle in the body but instead is broken down into glucose or fat for storage. Kilocalories consumed in excess of energy needs are not wasted but are converted for storage. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch5-019",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which process must occur before the body can convert macronutrients into needed energy or store them for later use? Select all that apply.",
+      "options": [
+        "Conversion of macronutrients to adenosine triphosphate",
+        "Breakdown of macronutrients into their respective building blocks",
+        "Absorption of macronutrients into the bloodstream or the lymphatic system",
+        "Dispersion of macronutrients throughout the body to perform their critical functions",
+        "Conversion of micronutrients to monosaccharides, amino acids, and fatty acids"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": "Macronutrients must be broken down into their respective building blocks and absorbed into the bloodstream or lymphatic system before they are converted into energy or stored. Macronutrients are not converted directly to adenosine triphosphate because they must first be broken down and absorbed. Micronutrients, not macronutrients, are available for absorption and are dispersed throughout the body to perform their critical functions. Macronutrients, not micronutrients, are broken down into building blocks like monosaccharides, amino acids, and fatty acids. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch5-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which gastrointestinal secretion is responsible for producing the correct degree of acidity or alkalinity necessary for enzymatic activity?",
+      "options": [
+        "Water and electrolytes",
+        "Hydrochloric acid and buffer ions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hydrochloric acid and buffer ions are needed to produce the correct pH (i.e., the degree of acidity or alkalinity) that is necessary for enzymatic activity. Bile emulsifies fat into smaller pieces to expose more surface area for the actions of fat-splitting enzymes. Mucus lubricates and protects the mucosal tissues that line the gastrointestinal tract and help moisten the food mass. Digestive enzymes are responsible for breaking down nutrients. Water and electrolytes assist in carrying the products of digestion through the gastrointestinal tract into the tissues. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly Rationale Hydrochloric acid and buffer ions are needed to produce the correct pH (i.e., the degree of acidity or alkalinity) that is necessary for enzymatic activity. Bile emulsifies fat into smaller pieces to expose more surface area for the actions of fat-splitting enzymes. Mucus lubricates and protects the mucosal tissues that line the gastrointestinal tract and help moisten the food mass. Digestive enzymes are responsible for breaking down nutrients. Water and electrolytes assist in carrying the products of digestion through the gastrointestinal tract into the tissues. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch5-021",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which action is an example of catabolism? Select all that apply.",
+      "options": [
+        "Glycerol is converted to fat.",
+        "Fat is converted to fatty acids.",
+        "|B] Protein is converted to amino acids.",
+        "Amino acids are converted to protein.",
+        "|B] Carbohydrates are converted to glucose."
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "The conversion of fat to fatty acids is an example of catabolism. The breakdown of protein into amino acids is an example of catabolism. Catabolism occurs when carbohydrates are converted to glucose. Glycerol is not converted to fat. Amino acids are not converted to protein. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch5-022",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which factor determines a nutrient’s bioavailability? Select all that apply.",
+      "options": [
+        "The form in which the nutrient is present",
+        "If the food-derived mass is primed for absorption",
+        "|B] The competition among nutrients for common absorptive sites",
+        "|B] The amount of nutrient present in the gastrointestinal tract",
+        "The point of absorption, which acts as a gatekeeper"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "The form in which the nutrient is present is one factor that determines a nutrient’s bioavailability. One of the factors that determines a nutrient’s bioavailability is the competition among nutrients for common absorptive sites. The amount of nutrient present in the gastrointestinal tract is a factor that determines a nutrient’s bioavailability. The whole fluid, food-derived mass is ready for absorption before the nutrient’s bioavailability is determined. The point of absorption becomes the vital gatekeeper that determines how much of a nutrient is available for cellular use; it does not determine the actual bioavailability of the nutrient. pp. 63, 65"
+    },
+    {
+      "id": "nutrition-ch5-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which gastrointestinal secretion lubricates and protects the tissues that line the gastrointestinal (Gl) tract and helps moisten the food mass?",
+      "options": [
+        "Bile",
+        "iv) © Mucus",
+        "Hydrochloric acid",
+        "Electrolytes"
+      ],
+      "correctAnswer": null,
+      "explanation": "Mucus lubricates and protects the mucosal tissues that line the GI tract and helps moisten the food mass. Bile, hydrochloric acid, and electrolytes do not lubricate mucosal tissues or help to moisten the food mass. Bile emulsifies fat into smaller pieces to expose more surface area for the actions of fat-splitting enzymes. Hydrochloric acid and buffer ions produce the correct pH needed for enzymatic activity. Water and electrolytes help carry the products of digestion through the Gl tract into the tissues. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch5-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which term refers to the movement of intestinal muscles that slowly pushes the food mass forward, sometimes with long, sweeping waves over the entire length of the intestine?",
+      "options": [
+        "Pendular movements",
+        "Longitudinal rotation",
+        "Surface villi motions",
+        "Peristaltic waves"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peristaltic waves refers to the movement of intestinal muscles that slowly pushes the food mass forward, sometimes with long, sweeping waves over the entire length of the intestine. Pendular movements from small, local intestinal muscles sweep back and forth, thereby stirring the chyme at the mucosal surface. Longitudinal rotation by long muscles that run the length of the intestine rolls the slowly moving food mass in a spiral motion to mix it and expose new surfaces for absorption. Surface villi motions stir and mix the chyme at the intestinal wall, thereby exposing additional nutrients for absorption."
+    },
+    {
+      "id": "nutrition-ch5-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "In response to a low pH in the duodenum, which hormone stimulates the pancreatic release of bicarbonate to increase the pH to an alkaline environment?",
+      "options": [
+        "Cholecystokinin",
+        "Gastric inhibitory peptide",
+        "Secretin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In response to a low pH in the duodenum, secretin stimulates the pancreatic release of bicarbonate to increase the pH to an alkaline environment. Cholecystokinin (CCK) is a hormone secreted from the mucosal epithelium of the small intestine in response to the presence of fat and certain amino acids in chyme. CCK inhibits gastric motility, increases the release of pancreatic enzymes, and stimulates the gallbladder to secrete bile into the small intestine. Gastric inhibitory peptide (GIP) is a hormone secreted from the enterocytes of the duodenum and jejunum in response to the presence of glucose and fat. GIP stimulates insulin secretion from the pancreas and inhibits gastric motility. The hormone gastrin stimulates parietal cells within the lining of the stomach to secrete hydrochloric acid."
+    },
+    {
+      "id": "nutrition-ch5-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Lactose",
+      "difficulty": "easy",
+      "question": "A deficiency of which substance causes an intolerance to milk and dairy products?",
+      "options": [
+        "iv) © Lactase"
+      ],
+      "correctAnswer": null,
+      "explanation": "A deficiency of lactase inhibits the breakdown of the milk sugar lactose, which causes an intolerance to milk and dairy products. A deficiency of sucrase or maltase may produce a wide range of gastrointestinal problems and abdominal pain because the body cannot digest the specific sugar involved but does not cause lactose intolerance. A deficiency in insulin production causes hyperglycemia, not lactose intolerance."
+    },
+    {
+      "id": "nutrition-ch5-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Nutrients that do not need the help of a specific protein channel to move across a mucosal cell wall are transferred by which process?",
+      "options": [
+        "Osmosis",
+        "Pinocytosis",
+        "@ Simple diffusion",
+        "Passive transport"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrients that do not need the help of a specific protein channel to move across a mucosal cell wall do so by simple diffusion. In simple diffusion, the particles move from an area of greater concentration to an area of lesser concentration. Water is transferred by osmosis. Pinocytosis occurs when the penetration of a larger material attaches to a thicker cell membrane and is engulfed by the cell. Passive transport does not require energy to cross a cell membrane. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. bh 66"
+    },
+    {
+      "id": "nutrition-ch5-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which food group interferes with zinc and iron absorption when consumed in high quantities?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "When consumed in high quantities, grains can interfere with zinc and iron absorption. The phytic acid found in grain products decreases the bioavailability of both iron and zinc by binding to the minerals and preventing absorption. Fats, dairy, and meats do not interfere with zinc and iron absorption. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch5-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "When digestion is complete, to which product are carbohydrates reduced in order to be absorbed into the body?",
+      "options": [
+        "@ Galactose",
+        "Fatty acid",
+        "Glyceride",
+        "Amino acid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When digestion is complete, carbohydrates are reduced to galactose in order to be absorbed into the body. Fatty acids and glycerides are reduced forms of fat. Protein is reduced to amino acids in order to be absorbed into the body. Test-Taking Tip: Sometimes the reading of a question in the middle or toward the end of an exam may trigger your mind with the answer or provide an important clue to an earlier question."
+    },
+    {
+      "id": "nutrition-ch5-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Where does intestinal gas form in the gastrointestinal tract?",
+      "options": [
+        "iv) © Colon",
+        "Rectum",
+        "Duodenum",
+        "Jejunum"
+      ],
+      "correctAnswer": null,
+      "explanation": "Intestinal gas forms in the colon. The rectum is the part of the gastrointestinal tract from which the gas is expelled from the body. The duodenum and jejunum are areas of the small intestine not involved in gas formation. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch5-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which small intestinal movement results in the progressive chopping of a food mass into soft lumps, mixing it with gastrointestinal secretions?",
+      "options": [
+        "Surface villi motions",
+        "Pendular movements",
+        "Peristaltic waves",
+        "Segmentation rings"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Segmentation rings are the alternating contraction and relaxation of the circular muscles in the small intestine, resulting in the progressive chopping of food mass into soft lumps, mixing it with gastrointestinal secretions. Surface villi stir and mix chyme at the intestinal wall. Pendular movements from small local muscles sweep back and forth, stirring the chyme at the mucosal surface. Peristaltic waves slowly push the food mass forward. Test-Taking Tip: Sometimes the reading of a question in the middle or toward the end of an exam may trigger your mind with the answer or provide an important clue to an earlier question."
+    },
+    {
+      "id": "nutrition-ch5-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the function of the mucous glands that line the esophagus?",
+      "options": [
+        "Breaking down food",
+        "Absorbing nutrients",
+        "Moving food toward the stomach",
+        "©@ Lubricating and binding food"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The mucous glands that line the esophagus help move food toward the stomach. They do not play a role in breaking down food or absorbing nutrients. The salivary glands secrete mucus that lubricates and binds food."
+    },
+    {
+      "id": "nutrition-ch5-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "In what part of the gastrointestinal tract is chyme formed?",
+      "options": [
+        "Duodenum"
+      ],
+      "correctAnswer": null,
+      "explanation": "Chyme is formed in the antrum, the lower portion of the stomach. The fundus is the upper portion of the stomach, and the pylorus is the opening from the stomach into the duodenum. The duodenum is the beginning of the small intestine. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch5-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement explains the reason a patient develops heartburn?",
+      "options": [
+        "@ The sphincter of the stomach is not working properly.",
+        "Part of the stomach is pushing down into the chest cavity.",
+        "The sphincter of the stomach is not allowing the food to move through.",
+        "Eating while reclined is interfering with the food staying in the stomach."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most accurate explanation is that the sphincter of the stomach is not working properly. When the gastroesophageal sphincter is not working properly, it may allow acid-mixed food to seep back into the esophagus from the stomach, resulting in reflux or heartburn. \"Part of the stomach is pushing down into the chest cavity\" is an inaccurate description of a hiatal hernia that can cause heartburn. The stomach is protruding upward into the chest cavity, not downward. \"The sphincter of the stomach is not allowing the food to move through\" is inaccurate because acid would not be moving up into the esophagus since nothing could pass through. \"Eating while reclined is interfering with the food staying in the stomach\" does happens in hiatal hernia or reflux, but it is not the underlying cause of heartburn. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch5-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Place the organs of the gastrointestinal system in the correct sequence in which digestion occurs.",
+      "options": [
+        "iv) 1. Oropharynx",
+        "iv) 2. Esophagus"
+      ],
+      "correctAnswer": null,
+      "explanation": "Digestion begins when the food enters the oropharyngeal cavity. Mastication breaks down the food into small particles, and saliva amylase begins to digest carbohydrates. The chewed food forms a ball called a bolus, which passes through the esophagus to the stomach via peristalsis. Once in the stomach, digestive juices kill bacteria, and enzymes break down proteins. The liver secretes bile to break down fats. Next, the pancreas is stimulated, resulting in the secretion of more digestive enzymes. Food mixed with bile from the liver and r tT 7 cn neo. _— r 1 _— —! ar tof fom oie Rationale Digestion begins when the food enters the oropharyngeal cavity. Mastication breaks down the food into small particles, and saliva amylase begins to digest carbohydrates. The chewed food forms a ball called a bolus, which passes through the esophagus to the stomach via peristalsis. Once in the stomach, digestive juices kill bacteria, and enzymes break down proteins. The liver secretes bile to break down fats. Next, the pancreas is stimulated, resulting in the secretion of more digestive enzymes. Food mixed with bile from the liver and enzymes from the pancreas enters the small intestine for absorption. The final phase of digestion occurs as indigestible food and water are processed, stored, and dispersed by the large intestine. Test-Taking Tip: In this question type, you are asked to prioritize (put in order) the options presented. For example, you might be asked the steps of performing an action or skill such as those involved in medication administration."
+    },
+    {
+      "id": "nutrition-ch5-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Where does the breakdown of fat begin, and which enzyme is involved in the breakdown?",
+      "options": [
+        "Stomach, protease",
+        "@ Mouth, lipase",
+        "Mouth, amylase",
+        "Stomach, hydrochloric acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The breakdown of fat begins in the mouth and involves the enzyme lipase. In the stomach, protease is a general name for a protein-splitting enzyme. Amylase is released in the mouth, but it is a starch-splitting enzyme. Hydrochloric acid creates an acidic environment in the stomach for gastric enzymes to work."
+    },
+    {
+      "id": "nutrition-ch5-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which mechanical digestive process occurs in the upper gastrointestinal tract? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Peristalsis, mastication, and muscle movement occur in the upper gastrointestinal tract. Emulsification is the chemical, not mechanical, breakdown of fat. Salivary gland secretion promotes chemical, not mechanical, digestion in the upper gastrointestinal tract. pp. 58, 60"
+    },
+    {
+      "id": "nutrition-ch5-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "How is glucose produced in the small intestine?",
+      "options": [
+        "@ Glucose is derived from a disaccharide.",
+        "Trypsin splits the protein molecule into glucose.",
+        "Adisaccharide molecule results in glucose.",
+        "Dipeptidase converts carbohydrates to glucose."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glucose is produced in the small intestine when the sucrose disaccharide is reduced to two monosaccharides, glucose and fructose. Trypsin does not split a protein molecule into glucose. Glucose is obtained from carbohydrates. Glucose is not a result of a disaccharide molecule. Dipeptidase splits dipeptides into amino acids."
+    },
+    {
+      "id": "nutrition-ch5-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "How does secretin aid in digestion?",
+      "options": [
+        "Secretin is a starch-splitting enzyme.",
+        "Secretin controls the acidity of the small intestine.",
+        "Secretin is responsible for signaling the release of bile.",
+        "Secretin increases the release of pancreatic enzymes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Secretin controls the acidity in the small intestine by stimulating the pancreatic release of bicarbonate to increase the pH to an alkaline environment, which is necessary for the activity of the pancreatic enzymes. Secretin is a hormone, and amylase is a starch-splitting enzyme. Cholecystokinin is secreted when fat is present and triggers the release of bile from the gallbladder to emulsify fat. Cholecystokinin inhibits gastric mobility and increases the release of pancreatic enzymes."
+    },
+    {
+      "id": "nutrition-ch5-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which process does the intramural nerve plexus regulate in the gastrointestinal tract? Select all that apply.",
+      "options": [
+        "Gastric secretion",
+        "iv) [ml] Muscle movement",
+        "iv) [ml] Muscle contraction",
+        "Mucus secretion",
+        "Hormonal release"
+      ],
+      "correctAnswers": [],
+      "explanation": "The intramural nerve plexus regulates muscle movement and contraction. Gastric secretion, hormonal release, and mucus secretion are stimulated by food, motility, and other chemical reactions."
+    },
+    {
+      "id": "nutrition-ch5-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Where does maximal digestion of nutrients occur in the gastrointestinal system?",
+      "options": [
+        "Stomach"
+      ],
+      "correctAnswer": null,
+      "explanation": "Maximal digestion of nutrients occurs in the jejunum. Only a few nutrients are absorbed in the ileum. Water, potassium, and sodium absorption occur in the colon. The stomach absorbs alcohol, which is not a nutrient."
+    },
+    {
+      "id": "nutrition-ch5-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the function of cholecystokinin when released in the small intestine? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When released in the small intestine, cholecystokinin inhibits gastric hydrochloric acid secretion, initiates pancreatic exocrine secretion, and activates the gallbladder to release bile into the duodenum. Cholecystokinin does not increase peristalsis or move digestive nutrients into the mucosa of the small intestine."
+    },
+    {
+      "id": "nutrition-ch5-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "In which state are vitamins when digestion is complete?",
+      "options": [
+        "iv) © Liberated",
+        "Bioavailable",
+        "Macronutrient",
+        "Bound to a carrier"
+      ],
+      "correctAnswer": null,
+      "explanation": "Vitamins are in a liberated state when digestion is complete. Bioavailability is the ability of the vitamin to be absorbed and is dependent on multiple factors. Vitamins are micronutrients; macronutrients are nutrients required in larger quantities, including carbohydrates, proteins, and fats. Not all vitamins are bound to a carrier."
+    },
+    {
+      "id": "nutrition-ch5-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Lacteals support nutrient absorption through which function?",
+      "options": [
+        "Promoting the uptake of protein",
+        "Enhancing the reception of carbohydrates",
+        "Providing a route for fat-soluble nutrients to enter the lymphatic system",
+        "Increasing the surface area of the intestine to promote absorption"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lacteals are lymph capillaries that support nutrient absorption by absorbing fat-soluble nutrients. The villi in the small intestine have an ample supply of blood vessels to receive protein and carbohydrate materials. Villi also increase the exposed surface area of the intestine."
+    },
+    {
+      "id": "nutrition-ch5-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which type of transport occurs when particles move against their concentration gradient?",
+      "options": [
+        "Pinocytosis",
+        "iv) © Active transport",
+        "Facilitated diffusion",
+        "Passive diffusion"
+      ],
+      "correctAnswer": null,
+      "explanation": "Active transport occurs when particles move against their concentration gradient. Pinocytosis occurs when a nutrient contacts a villi membrane, which then surrounds and encompasses it. Facilitated diffusion occurs when, despite positive pressure flow, molecules are unable to pass through membrane pores unless aided. Passive diffusion occurs when the pressure is greater on one side of the membrane, and the substance moves from the area of greater pressure to an area of lesser pressure. pp. 66-67"
+    },
+    {
+      "id": "nutrition-ch5-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Fatty materials have to pass through the lymph before entering the bloodstream for which reason?",
+      "options": [
+        "They require active transport.",
+        "@ They are not water soluble.",
+        "The fatty materials are too large.",
+        "The lymph further breaks down the fatty acid."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fatty materials have to pass through the lymph before being absorbed in the thoracic duct because they are not water soluble. The fatty materials do not require active transport; they are not too large, and they are broken down before being absorbed into the lymph. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch5-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "In which section of the gastrointestinal tract does the absorption of water take place?",
+      "options": [
+        "Stomach",
+        "Duodenum",
+        "Jejunum",
+        "@ Colon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Most of the water that enters the large intestine is absorbed in the first half of the colon. Water is not absorbed in the stomach, duodenum, or jejunum. The stomach is an absorption site for material such as alcohol. The absorption of minerals such as calcium, magnesium, and zinc occur in the duodenum. The jejunum is the site for absorption of water-soluble vitamins."
+    },
+    {
+      "id": "nutrition-ch5-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which anatomic structure is an important part of the intestinal wall surface that is adapted to ensure maximal absorption of essential nutrients in the digestive process? Select all that apply.",
+      "options": [
+        "Mucosal folds",
+        "mi) villi",
+        "By Nicrovilli",
+        "_| Fundus",
+        "Hepatocytes"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Three important structures of the intestinal wall surface are particularly adapted to ensure the maximal absorption of essential nutrients in the digestive process. Mucosal folds are the large, visible folds of the mucous lining of the small intestine that increase the absorbing surface area. Villi are finger-like projections that cover the mucosal surfaces of the small intestine, which further increases the absorbing surface area. Microvilli are extremely small, hair-like projections that cover all of the villi on the surface of the small intestine, greatly increasing the total absorbing surface area. The fundus and hepatocytes are not anatomic structures of the of the intestinal wall surface. Fundus is the upper portion of the stomach. Hepatocytes are functional cells of the liver. pp. 65-66"
+    },
+    {
+      "id": "nutrition-ch5-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which description defines glycogenolysis, a metabolic function of the liver?",
+      "options": [
+        "Breaking down lipids into fatty acids and glycerol",
+        "Breaking down stored glycogen into individual glucose units",
+        "Breaking down glucose into pyruvate",
+        "Converting noncarbohydrate substances into glucose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glycogenolysis is the breaking down of stored glycogen into individual glucose units. Lipolysis is the breaking down of lipids into fatty acids and glycerol. Glycolysis is the breaking down of glucose into pyruvate. Gluconeogenesis is the converting of noncarbohydrate substances into glucose. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and in an area as complex as nursing, an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch5-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which material in the gastric secretions helps with chemical digestion in the stomach? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The gastric secretions contain three types of materials that help with chemical digestion in the stomach: acid, mucus, and gastric enzymes. Hydrochloric acid in the stomach creates the necessary degree of acidity for gastric enzymes to work, activates the first protease (pepsinogen), and aids in the absorption of several vitamins and minerals. Pepsin is a gastric enzyme that aids in splitting proteins. Mucus protects the stomach lining from the erosive effect of hydrochloric acid. Mucus also helps bind, mix, and move the food mass along the GI tract. Pancreatic enzymes and bile aid in chemical digestion in the small intestine."
+    },
+    {
+      "id": "nutrition-ch5-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which network of nerves, extending from the esophagus to the anus, is located in the gastrointestinal (Gl) wall?",
+      "options": [
+        "Myenteric plexus",
+        "Intramural nerve plexus",
+        "Submucous plexus",
+        "Cervical plexus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The intramural nerve plexus is the complex network of nerves in the GI wall that extend from the esophagus to the anus and regulates the muscular action along the Gl tract. The myenteric plexus is situated between the circular muscle layer and the longitudinal muscle layer in the lower esophagus, stomach, and intestines. The submucous plexus is located in the submucosal tissue in the intestinal walls. The cervical plexus serves the neck, shoulders, and head."
+    },
+    {
+      "id": "nutrition-ch5-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which term refers to the movement of nutrients through the circulatory system from one area of the body to another?",
+      "options": [
+        "Digestion",
+        "Absorption",
+        "Transport",
+        "Metabolism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transport is the movement of nutrients through the circulatory system from one area of the body to another. Digestion is the process by which food is broken down in the gastrointestinal (Gl) tract. Absorption is the process by which nutrients are taken into the cells that line the Gl tract. Metabolism is the sum of the vast number of chemical changes in the cell that ultimately produce the materials that are essential for energy, tissue building, and metabolic controls."
+    },
+    {
+      "id": "nutrition-ch5-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which body part is a component of the gastrointestinal system? Select all that apply.",
+      "options": [
+        "Esophagus",
+        "Stomach",
+        "Small intestine",
+        "Gall bladder",
+        "Pancreas",
+        "_] Kidneys"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "The esophagus, stomach, small intestine, gall bladder, and pancreas are some of the components of the gastrointestinal system. The kidneys are not a part of the gastrointestinal system, but they play a role in digestion by filtering nutrient rich blood following absorption in the small intestine. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch5-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which type of movement does the smooth muscle in the gastrointestinal (Gl) wall facilitate? Select all that apply.",
+      "options": [
+        "iv) [ml] Peristalsis",
+        "_| Swallowing"
+      ],
+      "correctAnswers": [],
+      "explanation": "The smooth muscle in the gastrointestinal wall controls alternating muscular contractions and relaxations called peristalsis, which moves the food mass forward in the digestive tract. Muscle tone or tonic contraction is provided by the smooth muscle, which ensures continuous passage of the food mass and valve control along the way. Swallowing is facilitated by muscles at the base of the tongue. Constriction is not a type of movement provided by the smooth muscle of the gastrointestinal wall. Stimulation is provided by secretions in various parts of the digestive system; it is not a smooth muscle movement."
+    },
+    {
+      "id": "nutrition-ch5-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Dietary Fiber",
+      "difficulty": "medium",
+      "question": "Which process of digestion is a main task of the large intestine?",
+      "options": [
+        "Absorption of water",
+        "Digestion of dietary fiber",
+        "Transporting nutrients to the cells",
+        "Formation and passage of intestinal gas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The main task of the large intestine is the absorption of water. Dietary fiber is not digested because specific enzymes needed to break down molecules in the fiber are lacking. Nutrients are not transported to the cells by the large intestine. Formation and passage of intestinal gas is a normal process in the large intestine, but it is not the main task."
+    },
+    {
+      "id": "nutrition-ch5-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "In which way are nutrients transported to various cells throughout the body? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The lymphatic system provides an alternative route for fat-soluble nutrient absorption because fats are not water soluble. Water-soluble nutrients are absorbed into the vascular system (i.e., the blood circulatory system) directly from the intestinal cells. The nutrients travel first to the liver for immediate use by the hepatocytes through portal circulation. After traveling to the liver, the circulatory system disperses remaining nutrients to other cells throughout the body. The lymphatic system provides an alternative route for fat-soluble, not water- soluble, nutrients."
+    },
+    {
+      "id": "nutrition-ch5-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "At which point during mechanical digestion in the stomach does the bolus become chyme?",
+      "options": [
+        "When the food enters the fundus",
+        "iv) © When the food mass reaches the antrum",
+        "As the food mass is released into the duodenum",
+        "After salivary amylase mixes with food"
+      ],
+      "correctAnswer": null,
+      "explanation": "The bolus is propelled forward from the esophagus through the gastroesophageal sphincter into the stomach; by the time it reaches the lower portion of the stomach (the antrum), it is a semiliquid acid-food mix called chyme. The food enters the fundus, the upper part of the stomach, as individual bolus lumps. When the food mass is released into the duodenum by the pyloric valve, it has already been converted to chyme. Salivary amylase mixes with food while it is in the mouth so that it can be swallowed in the form of a bolus; this is not part of mechanical digestion in the stomach."
+    },
+    {
+      "id": "nutrition-ch5-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which is a role of pancreatic enzymes during chemical digestion? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Pancreatic amylase aids in the chemical digestion of carbohydrates by converting starch into disaccharides maltose and sucrose. The chemical digestion of protein begins when the pancreatic enzymes trypsin and chymotrypsin split large protein molecules into smaller peptide fragments and then into single amino acids. The chemical digestion of fat occurs when pancreatic lipase converts triglycerides into monoglycerides and fatty acids. Enterokinase is an intestinal enzyme that activates trypsinogen, which converts to trypsin. Cholecystokinin is a hormone, not an enzyme. pp. 61-62"
+    },
+    {
+      "id": "nutrition-ch5-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "In which absorption process in the small intestine does the cell engulf large molecules in order to absorb them?",
+      "options": [
+        "iv) © Pinocytosis",
+        "Active transport",
+        "Simple diffusion",
+        "Facilitated diffusion"
+      ],
+      "correctAnswer": null,
+      "explanation": "Pinocytosis is the engulfing of a large molecule by the cell; materials attach to the cell membrane before the cell engulfs it. Active transport assists particles to move against their concentration gradient with the help of a carrier molecule; it does not involve engulfing large molecules. Simple diffusion is the force by which molecules move from an area of greater concentration to an area of lesser concentration, not engulfing molecules. Facilitated diffusion is a carrier-assisted movement of larger items across the mucosal cell membrane; it does not involve engulfing large molecules."
+    },
+    {
+      "id": "nutrition-ch5-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 5",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which genetic disease causes complications for patients despite rigorous treatment?",
+      "options": [
+        "iv) © Galactosemia",
+        "Celiac disease",
+        "Phenylketonuria",
+        "Glycogen-storage diseases"
+      ],
+      "correctAnswer": null,
+      "explanation": "Despite rigorous treatment of adhering to a strict galactose-free diet, patients with galactosemia generally experience complications, such as cognitive disability, speech problems, neurologic and/or movement disorders, and ovarian dysfunction, at some point in life. Celiac disease is an allergy to the protein gluten and is not a genetic disorder. Phenylketonuria can cause severe irreversible brain damage and central nervous system damage if left untreated but can be controlled by a low-phenylalanine diet consisting of a special supplemental nutrition formula. Glycogen-storage diseases are controlled by dietary treatment to avoid hypoglycemia."
+    }
+  ]
+}

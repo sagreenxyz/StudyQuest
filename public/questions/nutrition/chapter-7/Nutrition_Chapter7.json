@@ -1,0 +1,1029 @@
+{
+  "name": "Nutrition Vitamins",
+  "description": "Chapter 7 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch7-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement will the nurse make when teaching a patient about adequate intake of fruits and vegetables?",
+      "options": [
+        "‘Fill half of your plate with fruits and vegetables each time you eat.\"",
+        "\"You should have a minimum of eight servings of fruits and vegetables a day.\"",
+        "\"Increase your intake of fruits and vegetables.\"",
+        "\"Follow the Centers for Disease Control and Prevention’s (CDC’s) dietary recommendations.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The best statement a nurse can make when teaching a patient about adequate intake of fruits and vegetables is \"Fill half of your plate with fruits and vegetables each time you eat.\" This provides a visual measure of how many fruits and vegetables should be on the patient’s plate each time the patient eats. Recommending a minimum of eight servings of fruits and vegetables a day for a patient is excessive. Telling the patient to increase the intake of fruit and vegetables is vague and does not provide guidelines for the patient to follow. Telling a patient to follow the CDC’s dietary recommendations is less helpful because it is not guaranteed that the patient can access or understand the information. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch7-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Fruits and vegetables of which color are the best source of the phytochemical anthocyanin?",
+      "options": [
+        "Yellow-green",
+        "White-green",
+        "Orange",
+        "@ Red-purple"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Red-purple fruits and vegetables are the best source of the phytochemical anthocyanin. Yellow-green produce provides zeaxanthin. White-green produce contains allyl sulfides. Orange produce provides beta-carotene. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch7-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which carotenoid cannot be converted into vitamin A? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Lycopene, lutein, and zeaxanthin are carotenoids that cannot be converted into vitamin A. Beta carotene is a provitamin A carotenoid that can be converted by the body to retinol, which is a form of vitamin A. Allyl sulfide is an organic compound that contains sulfur but is not a carotenoid. It is found in white-green foods and can be converted into vitamin A."
+    },
+    {
+      "id": "nutrition-ch7-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food source provides the most phytonutrients?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Legumes are the greatest source of phytonutrients. Dairy, meat, and other foods that are derived from animals and foods that have been processed and refined are virtually devoid of phytochemicals. However, certain vegetable oils such as olive oil are a source of phytonutrients."
+    },
+    {
+      "id": "nutrition-ch7-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is considered \"nutrient empty\"?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Refined grains are considered a \"nutrient-empty\" food. Dairy products, oils, and fruits are rich in nutrients and are parts of the food groups necessary for functional health. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch7-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which carotenoid found in yellow-green foods is specifically associated with the prevention of age-related macular degeneration?",
+      "options": [
+        "Anthocyanin",
+        "Glucosinolate",
+        "Zeaxanthin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zeaxanthin is the carotenoid found in yellow-green foods that is associated with the prevention of age-related macular degeneration. Anthocyanin, which is found in red-purple foods, is a flavonoid. Glucosinolate is a nutrient found in green foods. Lycopene is a red carotene that is a powerful antioxidant. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch7-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which action do phytonutrients display that aid in cancer prevention?",
+      "options": [
+        "iv) © Promote antioxidant activity",
+        "Impair RNA synthesis",
+        "Increase immune response",
+        "Improve cell signaling"
+      ],
+      "correctAnswer": null,
+      "explanation": "Phytonutrients promote antioxidant activity, which works to protect the body from damage caused by free radicals. Free radicals lead to oxidative stress, which is associated with an increased risk for cancer. Phytonutrients impair DNA synthesis, not RNA synthesis. Vitamin A is required to help keep the body’s immune response healthy. Vitamin E is responsible for improving cell signaling, specifically to drive gene expression and antiproliferative effects in the eye that appear to be protective against conditions such as glaucoma. pp. 107-108"
+    },
+    {
+      "id": "nutrition-ch7-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which characteristic of vitamin D is accurate?",
+      "options": [
+        "The only source is sunlight.",
+        "The vitamin is required to maintain cell membranes.",
+        "It is measured in international units.",
+        "Recommended daily amounts are combined with vitamin K."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Recommended daily doses of vitamin D are measured in international units. Although sunlight provides vitamin D, a patient can also get it through dietary intake. Vitamin D does not play a role in maintaining cell membranes. Vitamin K is produced in the intestine and does not need to be combined with vitamin D."
+    },
+    {
+      "id": "nutrition-ch7-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which system is sensitive to a vitamin D deficiency?",
+      "options": [
+        "Ocular",
+        "Gastrointestinal",
+        "Musculoskeletal",
+        "Integumentary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin D deficiencies may cause rickets or osteomalacia, which are musculoskeletal disorders. Vitamin D deficiencies do not generally cause issues with the ocular, gastrointestinal, or integumentary systems."
+    },
+    {
+      "id": "nutrition-ch7-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which B vitamin deficiency puts a patient at risk for Beriberi?",
+      "options": [
+        "B 2 (riboflavin)",
+        "Be (pyridoxine)",
+        "Bi (thiamin)",
+        "B3(niacin)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beriberi is a disease of the peripheral nerves caused by a deficiency of vitamin B }. It is characterized by neuritis, paralysis of the legs and arms, cardiovascular changes, and edema. Vitamin B 2 deficiency places a patient at risk for cracked lips and mouth corners; a swollen, red tongue; burning, itching, or tearing eyes caused by extra blood vessels in the cornea; and a scaly, greasy dermatitis in the skin folds. Vitamin B 6 deficiency can cause abnormal central nervous system function with hyperirritability, neuritis, possible convulsions, and microcytic hypochromic anemia. A deficiency in vitamin B 3 results in weakness, poor appetite, indigestion, and various disorders of the skin and nervous system."
+    },
+    {
+      "id": "nutrition-ch7-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food is the best source of B vitamins?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Meats provide the greatest source of B vitamins, including thiamin, riboflavin, niacin, pyridoxine, and cobalamin. Fruits and dairy are not strong sources of B vitamins. Legumes contain thiamin and pyridoxine but not the others that meat can provide."
+    },
+    {
+      "id": "nutrition-ch7-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which diet puts a person at the highest risk for vitamin B j2 (cobalamin) deficiency?",
+      "options": [
+        "iv) © Vegan",
+        "Pescatarian",
+        "Lacto-vegetarian",
+        "Vegetarian"
+      ],
+      "correctAnswer": null,
+      "explanation": "A vegan diet places a person at risk for cobalamin deficiency. Vegans do not eat dairy products, eggs, or any other products derived from animals, which are the only natural sources of cobalamin, so vegans must rely on dietary supplements or fortified foods to meet their daily requirements. A pescatarian diet includes fish, which is a good source of vitamin B 12. Lacto-vegetarians eat dairy products. Vegetarians may consume dairy products and eggs. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch7-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which statement describes the function of vitamin D?",
+      "options": [
+        "Promotes calcium absorption",
+        "|s responsible for wound healing",
+        "Has antioxidant properties",
+        "Plays a role in blood clotting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vitamin D facilitates intestinal absorption of calcium. Vitamin A facilitates wound healing. Vitamin E acts as an antioxidant, and vitamin K plays a role in blood-clotting factors. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch7-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which amount of riboflavin should be taken daily by females?",
+      "options": [
+        "1.5 mg/day with a maximum amount of 100 mg",
+        "1.1 mg/day with no set maximum amount",
+        "@ 1:3 mg/day with no set maximum amount",
+        "10 mg/day with a maximum amount of 35 mg/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The recommended supplementation for riboflavin for women is 1.1 mg/day, and there is no set upper limit. The dose 1.5 mg is more than necessary, and 100 mg is not the maximum. The recommended dosage of riboflavin for men is 1.3 mg/day. The amount 10 mg/day is much more than necessary."
+    },
+    {
+      "id": "nutrition-ch7-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which amount of vitamin B 12 (cobalamin) is recommended as part of a vegan diet?",
+      "options": [
+        "24¢"
+      ],
+      "correctAnswer": null,
+      "explanation": "The recommended supplementation of cobalamin for a patient on a vegan diet is 2.4 mcg. Measurements in grams and milligrams are too high of a dosage. The measurement of units is not used for dosing cobalamin."
+    },
+    {
+      "id": "nutrition-ch7-016",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food is a significant source of both vitamin C and lycopene? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Tomatoes, pink grapefruit, and red peppers are high in both vitamin C and lycopene. Eggplant is high in some of the B vitamins. Cauliflower is high in vitamin C but not lycopene. pp. 106, 108"
+    },
+    {
+      "id": "nutrition-ch7-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which statement describes the function of phytonutrients?",
+      "options": [
+        "Phytonutrients are bioactive molecules.",
+        "Phytonutrients are unnecessary in disease prevention and optimal wellness.",
+        "Phytonutrients are essential nutrients.",
+        "Phytonutrients are unprocessed foods."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Phytonutrients are bioactive molecules found in plants and have multifaceted health benefits. They are not necessary for sustaining life, but they serve a role in disease prevention and promotion of optimal wellness. Phytonutrients are not essential nutrients, which are nutrients that cannot be synthesized by the body but are required by the body for normal functioning. Phytonutrients are found in unprocessed foods, but they are not themselves unprocessed foods."
+    },
+    {
+      "id": "nutrition-ch7-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which role does vitamin C (ascorbic acid) play in preventing iron-deficiency anemia?",
+      "options": [
+        "Metabolizes folate",
+        "Maintains blood-clotting factors",
+        "Helps absorb nonheme iron",
+        "Converts dopamine to norepinephrine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin C prevents iron-deficiency anemia by helping the body absorb nonheme iron, keeping it in its bioactive reduced ferrous form. The vitamin is then made available for hemoglobin production, helping to prevent iron-deficiency anemia. Vitamin C does assist in the metabolism of folate, but folate plays a role in DNA synthesis and cell division, not preventing anemia. Vitamin K is essential in maintaining the normal blood concentrations of four clotting factors. Vitamin C is needed to help convert dopamine into norepinephrine, which are both neurotransmitters. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch7-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which coenzyme function does vitamin B ¢ (pyridoxine) have?",
+      "options": [
+        "DNA repair",
+        "Cell division",
+        "Amino acid metabolism",
+        "Macronutrient metabolism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin Bg functions as a coenzyme in amino acid metabolism. Vitamin B 3 (niacin) functions in DNA repair. Folate (folic acid) participates in cell division. Vitamin B 2 (riboflavin) functions in macronutrient metabolism."
+    },
+    {
+      "id": "nutrition-ch7-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the upper intake level (UL) of retinol for adults established by the Dietary Reference Intake committee?",
+      "options": [
+        "100 mg/day",
+        "600 IU/day",
+        "2000 mg/day",
+        "@ 3000 meg/day"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The UL of retinol for adults has been set at 3000 mcg/day. The UL for pyridoxine for adults is 100 mg/day because high doses have been linked to nerve damage. The current UL for calciferol is 600 IU/day for most adults. The UL for ascorbic acid is 2000 mg/day."
+    },
+    {
+      "id": "nutrition-ch7-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "oes tne DO rely on tne Trequent Intake OT TOOdS ricn In water-soluble VitaMInNs: Why does the body rely on the frequent intake of foods rich in water-soluble vitamins?",
+      "options": [
+        "They are easily oxidized.",
+        "They are easily absorbed by intestinal cells.",
+        "@ The body does not store water-soluble vitamins.",
+        "Areserve supply is necessary to meet bodily needs."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The body does not store water-soluble vitamins to any significant extent, so they must be continually replaced. The oxidation of water-soluble vitamins occurs during food storage and preparation but is not the explanation for the need for their frequent intake. Both fat-soluble and water-soluble vitamins are absorbed by intestinal cells and enter the bloodstream. Because water-soluble vitamins are not stored in the body, a reserve supply is not possible."
+    },
+    {
+      "id": "nutrition-ch7-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Why it is important to ask a patient about the use of dietary supplements?",
+      "options": [
+        "Vitamin needs fluctuate with age.",
+        "iv) © Drug-nutrient interactions are common.",
+        "Dietary supplements can help prevent chronic disease.",
+        "Megadoses of vitamins can cause nutrient deficiencies."
+      ],
+      "correctAnswer": null,
+      "explanation": "Drug-nutrient interactions are more common with dietary supplements than with whole foods and may be detrimental to patients taking certain medications. Changes that occur during the life cycle may cause vitamin needs to fluctuate, but these changes would not be an immediate cause for concern. Evidence does not support the use of dietary supplements to prevent chronic disease. Megadoses of vitamins can cause toxic side effects but do not contribute to nutrient deficiencies. pp. 109-110"
+    },
+    {
+      "id": "nutrition-ch7-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which function is associated with vitamin K?",
+      "options": [
+        "Blood clotting",
+        "Immune function",
+        "Antioxidant action",
+        "Neuromuscular function"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Blood clotting and bone development are functions associated with vitamin K. Immune response is a function associated with several vitamins, including vitamin A, vitamin C, vitamin D, and vitamin E. Antioxidant action in tissues is a vital function associated with vitamin E. Neuromuscular function is one of the many processes associated with vitamin D."
+    },
+    {
+      "id": "nutrition-ch7-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "When taken in excessive amounts for a prolonged period, which vitamin causes hypercalcemia?",
+      "options": [
+        "Vitamin K",
+        "Vitamin E",
+        "Vitamin A",
+        "Vitamin D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Prolonged excessive intake of vitamin D may produce elevated blood calcium concentrations (i.e., hypercalcemia). Toxicity of vitamin K is rare and does not cause hypercalcemia. Vitamin E has no known toxic effects. Hypervitaminosis A causes many symptoms, including bone pain, dry skin, fatigue, anorexia, and loss of hair, but does not cause hypercalcemia."
+    },
+    {
+      "id": "nutrition-ch7-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "options": [
+        "Vitamin D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vitamin D is a fat-soluble vitamin because it dissolves in fatty tissues and substances. Other fat-soluble vitamins include vitamins A, E, and K. Water-soluble vitamins dissolve or disperse in water; thiamin, folate, and niacin are water-soluble."
+    },
+    {
+      "id": "nutrition-ch7-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food is a source of vitamin A? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Liver, carrots, and sweet potato are sources of vitamin A. Yogurt is a source of riboflavin, and salmon is a source of B-complex vitamins."
+    },
+    {
+      "id": "nutrition-ch7-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which best describes the function of vitamin A?",
+      "options": [
+        "Facilitates intestinal absorption of calcium",
+        "iv) © Maintains skin and the inner mucous membranes",
+        "Acts as an antioxidant in cell membranes",
+        "Synthesizes blood clotting factors"
+      ],
+      "correctAnswer": null,
+      "explanation": "Vitamin A maintains skin and the inner mucous membranes. Vitamin D facilitates intestinal absorption of calcium. Vitamin E acts as an antioxidant in cell membranes. Vitamin K synthesizes blood-clotting factors. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch7-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which of the following best describes the function of vitamin E?",
+      "options": [
+        "Facilitates intestinal absorption of calcium",
+        "Maintains skin and mucous membranes",
+        "Acts as an antioxidant in cell membranes",
+        "Synthesizes blood-clotting factors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin E acts as an antioxidant in cell membranes. Vitamin D facilitates intestinal absorption of calcium. Vitamin A maintains skin and mucous membranes. Vitamin K synthesizes blood-clotting factors."
+    },
+    {
+      "id": "nutrition-ch7-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which statement best explains how primary deficiency of a vitamin occurs?",
+      "options": [
+        "Primary deficiency occurs only when a person is experiencing illness.",
+        "Primary deficiency occurs when the absorption of the vitamin is impaired.",
+        "Primary deficiency occurs when two vitamins are competing for binding sites.",
+        "Primary deficiency occurs when the vitamin is not consumed in sufficient amounts."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Primary deficiency of a nutrient results from inadequate dietary intake. A secondary deficiency is caused by malabsorption. Illness can occur as a result of vitamin deficiency, but it doesn’t occur as a result of the illness. Each vitamin performs a specific metabolic function, so they do not compete for binding sites."
+    },
+    {
+      "id": "nutrition-ch7-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "A new parent asks why the nurse is administering vitamin K to the newborn. What is the nurse’s best response?",
+      "options": [
+        "Newborns are unable to produce vitamin K, and it is important for bone metabolism.",
+        "@ Newborns are unable to produce vitamin K, which can help prevent hemorrhaging.",
+        "Newborns are unable to produce vitamin K, which facilitates absorption of calcium.",
+        "Newborns are unable to produce vitamin K, which promotes immunity."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Infants do not have adequate vitamin K stores at birth because vitamin K does not efficiently transfer through the placenta during gestation, and the intestinal tract of a newborn does not yet have vitamin K—-producing gut flora. Consequently, infants routinely receive vitamin K injections at birth to prevent hemorrhaging."
+    },
+    {
+      "id": "nutrition-ch7-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which B-complex vitamin is an essential constituent of the body’s main activating agent, coenzyme A?",
+      "options": [
+        "Folate",
+        "Choline",
+        "Biotin",
+        "Pantothenic acid"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pantothenic acid is an essential constituent of the body’s main activating agent coenzyme A. Folate is important for DNA synthesis and cell division. Choline is important for maintaining the structural integrity of cell membranes. It is also involved in lipid transport, homocysteine reduction, and the neurotransmitter acetylcholine. Biotin is a coenzyme for five carboxylase enzymes, which transfer carbon dioxide moieties from one molecule to another. Test-Taking Tip: If you can eliminate any responses as incorrect based on your knowledge, you will not be guessing randomly but will be exercising \"informed guessing.’"
+    },
+    {
+      "id": "nutrition-ch7-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "A nurse is providing nutritional counseling for a male patient with no significant medical history who smokes approximately half a pack of cigarettes per day. What is the recommended daily intake of vitamin C (ascorbic acid) for this patient?",
+      "options": [
+        "100 | 125 | malday"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The recommended daily of vitamin C (ascorbic acid) for men is 90 mg/day and for women is 75 mg/day. Smokers need an additional 35 mg/day."
+    },
+    {
+      "id": "nutrition-ch7-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which sign indicates that a patient that is experiencing vitamin D toxicity? Select all that apply.",
+      "options": [
+        "_] Blistered skin",
+        "Hypercalcemia",
+        "Polyphagia",
+        "Hypercalciuria",
+        "Eye dryness"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": "Vitamin D toxicity can lead to hypercalcemia and hypercalciuria. Blistered skin is a symptom of vitamin A toxicity. Polyphagia is a symptom of diabetes, and eye dryness is a symptom of vitamin A deficiency. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch7-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food source has high amounts of vitamin C (ascorbic acid)? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food sources high in vitamin C include tomato juice, peppers, and broccoli. Spinach and sweet potatoes are excellent sources of vitamin A, which the body converts to retinol."
+    },
+    {
+      "id": "nutrition-ch7-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which toxicity symptoms might occur with an intake of vitamin C (ascorbic acid) greater than 2000 mg/day?",
+      "options": [
+        "Liver damage",
+        "Scurvy",
+        "Gastrointestinal disturbance",
+        "Tissue bleeding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Toxicity symptoms that may be present in a patient with an intake of vitamin C greater than 2000 mg/day include gastrointestinal disturbance. Liver damage is caused by vitamin A toxicity. Scurvy and tissue bleeding are a result of a vitamin C deficiency, not toxicity."
+    },
+    {
+      "id": "nutrition-ch7-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food prevents anemia in pregnant and lactating women and promotes the healthy development of a fetus? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Folate helps prevent anemia in pregnant and lactating women and prevents neural tube defects in fetuses. Foods high in folate include legumes, orange juice, and green, leafy vegetables. Pregnant women should limit fish, which has high levels of mercury. Stone fruits are healthy but do not necessarily add folate to the diet."
+    },
+    {
+      "id": "nutrition-ch7-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Vitamin C (ascorbic acid) is necessary for which critical body function? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Vitamin C is necessary for critical body functions such as antioxidant function, collagen synthesis, and general body metabolism. Vitamin B 17 (cobalamin) is necessary for DNA synthesis, and vitamin A promotes tissue strength by maintaining healthy epithelial tissue. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch7-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Deficiency of which vitamin can cause symptoms of constipation, poor appetite, fatigue, and malaise?",
+      "options": [
+        "iv) O Thiamin",
+        "Vitamin C",
+        "Riboflavin"
+      ],
+      "correctAnswer": null,
+      "explanation": "Expected physical findings in a patient with a thiamin deficiency include constipation, poor appetite, fatigue, and malaise caused by lower energy levels. Vitamin C deficiency can result in easy bruising and bleeding, soft gums, and poor wound healing. Riboflavin deficiency manifests as cracked lips, swollen tongue, and burning, itchy eyes. Although niacin deficiency can cause poor appetite and indigestion, it is not associated with fatigue and low energy."
+    },
+    {
+      "id": "nutrition-ch7-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food can a vegetarian consume to increase riboflavin in the diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Meat and poultry are good sources of riboflavin, but because the patient is a vegetarian, the nurse can recommend milk, soybeans, and enriched cereal. Oranges are a good source of vitamin C, and green, leafy vegetables are a good source of folate, but neither is high in riboflavin."
+    },
+    {
+      "id": "nutrition-ch7-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which statement is most accurate regarding vitamins?",
+      "options": [
+        "All vitamins are synthesized in the human body.",
+        "@ Most vitamins are provided through dietary intake.",
+        "Vitamins are not essential to metabolic function.",
+        "Vitamins do not affect spiritual or emotional health."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vitamins are obtained through dietary intake, with the exception of vitamin D, which is made inside the human body and can be absorbed from sunlight. Vitamin D is the only vitamin synthesized in the body. Vitamins are vital to metabolism and can affect physical as well as spiritual and emotional health. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch7-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which statement made by the nurse is the most appropriate when providing education for a patient taking high-dose niacin (vitamin B 3) supplements to improve blood lipid profiles?",
+      "options": [
+        "“Your liver enzymes must be monitored.\"",
+        "\"Flushing of the skin is normal.\"",
+        "\"Avoid the sunlight because it may cause dark, scaly dermatitis.\"",
+        "\"You should continue to take your statin medication for your cardiovascular disease.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most appropriate statement by the nurse who is providing education for a patient taking high-dose niacin supplements to improve blood lipid profiles is, \"Your liver enzymes must be monitored.\" Liver enzymes need to be periodically checked because of the potential for liver damage from long-term use of high doses of niacin. Flushing of the skin is an adverse, not normal, effect of high-dose niacin. A patient with a niacin deficiency should avoid the sunlight because exposed skin may develop dark, scaly dermatitis. A patient with cardiovascular disease who takes statin medication does not benefit further from supplemental niacin so it is not recommended. Test-Taking Tip: Sometimes the reading of a question in the middle or toward the end of an exam may trigger your mind with the answer or provide an important clue to an earlier question."
+    },
+    {
+      "id": "nutrition-ch7-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which amount in micrograms (mcg) represents the daily recommended intake of biotin?",
+      "options": [
+        "400",
+        "2.4",
+        "G @ 30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The daily recommended intake of biotin is 30 mcg/day. The daily recommended intake of folate is 400 mcg. The amount 2.4 mcg is the daily recommended intake of cobalamin. A recommended dosage of 5 mcg is too low for biotin. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch7-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Pellagra is managed with therapeutic doses of which vitamin?",
+      "options": [
+        "iv) © Niacin",
+        "Thiamin",
+        "Vitamin C",
+        "Spina bifida"
+      ],
+      "correctAnswer": null,
+      "explanation": "Pellagra results from niacin deficiency, so administration of niacin will be included in this patient’s care plan. Thiamin deficiency causes beriberi. Vitamin C deficiency causes scurvy. Folate administration in pregnant women can reduce the risk for spina bifida in babies."
+    },
+    {
+      "id": "nutrition-ch7-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which individual will have the highest intake of phytonutrients?",
+      "options": [
+        "©@ A person who maintains a vegetarian diet",
+        "A person who takes dietary supplements",
+        "Aperson who eats whole grains for breakfast daily",
+        "A person who follows the established daily recommended intake (DRI) for phytonutrients"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A patient who eats whole grains daily for breakfast will have the highest intake of phytonutrients. Whole grains such as oatmeal are an excellent source of these. Following a vegetarian diet does not ensure adequate intake of phytonutrients. Dietary supplements contain only a few known phytonutrients; taking them does not have the same advantageous effects as consuming them in whole food forms. There is no established DRI for phytonutrients."
+    },
+    {
+      "id": "nutrition-ch7-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food contains the phytochemical flavonoid? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Significant sources of flavonoid include oregano, onions, black tea, and purple grapes. Tomatoes have a greater amount of the phytochemical lycopene."
+    },
+    {
+      "id": "nutrition-ch7-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "The nurse is caring for a patient who is receiving long-term parenteral nutrition without choline. For which disease is this patient at risk?",
+      "options": [
+        "@ Fatty liver disease",
+        "Pernicious anemia",
+        "Xerophthalmia",
+        "Megaloblastic anemia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fatty liver disease is associated with long-term parenteral nutrition devoid of choline. Pernicious anemia occurs in patients with cobalamin (vitamin B 12) deficiency. Xerophthalmia occurs as a result of a vitamin A deficiency. Megaloblastic anemia results from folate deficiency."
+    },
+    {
+      "id": "nutrition-ch7-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which snack food is the best source of phytonutrients?",
+      "options": [
+        "iv) O Nuts",
+        "Pretzels"
+      ],
+      "correctAnswer": null,
+      "explanation": "Nuts are an excellent source of phytonutrients. Pretzels are a refined food that does not contain phytonutrients. Oatmeal cookies are also a processed food containing sugar and fats, making them a poor choice for phytonutrients. Wheat crackers do not necessarily contain whole grains, meaning this processed food could contain no phytonutrients."
+    },
+    {
+      "id": "nutrition-ch7-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food does the nurse recommend to the patient as a good source of vitamin E? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Good sources of vitamin E include green, leafy vegetables like spinach; vegetable oils like sunflower oil; and nuts like hazelnuts. Yogurt is a good source of riboflavin, and chicken is a good source of B vitamins."
+    },
+    {
+      "id": "nutrition-ch7-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "For which reason is it better to obtain phytonutrients from foods rather than dietary supplements? Select all that apply.",
+      "options": [
+        "Phytonutrients are better absorbed from foods.",
+        "Phytonutrients are contained only in macronutrients.",
+        "Phytonutrients are found in abundance in all foods.",
+        "Phytonutrients from foods act synergistically to produce health benefits."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Dietary supplements contain only certain phytonutrients, while specific foods are thought to contain thousands of phytonutrients that have yet to be identified. It is also better to obtain phytonutrients from foods rather than dietary supplements because the beneficial effects of phytochemicals are thought to result from the synergistic actions of multiple constituents as opposed to the action of isolated compounds. Absorption of phytonutrients in the body is not a factor in obtaining phytonutrients. Macronutrients do not contain phytonutrients, but micronutrients do contain phytonutrients. Phytonutrients are not found in abundance in all foods; they are bioactive molecules found in plants. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch7-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The Centers for Disease Control and Prevention’s (CDC’s) daily recommendation for intake of fruits and vegetables is based on which factor? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The CDC bases its recommendation for intake of fruits and vegetables on age, sex, and research findings indicating the number of fruits and vegetables eaten and their impact on the risk for all-causes mortality. Height, weight, and risk factors for disease are not factored into the daily recommendation for fruits and vegetables."
+    },
+    {
+      "id": "nutrition-ch7-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Phytochemicals provide protective benefits against which condition? Select all that apply.",
+      "options": [
+        "iv) [ml] Chronic disease",
+        "Osteomalacia",
+        "iv) [ml] Cardiovascular disease",
+        "Anencephaly",
+        "iv) [ml] Cancer"
+      ],
+      "correctAnswers": [],
+      "explanation": "Phytochemicals offer protection against chronic disease, cardiovascular disease, and cancer. Vitamin D offers protection against osteomalacia. Adequate stores of folic acid before conception and during early gestation reduce the risk for neural tube defects like anencephaly."
+    },
+    {
+      "id": "nutrition-ch7-052",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Vitamin deficiency can occur in patients in which condition? Select all that apply.",
+      "options": [
+        "iv) [ml] Pregnancy",
+        "iv) [ml] Poverty",
+        "Caffeine abuse",
+        "Drug or alcohol abuse",
+        "Increased protein intake"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "Although vitamin deficiencies are no longer common among Americans, pregnant women are often at risk fc marginal deficiencies of essential vitamins. Poverty has an overwhelmingly negative effect on the nutritional status of children and adults. Chronic caffeine, drug, and alcohol abuse not only alter psychological and mental capacities, but it also limits the body’s ability to absorb and use essential vitamins. Increasing protein intake will not result in vitamin deficiency."
+    },
+    {
+      "id": "nutrition-ch7-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which system is affected by a vitamin A deficiency?",
+      "options": [
+        "iv) © Ocular",
+        "Neurologic",
+        "Musculoskeletal",
+        "Endocrine"
+      ],
+      "correctAnswer": null,
+      "explanation": "Vitamin A deficiencies may cause night blindness, hardening of the cornea, and eye dryness. Vitamin A deficiencies do not generally cause issues with the neurologic, musculoskeletal, or endocrine systems."
+    },
+    {
+      "id": "nutrition-ch7-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "A patient states to the nurse, \"| eat plenty of grains and fruits to help prevent cardiovascular disease, so | don’t need a lot of vegetables.\" Which statement regarding this patient is accurate?",
+      "options": [
+        "Additional vegetables in the diet are not needed at this time.",
+        "More fruits can be substituted for the vegetables not being eaten.",
+        "@ Vegetables should be added to obtain phytonutrients that some grains and fruits do not contain.",
+        "Asupplement can be added to the diet for additional phytonutrients."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A patient eating grains and fruits should incorporate vegetables into the diet as well because vegetables have other phytonutrients that benefit health. The patient should be advised to add vegetables to the diet. Substituting more fruits in place of vegetables or encouraging the use of a supplement with the diet will not provide the wide variety of phytonutrients that vegetables will."
+    },
+    {
+      "id": "nutrition-ch7-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which trait best indicates the specific phytochemical a fruit or vegetable contains?",
+      "options": [
+        "Source",
+        "Degree of ripeness",
+        "Category of food group",
+        "Color"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Color is one prominent indicator that a large quantity of a specific phytochemical is present in food. The sources of fruits and vegetables do not correlate with the phytochemicals they contain. An unripe fruit or vegetable may offer fewer phytonutrients, but ripeness does not indicate which phytochemical is present. The category of a food group to which the vegetables and fruits belong does not provide information about the specific phytochemicals they contain."
+    },
+    {
+      "id": "nutrition-ch7-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement will the nurse make when teaching a patient about adequate intake of fruits and vegetables?",
+      "options": [
+        "‘Fill half of your plate with fruits and vegetables each time you eat.\"",
+        "\"You should have a minimum of eight servings of fruits and vegetables a day.\"",
+        "\"Increase your intake of fruits and vegetables.\"",
+        "\"Follow the Centers for Disease Control and Prevention’s (CDC’s) dietary recommendations.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The best statement a nurse can make when teaching a patient about adequate intake of fruits and vegetables is \"Fill half of your plate with fruits and vegetables each time you eat.\" This provides a visual measure of how many fruits and vegetables should be on the patient’s plate each time the patient eats. Recommending a minimum of eight servings of fruits and vegetables a day for a patient is excessive. Telling the patient to increase the intake of fruit and vegetables is vague and does not provide guidelines for the patient to follow. Telling a patient to follow the CDC’s dietary recommendations is less helpful because it is not guaranteed that the patient can access or understand the information. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch7-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Fruits and vegetables of which color are the best source of the phytochemical anthocyanin?",
+      "options": [
+        "Yellow-green",
+        "White-green"
+      ],
+      "correctAnswer": null,
+      "explanation": "Red-purple fruits and vegetables are the best source of the phytochemical anthocyanin. Yellow-green produce provides zeaxanthin. White-green produce contains allyl sulfides. Orange produce provides beta-carotene. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch7-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which carotenoid cannot be converted into vitamin A? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Lycopene, lutein, and zeaxanthin are carotenoids that cannot be converted into vitamin A. Beta carotene is a provitamin A carotenoid that can be converted by the body to retinol, which is a form of vitamin A. Allyl sulfide is an organic compound that contains sulfur but is not a carotenoid. It is found in white-green foods and can be converted into vitamin A."
+    },
+    {
+      "id": "nutrition-ch7-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food source provides the most phytonutrients?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Legumes are the greatest source of phytonutrients. Dairy, meat, and other foods that are derived from animals and foods that have been processed and refined are virtually devoid of phytochemicals. However, certain vegetable oils such as olive oil are a source of phytonutrients."
+    },
+    {
+      "id": "nutrition-ch7-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is considered \"nutrient empty\"?",
+      "options": [
+        "Dairy",
+        "Refined grains"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Refined grains are considered a \"nutrient-empty\" food. Dairy products, oils, and fruits are rich in nutrients and are parts of the food groups necessary for functional health. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch7-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which carotenoid found in yellow-green foods is specifically associated with the prevention of age-related macular degeneration?",
+      "options": [
+        "Anthocyanin",
+        "Glucosinolate",
+        "Zeaxanthin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zeaxanthin is the carotenoid found in yellow-green foods that is associated with the prevention of age-related macular degeneration. Anthocyanin, which is found in red-purple foods, is a flavonoid. Glucosinolate is a nutrient found in green foods. Lycopene is a red carotene that is a powerful antioxidant. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch7-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which action do phytonutrients display that aid in cancer prevention?",
+      "options": [
+        "iv) © Promote antioxidant activity",
+        "Impair RNA synthesis",
+        "Increase immune response",
+        "Improve cell signaling"
+      ],
+      "correctAnswer": null,
+      "explanation": "Phytonutrients promote antioxidant activity, which works to protect the body from damage caused by free radicals. Free radicals lead to oxidative stress, which is associated with an increased risk for cancer. Phytonutrients impair DNA synthesis, not RNA synthesis. Vitamin A is required to help keep the body’s immune response healthy. Vitamin E is responsible for improving cell signaling, specifically to drive gene expression and antiproliferative effects in the eye that appear to be protective against conditions such as glaucoma. pp. 107-108"
+    },
+    {
+      "id": "nutrition-ch7-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which characteristic of vitamin D is accurate?",
+      "options": [
+        "The only source is sunlight.",
+        "The vitamin is required to maintain cell membranes.",
+        "It is measured in international units.",
+        "Recommended daily amounts are combined with vitamin K."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Recommended daily doses of vitamin D are measured in international units. Although sunlight provides vitamin D, a patient can also get it through dietary intake. Vitamin D does not play a role in maintaining cell membranes. Vitamin K is produced in the intestine and does not need to be combined with vitamin D."
+    },
+    {
+      "id": "nutrition-ch7-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which system is sensitive to a vitamin D deficiency?",
+      "options": [
+        "Ocular",
+        "Gastrointestinal",
+        "Musculoskeletal",
+        "Integumentary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin D deficiencies may cause rickets or osteomalacia, which are musculoskeletal disorders. Vitamin D deficiencies do not generally cause issues with the ocular, gastrointestinal, or integumentary systems."
+    },
+    {
+      "id": "nutrition-ch7-065",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 7",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which B vitamin deficiency puts a patient at risk for Beriberi?",
+      "options": [
+        "B 2 (riboflavin)",
+        "Be (pyridoxine)",
+        "Bilthiamin)",
+        "@ 8 3(niacin)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beriberi is a disease of the peripheral nerves caused by a deficiency of vitamin B }. It is characterized by neuritis, paralysis of the legs and arms, cardiovascular changes, and edema. Vitamin B 2 deficiency places a patient at risk for cracked lips and mouth corners; a swollen, red tongue; burning, itching, or tearing eyes caused by extra blood vessels in the cornea; and a scaly, greasy dermatitis in the skin folds. Vitamin B 6 deficiency can cause abnormal central nervous system function with hyperirritability, neuritis, possible convulsions, and microcytic hypochromic anemia. A deficiency in vitamin B 3 results in weakness, poor appetite, indigestion, and various disorders of the skin and nervous system."
+    }
+  ]
+}

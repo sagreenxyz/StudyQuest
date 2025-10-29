@@ -1,0 +1,1289 @@
+{
+  "name": "Nutrition Community Health",
+  "description": "Chapter 13 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch13-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "— Which bacteria was the cause of a recent deadly outbreak of dysentery in Japan?",
+      "options": [
+        "Escherichia coli ( E. coli)",
+        "Salmonella",
+        "@ Campylobacter",
+        "Shigella"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Shigella caused a deadly outbreak of dysentery in Japan. E. coli may result in serious infections or renal failure and death. Salmonella produces mild-to-bloody diarrhea. Campylobacter infections have been associated with Guillain-Barré syndrome and other neuropathies."
+    },
+    {
+      "id": "nutrition-ch13-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "— Which definition matches the \"Light or Lite\" descriptive term on food products?",
+      "options": [
+        "Atleast one-third reduction in kilocalories",
+        "©@ Less than 0.5 g of fat per serving",
+        "At least a 25% reduction in sodium",
+        "20% or more of daily value (DV) per serving"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Food and Drug Administration has specifically defined many terms whose definitions must be met if used on a food product. \" Light or Lite\" indicates a reduction in kilocalories of at least one third. If the product has less than 0.5 g of fat per serving, the term will be \"Fat free,\" not \"Light or Lite.\" If the product has at least a 25% reduction in sodium, it will be termed \"Reduced/less sodium.\" If the product has 20% or more of the DV per serving, it will be termed \"High.\" Test-Taking Tip: Look for answers that focus on the patient or are directed toward feelings."
+    },
+    {
+      "id": "nutrition-ch13-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement describes Clostridium botulinum food poisoning? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Canned foods are a high-risk food for botulism contamination. Like all clostridia, this species is anaerobic or nearly so. The relatively air-free can and canning temperatures (227°C [80°F]) provide good conditions for toxin production. C. botulinum spores are widespread in soil throughout the world and may accompany harvested food to the food-processing plant. Depending on the dose of toxin consumed and the individual response, symptoms will appear within 18 to 36 hours. Nausea, vomiting, weakness, blurred vision, and slurred speech are typical initial symptoms. The toxin progressively irritates motor nerve cells and blocks the transmission of neural impulses at the nerve terminals, thereby causing a gradual paralysis."
+    },
+    {
+      "id": "nutrition-ch13-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which feature is associated with the bacterial food infection caused by Escherichia coli? Select all that apply.",
+      "options": [
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Most cases of infection with E. coli involve diarrhea, stomach cramps, and low-grade fevers that start within 2 to 8 days after ingestion and that usually resolve within 7 days. Approximately 5% to 10% of individuals infected with E. coli will develop hemolytic uremic syndrome."
+    },
+    {
+      "id": "nutrition-ch13-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which statement is true regarding the tracking of foodborne illnesses?",
+      "options": [
+        "The reporting of outbreaks of foodborne illness to the U.S. Food and Drug Administration (FDA) is"
+      ],
+      "correctAnswer": null,
+      "explanation": "The estimated cases of foodborne illness are extrapolations of actual reported cases, as the reporting outbreaks of foodborne illness to the Centers for Disease Control and Prevention (CDC) is more likely than the reporting of individual instances of illness. Outbreaks of foodborne illness are reported to the CDC, not the FDA. The CDC tracks, investigates, and reports the incidence of foodborne illness in the United States, but its ability to do so is dependent on the victim reporting the illness. Local, state, and tribal health departments voluntarily report foodborne illness to the CDC."
+    },
+    {
+      "id": "nutrition-ch13-006",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which purpose is served by food additives? Select all that apply.",
+      "options": [
+        "| Producing a uniform color in food"
+      ],
+      "correctAnswers": [],
+      "explanation": "Food additives can be used to produce uniform food qualities such as color or aroma. It is also used to preserve food by preventing oxidation. Food additives enrich foods with added nutrients. The process of irradiation, not the use of food additives, kills bacteria and parasites that are present on the food after harvest. Agricultural pesticides, not food additives, are used to improve crop yields. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-007",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a Which description is a feature of food irradiation? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Irradiation of food kills bacteria and parasites that are on food after harvest. Irradiation also increases the shelf life of produce. The process of irradiation ensures unaltered nutritive value of food. Irradiation does not use biologic processes or organisms to make or modify products. Irradiated foods are not radioactive."
+    },
+    {
+      "id": "nutrition-ch13-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "a Daily values (DVs) are reference values that relate the nutritional information to a total daily diet of 2000 kcal. Which statement corresponds to the correct understanding of the percentage DV (%DV)?",
+      "options": [
+        "%DV is the daily nutritional requirement of the nutrient for a teenage girl.",
+        "%DV is the daily nutritional requirement of the nutrient for a sedentary male.",
+        "%DV is the reference value that relates the nutritional information to a total diet of 2500 kcal.",
+        "@ %DV is how much a nutrient in a single serving of an individual packaged food or dietary supplement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "%DV is how much a nutrient in a single serving of an individual packaged food or dietary supplement contributes to your daily diet. DVs are reference values that relate the nutrition information to a total daily diet of 2000 kcal, which is appropriate for most women, teenage girls, and some sedentary men. The footnote indicates the daily values for a 2500-kcal diet, which meets the needs of most men, teenage boys, and active women. Test-Taking Tip: Multiple-choice questions can be challenging, because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch13-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which criterion applies to health claims that link nutrients to risk for disease?",
+      "options": [
+        "Health claims must appear on the front of the package.",
+        "@ The U.S. Food and Drug Administration (FDA) must approve only the wording on the package.",
+        "The health claim does not have to be approved by the FDA.",
+        "A physician statement must accompany the claim and define the risk."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FDA strictly regulates health claims that link nutrients or food groups with a risk for disease. A physician statement must accompany the claim and define the risk for the disease. Health claims may appear on the front, side, or back of the food package. To make an association between a food product and a specific disease, the FDA must approve both the claim and the wording used on the package. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and in an area as complex as nursing, an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch13-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "a Which governing body is responsible for regulating the movement of food between state lines?",
+      "options": [
+        "Federal Trade Commission (FTC)"
+      ],
+      "correctAnswer": null,
+      "explanation": "The EDA is charged with ensuring that the United States’ food supply is safe by enforcing food sanitation and quality control, governing food additives, regulating the movement of foods across state lines, supervising the nutrition labeling of foods, and ensuring the safety of public food service. The FTC regulates the advertising and truthful marketing of food products. The CDC monitors and investigates cases of foodborne illnesses. The Food Safety and Inspection Service of the USDA is responsible for food safety of both domestic and imported meat, poultry, and processed egg products. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: [f you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet). pp. 211, 212"
+    },
+    {
+      "id": "nutrition-ch13-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a When setting up a food assistance program for a community, which question is necessary for the nurse to consider when developing program goals to address relevance? x) © Is the task realistic? rv) O Is the goal or activity important or worth doing?",
+      "options": [
+        "Are standards available to assist in setting goals?",
+        "Are sufficient resources available to complete the project?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Asking if the goal or activity is important or worth doing addresses relevance. Asking if the task is realistic addresses achievability, not relevance. Asking if standards are available to assist in setting goals addresses measurability, not relevance. Asking if sufficient resources are available to complete the project addresses achievability, not relevance."
+    },
+    {
+      "id": "nutrition-ch13-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Pregnant women should avoid seafood high in mercury, including swordfish, canned albacore tuna, shark, king mackerel, and tilefish. Women who are pregnant or nursing or who might become pregnant should eat no more than 12 oz per week of low-mercury fish, such as salmon, catfish, shrimp, and pollock."
+    },
+    {
+      "id": "nutrition-ch13-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How soon after consuming contaminated food do symptoms of foodborne illness appear?",
+      "options": [
+        "2 to 4 hours"
+      ],
+      "correctAnswer": null,
+      "explanation": "Symptoms of foodborne illness can appear 1 to 6 hours after eating contaminated food. The time spans of 2 to 4 hours, 1 to 3 hours, and 2 to 5 hours do not cover the full possible span of 1 to 6 hours. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch13-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which is a chemical additive used in meats to prevent rancidity and botulism?",
+      "options": [
+        "Emulsifier",
+        "Sequestrant",
+        "Humectants"
+      ],
+      "correctAnswer": null,
+      "explanation": "Sodium nitrite is a chemical additive used in meats to prevent spoilage and botulism. Emulsifiers are used to keep water and fat-soluble ingredients evenly distributed in a food. Sequestrants are used to prevent changes in flavor, color, or appearance of foods by binding with metals. Humectants help retain moisture in foods to prevent them from becoming hard or stiff."
+    },
+    {
+      "id": "nutrition-ch13-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which bacteria may cause hemolytic uremic syndrome?",
+      "options": [
+        "Escherichia coli ( E.coli)",
+        "Listeria",
+        "Salmonella",
+        "Shigella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "E. coli may cause hemolytic uremic syndrome. Listeria may cause a variety of symptoms, such as diarrhea, flu- like fever and headache, pneumonia, sepsis, meningitis, and endocarditis. Salmonella may cause severe dehydration from vomiting and diarrhea. Shigella may cause dangerous diarrhea, cramps, fever, vomiting, and blood or mucus in the stool. pp. 224-225"
+    },
+    {
+      "id": "nutrition-ch13-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which program will require certification of medical or nutrition risk by a health care professional in addition to qualifying income level?",
+      "options": [
+        "School Nutrition Program"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Women, Infants, and Children Program requires certification of medical or nutrition risk by a health care professional in addition to income level as requirements for participation in the program. The School Nutrition Program, Supplemental Nutrition Assistance Program, and Expanded Food and Nutrition Education Program do not require certification of medical or nutrition risk."
+    },
+    {
+      "id": "nutrition-ch13-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Es Which area of concern is associated with the use of agricultural pesticides? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The four general areas of concern regarding the use of agricultural pesticides are (1) pesticide residues on foods, (2) the gradual leaching of the chemicals into groundwater and surrounding wells, (3) the increased exposure of farm workers to these chemicals, (4) the increased amount of chemicals necessary as insects develop tolerance. The possibility of producing crops with a disorderly general appearance is not a concern associated with the use of agricultural pesticides."
+    },
+    {
+      "id": "nutrition-ch13-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which bacteria was the cause of a recent deadly outbreak of dysentery in Japan?",
+      "options": [
+        "©@ Escherichia coli ( E. coli)",
+        "Salmonella",
+        "Campylobacter",
+        "Shigella"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Shigella caused a deadly outbreak of dysentery in Japan. E. coli may result in serious infections or renal failure and death. Salmonella produces mild-to-bloody diarrhea. Campylobacter infections have been associated with Guillain-Barré syndrome and other neuropathies."
+    },
+    {
+      "id": "nutrition-ch13-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which definition matches the \"Light or Lite\" descriptive term on food products?",
+      "options": [
+        "At least one-third reduction in kilocalories",
+        "Less than 0.5 g of fat per serving",
+        "At least a 25% reduction in sodium",
+        "20% or more of daily value (DV) per serving"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Food and Drug Administration has specifically defined many terms whose definitions must be met if used on a food product. \" Light or Lite\" indicates a reduction in kilocalories of at least one third. If the product has less than 0.5 g of fat per serving, the term will be \"Fat free,\" not \"Light or Lite.\" If the product has at least a 25% reduction in sodium, it will be termed \"Reduced/less sodium.\" If the product has 20% or more of the DV per serving, it will be termed \"High.\" Test-Taking Tip: Look for answers that focus on the patient or are directed toward feelings."
+    },
+    {
+      "id": "nutrition-ch13-021",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement describes Clostridium botulinum food poisoning? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Canned foods are a high-risk food for botulism contamination. Like all clostridia, this species is anaerobic or nearly so. The relatively air-free can and canning temperatures (227°C [80°F]) provide good conditions for toxin production. C. botulinum spores are widespread in soil throughout the world and may accompany harvested food to the food-processing plant. Depending on the dose of toxin consumed and the individual response, symptoms will appear within 18 to 36 hours. Nausea, vomiting, weakness, blurred vision, and slurred speech are typical initial symptoms. The toxin progressively irritates motor nerve cells and blocks the transmission of neural impulses at the nerve terminals, thereby causing a gradual paralysis."
+    },
+    {
+      "id": "nutrition-ch13-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "The estimated cases of foodborne illness are extrapolations of actual reported cases, as the reporting outbreaks of foodborne illness to the Centers for Disease Control and Prevention (CDC) is more likely than the reporting of individual instances of illness. Outbreaks of foodborne illness are reported to the CDC, not the FDA. The CDC tracks, investigates, and reports the incidence of foodborne illness in the United States, but its ability to do so is dependent on the victim reporting the illness. Local, state, and tribal health departments voluntarily report foodborne illness to the CDC."
+    },
+    {
+      "id": "nutrition-ch13-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "SS Which purpose is served by food additives? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food additives can be used to produce uniform food qualities such as color or aroma. It is also used to preserve food by preventing oxidation. Food additives enrich foods with added nutrients. The process of irradiation, not the use of food additives, kills bacteria and parasites that are present on the food after harvest. Agricultural pesticides, not food additives, are used to improve crop yields. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which standard does the labeling category \"Organic\" define?",
+      "options": [
+        "Produced exclusively with certified organic ingredients",
+        "Contains at least 95% organic ingredients",
+        "Made with at least 70% certified organic ingredients",
+        "Made with less than 70% certified organic ingredients"
+      ],
+      "correctAnswer": 1,
+      "explanation": "According to the standards/guidelines for organic foods under the National Organic Program, products labeled as \"Organic \"must contain at least 95% organic ingredients and must have passed a government inspection. Products that carry \"100% organic\" label must be made or produced exclusively with certified organic ingredients, and they must have passed a government inspection. Products with \"Made with Organic\" label must be made with at least 70% certified organic ingredients and list up to three ingredients or food groups. Foods made with less than 70% certified organic ingredients may not use the USDA Organic Seal or make any organic claims on the front panel of the package. They can list the specific organic ingredients on the side panel of the package."
+    },
+    {
+      "id": "nutrition-ch13-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which change has been made in the updated Nutrition Facts Label? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Nutrition Facts Label no longer includes calories from fat below the total calories. The label has does include added sugars, and the respective %DV in order to distinguish between naturally occurring sugars from added sugars. Vitamin D and potassium will replace vitamin A and vitamin C as required nutrients on the label because the latter two are no longer of public health concern as nutrient deficiencies, whereas vitamin D and potassium intake are generally inadequate. The Nutrition Facts Label continues to include serving sizes. A larger, not smaller, font size is being used for calories per serving, not a smaller font size."
+    },
+    {
+      "id": "nutrition-ch13-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which feature describes front-of- package labeling used by food manufacturers? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Many food manufacturers use front-of-package labeling to broadcast nutrition information. Front-of-package labeling includes graded summary labels such as the multiple traffic light labels, Nutri-Score labels, and the 5-Color Nutrition Label, which are the most well accepted and comprehensive way to help individuals identify healthier food options. Front-of-package labeling needs to be visually easy to interpret. Front of package labeling should be symbolic, less text heavy, and understandable despite education level or native language. It is currently voluntary for manufacturers to comply with front-of-package labeling use."
+    },
+    {
+      "id": "nutrition-ch13-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which step is performed by the U.S. Food and Drug Administration (FDA) to enforce food safety regulations? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The FDA governs food additives. The agency is also responsible for regulating the movement of foods across state lines. The FDA supervises the nutrition labeling of foods and ensures the safety of public food services. The regulation of advertisement and truthful marketing of food products is the responsibility of the Federal Trade Commission, not the FDA."
+    },
+    {
+      "id": "nutrition-ch13-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "SS Which current requirement regarding the food label is included in the U.S. Food and Drug Administration (FDA) standards of how food labels appear on food products? Select all that apply.",
+      "options": [
+        "| Vitamin A and vitamin C content required"
+      ],
+      "correctAnswers": [],
+      "explanation": "The current FDA-approved Nutrition Facts Label includes the following requirements: added sugars and the respective percent of daily value included with serving sizes that reflect typical consumption; vitamin D and potassium is required; and the Daily Reference Values now reflect the current Dietary Reference Intakes values. Calories from fat are no longer required to be on the label. A larger font size is required to draw attention to calories per serving, not for calories from fat. Vitamin A and vitamin C are no longer a public health concern for nutrient deficiencies and are not required to be on the food label."
+    },
+    {
+      "id": "nutrition-ch13-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "SS Which is a U.S. Food and Drug Administration (FDA) requirement of labeling of food products? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Food standard information on labels relates to food quality, fill of container, and enrichment or fortification. Food labels must also note major food allergens. The basic standards of identity require that labels on foods that do not have an established reference standard must list all of the ingredients in order of relative amount found in the product. Single-ingredient foods that are also allergens do not need to be marked as containing the allergen. For example, eggs do not require to be marked as \"contains eggs.\" Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: [fthe answer you are seeking is directed to a specific treatment and all but one option deals with signs and symptoms, you would be correct in choosing the treatment-specific option. pp. 211-212"
+    },
+    {
+      "id": "nutrition-ch13-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "At which temperature should cold foods be kept below to prevent microbial growth?",
+      "options": [
+        "40°F",
+        "48°F",
+        "52°F"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cold foods should be kept below 40°F to prevent microbial growth. Any temperature above 40°F, including 48°F, 52°F, and 60°F, can allow for the growth of microorganisms."
+    },
+    {
+      "id": "nutrition-ch13-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Aging",
+      "difficulty": "medium",
+      "question": "Which federal department oversees food assistance programs, such as the Supplemental Nutrition Assistance Program, the School Nutrition Program, and the Nutrition Program for the Elderly?",
+      "options": [
+        "Food and Drug Administration (FDA)",
+        "United States Department of Agriculture (USDA)",
+        "Department of Health and Human Services (DHHS)",
+        "Centers for Disease Control and Prevention (CDC)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The USDA oversees most food assistance programs, such as the Supplemental Nutrition Assistance Program, the School Nutrition Program, and the Nutrition Program for the Elderly. The FDA, DHHS, and CDC are involved in other aspects of nutrition and health promotion."
+    },
+    {
+      "id": "nutrition-ch13-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which U.S. organization assists in overseeing the sales and use of genetically modified crops?",
+      "options": [
+        "Centers for Disease Control and Prevention (CDC)",
+        "Department of Health and Human Services (DHHS)"
+      ],
+      "correctAnswer": null,
+      "explanation": "The FDA assists in overseeing the sales and use of genetically modified crops. Other agencies involved in oversight include the Environmental Protection Agency and the United States Department of Agriculture. The CDC is part of DHHS and works to protect U.S. citizens from health, safety, and security threats. The mission of the DHHS is to enhance and protect the health and well-being of all U.S. citizens by providing effective health and human services and fostering advances in medicine, public health, and social services. The mission of the DHS includes preventing terrorism, enhancing national security, managing U.S. borders, administering immigration laws, securing cyberspace, and ensuring safety and protection during disasters. Test-Taking Tip: Multiple-choice questions can be challenging, because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch13-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the most important role of nutrition labeling for consumers?",
+      "options": [
+        "To provide information about alternative food products",
+        "@ 10 provide information needed to make healthy food choices",
+        "To list calories per serving of the packaged food product",
+        "To list additives that may result in an allergic reaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The purpose of nutrition labeling for consumers is to provide information needed to make healthy choices about foods. Nutrition labels do not give information about alternative food products. Nutrition labels list calories per serving; however, there is more information than calories to assist the consumer in health food selection. Additives in the food may be listed on the nutrition label; however, preventing allergic reactions is only one possible purpose of food labeling. pp. 211-212"
+    },
+    {
+      "id": "nutrition-ch13-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "What advice is most important in preventing foodborne illness?",
+      "options": [
+        "Handwashing before meals",
+        "Handwashing after meals",
+        "@ Washing the surfaces of countertops",
+        "Heat all luncheon meats to steaming"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Handwashing with soap and water before meals is important advice to prevent foodborne illness. Clean hands help prevent the spread of bacteria from the hands to the food in the meal. Handwashing after eating will not prevent foodborne illness. Washing the surfaces of countertops is important, but hand hygiene is a greater priority in preventing foodborne illness. Heating all lunch meats to steaming is advice given to pregnant women to prevent infection with Listeria organisms. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch13-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which program provides hot meals to people older than 60 years? Cy) O Congregate Meals Program",
+      "options": [
+        "Special Supplemental Food Program",
+        "Commodity Supplemental Food Program",
+        "©@ Supplemental Nutrition Assistance Program"
+      ],
+      "correctAnswer": null,
+      "explanation": "Regardless of income, all persons over the age of 60 years can eat hot lunches at a community center under the Congregate Meals Program. The Supplemental Nutrition Assistance Program helps people purchase food. Under the Commodity Supplemental Food Program, the U.S. Department of Agriculture (USDA) purchases food items that are adequate in nutrients but that are often lacking in the diets of the targeted population. The Special Supplemental Food Program for Women, Infants and Children (WIC) provides nutrition supplementation, education and counseling, and referrals for health care and social services. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch13-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which culprit is the greatest cause of foodborne illness?",
+      "options": [
+        "Viruses"
+      ],
+      "correctAnswer": null,
+      "explanation": "Foodborne illness can be caused by a variety of reasons, with approximately 52% of reported cases being caused by bacteria. Forty-six percent of identified cases are caused by viruses. One percent of foodborne illnesses are caused by parasites, and 1% are caused by chemical or toxic agents. Test-Taking Tip: Multiple-choice questions can be challenging, because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch13-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which area of concern pertains to front-of-package labeling?",
+      "options": [
+        "Symbolic instead of text heavy",
+        "Confusion with graded summary labeling",
+        "Few federal regulations for standardization",
+        "©@ Nutri-Score labeling not easily understood"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Many food manufacturers use front-of-package labeling to broadcast nutrition information. Currently, there are few federal regulations in place to standardize front-of-package labels. Ideally, front-of-package labeling would be symbolic instead of text heavy and visually easy to interpret. Studies indicate that graded summary labels, such as multiple traffic-light labels, Nutri-Score labels, or the 5-Color Nutrition Label, are the most well accepted and comprehensive way to help individuals identify healthier food options. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch13-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding preparing, serving, and storing food needs correction? x) © \"An open package of hot dogs can safely remain in the refrigerator for up to 1 week.\"",
+      "options": [
+        "\"An unopened package of bologna can safely remain in the refrigerator for up to 2 weeks.\"",
+        "\"Chicken should be cooked to reach an internal temperature of 170°F or higher.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The statement that needs correction is: \"Cool hot foods to room temperature before refrigerating.\" Food does not need to be cooled to room temperature before refrigerating; in fact, this may result in bacterial growth. Leftovers should be refrigerated within 2 hours. An open package of hot dogs can safely remain in the refrigerator at a temperature 40°F or lower for up to 1 week. An unopened package of bologna can safely remain in the refrigerator at a temperature 40°F or lower for up to 2 weeks. Chicken should be cooked to an internal temperature of 170°F or higher."
+    },
+    {
+      "id": "nutrition-ch13-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding food safety for an immunocompromised patient is incorrect?",
+      "options": [
+        "“Avoid purchasing dented cans of food.\"",
+        "\"Pick up perishable foods, such as eggs or meat, last.\"",
+        "\"Do not purchase foods in cracked or chipped glass jars.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse requires correction when stating, \"Be sure the safety buttons on metal lids are up and activated.\" If a jar’s metal lid safety button is up and activated, the jar has previously been opened and is no longer sterile. The nurse is correct in advising the patient to avoid dented cans, pick up perishable foods last, and avoid cracked or chipped glass jars. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some Casé€s, responses."
+    },
+    {
+      "id": "nutrition-ch13-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The Partnership for Food Safety Education developed the \"Fight BAC!\" campaign to prevent foodborne illness. According to this campaign, which is a critical action for increasing food safety? Select all that apply.",
+      "options": [
+        "|B] Separating foods to avoid cross-contamination",
+        "|B] Cooking foods to proper temperatures"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "The Partnership for Food Safety Education campaign \"Fight BAC!\" identifies four critical actions: washing hands and surfaces often, separating foods to avoid cross-contamination, cooking foods to proper temperatures, and refrigerating foods promptly. Freezing condiments is unnecessary, and mayonnaise should not be frozen. Cooking all meats to an internal temperature of 145°F is incorrect; beef, poultry, and other types of meat should be cooked to higher internal temperatures. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For produce, which method can be used to eliminate or reduce disease-causing germs after harvest and increase shelf life without altering nutrition? rv) © Irradiation",
+      "options": [
+        "Handwashing",
+        "Cold storage",
+        "Vacuum packaging"
+      ],
+      "correctAnswer": null,
+      "explanation": "Irradiation can be used to eliminate or reduce disease-causing germs after harvest and increase the shelf life of produce without altering taste. Handwashing is an important step in preventing foodborne illness before preparing and consuming foods. Cold storage helps protect food from deterioration or decay but does not eliminate disease-causing germs. Vacuum-packaged foods are only minimally processed and are not sterilized; therefore they are at risk of temperature abuse."
+    },
+    {
+      "id": "nutrition-ch13-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements is the best response by a nurse to a patient who asks about foods that are not exposed to pesticides and herbicides?",
+      "options": [
+        "“All foods are exposed to pesticides and herbicides. Why don’t you try to grow your own vegetables in"
+      ],
+      "correctAnswer": null,
+      "explanation": "The best response by the nurse is \" Organic farming bans the use of pesticides and herbicides. Organic foods are available in most major supermarkets.\" It is inaccurate to say that all foods are exposed to pesticides and herbicides; organic farming bans the use of such chemicals, and growing a garden may not be a realistic option for the patient. Becoming a vegetarian does not eliminate exposure to pesticides and herbicides unless all foods in that vegetarian diet are organic. Ordering food online may be an option; however, purchasing organic foods in a supermarket may be more feasible. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch13-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which of the following helps prevent exposure to Listeria organisms during pregnancy?",
+      "options": [
+        "Heat to steaming all luncheon and processed meats.",
+        "Cook ground beef to a minimum temperature of 165°F.",
+        ", Do not drink unpasteurized cider for the duration of pregnancy.",
+        "©@ Wash all fruits and vegetables thoroughly before consumption."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Deli meats have been implicated in Listeria infections. If a pregnant woman chooses to eat luncheon or processed meats, they should be heated to steaming before consumption. Cooking ground beef to a minimum temperature of 165°F and not drinking unpasteurized cider for the duration of the pregnancy help prevent infection with Escherichia coli, not Listeria, organisms. Washing all fruits and vegetables thoroughly before consumption helps prevent infection with Shigella, not Listeria, organisms."
+    },
+    {
+      "id": "nutrition-ch13-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which agency works to ensure food safety. Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The FDA works to ensure the safety of all foods except poultry and meat. The EPA works with the FDA to ensure pesticide residues do not exceed standards. The USDA and the CDC work with the FDA to prevent the introduction and spread of hazards and to investigate and recall food products in cases of foodborne illness. The DHHS does not play a role in ensuring food safety."
+    },
+    {
+      "id": "nutrition-ch13-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which change has been made in the updated Nutrition Facts Label? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Nutrition Facts Label no longer includes calories from fat below the total calories. The label has does include added sugars, and the respective %DV in order to distinguish between naturally occurring sugars from added sugars. Vitamin D and potassium will replace vitamin A and vitamin C as required nutrients on the label because the latter two are no longer of public health concern as nutrient deficiencies, whereas vitamin D and potassium intake are generally inadequate. The Nutrition Facts Label continues to include serving sizes. A larger, not smaller, font size is being used for calories per serving, not a smaller font size."
+    },
+    {
+      "id": "nutrition-ch13-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which feature describes front-of- package labeling used by food manufacturers? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Many food manufacturers use front-of-package labeling to broadcast nutrition information. Front-of-package labeling includes graded summary labels such as the multiple traffic light labels, Nutri-Score labels, and the 5-Color Nutrition Label, which are the most well accepted and comprehensive way to help individuals identify healthier food options. Front-of-package labeling needs to be visually easy to interpret. Front of package labeling should be symbolic, less text heavy, and understandable despite education level or native language. It is currently voluntary for manufacturers to comply with front-of-package labeling use."
+    },
+    {
+      "id": "nutrition-ch13-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which step is performed by the U.S. Food and Drug Administration (FDA) to enforce food safety regulations? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The FDA governs food additives. The agency is also responsible for regulating the movement of foods across state lines. The FDA supervises the nutrition labeling of foods and ensures the safety of public food services. The regulation of advertisement and truthful marketing of food products is the responsibility of the Federal Trade Commission, not the FDA."
+    },
+    {
+      "id": "nutrition-ch13-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "The current FDA-approved Nutrition Facts Label includes the following requirements: added sugars and the respective percent of daily value included with serving sizes that reflect typical consumption; vitamin D and potassium is required; and the Daily Reference Values now reflect the current Dietary Reference Intakes values. Calories from fat are no longer required to be on the label. A larger font size is required to draw attention to calories per serving, not for calories from fat. Vitamin A and vitamin C are no longer a public health concern for nutrient deficiencies and are not required to be on the food label."
+    },
+    {
+      "id": "nutrition-ch13-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a U.S. Food and Drug Administration (FDA) requirement of labeling of food products? Select all that apply.",
+      "options": [
+        "|",
+        "| Food contains an allergen",
+        "|"
+      ],
+      "correctAnswers": [],
+      "explanation": "Food standard information on labels relates to food quality, fill of container, and enrichment or fortification. Food labels must also note major food allergens. The basic standards of identity require that labels on foods that do not have an established reference standard must list all of the ingredients in order of relative amount found in the product. Single-ingredient foods that are also allergens do not need to be marked as containing the allergen. For example, eggs do not require to be marked as \"contains eggs.\" Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: [fthe answer you are seeking is directed to a specific treatment and all but one option deals with signs and symptoms, you would be correct in choosing the treatment-specific option. pp. 211-212"
+    },
+    {
+      "id": "nutrition-ch13-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "What advice is most important in preventing foodborne illness?",
+      "options": [
+        "Handwashing before meals",
+        "Handwashing after meals",
+        "Washing the surfaces of countertops",
+        "Heat all luncheon meats to steaming"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Handwashing with soap and water before meals is important advice to prevent foodborne illness. Clean hands help prevent the spread of bacteria from the hands to the food in the meal. Handwashing after eating will not prevent foodborne illness. Washing the surfaces of countertops is important, but hand hygiene is a greater priority in preventing foodborne illness. Heating all lunch meats to steaming is advice given to pregnant women to prevent infection with Listeria organisms. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch13-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which program provides hot meals to people older than 60 years? Cy) © Congregate Meals Program",
+      "options": [
+        "Special Supplemental Food Program",
+        "Commodity Supplemental Food Program",
+        "Supplemental Nutrition Assistance Program"
+      ],
+      "correctAnswer": null,
+      "explanation": "Regardless of income, all persons over the age of 60 years can eat hot lunches at a community center under the Congregate Meals Program. The Supplemental Nutrition Assistance Program helps people purchase food. Under the Commodity Supplemental Food Program, the U.S. Department of Agriculture (USDA) purchases food items that are adequate in nutrients but that are often lacking in the diets of the targeted population. The Special Supplemental Food Program for Women, Infants and Children (WIC) provides nutrition supplementation, education and counseling, and referrals for health care and social services. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch13-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "The development of bloody stools and fever after drinking unpasteurized apple cider is most likely caused by which bacterial infection?",
+      "options": [
+        "Salmonella"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse suspects the patient is infected with E. coli. E. coli infection can cause bloody diarrhea and fever and sometimes progresses to renal failure and death. Most outbreaks arise from consumption of unpasteurized or undercooked food or contaminated water. Salmonella infection is associated with the consumption of eggs, milk, custard, sandwich fillings, shellfish, and contaminated water, producing bloody diarrhea with fever. Campylobacter infection causes acute diarrhea and is linked to the consumption of undercooked meats and seafood, raw milk, and untreated water. Listeria usually infects people with suppressed immunity and has been traced to unpasteurized milk, undercooked poultry, and processed meats."
+    },
+    {
+      "id": "nutrition-ch13-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement regarding safe food preparation is correct? Select all that apply.",
+      "options": [
+        "| \"I will scrub fresh vegetables and fruits with a small vegetable brush.\""
+      ],
+      "correctAnswers": [],
+      "explanation": "Safe food preparation includes removing and discarding the outmost leaves of a head of lettuce, washing each lettuce leaf under running water, and scrubbing fresh fruits and vegetables with a small vegetable brush. Fruits and vegetables should be stored in the refrigerator within 2 hours of peeling or cutting. Produce should not be soaked, because this increases the risk of contamination. Melons should be scrubbed thoroughly to remove any contaminants. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which matter is a general concern about the use of pesticides as it relates to food? Select all that apply.",
+      "options": [
+        "i _e"
+      ],
+      "correctAnswers": [],
+      "explanation": "Large American agricultural corporations as well as individual farmers use a number of chemicals to increase their crop yield. The four general areas of concern surrounding the use of pesticides include the increased amount of chemicals necessary as insects develop tolerance, the gradual leaching of chemicals into groundwater and surrounding wells, the pesticide residues on food, and the increased exposure of farm workers to these chemicals. Decreased food yields is why pesticides are used. pp. 215-216"
+    },
+    {
+      "id": "nutrition-ch13-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which community resource utilizes the U.S. Department of Agriculture (USDA) to purchase food items that are good sources of nutrients but lacking in the diets of a target population?",
+      "options": [
+        "School Meals Program",
+        "Nutrition Services Incentive Program",
+        "@ Commodity Supplemental Food Program",
+        "Supplemental Nutrition Assistance Program"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under the Commodity Supplemental Food Program, the USDA purchases food items that are nutritious but that are often lacking in the diets of the target population. The USDA then distributes the food to state agencies and tribal organizations. The School Meals Program provides breakfast and lunch to meet the Dietary Guideline recommendations for many children who would otherwise lack balanced meals. The Nutrition Services Incentive Program promotes socialization, health, and well-being for older individuals by reducing hunger and food insecurity. The Supplemental Nutrition Assistance Program helps people purchase food. pp. 232-233"
+    },
+    {
+      "id": "nutrition-ch13-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For which reason is tracking foodborne illness difficult? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Tracking the prevalence, food origin, and pathogen responsible for foodborne illness is a very difficult task. The symptoms of foodborne illness are often difficult to distinguish from other forms of illness. Most forms of foodborne illness are short-lived and self-limiting. Even if the person sees a physician, identifying the pathogen responsible is difficult. The CDC tracks, investigates, and reports the incidence of foodborne illness, but its ability to do so is dependent on the victim. Local, state, and tribal health departments voluntarily report foodborne illness to the CDC."
+    },
+    {
+      "id": "nutrition-ch13-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which benefit do food additives provide? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The use of food additives helps prevent spoilage and extend shelf life. The expanding population, a larger workforce, and more complex family life have increased the desire for more variety and convenience in foods. Food additives help to preserve foods by preventing oxidation; controlling acidity and alkalinity to improve flavor and texture; producing uniform qualities, such as color, flavor, texture, aroma, and general appearance; and enriching foods with added nutrients. Additives also standardize functional factors that prevent ingredients from separating before consumption."
+    },
+    {
+      "id": "nutrition-ch13-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement supports a food product being labeled as \"made with organic",
+      "options": [
+        "ingredients?\" Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "Organic foods have four labeling categories with specific guidelines for each. Products made with at least 70% certified organic ingredients may state on the product label \"made with organic ingredients\" and list up to three ingredients or food groups. These foods must also meet the National Organic Program guidelines for growth and production without synthetic pesticides, fertilizers, sewage sludge, bioengineering, or ionizing radiation. A product must pass a government inspection if the food product is labeled as \"100% organic.\" A food product labeled as \"made with organic ingredients\" may not display the USDA Organic Seal or use it in any advertising."
+    },
+    {
+      "id": "nutrition-ch13-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "The nurse is teaching a pregnant patient about food safety risks. Which food should the nurse teach the pregnant patient to avoid? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During pregnancy, the pregnant woman and her fetus have a higher risk of becoming sick from food poisoning. Pregnant women should avoid rare, raw, or undercooked meats, poultry, and fish, such as sushi. Pregnant women should also avoid unpasteurized fruit juice, milk, and vegetable juice. Deli salads (especially those made with mayonnaise) should also be avoided. Refrigerated meat spreads and paté should not be eaten during pregnancy. Pasteurized skim milk and whole-grain toast do not pose a food safety risk during pregnancy. Test-Taking Tip: Reread the question if the answers do not seem to make sense because you may have missed words such as not or except in the statement."
+    },
+    {
+      "id": "nutrition-ch13-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which response is the most accurate description of the impact of food processing on food nutrient content? rv) © \"Vitamins and minerals are more affected by food processing than are carbohydrates, fats, and proteins.\"",
+      "options": [
+        "\"Vitamins A and D are completely stable during food-processing effects and are not lost during"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most accurate statement concerning food processing is that vitamins and minerals are more affected by food processing than are carbohydrates, fats, and proteins. No vitamin is completely stable during food processing. Of the minerals lost during refining, only iron is added back. Processed foods based on synthetic materials do not contribute significantly to daily dietary requirements of vitamins and minerals. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; however, every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch13-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which statement best reflects a recent change to the FDA's Nutrition Facts label?",
+      "options": [
+        "Calories from fat are now listed in bold to emphasize their impact on health.",
+        "Added sugars and their percent daily value are now listed to help distinguish them from natural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "According to the updated FDA guidelines, added sugars and their percent daily value (% DV) are now included on the Nutrition Facts label to help consumers distinguish added sugars from naturally occurring sugars. This change was made to address growing public health concerns about excess added sugar intake. Calories from fat are no longer listed at all, as the type of fat is considered more relevant than the total fat calories. Serving sizes are now based on what people typically consume—not on dietary recommendations—so labels reflect real-world eating habits. Vitamins A and C are no longer required on labels; instead, vitamin D and potassium are now required, based on current research about common nutrient deficiencies."
+    },
+    {
+      "id": "nutrition-ch13-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a common sign or symptom of foodborne illnesses? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Common signs and symptoms of foodborne illnesses are often mistaken for the \"stomach flu.\" Foodborne illness may cause diarrhea, vomiting, abdominal cramping, nausea, and stomach upset. These symptoms usually resolve in 1 to 2 days. Rash and wheezing are more likely to indicate an allergic reaction to food rather than a foodborne illness. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A nursing assistant at a long-term care facility presents to the emergency department with",
+      "options": [
+        "vomiting, diarrhea, and severe dehydration. The patient states, \"Everyone at work is sick"
+      ],
+      "correctAnswer": null,
+      "explanation": "Norovirus infections may occur from consuming contaminated fruits and vegetables not properly washed or from oral-fecal transmission related to a lack of proper hand hygiene. Health care workers in long-term care settings are at higher risk if outbreaks occur. Salmonella grows in protein-rich foods, such as milk, custard, egg dishes, and sandwich fillings; contaminated water; and unpasteurized milk or juice. Salmonella can cause mild-to-bloody diarrhea with fever. Vibrio is generally associated with ingestion of raw seafood. Listeria is more common in immunocompromised patients and produces diarrhea, flu-like symptoms, headache, pneumonia, meningitis, sepsis, and endocarditis."
+    },
+    {
+      "id": "nutrition-ch13-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which of the following is most likely the cause of a Vibrio infection?",
+      "options": [
+        "\"Vibrio infections are usually caused by consuming undercooked meat or unpasteurized foods.\"",
+        "\"Vibrio infections are usually caused by fecal contamination of food due to poor hygiene.\"",
+        "\" Vibrio infections are usually caused by ingesting contaminated seafood.\"",
+        "\"Vibrio is found in the soil, water, dust, and refuse. Raw meat and poultry transmit the infection.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vibrio infections are usually caused by ingesting contaminated seafood because the bacteria requires salt water for growth. Escherichia coli infection may be caused by consuming undercooked meats or unpasteurized foods. Shigella infection is caused by fecal contamination of food due to poor hygiene. Clostridium perfringens spores are found in soil, water, dust, and garbage and are frequently found in raw meat and poultry. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch13-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following food allergens requires labeling according to the Consumer Protection Act? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Milk, peanuts, shellfish, and tree nuts are among the eight foods that cause 90% of food allergies and therefore must be labeled. Gelatin and food dyes can also cause allergies, but the Consumer Protection Act does not require information about these on food labels. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which of the following can make investigating a foodborne illness outbreak difficult?",
+      "options": [
+        "Many people attribute symptoms of a foodborne illness to the flu rather than food.",
+        "© By the time symptoms of a foodborne illness appear, many days may have passed since the offending",
+        "item was eaten.",
+        "Many different foods can contribute to a foodborne illness, which makes it hard to determine the"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The symptoms of foodborne illnesses can mimic those associated with the flu or other temporary gastrointestinal illnesses, and people may not seek medical care or report the issue, which makes identifying outbreaks difficult. Symptoms of foodborne illness occur generally within 12 to 24 hours of eating the offending item. Although many foods can cause foodborne illnesses, there are common culprits implicated in foodborne illness outbreaks. The Centers for Disease Control and Prevention coordinates investigations into foodborne illness outbreaks. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch13-067",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Based on the patient's history, which organism is likely causing this patient’s symptoms? Patient History Four hours ago, adult patient ate hamburgers that were sitting outside in the sun. Symptoms include severe abdominal pain, vomiting, diarrhea, and headache",
+      "options": [
+        "Shigella"
+      ],
+      "correctAnswer": null,
+      "explanation": "Staphylococcal food poisoning is primarily due to Staphylococcus aureus, which produces rapid illness, usually within 1 to 6 hours after ingestion. The symptoms appear suddenly and include severe cramping and abdominal pain, nausea, vomiting and diarrhea, usually accompanied by sweating, headache, fever, and sometimes prostration and shock. Shigella causes shigellosis, in which symptoms usually appear 4 to 7 days after ingestion. Most cases of infection resulting from Escherichia coli start within 2 to 8 days of ingestion. With Clostridium botulinum, symptoms usually begin within 18 to 36 hours of ingestion and include symptoms of nausea, vomiting, weakness, blurred vision, and slurred speech. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some Casé€s, responses. pp. 224-225"
+    },
+    {
+      "id": "nutrition-ch13-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Based on the information in the patient 7 bacteria is likely causing the child’s symptoms? Patient History 10-month-old child playing in the dirt 3 days ago Symptoms started 1 day ago ® Child seems weak and will not eat",
+      "options": [
+        "Vomiting",
+        "Gradual paralysis",
+        "Escherichia coli",
+        "Clostridium botulinum",
+        "Staphylococcus aureus",
+        "Clostridium perfringens"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Clostridium botulinum is a bacterium that causes a more serious form of food poisoning; spores are found in soil. Depending on the dose of toxin consumed and the individual response, symptoms will appear within 18 to 36 hours. Nausea, vomiting, weakness, blurred vision, and slurred speech are typical symptoms. The toxin progressively irritates motor nerve cells and blocks the transmission of neural impulses at the nerve terminals, thereby causing a gradual paralysis. Escherichia coli usually has symptoms of low-grade fever, stomach cramps, and diarrhea that resolves within 7 days. Staphylococcus aureus symptoms usually appear suddenly, within 1 to 6 hours of ingestion and include nausea, vomiting, headache, fever, and sweating. Recovery is usually rapid. Clostridium perfringens is usually found in raw meat and poultry and causes symptoms of food poisoning. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch13-069",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement supports the idea of organic farming and demonstrates its benefits?",
+      "options": [
+        "Genetically modified organisms are not used in foods.",
+        "Organically grown foods have increased nutrient value.",
+        "©@ Organic farming is more environmentally safe and cheaper.",
+        "lonizing radiation is used in place of fertilizers and pesticides.",
+        "Animals are given antibiotics to help keep the animals healthy."
+      ],
+      "correctAnswer": 0,
+      "explanation": "An increasing number of concerned farmers, with the help of soil scientists, are turning away from heavy pesticide use toward alternative agricultural methods, such as organic farming. Organic plant foods grow without synthetic pesticides, fertilizers, sewage sludge, genetically modified organisms, or ionizing radiation. Consumers of organic foods cite that organically grown food has increased nutrient value, but that has not been proven. Organic farming may be more beneficial for the environment but has lower crop yield, requires more land, and is more expensive than conventionally grown crops. lonizing radiation is not used in organic farming. Organic meat, poultry, dairy products, and eggs are from animals raised without antibiotics or growth hormones. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 216-217"
+    },
+    {
+      "id": "nutrition-ch13-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which landmark report reinforced the need to change the food-labeling requirement to create better food labels to maintain the health of all Americans? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Despite initial regulations for food labeling, a number of problems persisted, such as misleading health claims, varying serving sizes, and vague terms. Three landmark reports that related nutrition and diet to national health goals reinforced the need to reorganize the entire food-labeling system. Those reports were the Surgeon General’s Report on Nutrition and Health, The National Research Council’s Diet and Health Report, and the health and objectives defined in Healthy Peoples Initiative. The U.S. Department of Agriculture’s Research Service did not create a report to reinforce the need to reorganize the food labeling system. This department continually evaluates food and food components through its own research. The Institute of Medicine of the National Academy of Science established a committee based on the other reports. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 211-212"
+    },
+    {
+      "id": "nutrition-ch13-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "A patient presents with abdominal cramping, bloody diarrhea, and fever about a week after drinking unpasteurized milk. An abdominal computed tomography (CT) scan shows",
+      "options": [
+        "inflammation confined to the large intestine. Which foodborne illness would be suspected"
+      ],
+      "correctAnswer": null,
+      "explanation": "Shigellosis is caused by a bacteria called shigella. Symptoms usually include abdominal cramping, diarrhea, fever, vomiting, and blood or mucus in the stool, and shigellosis is usually confined to the large intestine. Listeriosis produces similar symptoms but is not usually confined to the large intestine. Salmonellosis also may be demonstrated with similar symptoms but is not usually confined to the large intestine. Staphylococcal food poisoning leads to similar symptoms as shigellosis, but is not usually confined to the large intestine. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers. pp. 223-224"
+    },
+    {
+      "id": "nutrition-ch13-072",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "The development of bloody stools and fever after drinking unpasteurized apple cider is most likely caused by which bacterial infection?",
+      "options": [
+        "Salmonella"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse suspects the patient is infected with E. coli. E. coli infection can cause bloody diarrhea and fever and sometimes progresses to renal failure and death. Most outbreaks arise from consumption of unpasteurized or undercooked food or contaminated water. Salmonella infection is associated with the consumption of eggs, milk, custard, sandwich fillings, shellfish, and contaminated water, producing bloody diarrhea with fever. Campylobacter infection causes acute diarrhea and is linked to the consumption of undercooked meats and seafood, raw milk, and untreated water. Listeria usually infects people with suppressed immunity and has been traced to unpasteurized milk, undercooked poultry, and processed meats."
+    },
+    {
+      "id": "nutrition-ch13-073",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement regarding safe food preparation is correct? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Safe food preparation includes removing and discarding the outmost leaves of a head of lettuce, washing each lettuce leaf under running water, and scrubbing fresh fruits and vegetables with a small vegetable brush. Fruits and vegetables should be stored in the refrigerator within 2 hours of peeling or cutting. Produce should not be soaked, because this increases the risk of contamination. Melons should be scrubbed thoroughly to remove any contaminants. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-074",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For which reason is tracking foodborne illness difficult? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Tracking the prevalence, food origin, and pathogen responsible for foodborne illness is a very difficult task. The symptoms of foodborne illness are often difficult to distinguish from other forms of illness. Most forms of foodborne illness are short-lived and self-limiting. Even if the person sees a physician, identifying the pathogen responsible is difficult. The CDC tracks, investigates, and reports the incidence of foodborne illness, but its ability to do so is dependent on the victim. Local, state, and tribal health departments voluntarily report foodborne illness to the CDC."
+    },
+    {
+      "id": "nutrition-ch13-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement supports a food product being labeled as \"made with organic",
+      "options": [
+        "ingredients?\" Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "Organic foods have four labeling categories with specific guidelines for each. Products made with at least 70% certified organic ingredients may state on the product label \"made with organic ingredients\" and list up to three ingredients or food groups. These foods must also meet the National Organic Program guidelines for growth and production without synthetic pesticides, fertilizers, sewage sludge, bioengineering, or ionizing radiation. A product must pass a government inspection if the food product is labeled as \"100% organic.\" A food product labeled as \"made with organic ingredients\" may not display the USDA Organic Seal or use it in any advertising."
+    },
+    {
+      "id": "nutrition-ch13-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "The nurse is teaching a pregnant patient about food safety risks. Which food should the nurse teach the pregnant patient to avoid? Select all that apply.",
+      "options": [
+        "BM] Unpasteurized fruit juice"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "During pregnancy, the pregnant woman and her fetus have a higher risk of becoming sick from food poisoning. Pregnant women should avoid rare, raw, or undercooked meats, poultry, and fish, such as sushi. Pregnant women should also avoid unpasteurized fruit juice, milk, and vegetable juice. Deli salads (especially those made with mayonnaise) should also be avoided. Refrigerated meat spreads and paté should not be eaten during pregnancy. Pasteurized skim milk and whole-grain toast do not pose a food safety risk during pregnancy. Test-Taking Tip: Reread the question if the answers do not seem to make sense because you may have missed words such as not or except in the statement."
+    },
+    {
+      "id": "nutrition-ch13-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following food allergens requires labeling according to the Consumer Protection Act? Select all that apply.",
+      "options": [
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Milk, peanuts, shellfish, and tree nuts are among the eight foods that cause 90% of food allergies and therefore must be labeled. Gelatin and food dyes can also cause allergies, but the Consumer Protection Act does not require information about these on food labels. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch13-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which of the following can make investigating a foodborne illness outbreak difficult?",
+      "options": [
+        "Many people attribute symptoms of a foodborne illness to the flu rather than food.",
+        "By the time symptoms of a foodborne illness appear, many days may have passed since the offending",
+        "item was eaten.",
+        "Many different foods can contribute to a foodborne illness, which makes it hard to determine the"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The symptoms of foodborne illnesses can mimic those associated with the flu or other temporary gastrointestinal illnesses, and people may not seek medical care or report the issue, which makes identifying outbreaks difficult. Symptoms of foodborne illness occur generally within 12 to 24 hours of eating the offending item. Although many foods can cause foodborne illnesses, there are common culprits implicated in foodborne illness outbreaks. The Centers for Disease Control and Prevention coordinates investigations into foodborne illness outbreaks. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch13-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Based on the patient's history, which organism is likely causing this patient’s symptoms? Patient History Four hours ago, adult patient ate hamburgers that were sitting outside in the sun. Symptoms include severe abdominal pain, vomiting, diarrhea, and headache",
+      "options": [
+        "Shigella",
+        "Escherichia coli",
+        "Clostridium botulinum",
+        "Staphylococcus aureus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Staphylococcal food poisoning is primarily due to Staphylococcus aureus, which produces rapid illness, usually within 1 to 6 hours after ingestion. The symptoms appear suddenly and include severe cramping and abdominal pain, nausea, vomiting and diarrhea, usually accompanied by sweating, headache, fever, and sometimes prostration and shock. Shigella causes shigellosis, in which symptoms usually appear 4 to 7 days after ingestion. Most cases of infection resulting from Escherichia coli start within 2 to 8 days of ingestion. With Clostridium botulinum, symptoms usually begin within 18 to 36 hours of ingestion and include symptoms of nausea, vomiting, weakness, blurred vision, and slurred speech. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some Casé€s, responses. pp. 224-225"
+    },
+    {
+      "id": "nutrition-ch13-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement supports the idea of organic farming and demonstrates its benefits?",
+      "options": [
+        "@ Genetically modified organisms are not used in foods.",
+        "Organically grown foods have increased nutrient value.",
+        "Organic farming is more environmentally safe and cheaper.",
+        "lonizing radiation is used in place of fertilizers and pesticides.",
+        "Animals are given antibiotics to help keep the animals healthy."
+      ],
+      "correctAnswer": 0,
+      "explanation": "An increasing number of concerned farmers, with the help of soil scientists, are turning away from heavy pesticide use toward alternative agricultural methods, such as organic farming. Organic plant foods grow without synthetic pesticides, fertilizers, sewage sludge, genetically modified organisms, or ionizing radiation. Consumers of organic foods cite that organically grown food has increased nutrient value, but that has not been proven. Organic farming may be more beneficial for the environment but has lower crop yield, requires more land, and is more expensive than conventionally grown crops. lonizing radiation is not used in organic farming. Organic meat, poultry, dairy products, and eggs are from animals raised without antibiotics or growth hormones. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 216-217"
+    },
+    {
+      "id": "nutrition-ch13-081",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which landmark report reinforced the need to change the food-labeling requirement to create better food labels to maintain the health of all Americans? Select all that apply.",
+      "options": [
+        "|B] The Surgeon General’s Report on Nutrition and Health"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Despite initial regulations for food labeling, a number of problems persisted, such as misleading health claims, varying serving sizes, and vague terms. Three landmark reports that related nutrition and diet to national health goals reinforced the need to reorganize the entire food-labeling system. Those reports were the Surgeon General’s Report on Nutrition and Health, The National Research Council’s Diet and Health Report, and the health and objectives defined in Healthy Peoples Initiative. The U.S. Department of Agriculture’s Research Service did not create a report to reinforce the need to reorganize the food labeling system. This department continually evaluates food and food components through its own research. The Institute of Medicine of the National Academy of Science established a committee based on the other reports. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 211-212"
+    },
+    {
+      "id": "nutrition-ch13-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which area of concern pertains to front-of-package labeling?",
+      "options": [
+        "Symbolic instead of text heavy",
+        "Confusion with graded summary labeling",
+        "Few federal regulations for standardization",
+        "Nutri-Score labeling not easily understood"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Many food manufacturers use front-of-package labeling to broadcast nutrition information. Currently, there are few federal regulations in place to standardize front-of-package labels. Ideally, front-of-package labeling would be symbolic instead of text heavy and visually easy to interpret. Studies indicate that graded summary labels, such as multiple traffic-light labels, Nutri-Score labels, or the 5-Color Nutrition Label, are the most well accepted and comprehensive way to help individuals identify healthier food options. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch13-083",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding preparing, serving, and storing food needs correction? x) © \"An open package of hot dogs can safely remain in the refrigerator for up to 1 week.\"",
+      "options": [
+        "\"An unopened package of bologna can safely remain in the refrigerator for up to 2 weeks.\"",
+        "\"Chicken should be cooked to reach an internal temperature of 170°F or higher.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The statement that needs correction is: \"Cool hot foods to room temperature before refrigerating.\" Food does not need to be cooled to room temperature before refrigerating; in fact, this may result in bacterial growth. Leftovers should be refrigerated within 2 hours. An open package of hot dogs can safely remain in the refrigerator at a temperature 40°F or lower for up to 1 week. An unopened package of bologna can safely remain in the refrigerator at a temperature 40°F or lower for up to 2 weeks. Chicken should be cooked to an internal temperature of 170°F or higher."
+    },
+    {
+      "id": "nutrition-ch13-084",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which of the following helps prevent exposure to Listeria organisms during pregnancy?",
+      "options": [
+        "Heat to steaming all luncheon and processed meats.",
+        "Cook ground beef to a minimum temperature of 165°F.",
+        ", Do not drink unpasteurized cider for the duration of pregnancy.",
+        "Wash all fruits and vegetables thoroughly before consumption."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Deli meats have been implicated in Listeria infections. If a pregnant woman chooses to eat luncheon or processed meats, they should be heated to steaming before consumption. Cooking ground beef to a minimum temperature of 165°F and not drinking unpasteurized cider for the duration of the pregnancy help prevent infection with Escherichia coli, not Listeria, organisms. Washing all fruits and vegetables thoroughly before consumption helps prevent infection with Shigella, not Listeria, organisms."
+    },
+    {
+      "id": "nutrition-ch13-085",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which agency works to ensure food safety. Select all that apply.",
+      "options": [
+        "| Food and Drug Administration (FDA)"
+      ],
+      "correctAnswers": [],
+      "explanation": "The FDA works to ensure the safety of all foods except poultry and meat. The EPA works with the FDA to ensure pesticide residues do not exceed standards. The USDA and the CDC work with the FDA to prevent the introduction and spread of hazards and to investigate and recall food products in cases of foodborne illness. The DHHS does not play a role in ensuring food safety."
+    },
+    {
+      "id": "nutrition-ch13-086",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which criterion applies to health claims that link nutrients to risk for disease?",
+      "options": [
+        "Health claims must appear on the front of the package.",
+        "The U.S. Food and Drug Administration (FDA) must approve only the wording on the package.",
+        "The health claim does not have to be approved by the FDA.",
+        "A physician statement must accompany the claim and define the risk."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FDA strictly regulates health claims that link nutrients or food groups with a risk for disease. A physician statement must accompany the claim and define the risk for the disease. Health claims may appear on the front, side, or back of the food package. To make an association between a food product and a specific disease, the FDA must approve both the claim and the wording used on the package. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and in an area as complex as nursing, an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch13-087",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which governing body is responsible for regulating the movement of food between state lines?",
+      "options": [
+        "Federal Trade Commission (FTC)"
+      ],
+      "correctAnswer": null,
+      "explanation": "The EDA is charged with ensuring that the United States’ food supply is safe by enforcing food sanitation and quality control, governing food additives, regulating the movement of foods across state lines, supervising the nutrition labeling of foods, and ensuring the safety of public food service. The FTC regulates the advertising and truthful marketing of food products. The CDC monitors and investigates cases of foodborne illnesses. The Food Safety and Inspection Service of the USDA is responsible for food safety of both domestic and imported meat, poultry, and processed egg products. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: [f you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet). pp. 211, 212"
+    },
+    {
+      "id": "nutrition-ch13-088",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 13",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "When setting up a food assistance program for a community, which question is necessary for the nurse to consider when developing program goals to address relevance?",
+      "options": [
+        "Is the task realistic?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Asking if the goal or activity is important or worth doing addresses relevance. Asking if the task is realistic addresses achievability, not relevance. Asking if standards are available to assist in setting goals addresses measurability, not relevance. Asking if sufficient resources are available to complete the project addresses achievability, not relevance."
+    }
+  ]
+}

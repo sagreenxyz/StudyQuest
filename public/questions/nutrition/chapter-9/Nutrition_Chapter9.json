@@ -1,0 +1,1007 @@
+{
+  "name": "Nutrition Water and Electrolyte Balance",
+  "description": "Chapter 9 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch9-001",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which mechanism does the body use to maintain a constant flow of fluid through the tissues and carry materials to and from the cells? Select all that apply.",
+      "options": [
+        "iv) [ml] Hydrostatic pressure",
+        "Colloidal osmotic pressure",
+        "_| Chemical buffer system",
+        "Physiologic buffer system",
+        "_] Renin-angiotensin-aldosterone system"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "The body maintains this constant flow of fluid through the tissues and carries materials to and from the cells by means of hydrostatic pressure and colloidal osmotic pressure. Chemical and physiologic buffer systems and the renin-angiotensin-aldosterone system are not directly involved in maintaining a constant flow of fluid through the tissues and carries materials to and from the cells. Chemical and physiologic buffer systems are important mechanisms for maintaining the blood pH within an acceptable range for life. The renin- angiotensin-aldosterone system is a complex hormonal system that corrects for hypovolemia through a negative feedback mechanism."
+    },
+    {
+      "id": "nutrition-ch9-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which process involves movement of water and solutes across membrane with assistance from cell membrane transporters?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Facilitated diffusion",
+        "Pinocytosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In facilitated diffusion, membrane transporters assist particles with the crossing of the membrane. Cell membrane transporters are not involved in diffusion, osmosis, or pinocytosis. In simple diffusion, particles move outward in all directions from an area of greater concentration of particles to an area of lesser concentration. Osmosis is the movement of water molecules from an area with a low solute concentration to an area with a high solute concentration. In pinocytosis, large molecules attach themselves to the cell membrane, whereby the cell engulfs them encased in a vacuole. In this cavity, nutrient particles are carried across the cell membrane and into the cell. Once inside the cell, the vacuole opens, and cell enzymes metabolize the particles. Test-Taking Tip: Attempt to select the answer that is most complete and includes the other answers within it. For example, a stem might read, \"A child's intelligence is influenced by what?\" and three options might be genetic inheritance, environmental factors, and past experiences. The fourth option might be multiple factors, which is a more inclusive choice and therefore the correct answer."
+    },
+    {
+      "id": "nutrition-ch9-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which particle is too large to pass through the walls of capillaries?",
+      "options": [
+        "Water molecule",
+        "Electrolytes",
+        "Nutrient constituents",
+        "Plasma protein molecule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The walls of capillaries are thin and porous. Larger particles such as plasma protein molecules cannot pass through the small pores of the capillary membrane. Water molecules and small particles, including electrolytes and various nutrient constituents, can move freely through the capillary membrane."
+    },
+    {
+      "id": "nutrition-ch9-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which large molecular size organic compound is responsible for maintaining integrity of the blood volume by exerting colloidal osmotic pressure (COP)?",
+      "options": [
+        "Glucose",
+        "Plasma proteins"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasma proteins (called colloids) exert COP to maintain the integrity of the blood volume. Glucose, anions, and cations are not responsible for maintaining integrity of the blood volume by exerting colloidal osmotic pressure. Glucose are small organic compounds that produce movement of water in uncharacteristic high concentration scenarios. Cations and anions are electrolytes that maintain electrical neutrality."
+    },
+    {
+      "id": "nutrition-ch9-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which output route is responsible for the largest amount of water exiting from the body?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Water leaves the body through the kidneys, skin, lungs, and feces. Of these output routes, the largest amount of water exits through the kidneys. The output of water by the kidneys is 1400 mL/day. In contrast, the output of water by lungs is 350 mL/day, output of water by anus is 200 mL/day, and the output of water by sweat is 100 mL/day."
+    },
+    {
+      "id": "nutrition-ch9-006",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which factor can make older adults vulnerable to chronic hypohydration? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Dehydration presents special concerns among older adults. Age-associated physiologic changes to the hypothalamus and renal system, such as an increase in urine volume and decrease in fluid resorption, coupled with a decline in fluid intake, make this population vulnerable to chronic hypohydration. Polydipsia, or excessive thirst and drinking, and psychotropic drugs are risk factors for water intoxication, not dehydration."
+    },
+    {
+      "id": "nutrition-ch9-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which factor makes high fluid intake critical during infancy?",
+      "options": [
+        "Breast milk has a diuretic effect.",
+        "An infant’s body content of water is particularly high.",
+        "A relatively large amount of an infant's body water is inside of the cells.",
+        "Infants are prone to diseases."
+      ],
+      "correctAnswer": 1,
+      "explanation": "High fluid intake (via breast milk or breast milk substitute) is critical during infancy because an infant’s body content of water is particularly high (approximately 70% to 75% of their total body weight) and because a relatively large amount of this body water is outside of the cells and thus is more easily lost. Breast milk does not have a diuretic effect. A relatively large amount of an infant’s body water is outside of the cells. Infants being prone to diseases is not a factor that makes high fluid intake critical during infancy."
+    },
+    {
+      "id": "nutrition-ch9-008",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which factor increases the body’s requirement for water at a high altitude? Select all that apply.",
+      "options": [
+        "|B] Elevated respiratory water loss",
+        "Cold-induced diuresis",
+        "Increased energy expenditure",
+        "High body temperature",
+        "Water loss through sweat"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Cold temperatures and altitude result in elevated respiratory water loss, hypoxia- or cold-induced diuresis, and increased energy expenditure, all of which raise water needs. Body temperature and environmental temperature decrease with altitude. Therefore high body temperature and sweating are not factors that increase the body’s requirement for water in high altitude."
+    },
+    {
+      "id": "nutrition-ch9-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which value represents the adequate intake of total water for pregnant women?",
+      "options": [
+        "2.7L",
+        "3.0L",
+        "3.5L",
+        "@ 3.8L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The adequate intake value of total water for pregnant women is 3.0 L. This includes 2.7 L from beverages and 0.7 L from food. A pregnant woman needs more water than an adult woman who in not pregnant. Consuming less than 3 L of water per day is inadequate and more than 3 L is excessive. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch9-010",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which function of body water is critical for homeostasis? Select all that apply.",
+      "options": [
+        "iv) [ml] Lubricant",
+        "iv) [ml] Solvent",
+        "iv) [ml] Transport",
+        "Thermoregulation",
+        "_] Cleansing solution"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Body water has a lubricating effect on moving parts of the body. Water also acts as the basic liquid or solvent for all chemical reactions within the body. Water circulates throughout the body and carries many important materials to meet the needs of cells. Water is also necessary to help maintain a stable body temperature. Water does not act as a cleansing solution for the body. pp. 138-139"
+    },
+    {
+      "id": "nutrition-ch9-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which condition is a patient who has been vomiting for 3 days at risk for?",
+      "options": [
+        "Metabolic acidosis",
+        "iv) © Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "correctAnswer": null,
+      "explanation": "Metabolic alkalosis is defined as a pH greater than 7.45. Metabolic alkalosis is seen with extensive vomiting in which a significant amount of hydrochloric acid is lost and bicarbonate is secreted. Metabolic acidosis is caused by a variety of conditions that cause the excess accumulation of acids in the body or by a significant loss of bicarbonate. Respiratory acidosis is caused by an accumulation of carbon dioxide. Respiratory alkalosis is caused by hyperventilation and an excess loss of carbon dioxide. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch9-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which pH level reflects metabolic acidosis?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Metabolic acidosis is demonstrated by a pH level less than 7.35. Therefore, 7.15 is the correct answer. The pH is a negative mathematical factor; therefore the higher the hydrogen ion content, the lower the pH number. A pH level of 7.75, 7.55, and 7.35 would not be indicative of acidosis. Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: If the answer you are seeking is directed to a specific treatment and all but one option deal with signs and symptoms, you would be correct in choosing the treatment-specific option."
+    },
+    {
+      "id": "nutrition-ch9-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which description of the fluids and blood involved in gastrointestinal circulation is accurate?",
+      "options": [
+        "©@ Intracellular fluid is isotonic.",
+        "Extracellular fluid is isotonic.",
+        "Intracellular fluid is hypotonic.",
+        "Extracellular fluid is hypotonic."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The gastrointestinal fluids and blood in circulation are both part of the extracellular fluid (ECF). These fluids are isotonic, which means that they are in a state of equal osmotic pressure from equivalent concentrations of electrolytes and other solute particles. Extracellular fluid is not hypotonic."
+    },
+    {
+      "id": "nutrition-ch9-014",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which gastrointestinal secretion is mostly made of water? Select all that apply.",
+      "options": [
+        "Bile",
+        "m) Saliva",
+        "Gastric juice",
+        "Intestinal juice",
+        "Pancreatic juice"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Gastrointestinal circulation helps protect the homeostasis of body water. Saliva, gastric juice, pancreatic juice, and intestinal juice are mostly made up of water. Bile is the one gastric fluid secretion that is not predominately water."
+    },
+    {
+      "id": "nutrition-ch9-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which control within the body is the most important for maintaining homeostasis?",
+      "options": [
+        "Osmosis"
+      ],
+      "correctAnswer": null,
+      "explanation": "The capillary fluid shift mechanism uses a combination of membrane transport methods to perform a balancing act between opposing fluid pressures. It is one of the body’s most important controls for maintaining homeostasis. Osmosis is the movement of water molecules from an area of low solute concentration to an area of high solute concentration. Diffusion applies to the particles in a solution. Facilitated diffusion follows the same principles as simple diffusion but also includes membrane transporters that assist particles with the crossing of the membrane. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch9-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which food has the highest water content?",
+      "options": [
+        "Raw apple",
+        "Raw carrots",
+        "Raw banana",
+        "Raw broccoli"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Water enters the body as water in liquids, water in foods, and as a product of cell oxidation when the body burns macronutrients for energy. If a patient is having trouble consuming enough water in liquid form, one can also take water in through food. Raw broccoli has the highest water content at 89%; raw carrots contain approximately 88% water; raw apples contain 86%; and raw bananas contain 75%."
+    },
+    {
+      "id": "nutrition-ch9-017",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which statement correctly describes the body’s water balance? Select all that apply.",
+      "options": [
+        "Fluid and electrolyte balance are related.",
+        "Sodium is an anion that carries a negative charge.",
+        "Electrolytes can move freely across most membranes.",
+        "Potassium is a cation that helps maintain cell membrane potentials.",
+        "Medications can affect a person's water balance."
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": "The two particles that control water balance in the body are plasma proteins and electrolytes. Fluid and electrolytes are intimately related; an imbalance in one creates an imbalance in the other. Electrolytes are small and can freely diffuse across most membranes of the body. Cations are positively charged ions and include sodium, potassium, calcium, and magnesium. The constant balance between electrolytes maintains the electrochemical and cell membrane potentials. Several drugs interact with the body's fluid balance, such as diuretics which work directly to reduce the amount of fluid in the body, or psychiatric medications that may have side effects that affect fluid balance. Sodium is a cation, not an anion. pp. 142-143"
+    },
+    {
+      "id": "nutrition-ch9-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which description correctly identifies intracellular and extracellular fluid?",
+      "options": [
+        "Intracellular fluid bathes the tissues.",
+        "Intracellular fluid is within the lymphatic circulation.",
+        "Extracellular fluid makes up 35% to 45% of total body weight.",
+        "Extracellular fluid is contained in the intravascular compartment."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Extracellular fluid is the total body water outside of the cell. One fourth of extracellular fluid is contained in the blood plasma or the intravascular component. The remaining extracellular fluid is composed of interstitial fluids, including the water that bathes the tissue, the water within the lymphatic system, and transcellular fluid. Intracellular fluid is the total body water inside the cell; it makes up 35% to 45% of total body weight. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch9-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient is admitted to the hospital with a serum sodium level of 125 mEq/L. The patient has a history of psychogenic polydipsia. Which cause is the most likely source of the patient’s hyponatremia?",
+      "options": [
+        "Drinking too much water",
+        "Not eating enough sodium",
+        "Taking long-term corticosteroids",
+        "Taking a dose of diuretics that is too high"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Psychogenic polydipsia is a condition caused by antipsychotics. It causes dry mouth. People who have psychogenic polydipsia usually consume an excessive amount of water at a rapid rate. The body cannot correct for the acute dilation of the blood, and hyponatremia ensues. Consuming too little sodium may lead to hyponatremia, but because the patient has a history of psychogenic polydipsia, the most likely cause is consuming too much water. Long-term corticosteroid use increases the excretion of potassium, not sodium. Taking too high a dose of diuretics can also lead to hypokalemia, but there is no indication that the patient is taking a diuretic."
+    },
+    {
+      "id": "nutrition-ch9-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Water forms the basis of which type of body fluid that is also composed of potassium and phosphates? tx} © Interstitial fluids",
+      "options": [
+        "Extrastitial fluids",
+        "Intracellular fluids",
+        "Extracellular fluids"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intracellular fluids (within the cell) are composed of water plus concentrations of potassium and phosphates. Interstitial fluids (between the cells) contain concentrations of sodium and chloride. Extrastitial is not a type of body fluid. Extracellular fluids (outside the cell) consist of interstitial fluids and encompass all fluids outside cells, including plasma and the watery components of body organs and substances. pp. 143-144"
+    },
+    {
+      "id": "nutrition-ch9-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "What food group is most important to consume while taking thiazide diuretics?",
+      "options": [
+        "@ Whole grains",
+        "Beans and legumes",
+        "Fruits and vegetables",
+        "Dairy and animal protein"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Taking thiazide diuretics causes excess loss of minerals, including potassium, along with fluid excretion through urine. Anyone taking these medications should increase the amount of fresh fruits and vegetables in their diets and eat other foods that are good sources of potassium. Whole grains, beans and legumes, and dairy and animal protein would be less beneficial for this purpose."
+    },
+    {
+      "id": "nutrition-ch9-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Glucose",
+      "difficulty": "hard",
+      "question": "If the extracellular fluid contains a 10% glucose solution and the intracellular fluid contains a 20% glucose solution, what effect will the force of osmosis exert?",
+      "options": [
+        "Movement of electrolytes out of the cell",
+        "@ Movement of water molecules into the cell",
+        "Maintenance of existing glucose distribution",
+        "Movement of water molecules out of the cell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Osmosis is the force that moves water molecules from an area of greater concentration of water molecules (ie., with fewer particles in a solution) to an area of lesser concentration of water molecules (i.e., with more particles in a solution) to equalize the solution on both sides. In this example, osmosis would move water into the cell, where the concentration of the glucose solute is higher. Osmosis would also move glucose, but not electrolytes, out of the cell. It would not maintain the disequilibrium nor would it move water out of the cell. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch9-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "How are electrolytes measured?",
+      "options": [
+        "According to the total weight of particles in solution",
+        "According to the average size of particles in solution",
+        "According to the number of ionic charges in a solution",
+        "According to the average weight of particles in solution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Electrolytes are measured according to the number of ionic charges, or electrovalent bonds in a solution. They are not measured according to total weight, average size, or average weight of particles in solution. pp. 143-144"
+    },
+    {
+      "id": "nutrition-ch9-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "In which clinical situation would glucose influence the movement of water in and out of fluid compartments?",
+      "options": [
+        "Diuretic use",
+        "Reactive hypoglycemia",
+        "High-carbohydrate diet",
+        "@ Uncontrolled diabetes mellitus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Glucose is a small organic compound that diffuses freely in and out of the various fluid compartments but does not influence the movement of water unless present in abnormally large concentrations. Such a situation occurs in patients with uncontrolled diabetes mellitus, or when large amounts of glucose being excreted in the urine cause an abnormal osmotic diuresis or excess water output. This would not result from diuretic use, reactive hypoglycemia, or a high-carbohydrate diet in the absence of uncontrolled diabetes mellitus. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. ph 140"
+    },
+    {
+      "id": "nutrition-ch9-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "How do plasma proteins maintain vascular blood volume?",
+      "options": [
+        "By signaling the thirst mechanism",
+        "@ By exerting colloidal osmotic pressure",
+        "By diffusing freely across cell membranes",
+        "By influencing the movement of water in and out of veins"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasma proteins exert colloidal osmotic pressure to maintain vascular blood volume. Plasma proteins do not signal the thirst mechanism. Due to their large size, plasma proteins cannot diffuse freely across cell membranes. Plasma proteins influence the movement of water in and out of capillaries, not veins."
+    },
+    {
+      "id": "nutrition-ch9-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the adequate intake (Al) recommendation of daily total water for men 19 and older?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The Al recommendation for total water is about 3.7 L/day for men over 19 years of age. Intakes of 2.7 L is the Al recommendation for total water for women age 19 years or older. Intakes of 1.7 L and 1.3 L are too low for men ages 19 years or older but more suitable for males at younger ages. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch9-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "What is the adequate intake (Al) recommendation of daily total water during pregnancy?",
+      "options": [
+        "O7L",
+        "0O2",
+        "23L",
+        "@ 3.8L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Al recommendation for daily total water is about 3 L/day for pregnant women. A daily total water intake of 0.7 L or 2.3 Lis too low during pregnancy. The Al recommendation of daily total water for lactating women is 3.8L."
+    },
+    {
+      "id": "nutrition-ch9-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a function of water in the human body? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "In the human body, water helps regulate body temperature, serves as a lubricant on moving parts of the body, and transports nutrients and waste products. Adipose tissue, not fluid, is largely responsible for insulating organs. Lipids, not water, provide structure to cell membranes; water provides shape and rigidity to cells. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 138-139"
+    },
+    {
+      "id": "nutrition-ch9-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which reason places older adults at an increased risk for dehydration?",
+      "options": [
+        "Increased urine volume",
+        "Increased thirst sensation",
+        "Increased fluid reabsorption",
+        "Increased desire to drink fluids when dehydrated"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dehydration presents special concerns among older adult patients. The hypothalamus is the regulatory center for thirst, hunger, body temperature, water balance, and blood pressure. Age-associated physiologic changes to the hypothalamus and renal system, such as an increased urine volume and a decrease in fluid reabsorption, make the older adult population vulnerable to chronic hypohydration. Older adult individuals exhibit a decreased thirst sensation and a decreased desire to consume fluids when they are dehydrated; however, the mechanisms of thirst perception are not clearly defined. Test-Taking Tip: Multiple-choice questions can be challenging because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch9-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which patient is most likely to have increased water needs?",
+      "options": [
+        "A 10-year-old who recently broke an arm",
+        "@ 44-month-old infant who was premature",
+        "A 56-year-old who does not take any medications",
+        "A 25-year-old who reports drinking 100 mg of coffee daily"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The body’s requirement for water varies depending on the environment, activity level, functional level, metabolic level, age, and dietary influences. Age plays an important role in determining water needs. A high fluid intake is critical in infancy because the infant's body content of water is particularly high, and a relatively large amount of this water is outside of the cells. A 10-year-old would not require more water intake based on having a broken bone. A 56-year-old patient who does not take any medications, such as diuretics, would not require a greater water intake than an infant. Coffee can act as a diuretic; the effect is usually mild and only occurs with an intake of greater than or equal to 300 mg. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. Rationale The body’s requirement for water varies depending on the environment, activity level, functional level, metabolic level, age, and dietary influences. Age plays an important role in determining water needs. A high fluid intake is critical in infancy because the infant's body content of water is particularly high, and a relatively large amount of this water is outside of the cells. A 10-year-old would not require more water intake based on having a broken bone. A 56-year-old patient who does not take any medications, such as diuretics, would not require a greater water intake than an infant. Coffee can act as a diuretic; the effect is usually mild and only occurs with an intake of greater than or equal to 300 mg. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. pp. 139-140"
+    },
+    {
+      "id": "nutrition-ch9-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which factor contributes to increased water needs and is related to environmental conditions? Select all that apply.",
+      "options": [
+        "iv) [ml] Hot, arid temperatures",
+        "Change in altitude",
+        "Freezing cold temperatures",
+        "Increased physical activity",
+        "Humid, mild temperatures"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": "Both the external climate and internal heat produced from physical work can increase body temperature. Hot temperatures in the environment can lead to sweating from an elevated body temperature. Fluid loss through sweat increases water needs. Altitude and cold temperatures can cause increased respiratory loss, hypoxia, or cold-induced diuresis, as well as increased energy expenditure, all of which raise water needs. Increased physical activity increases the body’s water needs, but it is not an environmental factor. Milder temperatures, even humid environments, do not require increased water needs but may lead to more physical activity, which would raise needs."
+    },
+    {
+      "id": "nutrition-ch9-032",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which function of water in the body is critical for homeostasis? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Water is the most vital nutrient for humans. Water is necessary to help maintain a stable body temperature. It also has a lubricating effect on moving parts of the body; for example, fluid in the joints provides smooth movement and prevents damage from constant friction. Water also circulates throughout the body and carries nutrients, secretions, and metabolites to meet the needs the body’s cells. The polarity of water effectively ionizes and dissolves many substances. Water is also the basic liquid solvent for all chemical reactions within the body. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 138-139"
+    },
+    {
+      "id": "nutrition-ch9-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Place the steps of the renin-angiotensin-aldosterone mechanism in the correct order.",
+      "options": [
+        "1. Renin is released.",
+        "2. Angiotensinogen is converted.",
+        "Angiotensin | is converted to angiotensin II.",
+        "4. Aldosterone is released."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The renin-angiotensin-aldosterone system is complex. It corrects for hypovolemia through a negative feedback mechanism. When blood flow volume through the kidneys drops below normal, the kidneys release the enzyme renin into the blood. Angiotensinogen is produced by the liver. Renin converts angiotensinogen to angiotensin |. As blood flows through the lungs, an enzyme found on the capillaries called angiotensin- converting enzyme converts angiotensin | to angiotensin II. Angiotensin II triggers the release of aldosterone. Aldosterone stimulates the kidneys to reabsorb sodium. This system increases blood volume flow through the kidneys. Rationale The renin-angiotensin-aldosterone system is complex. It corrects for hypovolemia through a negative feedback mechanism. When blood flow volume through the kidneys drops below normal, the kidneys release the enzyme renin into the blood. Angiotensinogen is produced by the liver. Renin converts angiotensinogen to angiotensin |. As blood flows through the lungs, an enzyme found on the capillaries called angiotensin- converting enzyme converts angiotensin | to angiotensin II. Angiotensin II triggers the release of aldosterone. Aldosterone stimulates the kidneys to reabsorb sodium. This system increases blood volume flow through the kidneys. Test-Taking Tip: In this question type, you are asked to prioritize (put in order) the options presented. For example, you might be asked the steps of performing an action or skill such as those involved in medication administration. pp. 148-149."
+    },
+    {
+      "id": "nutrition-ch9-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Where are plasma proteins found in the human body?",
+      "options": [
+        "Inside cells",
+        "Inside organs",
+        "Inside tissues",
+        "Inside blood vessels"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Plasma proteins stay inside the blood vessels because protein particles are too large to pass through the pores of cell membranes. They are not present inside organs or tissues except within blood vessels. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch9-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "A 10-month-old infant has been having diarrhea for the past few days. The infant’s parents call the health care provider and ask what to give the child to eat and drink. The child is mostly breastfeeding along with solid foods being introduced. Which food will the health care provider recommend the parents give to the child? tx} © Rice",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Diarrhea is frequently considered a minor condition in developed countries. Children should consume their regular age-appropriate foods, such as breast milk, breast milk substitute, or solids foods. The BRAT (bananas, rice, applesauce, tea, and toast) diet does not encompass the typical variety of foods that infants and small children consume and only worsens the energy and nutrient deficit that occurs with diarrhea and vomiting. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. Rationale Diarrhea is frequently considered a minor condition in developed countries. Children should consume their regular age-appropriate foods, such as breast milk, breast milk substitute, or solids foods. The BRAT (bananas, rice, applesauce, tea, and toast) diet does not encompass the typical variety of foods that infants and small children consume and only worsens the energy and nutrient deficit that occurs with diarrhea and vomiting. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch9-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Why does heavy physical activity increase the human body’s water intake requirements? Select all that apply.",
+      "options": [
+        "Physical activity disrupts the thirst mechanism.",
+        "|B] Water is lost through increased sweat and respiration.",
+        "Water provides energy burned during physical activity.",
+        "More water is necessary for increased metabolic demands.",
+        "Higher muscle mass increases the percentage of body water."
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": "Heavy physical activity increases water requirements for the human body because water is lost through increased sweat and respiration and because more water is necessary for the increased metabolic demands of heavy physical activity. Physical activity does not disrupt the thirst mechanism. Water does not provide energy. Higher muscle mass does not increase the percentage of body water. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch9-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "From where is water pulled to dilute the concentration of solutes in the bloodstream?",
+      "options": [
+        "Skin"
+      ],
+      "correctAnswer": null,
+      "explanation": "When the concentration of solutes in the blood increases, the body responds by pulling fluid from the cells into the bloodstream to dilute it. Fluid is not pulled from skin or kidneys at the organ level, nor is it pulled from the urine."
+    },
+    {
+      "id": "nutrition-ch9-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which term describes the movement of water molecules from an area of low solute concentration to an area of high solute concentration?",
+      "options": [
+        "Passive transport",
+        "Selective permeability",
+        "Osmosis",
+        "Diffusion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The movement of water molecules from an area of low solute concentration to an area of high solute concentration is called osmosis. Passive transport describes the movement of particles from an area of higher concentration to an area of lower concentration and does not require energy expenditure. Selective permeability describes cellular membranes that only permit certain molecules to cross. Diffusion is the process in which molecules intermix because of their kinetic energy. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options."
+    },
+    {
+      "id": "nutrition-ch9-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the best description of dehydration?",
+      "options": [
+        "Fluid volume excess",
+        "Fluid volume instability",
+        "Fluid volume deficit",
+        "Fluid volume alterations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dehydration is a fluid volume deficit in the body. Dehydration is often associated with vomiting, diarrhea, or poor oral intake of fluids. Fluid volume excess, or overhydration, describes too much circulating fluid in the body. Fluid volume instability and fluid volume alterations are vague terms that could be referring to fluid volume excess or fluid volume deficit. pp. 140-141"
+    },
+    {
+      "id": "nutrition-ch9-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which is a key function of water? Select all that apply.",
+      "options": [
+        "Water is necessary to help maintain a stable body temperature.",
+        "|B] Water acts as a lubricant.",
+        "Water acts as a solute.",
+        "|B] Water circulates throughout the body in the form of blood and tissue fluids."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Water does not act as a solute; on the contrary, it acts as a solvent. Water provides thermoregulation, acts as a lubricant, and circulates throughout the body in the form of blood and various other secretions and tissue fluids. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 138-139"
+    },
+    {
+      "id": "nutrition-ch9-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which characteristic of electrolytes enables them to diffuse freely across cell membranes?",
+      "options": [
+        "@ Small size",
+        "Large size",
+        "Positive charge",
+        "Negative charge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "By virtue of their small size, electrolytes can diffuse freely across cell membranes and create forces that control the movement of water. A larger size would inhibit this process. Both positively and negatively charged ions can diffuse across cell membranes; charge does not determine their ability to do so. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch9-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Minerals",
+      "difficulty": "hard",
+      "question": "Which mineral acts as a buffer to maintain acid-base balance?",
+      "options": [
+        "Carbonic acid",
+        "iv) © Bicarbonate",
+        "Carbon dioxide",
+        "Potassium chloride"
+      ],
+      "correctAnswer": null,
+      "explanation": "The bicarbonate buffer system maintains this essential degree of acidity in the body fluids because the bicarbonate (base) is approximately 20 times more abundant than the carbonic acid. Carbonic acid is a chemical compound composed of carbon in water (carbonated water). Carbon dioxide is an acid component released or retained by the lungs to maintain homeostasis. Potassium chloride is a supplement that can be used to treat or manage hypokalemia. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch9-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The student nurse is presenting information on compensatory mechanisms of acid-base balance and homeostasis. Which statement made by the student requires correction?",
+      "options": [
+        "\"If the body's pH is too high, the respiratory rate and/or tidal volume will decrease.\"",
+        "@ \"If the body’s pH is too high, the kidneys secrete hydrogen ions.\"",
+        "\"If the body's pH is too low, the kidneys will secrete hydrogen ions.’",
+        "\"If the body's pH is too low, the respiratory rate will increase.\""
+      ],
+      "correctAnswer": 1,
+      "explanation": "The statement requiring correction is \"If the body’s pH is too high, the kidneys secrete hydrogen ions.\" The high pH indicates fluids are alkaline. Hydrogen ion secretion is not a compensatory response because secretion would worsen the alkalinity of the fluids. If the body’s pH is too high, the respiratory rate and/or tidal volume will decrease to retain acidic carbon dioxide and restore the body’s pH. If the body’s pH is too low, the kidneys will secrete hydrogen ions to restore alkalinity. If the pH is too low, the respiratory rate will increase to release acidic carbon dioxide and restore the pH."
+    },
+    {
+      "id": "nutrition-ch9-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which electrolyte is a cation? Select all that apply.",
+      "options": [
+        "Sulfate",
+        "|B] Sodium",
+        "Chloride",
+        "|B] Potassium",
+        "_| Phosphate",
+        "iv) [ml] Magnesium"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "Sodium, potassium, and magnesium are cations. Sulfate, chloride, and phosphate are anions."
+    },
+    {
+      "id": "nutrition-ch9-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Aging",
+      "difficulty": "hard",
+      "question": "Which brain structure undergoes physiologic changes with aging, putting older adults at a higher risk for dehydration?",
+      "options": [
+        "Kidneys",
+        "Adrenals",
+        "Thalamus",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The hypothalamus is the regulatory center for thirst, hunger, body temperature, water balance, and blood pressure. Age-associated physiologic changes to the hypothalamus and renal system can cause elderly individuals to have overall decreased thirst sensation and reduced fluid intake when they are dehydrated compared with younger adults. The kidneys and adrenals are not brain structures. The thalamus does not regulate thirst and water balance. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch9-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "What is the effect of ingesting 300 mg or more of caffeine at one time?",
+      "options": [
+        "Dehydration",
+        "iv) © Acute diuretic effect",
+        "Net loss of total body fluid",
+        "Diminished effect over time"
+      ],
+      "correctAnswer": null,
+      "explanation": "The consumption of 300 mg or more of caffeine at one time has an acute diuretic effect. The result does not appear to be dehydration or a loss in total body fluid. The routine intake of caffeine diminishes its effect over time, but this is not an effect of consuming 300 mg or more of caffeine at one time. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch9-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How much water is generally required for the metabolism of every 1000 kcal consumed?",
+      "options": [
+        "@ 1000 mL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metabolic processes require water. A general rule is that approximately 1000 mL of water is necessary for the metabolism of every 1000 kcal consumed. Water intake of 100, 250, or 500 mL is insufficient to metabolize every 1000 kcal consumed."
+    },
+    {
+      "id": "nutrition-ch9-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which electrolyte is an anion? Select all that apply.",
+      "options": [
+        "iv) [ml] Chloride",
+        "Potassium",
+        "|B] Phosphate",
+        "Magnesium"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Sulfate, chloride, and phosphate are anions. Sodium, potassium, and magnesium are cations."
+    },
+    {
+      "id": "nutrition-ch9-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which food has a water content of 90% or higher? Select all that apply.",
+      "options": [
+        "Apple",
+        "Carrot",
+        "Potatoes",
+        "Lettuce",
+        "Cantaloupe",
+        "Squash"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ],
+      "explanation": "Lettuce contains 96% water, cantaloupe contain 90% water, and squash contain 94% water. Apples contain 86% water. Carrots contain 88% water. Potatoes contain 62% water."
+    },
+    {
+      "id": "nutrition-ch9-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which factor is a cause of respiratory acidosis?",
+      "options": [
+        "Extensive vomiting",
+        "Hyperventilation",
+        "Accumulation of carbon dioxide",
+        "Significant loss of bicarbonate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Respiratory acidosis is caused by an accumulation of carbon dioxide (an acid). Extensive vomiting can result in metabolic alkalosis as a significant amount of hydrochloric acid is lost and bicarbonate (a base) is secreted. Hyperventilation can lead to respiratory alkalosis. Significant loss of bicarbonate (a base) can lead to metabolic acidosis. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch9-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which pH value would indicate that the substance is acidic? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Substances with a pH of less than 7 are acidic. Therefore substances with pH of 0 and 4 are acidic. A pH of 7 indicates that the substance is neutral and is neither an acid nor a base. Substances with a pH of more than 7 are alkaline. Therefore substances with pH of 10 and 14 are alkaline."
+    },
+    {
+      "id": "nutrition-ch9-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which term refers to a hormone of the pituitary gland that acts on the distal nephron tubule to conserve water by reabsorption and is also known as antidiuretic hormone?",
+      "options": [
+        "iv) © Vasopressin",
+        "Angiotensin |",
+        "Angiotensin II",
+        "Aldosterone"
+      ],
+      "correctAnswer": null,
+      "explanation": "Vasopressin is a hormone of the pituitary gland that acts on the distal nephron tubule to conserve water by reabsorption and is also known as antidiuretic hormone. Angiotensin | is an inactive peptide hormone that is the precursor to angiotensin II. Angiotensin II is an active hormone that constricts blood vessels and stimulates the release of aldosterone. Both actions lead to an increase in blood pressure. Aldosterone a hormone of the adrenal glands that acts on the distal nephron tubule to stimulate the reabsorption of sodium in an ion exchange with potassium; the aldosterone mechanism is essentially a sodium-conserving mechanism, but it also indirectly conserves water because water absorption follows sodium resorption."
+    },
+    {
+      "id": "nutrition-ch9-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which mechanism does the body use to maintain a constant flow of fluid through the tissues and carry materials to and from the cells? Select all that apply.",
+      "options": [
+        "iv) [ml] Hydrostatic pressure",
+        "Colloidal osmotic pressure",
+        "_| Chemical buffer system",
+        "Physiologic buffer system",
+        "Renin-angiotensin-aldosterone system"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "The body maintains this constant flow of fluid through the tissues and carries materials to and from the cells by means of hydrostatic pressure and colloidal osmotic pressure. Chemical and physiologic buffer systems and the renin-angiotensin-aldosterone system are not directly involved in maintaining a constant flow of fluid through the tissues and carries materials to and from the cells. Chemical and physiologic buffer systems are important mechanisms for maintaining the blood pH within an acceptable range for life. The renin- angiotensin-aldosterone system is a complex hormonal system that corrects for hypovolemia through a negative feedback mechanism."
+    },
+    {
+      "id": "nutrition-ch9-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which process involves movement of water and solutes across membrane with assistance from cell membrane transporters?",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Facilitated diffusion",
+        "Pinocytosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In facilitated diffusion, membrane transporters assist particles with the crossing of the membrane. Cell membrane transporters are not involved in diffusion, osmosis, or pinocytosis. In simple diffusion, particles move outward in all directions from an area of greater concentration of particles to an area of lesser concentration. Osmosis is the movement of water molecules from an area with a low solute concentration to an area with a high solute concentration. In pinocytosis, large molecules attach themselves to the cell membrane, whereby the cell engulfs them encased in a vacuole. In this cavity, nutrient particles are carried across the cell membrane and into the cell. Once inside the cell, the vacuole opens, and cell enzymes metabolize the particles. Test-Taking Tip: Attempt to select the answer that is most complete and includes the other answers within it. For example, a stem might read, \"A child's intelligence is influenced by what?\" and three options might be genetic inheritance, environmental factors, and past experiences. The fourth option might be multiple factors, which is a more inclusive choice and therefore the correct answer."
+    },
+    {
+      "id": "nutrition-ch9-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which particle is too large to pass through the walls of capillaries?",
+      "options": [
+        "Water molecule",
+        "Electrolytes",
+        "Nutrient constituents",
+        "Plasma protein molecule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The walls of capillaries are thin and porous. Larger particles such as plasma protein molecules cannot pass through the small pores of the capillary membrane. Water molecules and small particles, including electrolytes and various nutrient constituents, can move freely through the capillary membrane."
+    },
+    {
+      "id": "nutrition-ch9-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which large molecular size organic compound is responsible for maintaining integrity of the blood volume by exerting colloidal osmotic pressure (COP)?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Plasma proteins (called colloids) exert COP to maintain the integrity of the blood volume. Glucose, anions, and cations are not responsible for maintaining integrity of the blood volume by exerting colloidal osmotic pressure. Glucose are small organic compounds that produce movement of water in uncharacteristic high concentration scenarios. Cations and anions are electrolytes that maintain electrical neutrality."
+    },
+    {
+      "id": "nutrition-ch9-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which output route is responsible for the largest amount of water exiting from the body?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Water leaves the body through the kidneys, skin, lungs, and feces. Of these output routes, the largest amount of water exits through the kidneys. The output of water by the kidneys is 1400 mL/day. In contrast, the output of water by lungs is 350 mL/day, output of water by anus is 200 mL/day, and the output of water by sweat is 100 mL/day."
+    },
+    {
+      "id": "nutrition-ch9-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which percentage represents the total body water outside of the cells? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Extracellular fluid (ECF), the total body water outside of the cell, collectively makes up approximately 20% of the total body weight and 34% of the total body water. ECF does not account for 35% or 45% of total body weight or 66% of total body water. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch9-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which factor can make older adults vulnerable to chronic hypohydration? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Dehydration presents special concerns among older adults. Age-associated physiologic changes to the hypothalamus and renal system, such as an increase in urine volume and decrease in fluid resorption, coupled with a decline in fluid intake, make this population vulnerable to chronic hypohydration. Polydipsia, or excessive thirst and drinking, and psychotropic drugs are risk factors for water intoxication, not dehydration."
+    },
+    {
+      "id": "nutrition-ch9-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 9",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which factor makes high fluid intake critical during infancy?",
+      "options": [
+        "Breast milk has a diuretic effect.",
+        "An infant’s body content of water is particularly high.",
+        "A relatively large amount of an infant's body water is inside of the cells.",
+        "Infants are prone to diseases."
+      ],
+      "correctAnswer": 1,
+      "explanation": "High fluid intake (via breast milk or breast milk substitute) is critical during infancy because an infant’s body content of water is particularly high (approximately 70% to 75% of their total body weight) and because a relatively large amount of this body water is outside of the cells and thus is more easily lost. Breast milk does not have a diuretic effect. A relatively large amount of an infant’s body water is outside of the cells. Infants being prone to diseases is not a factor that makes high fluid intake critical during infancy."
+    }
+  ]
+}

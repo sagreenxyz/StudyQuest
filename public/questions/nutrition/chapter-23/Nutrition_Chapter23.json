@@ -1,0 +1,1185 @@
+{
+  "name": "Nutrition Nutritional Support in Cancer and HIV",
+  "description": "Chapter 23 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch23-001",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which organ can undergo atrophy due to malnutrition and compromise immunity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Severe malnutrition compromises the capacity of the immune system because of atrophy of the organs and tissues that are involved in immunity (e.g., liver, bowel wall, bone marrow, spleen, lymphoid tissue). The lung does not atrophy due to poor nutrition."
+    },
+    {
+      "id": "nutrition-ch23-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which ethnicity or race has the highest incidence of cancer in the United States? tx} © African American Cy) O White",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The incidence of cancer in the United States is highest among the White population, followed by American Indian, African American, Mexican, Hispanic, and Asian populations. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch23-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— Which risk factor causes the largest percentage of new HIV infections each year? tx} © Intravenous drug use Cy) O Male-to-male sexual contact",
+      "options": [
+        "High-risk heterosexual activity",
+        "Individuals may be unaware of their infection"
+      ],
+      "correctAnswer": null,
+      "explanation": "The largest percentage of new HIV infections each year is related to male-to male sexual contact. Intravenous drug use is a common cause of HIV infections related to transmission via used needles, but this does not cause the largest percentage of new HIV infections each year. Although not the cause of the largest percentage of new HIV infections, high-risk heterosexual activity is also a risk factor. Many individuals are not aware that they are living with HIV; therefore, transmission can occur without them knowing; however, this does not cause the largest percentage of new HIV infections each year. Test-Taking Tip: Many times, the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch23-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "— Intake of which food is associated with the risk for cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Diets high in processed meat or red meat cooked at high temperatures increase the risk for colorectal and stomach cancer. A general consensus is that obesity and a poor diet (i-e., low intake of fruits, vegetables, whole grains and dairy products and high intake of processed meat, red meat, and alcohol) increases cancer incidence. Intake of lean protein, legumes, fruits, or whole grains are not known to increase the risk for cancer. pp. 434, 436"
+    },
+    {
+      "id": "nutrition-ch23-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a The newly diagnosed client with HIV states, \"Il feel great. Why do | need antiretroviral therapy?\" Which statement demonstrates the nurse’s understanding of treatment? rv) © \"During the incubation period, the virus continues to multiply.”",
+      "options": [
+        "\"You do not have to start taking the antiretroviral medication until you start feeling ill.\"",
+        "\"The earlier treatment is started, the better chance you have of being cured.\"",
+        "\"The drugs will stop the HIV from multiplying, and you will be fine.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The statement \"During the incubation period, the virus continues to multiply\" demonstrates understanding of the purpose of antiretroviral therapy. During the incubation period, the virus hides in lymphoid tissues, where it rapidly multiplies as part of its parasitic lifestyle within the host, taking over more of the host’s CD4+T cells and gaining strength. The incubation period is a critical period for early medical treatment and intervention, which includes taking antiretroviral drugs even if the client does not feel ill. The drugs will not cure the client with HIV or stop the HIV virus from multiplying, but they will slow down viral replication. Test-Taking Tip: Multiple-choice questions can be challenging, because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch23-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Es Which problem may cause patients undergoing cancer treatment to develop compromised outcomes? rv) © Suboptimal nutrition status",
+      "options": [
+        "Increased metabolism",
+        "Small and frequent feedings",
+        "Increased fluid intake"
+      ],
+      "correctAnswer": null,
+      "explanation": "Individuals entering cancer treatment with suboptimal nutrition status have compromised outcomes (e.g., longer hospital stays, increased infection risk, increased mortality). Although increased metabolism may be a side effect of cancer treatment and results in increased nutrient and energy needs, it does not necessarily affect outcomes. Small and frequent feedings may ease gastrointestinal discomfort and do not have an effect on compromised outcomes. Maintaining adequate fluid balance is essential to replace gastrointestinal losses from fever, infection, vomiting, or diarrhea; therefore increased fluid intake would not result in compromised outcomes."
+    },
+    {
+      "id": "nutrition-ch23-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Es Which stage of carcinogenesis is the point at which a mutagen causes irreversible damage to the DNA? rv) O Initiation",
+      "options": [
+        "Promotion",
+        "Progression"
+      ],
+      "correctAnswer": null,
+      "explanation": "Initiation is the point at which a mutagen causes irreversible damage to the DNA. There are three phases of carcinogenesis: initiation, promotion, and progression. An agent that prompts the mutated cell to grow and reproduce initiates the promotion phase. Progression is the phase during which the cancer cells advance and become a malignant tumor that is capable of metastasizing. A mutation may disrupt the orderly process of cell division, particularly when the mutation occurs in a regulatory gene, but is not a stage of carcinogenesis."
+    },
+    {
+      "id": "nutrition-ch23-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Current HIV screening guidelines recommend HIV testing for all individuals age 15 to 65 years, all pregnant women, and others deemed high risk or who request testing. The current HIV screening guidelines do not specifically recommend early detection of HIV in infants, children age 5 to 10 years, and athletes."
+    },
+    {
+      "id": "nutrition-ch23-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which dietary suggestion can help manage the cancer treatment side effects of nausea and",
+      "options": [
+        "vomiting? Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "Avoiding greasy foods and sweets is suggested to manage the side effects of cancer treatment such as vomiting and nausea. Eating dry foods is also suggested. Very warm food is not suggested since cold and room temperature foods may be better tolerated. It is suggested that spicy foods also be avoided to avoid such side effects."
+    },
+    {
+      "id": "nutrition-ch23-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which is the best dietary recommendation for a client diagnosed with HIV infection?",
+      "options": [
+        "High-calorie diet",
+        "© High-protein diet",
+        "‘Standard dietary recommendations",
+        "High-carbohydrate diet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are no specific dietary recommendations for a client diagnosed with HIV infection other than meeting their general dietary needs. Dietary changes such as high-calorie, high-protein, or high-carbohydrate diets aim to reduce or eliminate malnutrition (if the risk is present) and to correct any other nutritional problems identified in the nutritional assessment."
+    },
+    {
+      "id": "nutrition-ch23-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which characteristic of HIV best describes its parasitic nature?",
+      "options": [
+        "It contains only DNA.",
+        "It does not need a host to live.",
+        "Ithas a complex large packet of genetic information.",
+        "It replicates within the host’s cells."
+      ],
+      "correctAnswer": 3,
+      "explanation": "HIV’s parasitic nature is evidenced by its replication within the host’s cells. HIV contains two copies of single- stranded RNA, which are copied into DNA. The DNA enters the T-helper cells and begins to control them. HIV can only live through a host that it invades and infects, and the virus hijacks the host’s cell machinery to replicate, making a multitude of copies of themselves. Viruses do not have complex large packets of genetic information; they only contain a small chromosome of nucleic acids (RNA or DNA), usually with fewer than five genes. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch23-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The result of a client’s computed tomography scan reveals a pulmonary neoplasm. Which is the nurse’s interpretation of the result? rv) © The client has a new, abnormal cellular growth in the lungs.",
+      "options": [
+        "The client has an overabundance of plasma.",
+        "The client has no indication of pulmonary disease.",
+        "The client’s lung tissue is immature."
+      ],
+      "correctAnswer": null,
+      "explanation": "A pulmonary neoplasm means the client has a new, abnormal cellular growth in the lungs. An overabundance of plasma cells is termed multiple myeloma. A neoplasm is an abnormal process, so the computed tomography scan does show pulmonary disease. Premature babies can be plagued with hyaline membrane disease, which means the baby has immature lung tissue. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch23-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which elements does the nurse know are the immune system’s primary \"search-and- destroy\" defense against potential disease?",
+      "options": [
+        "Hemoglobin and platelets",
+        "Monocytes and erythrocytes"
+      ],
+      "correctAnswer": null,
+      "explanation": "T cells and B cells are the immune system’s primary \"search-and-destroy\" defense against potential disease. A major function of T cells is to activate phagocytes, which are the cells that destroy invaders and kill disease- carrying antigens. A major function of B cells is to produce antibodies, which also kill antigens. Hemoglobin is a protein in red blood cells that contains iron and transports oxygen. Platelets play a role in clotting. Monocytes are phagocytic white blood cells, and erythrocytes are red blood cells. A lymphocyte is a type of white blood cell; the two main types are T cells and B cells, but megakaryocytes are large bone marrow cells responsible for the production of platelets."
+    },
+    {
+      "id": "nutrition-ch23-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Current research indicates an increased risk for cancer in individuals who consume diets high in which two substances?",
+      "options": [
+        "Processed meat and whole grains",
+        "Fruits and sugar-sweetened beverages",
+        "Lean meats and salty foods"
+      ],
+      "correctAnswer": null,
+      "explanation": "Current research indicates that there is an increased risk for cancer associated with diets that are high in processed meat, alcohol, sugar-sweetened beverages, and red meat. Some studies have found that whole grains, fruits, vegetables, lean meats, and protein help protect against cancer."
+    },
+    {
+      "id": "nutrition-ch23-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which potential change in a client’s body fat can occur during therapy with nucleoside reverse transcriptase inhibitors? x) © Lipodystrophy",
+      "options": [
+        "Lipohypertrophy"
+      ],
+      "correctAnswer": null,
+      "explanation": "A client treated with nucleoside reverse transcriptase inhibitors is at risk for lipoatrophy, which is a reduction in body fat. Lipodystrophy is abnormal fat redistribution associated with metabolic abnormalities and an increased risk for chronic conditions such as dyslipidemia, hypertension, and insulin resistance. Lipohypertrophy occurs with the use of protease inhibitors and causes an increase in the fat mass around the abdomen and the back of the neck. Hyperlipidemia is a condition characterized by abnormally elevated levels of fats or lipids in the blood."
+    },
+    {
+      "id": "nutrition-ch23-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "What is the basic goal of nutritional counseling for the client diagnosed with HIV infection?",
+      "options": [
+        "©@ 10 prevent lipodystrophy",
+        "To initiate supplementation",
+        "To delay progression of the infection",
+        "To make the least amount of changes necessary"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The basic goal of nutritional counseling for the client with HIV is to make the least amount of changes necessary in the person’s lifestyle and food patterns to promote optimal nutritional status while providing maximal comfort and quality of life. Lipodystrophy results from the use of antiretroviral therapy and metabolic changes; diet cannot prevent it. Immediate supplementation is not necessary for every client diagnosed with HIV. Antiretroviral drugs are used to delay the progression of the infection, whereas nutrition is used to support body functions."
+    },
+    {
+      "id": "nutrition-ch23-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which protocol would be explained to the client about curing lipodystrophy resulting from antiretroviral therapy?",
+      "options": [
+        "@ No interventions have been identified.",
+        "Follow a heart-healthy diet.",
+        "Incorporate exercise.",
+        "Administer cholesterol-lowering medication."
+      ],
+      "correctAnswer": 0,
+      "explanation": "that occurs in individuals undergoing antiretroviral therapy. A heart-healthy diet and exercise are recommended because they are key interventions to help manage the problems associated with lipodystrophy. Cholesterol-lowering medication may help with hyperlipidemia but will not cure lipodystrophy. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch23-019",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which organ can undergo atrophy due to malnutrition and compromise immunity? Select all that apply.",
+      "options": [
+        "| Bowel wall"
+      ],
+      "correctAnswers": [],
+      "explanation": "Severe malnutrition compromises the capacity of the immune system because of atrophy of the organs and tissues that are involved in immunity (e.g., liver, bowel wall, bone marrow, spleen, lymphoid tissue). The lung does not atrophy due to poor nutrition."
+    },
+    {
+      "id": "nutrition-ch23-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which ethnicity or race has the highest incidence of cancer in the United States?",
+      "options": [
+        "African American"
+      ],
+      "correctAnswer": null,
+      "explanation": "The incidence of cancer in the United States is highest among the White population, followed by American Indian, African American, Mexican, Hispanic, and Asian populations. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch23-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which risk factor causes the largest percentage of new HIV infections each year?",
+      "options": [
+        "Intravenous drug use"
+      ],
+      "correctAnswer": null,
+      "explanation": "The largest percentage of new HIV infections each year is related to male-to male sexual contact. Intravenous drug use is a common cause of HIV infections related to transmission via used needles, but this does not cause the largest percentage of new HIV infections each year. Although not the cause of the largest percentage of new HIV infections, high-risk heterosexual activity is also a risk factor. Many individuals are not aware that they are living with HIV; therefore, transmission can occur without them knowing; however, this does not cause the largest percentage of new HIV infections each year. Test-Taking Tip: Many times, the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch23-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A client’s initial HIV test is indeterminate but 6 months later comes back positive. Using the Centers for Disease Control and Prevention’s classification system for HIV, in which stage of HIV is this client?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The client is in stage 0 according to the Centers for Disease Control and Prevention’s classification system. Stage 0 is defined as an “early HIV infection, inferred from a negative or indeterminate HIV test result within 6 months of a confirmed positive test.\" Clients are categorized as being in stages 1, 2, and 3 based on their CD4+ T-lymphocyte counts and symptomatic conditions. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch23-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which action would a client with no known risk factors take to prevent contracting HIV?",
+      "options": [
+        "Abstain from sex.",
+        "Get vaccinated against it."
+      ],
+      "correctAnswer": null,
+      "explanation": "Because there is no cure for HIV at this time, prevention is the only means of protection. Because HIV is transmitted in many different ways, abstaining from sex does not guarantee avoidance of HIV infection; it is only one preventive measure. There are no vaccines to prevent HIV. Antiretroviral medications can be used for HIV prophylaxis, but are reserved for pre-exposure prophylaxis in at risk clients or for post-exposure prophylaxis."
+    },
+    {
+      "id": "nutrition-ch23-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which situation results in the highest rate of HIV transmission? Cy) © Male-to-male sexual contact",
+      "options": [
+        "Injection drug use",
+        "Heterosexual contact",
+        "Blood transfusion"
+      ],
+      "correctAnswer": null,
+      "explanation": "Male-to-male sexual contact accounts for the highest rate of HIV transmission. Injection drug use is a mode of HIV transmission, but it accounts for lower rates of transmission compared with male-to-male sexual contact. Heterosexual contact by itself is not associated with a high rate of HIV transmission; however, female heterosexual contact, along with male-to-male sexual contact, results in the highest rate of HIV transmission. The rate of HIV transmission via blood transfusion is lower than that for male-to-male sexual contact."
+    },
+    {
+      "id": "nutrition-ch23-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which is the most common cancer associated with AIDS in the terminal stage of HIV",
+      "options": [
+        "infection?",
+        "Invasive cervical cancer",
+        "Pneumocystis",
+        "Leukoencephalopathy"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most common cancer associated with AIDS in the terminal stage of HIV infection is Kaposi’s sarcoma. Invasive cervical cancer can occur in women but is not as common as Kaposi’s sarcoma. Pneumocystis is a form of pneumonia rather than a cancer. Leukoencephalopathy is not a cancer; it is a deterioration of the white matter in the brain."
+    },
+    {
+      "id": "nutrition-ch23-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a current established goal for the medical management of HIV infection? Select all that apply.",
+      "options": [
+        "| Treating infection early"
+      ],
+      "correctAnswers": [],
+      "explanation": "Current goals for the medical management of HIV infection include recognizing and treating infection early, preventing opportunistic illness, and boosting the immune system. Prophylactic antibiotics are not used to prevent infection, and high-dose radiation therapy is not used for clients with HIV. Low-dose radiation or anticancer drugs may be used to slow the spread of tumors if they occur during the disease process. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch23-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which class of HIV antiretroviral therapy is associated with an increased risk for lipoatrophy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Lipoatrophy is a side effect of treatment with protease inhibitors and nucleoside reverse transcriptase inhibitors. Integrase inhibitors, fusion inhibitors, and CCR5 antagonists are associated with other side effects, not lipoatrophy."
+    },
+    {
+      "id": "nutrition-ch23-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which factor in a client’s history increases the risk for the development of cancer? Select all that apply.",
+      "options": [
+        "| States, \"| hate vegetables.\""
+      ],
+      "correctAnswers": [],
+      "explanation": "Factors that increase the risk for developing cancer include smoking, a sedentary lifestyle, and poor fruit and/or vegetable intake. Obesity is a risk factor for cancer development, but the client’s body mass index is within normal limits, so this is not a risk factor. A supportive family decreases the effects of stress and creates no increased risk for cancer. Consumption of 2.5 cups of fruit daily is the recommended daily requirement, so this does not increase this client’s risk for cancer. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch23-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which side effect is reported by patients with HIV who take antiretroviral medications? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Antiretroviral medications have multiple side effects, including nausea, altered taste, hyperglycemia, and diarrhea. Increased appetite is not a known side effect of using antiretroviral medications."
+    },
+    {
+      "id": "nutrition-ch23-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which risk is associated with the use of complementary and alternative medicine (CAM) by patients with cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Many CAM practices have undergone clinical experimentation and failed to produce any positive or cancer- protective results. Experts discourage the use of macrobiotic diets for cancer prevention because of the restrictive nature of the diet and the risk for multiple nutrient deficiencies. Patients often feel uncomfortable discussing their CAM practices with their health care provider, which could result in serious consequences. Clinical experimentation has determined that some CAM practices are not safe in patients with cancer. Dietary supplements can have dangerous interactions with chemotherapy drugs and reduce the effectiveness of chemotherapy. Test-Taking Tip: Monitor questions that you answer with an educated guess or changed your answer from the first option you selected. This will help you to analyze your ability to think critically. Usually your first answer is correct and should not be changed without reason."
+    },
+    {
+      "id": "nutrition-ch23-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which intervention would be best for a client with HIV who is experiencing nausea and",
+      "options": [
+        "vomiting?",
+        "\"Try new foods when feeling your best.\"",
+        "\"Use plastic utensils if food tastes metallic.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse can suggest that the client remain upright for at least 1 hour after eating to help alleviate nausea and vomiting. Trying new foods when the client is feeling their best and using plastic utensils if the food tastes metallic are recommendations for the client experiencing taste and smell alterations. Dry, bland, easy to digest foods are preferable to clients with nausea and vomiting. Avoiding greasy foods, spicy foods, sweets, or foods with strong odors is a recommendation for clients experiencing nausea."
+    },
+    {
+      "id": "nutrition-ch23-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which clinical assessment finding does the nurse anticipate will affect nutritional counseling for a client with HIV-associated xerostomia? rv) © Dry mouth",
+      "options": [
+        "Inflammation of the mouth",
+        "Taste and smell alterations",
+        "Inflamed mucous membranes in the lining in the digestive system"
+      ],
+      "correctAnswer": null,
+      "explanation": "Xerostomia is dry mouth, so the nutritional counseling will include suggestions to keep the mouth moist and stimulate the salivary glands. Stomatitis is inflammation of the mouth. Xerostomia does not cause alterations in taste and smell. Mucositis is pain and inflammation of the mucous membranes in the lining of the digestive system. Test-Taking Tip: Identifying content and what is being asked about that content is critical to choosing the correct response. Be alert for words in the stem that are the same or similar in nature to those in one or two of the options ."
+    },
+    {
+      "id": "nutrition-ch23-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Malnutrition causes which process that decreases a cancer client’s immunity?",
+      "options": [
+        "Loss of fluid from the gastrointestinal system",
+        "Atrophy of organs and tissues",
+        "Excess production of gastric acid",
+        "Increased production of white blood cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atrophy of the organs and tissues involved in immunity, such as the liver, bowel, bone marrow, spleen, and lymph, compromises the integrity of the immune system. Loss of fluid from the gastrointestinal tract can result in dehydration and electrolyte imbalance. Clients usually suffer from metabolic alkalosis (not excess gastric acid) when vomiting. Increased production of white blood cells indicates inflammation or infection, and this client does not necessarily have an inflammatory condition or infection. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice questions. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch23-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which nutritional intervention may preserve gut functioning and help reduce inflammation",
+      "options": [
+        "in clients with HIV who are experiencing severe diarrhea and malabsorption due to",
+        "intestinal tissue damage?",
+        "Lipid-based nutritional supplements",
+        "The Mediterranean diet",
+        "Increased micronutrients"
+      ],
+      "correctAnswer": null,
+      "explanation": "Probiotics and prebiotics may be beneficial for preserving gut functioning and reducing inflammation in some clients. A lipid-based nutritional supplement with added soy or whey protein initiated early in antiretroviral therapy may help prevent lean tissue loss and, in some cases, muscle wasting. The Mediterranean diet is a heart-healthy diet recommended for clients receiving antiretroviral therapy, but it does not preserve gut functioning. Micronutrients are substances that are required by the body for normal growth and development, but they cannot be absorbed properly if the integrity of the intestinal lining is damaged."
+    },
+    {
+      "id": "nutrition-ch23-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient with cancer has a white blood cell count of 2.1 x 10 °/L. Which dietary modification would be recommended to prevent infection?",
+      "options": [
+        "Take zinc supplements.",
+        "Rinse the mouth before and after eating."
+      ],
+      "correctAnswer": null,
+      "explanation": "To decrease the chance of getting an infection, patients with compromised immunity (e.g., patients with cancer or HIV-positive patients with decreased white blood cell counts) would be advised to avoid salad bars and buffets when eating out to reduce the risk for ingesting contaminated foods. This is considered a neutropenic diet. The nurse would rule out zinc deficiency for alterations in taste and smell. Patients would be advised to rinse the mouth before and after eating to avoid nausea and vomiting. The nurse would advise patients to avoid greasy foods, hot and cold liquids, caffeine, and foods high in sugar alcohols to avoid diarrhea."
+    },
+    {
+      "id": "nutrition-ch23-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which general complication of chemotherapy results in the need for nutrition management?",
+      "options": [
+        "Drug-nutrient interactions"
+      ],
+      "correctAnswer": null,
+      "explanation": "Nausea, vomiting, loss of taste, anorexia, and mucositis are some of the problems that patients experience when the function of the Gl tract is affected by chemotherapy and result in the need for nutrition management. Drug-nutrient interactions can occur when a patient uses supplements and herbs while being treated with medications; this may adversely affect patients or their treatment regimen but does not require nutritional management. Damaged oral mucosa and alterations in taste sensitivity to food temperatures are complications of radiation therapy and not typically seen with chemotherapy."
+    },
+    {
+      "id": "nutrition-ch23-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "In which Centers for Disease Control and Prevention HIV clinical category does a client diagnosed with HIV infection begin to become symptomatic?",
+      "options": [
+        "Category A"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the Centers for Disease Control and Prevention’s clinical classification system for HIV, the client with clinical category B HIV begins to become symptomatic. This is a period marked by opportunistic illnesses because, at this point, the HIV infection has killed enough host-protective T lymphocytes to severely damage the immune system and lower the body’s normal resistance to disease. Category A is an asymptomatic period during which the client may have mild flu-like symptoms 2 to 4 weeks after infection. Typically, the client feels well for a number of years following this. Category C is the terminal stage of HIV infection, during which there is a rapid decline in T-lymphocyte counts and the presence of opportunistic illness. There is no category D."
+    },
+    {
+      "id": "nutrition-ch23-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "According to the Centers for Disease Control and Prevention’s classification system for HIV, which client is considered to have AIDS? x) © A client in category B with any stage 2 CD4+ T-lymphocyte count",
+      "options": [
+        "A client in category A with a CD4+ T-lymphocyte count of 500 cells/yiL or more"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the Centers for Disease Control and Prevention’s classification system for HIV, a client is considered to have AIDS if they are in clinical category C with any stage 3 CD4+ T-lymphocyte counts. A client in clinical category B is considered to have AIDS only if the CD4+ T-lymphocyte count is in stage 3 (more than 200 cells/uL). A client in category A with a CD4+ T-lymphocyte count of 500 cells/piL or more is not considered to have AIDS. The CD4+ T lymphocyte count is a stage 1 count. The client in category B with a CD4+ T lymphocyte count of 200-499 cells/yL is not considered to have AIDS. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch23-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which dietary modification would be made for a client receiving chemotherapy who is suffering from stomatitis?",
+      "options": [
+        "\"Do not use a straw to drink fluids.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The client would benefit from numbing the mouth with ice chips or flavored ice pops to lessen the oral discomfort. The client should use a straw to drink fluids. Soft foods that are easy to chew, not firm foods with a coarse texture, should be recommended, Gravies, broths, and sauces can be used to moisten food and help ease pain associated with chewing."
+    },
+    {
+      "id": "nutrition-ch23-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Some suggestions a nurse can make to help improve nutritional intake for a client with HIV who is experiencing anorexia include choosing foods that appeal to the sense of smell and arranging for help with purchasing and preparing foods to help conserve energy. Eating foods that are soft and easy to chew and swallow is recommended for a client experiencing mucositis or stomatitis. Drinking most fluids between meals is recommended for the client experiencing dehydration. It is recommended that a client experiencing anorexia consume one-third of their daily protein and calories at breakfast rather than at dinner."
+    },
+    {
+      "id": "nutrition-ch23-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which phase of carcinogenesis is the point at which cell mutation occurs? Select all that apply.",
+      "options": [
+        "ncidence"
+      ],
+      "correctAnswers": [],
+      "explanation": "Initiation is the point at which a mutagen causes irreversible damage to the DNA. The promotion phase is when the mutated cell is prompted to grow and reproduce. The phase during which cancer cells advance and become malignant is the progression phase. Incidence is not a phase of carcinogenesis; it is the term used to describe the prevalence of cancer relative to race/ethnicity and socioeconomic characteristics. Metastasis is the term used when cancer has spread from the primary source to other tissue in the body; metastasis occurs during the progression phase."
+    },
+    {
+      "id": "nutrition-ch23-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which is an appropriate recommendation for a client who is having difficulty chewing and swallowing? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Appropriate recommendations for a client receiving cancer therapy who is having difficulty swallowing include eating small, frequent meals; adding gravies or sauces to moisten food; eating and drinking slowly; and eating food cool or at room temperature. Firm, textured foods may increase difficulty swallowing. It is recommended that clients with difficulty swallowing should increase fluid intake to avoid dehydration."
+    },
+    {
+      "id": "nutrition-ch23-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How is HIV transmitted? Select all that apply.",
+      "options": [
+        "vd",
+        "| Sharing of needles"
+      ],
+      "correctAnswers": [],
+      "explanation": "HIV is transmitted via sexual contact, organ transplantation, and the sharing of needles. HIV can only be transmitted through drug use if the use involves infected needles. HIV is not transmitted through kissing. The virus is unable to penetrate unbroken skin and is not spread via contact with saliva."
+    },
+    {
+      "id": "nutrition-ch23-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "When providing education to a client with HIV in clinical category B, which common symptom should be discussed? Select all that apply.",
+      "options": [
+        "| Unusual cough"
+      ],
+      "correctAnswers": [],
+      "explanation": "Some of the common symptoms that should be discussed with a client who has HIV in clinical category B include a new or unusual cough, diarrhea, unusual bruising, and fatigue. Weight loss will occur, but wasting syndrome is a marked change in body weight that occurs in category C, not B, infection."
+    },
+    {
+      "id": "nutrition-ch23-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse assessing the HIV-infected client’s nutritional status uses the basic ABCDs (anthropometry, biochemic tests, clinical observations, and dietary evaluations). Which additional point would the nurse include in the assessment? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The nurse assessing the HIV-infected client’s nutritional status using the basic ABCDs will also include the additional points \"E\" for environmental and \"F\" for financial to the assessment. Family support is included under \"Environmental.\" Enteral nutrition is not a specific element of the acronym ABCDEF assessment of the HIV-infected client, nor are fluids and electrolytes."
+    },
+    {
+      "id": "nutrition-ch23-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which clinical finding related to nutritional deficiency occurs in the advanced stages of HIV",
+      "options": [
+        "infection? Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "Clients in the advanced stages of HIV infection regularly have insufficient energy intake, decreased appetite, suppressed immune function, and elevated resting energy expenditure. Clients in the advanced stages of HIV infection experience a decrease in cellular function, not increased cellular function. Test-Taking Tip: Avoid taking a wild guess at an answer. However, should you feel insecure about a question, eliminate the alternatives that you believe are definitely incorrect, and reread the information given to make sure you understand the intent of the question. This approach increases your chances of randomly selecting the correct answer or getting a clearer understanding of what is being asked."
+    },
+    {
+      "id": "nutrition-ch23-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "In conjunction with the adverse effects of HIV infection, which contributes to the common symptoms of diarrhea and nutrient malabsorption?",
+      "options": [
+        "Anorexia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Diarrhea and nutrient malabsorption result from drug—diet interactions in conjunction with the progressive effects of HIV infection. Anorexia is a result of inadequate food intake. Food insecurity can contribute to malnutrition, but neither anorexia nor food insecurity is directly responsible for diarrhea or nutrient malabsorption. Hypermetabolism does not cause diarrhea or nutrient malabsorption, though it is associated with weight loss."
+    },
+    {
+      "id": "nutrition-ch23-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which is a cause of body wasting in a client with HIV? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Body wasting in clients with HIV may result from malabsorption of nutrients, inadequate food intake, and/or disordered metabolism. Lipoatrophy is a reduction of body fat, specifically in the limbs and face. Cachexia is the wasting of the body itself, not a cause of it."
+    },
+    {
+      "id": "nutrition-ch23-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a basic nutrition objective or goal of medical nutrition therapy during cancer treatment? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The basic nutrition objectives or goals of medical nutrition therapy include maintaining lean body mass, identifying and managing side effects of treatment, and preventing unintentional weight gain. Promoting weight loss for obese clients is not recommended during medical nutrition therapy because increased metabolic demands can result in catabolism. Maintaining tight caloric restrictions is not a goal because a balanced, nutritious diet is important to promote healing and prevent catabolism. Preventing satiety is not a goal. Satiety describes a feeling of satisfaction or fullness following food intake. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch23-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which dietary modification would be used for a patient experiencing gastrointestinal side effects of chemotherapy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Gastrointestinal problems, like nausea and vomiting, associated with chemotherapy can be relieved by avoiding hot, sweet, fatty, or spicy foods. Consuming small and frequent feedings also can ease discomfort. Soft or liquid cold or room temperature foods may relieve symptoms. A patient undergoing chemotherapy treatment would not want to avoid gaining weight; rather, they will likely experience weight loss and should try to maintain their weight. Adding fiber and fluids to the diet can help with constipation, but this is not a problem typically associated with chemotherapy. Although adding spices, herbs, seasonings, and sauces can help with taste and smell alterations, it is contraindicated if patients have nausea and vomiting. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch23-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which consequence occurs with cancer-related cachexia? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Cachexia is debilitating for patients. It can lead to overall loss of function because of nutritional deficiencies and weight loss. Morbidity and mortality are increased in patients with cachexia because of additional hospital admissions and increased length of stay. Poor quality of life occurs with cancer-related cachexia because the patient loses muscle mass and loss of function. Additional hospital admissions and treatments increase the medical costs for the patient and contribute to poor quality of life."
+    },
+    {
+      "id": "nutrition-ch23-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following measures best addresses cancer-related cachexia?",
+      "options": [
+        "Provide aggressive medical nutrition therapy",
+        "Use medication therapy to alleviate symptoms",
+        "©@ Follow the standard effective treatment for cachexia"
+      ],
+      "correctAnswer": null,
+      "explanation": "The best way to treat cancer-related cachexia is to alleviate the cancer and the metabolic abnormalities associated with it. Aggressive medical nutrition therapy and medication therapy should be practiced by the health care team because it is not always possible to alleviate the cancer, which is the best way to treat cancer- related cachexia. There is no standard effective treatment for cachexia."
+    },
+    {
+      "id": "nutrition-ch23-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor causes wasting in patients in the advanced stages of HIV? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Anorexia, or loss of appetite, leading to inadequate food intake contributes to weight loss in HIV/AIDS patients. Diarrhea is a common side effect of drug-diet interactions and HIV infection. It can lead to the malabsorption of nutrients contributing to wasting. Lack of participation in physical activity (disuse) coupled with systemic inflammation exacerbates muscle wasting. Abnormal metabolism alone will not cause wasting because the elevated resting energy expenditure and decrease in physical activity offset each other. Although it contributes to abnormal body composition of AIDS patients, the causative factor for lipodystrophy is antiretroviral therapy; lipodystrophy is not a process that causes the characteristic body wasting seen in HIV."
+    },
+    {
+      "id": "nutrition-ch23-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which diet would be appropriate for a patient with lipodystrophy?",
+      "options": [
+        "Low residue",
+        "Gastrointestinal soft",
+        "Low protein"
+      ],
+      "correctAnswer": null,
+      "explanation": "Lipodystrophy is a condition associated with muscle wasting in the limbs and fat accumulation in the abdominal area and back of the neck that sometimes affects patients with HIV infection. This redistribution of fat is associated with metabolic abnormalities, cardiovascular disease, and insulin resistance. A Mediterranean diet based on vegetables, fruits, herbs, nuts, beans, and whole grains, along with daily exercise, is the most effective treatment for this condition. Low-residue diets will not be beneficial to these patients. High protein will assist in muscle maintenance but will not address the needs of a patient with lipodystrophy. A gastrointestinal soft diet does not provide the fiber needed for cardiovascular health beneficial to patients with HIV affected by lipodystrophy."
+    },
+    {
+      "id": "nutrition-ch23-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutrition-related problem is observed in patients undergoing radiation therapy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Anorexia and nausea can occur when radiation treatment disturbs oral mucosa and salivary secretions, affecting taste sensations. Radiation therapy, when used to treat cancer of the head, neck, or esophagus, also affects taste sensations and sensitivity to food texture and temperature. Ulcers, inflammation, obstructions, and fistulas can occur when radiation therapy is administered to the abdominal area, causing a loss of intestinal villi and tissue breakdown. Chemotherapy, not radiation therapy, can cause disturbances of the bone marrow, which can result in a reduced blood cell count and anemia; however, these are not nutrition-related problems. Interference with normal hair growth and general hair loss are side effects of chemotherapy but are not nutrition-related problems."
+    },
+    {
+      "id": "nutrition-ch23-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Place the stages of the disease progression of HIV/AIDS in the correct order. Cy) 1. HIV infection occurs. tx} 2. Viral incubation takes over the CD4 cells. 3. Development of antibodies occurs. 5. T-lymphocyte counts decline, and the criteria for a diagnosis of AIDS is met. rv] 4. Infectious illnesses begin to invade the body.",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "After the initial exposure and infection of HIV, antibodies to the viral infection begin to develop. Then, there is a long period of viral incubation in which the infected person typically feels well. During this time the virus takes over CD4 cells and gains power. After the asymptomatic HIV-positive stage, associated infectious illnesses mark the terminal stage of HIV infection, known as AIDS. pp. 446-447"
+    },
+    {
+      "id": "nutrition-ch23-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Place the steps of a nutritional assessment for a patient with HIV in the correct order. tx} 1. Patient is referred to a nutrition professional. 2. Use of a screening tool to establish nutritional status. 3. Typical ABCD nutritional evaluations are performed. Environmental, behavioral, and psychologic factors are considered. 5. Financial status is evaluated. >",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The first step in nutritional assessment for a patient with HIV is to use a screening tool, such as the Subjective Global Assessment-HIV, to quickly and efficiently identify the risk for malnutrition. The patient is then referred to a nutrition professional who will conduct a comprehensive nutrition assessment using the typical ABCD nutrition evaluations. This will establish baseline information that is necessary for starting and continuing nutrition care. HIV-infected patients may require further assessment to determine environmental, behavioral, and psychologic situations that can affect outcomes. Financial status is also evaluated to determine the ability to pay for needs such as medical insurance, food, enteral supplements, and vitamins and minerals."
+    },
+    {
+      "id": "nutrition-ch23-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which nutrition recommendation reduces the risk for breast cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Consuming a plant-based diet has a strong protective association against breast cancer. Getting regular physical activity is beneficial for reducing the risk for breast cancer because it helps reduce excess body fat. A diet that avoids red meat, processed meat, and saturated fat is associated with protection from breast cancer. Dietary supplements should not be used as main source of nutrients to reduce the risk for breast cancer. A diet that is rich in whole grains and fiber can reduce the risk for colorectal cancer, but it is not beneficial in reducing the risk for breast cancer."
+    },
+    {
+      "id": "nutrition-ch23-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which recommendation for a patient’s lifestyle can reduce the risk for cancer? Select all that apply.",
+      "options": [
+        "| Limit the consumption of salty foods and salt-preserved foods."
+      ],
+      "correctAnswers": [],
+      "explanation": "One of the main dietary recommendations to reduce a patient’s risk for cancer is to consume a healthy diet with an emphasis on plant-based food. The consumption of salty foods and salt-preserved foods should be limited. Staying as lean as possible by balancing caloric intake with physical activity is also important to reduce cancer risk. If alcohol is consumed, the intake should be limited to two drinks per day for men and one drink daily for women. Dietary supplements are not recommended to help meet nutrient needs; diet alone should provide all necessary nutrients."
+    },
+    {
+      "id": "nutrition-ch23-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which dietary modification would the nurse suggest for a patient with HIV who is experiencing anorexia? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Participating in physical activity, if possible, can help to increase appetite. Choosing foods that appeal to the sense of smell is helpful when suffering from a loss of appetite. Regardless of hunger, small, frequent, high- caloric meals and snacks should be consumed to help provide the body with some nutrition. Frequent mouth care may help to relieve aftertastes that make foods unappealing. A patient who is experiencing anorexia should choose foods that are appealing, regardless of the consistency. Remaining upright for 1 hour after eating may help with nausea and vomiting but has no effect on anorexia."
+    },
+    {
+      "id": "nutrition-ch23-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which nutrition intervention is included in the plan of care for patients with cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Preventing nutrient deficiencies and unintentional weight loss is an important intervention when developing a plan of care for patients with cancer and can be controlled by continually updating according to the patient status. It is important for the cancer patient to maintain tolerance to treatment, immune function, and quality of life by appropriate methods offered by the health care professional. Patients with cancer should maintain or improve lean body mass, strength, energy, and functional ability; this need should be carefully considered when developing a plan of care. Side effects from cancer and its treatment should be carefully monitored and controlled by making changes to the nutrition intervention plan. Enteral or parenteral nutrition support should be considered if the patient is unable to tolerate normal intake of food, but it should only be used if the nutrition status continues to decline."
+    },
+    {
+      "id": "nutrition-ch23-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which is an appropriate recommendation for a client who is having difficulty chewing and swallowing? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Appropriate recommendations for a client receiving cancer therapy who is having difficulty swallowing include eating small, frequent meals; adding gravies or sauces to moisten food; eating and drinking slowly; and eating food cool or at room temperature. Firm, textured foods may increase difficulty swallowing. It is recommended that clients with difficulty swallowing should increase fluid intake to avoid dehydration."
+    },
+    {
+      "id": "nutrition-ch23-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How is HIV transmitted? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "HIV is transmitted via sexual contact, organ transplantation, and the sharing of needles. HIV can only be transmitted through drug use if the use involves infected needles. HIV is not transmitted through kissing. The virus is unable to penetrate unbroken skin and is not spread via contact with saliva."
+    },
+    {
+      "id": "nutrition-ch23-064",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "When providing education to a client with HIV in clinical category B, which common symptom should be discussed? Select all that apply.",
+      "options": [
+        "| Diarrhea"
+      ],
+      "correctAnswers": [],
+      "explanation": "Some of the common symptoms that should be discussed with a client who has HIV in clinical category B include a new or unusual cough, diarrhea, unusual bruising, and fatigue. Weight loss will occur, but wasting syndrome is a marked change in body weight that occurs in category C, not B, infection."
+    },
+    {
+      "id": "nutrition-ch23-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse assessing the HIV-infected client’s nutritional status uses the basic ABCDs (anthropometry, biochemic tests, clinical observations, and dietary evaluations). Which additional point would the nurse include in the assessment? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The nurse assessing the HIV-infected client’s nutritional status using the basic ABCDs will also include the additional points \"E\" for environmental and \"F\" for financial to the assessment. Family support is included under \"Environmental.\" Enteral nutrition is not a specific element of the acronym ABCDEF assessment of the HIV-infected client, nor are fluids and electrolytes."
+    },
+    {
+      "id": "nutrition-ch23-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "In conjunction with the adverse effects of HIV infection, which contributes to the common symptoms of diarrhea and nutrient malabsorption?",
+      "options": [
+        "Anorexia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Diarrhea and nutrient malabsorption result from drug—diet interactions in conjunction with the progressive effects of HIV infection. Anorexia is a result of inadequate food intake. Food insecurity can contribute to malnutrition, but neither anorexia nor food insecurity is directly responsible for diarrhea or nutrient malabsorption. Hypermetabolism does not cause diarrhea or nutrient malabsorption, though it is associated with weight loss."
+    },
+    {
+      "id": "nutrition-ch23-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which is a cause of body wasting in a client with HIV? Select all that apply.",
+      "options": [
+        "| Disordered metabolism"
+      ],
+      "correctAnswers": [],
+      "explanation": "Body wasting in clients with HIV may result from malabsorption of nutrients, inadequate food intake, and/or disordered metabolism. Lipoatrophy is a reduction of body fat, specifically in the limbs and face. Cachexia is the wasting of the body itself, not a cause of it."
+    },
+    {
+      "id": "nutrition-ch23-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a basic nutrition objective or goal of medical nutrition therapy during cancer treatment? Select all that apply.",
+      "options": [
+        "| Identifying and managing treatment-related side effects",
+        "| Preventing unintentional weight gain"
+      ],
+      "correctAnswers": [],
+      "explanation": "The basic nutrition objectives or goals of medical nutrition therapy include maintaining lean body mass, identifying and managing side effects of treatment, and preventing unintentional weight gain. Promoting weight loss for obese clients is not recommended during medical nutrition therapy because increased metabolic demands can result in catabolism. Maintaining tight caloric restrictions is not a goal because a balanced, nutritious diet is important to promote healing and prevent catabolism. Preventing satiety is not a goal. Satiety describes a feeling of satisfaction or fullness following food intake. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch23-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which dietary modification would be used for a patient experiencing gastrointestinal side effects of chemotherapy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Gastrointestinal problems, like nausea and vomiting, associated with chemotherapy can be relieved by avoiding hot, sweet, fatty, or spicy foods. Consuming small and frequent feedings also can ease discomfort. Soft or liquid cold or room temperature foods may relieve symptoms. A patient undergoing chemotherapy treatment would not want to avoid gaining weight; rather, they will likely experience weight loss and should try to maintain their weight. Adding fiber and fluids to the diet can help with constipation, but this is not a problem typically associated with chemotherapy. Although adding spices, herbs, seasonings, and sauces can help with taste and smell alterations, it is contraindicated if patients have nausea and vomiting. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch23-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which consequence occurs with cancer-related cachexia? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Cachexia is debilitating for patients. It can lead to overall loss of function because of nutritional deficiencies and weight loss. Morbidity and mortality are increased in patients with cachexia because of additional hospital admissions and increased length of stay. Poor quality of life occurs with cancer-related cachexia because the patient loses muscle mass and loss of function. Additional hospital admissions and treatments increase the medical costs for the patient and contribute to poor quality of life."
+    },
+    {
+      "id": "nutrition-ch23-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following measures best addresses cancer-related cachexia?",
+      "options": [
+        "Provide aggressive medical nutrition therapy",
+        "Use medication therapy to alleviate symptoms",
+        "Follow the standard effective treatment for cachexia"
+      ],
+      "correctAnswer": null,
+      "explanation": "The best way to treat cancer-related cachexia is to alleviate the cancer and the metabolic abnormalities associated with it. Aggressive medical nutrition therapy and medication therapy should be practiced by the health care team because it is not always possible to alleviate the cancer, which is the best way to treat cancer- related cachexia. There is no standard effective treatment for cachexia."
+    },
+    {
+      "id": "nutrition-ch23-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor causes wasting in patients in the advanced stages of HIV? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Anorexia, or loss of appetite, leading to inadequate food intake contributes to weight loss in HIV/AIDS patients. Diarrhea is a common side effect of drug-diet interactions and HIV infection. It can lead to the malabsorption of nutrients contributing to wasting. Lack of participation in physical activity (disuse) coupled with systemic inflammation exacerbates muscle wasting. Abnormal metabolism alone will not cause wasting because the elevated resting energy expenditure and decrease in physical activity offset each other. Although it contributes to abnormal body composition of AIDS patients, the causative factor for lipodystrophy is antiretroviral therapy; lipodystrophy is not a process that causes the characteristic body wasting seen in HIV."
+    },
+    {
+      "id": "nutrition-ch23-073",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutrition-related problem is observed in patients undergoing radiation therapy? Select all that apply.",
+      "options": [
+        "| Sensitivity to food texture and temperature",
+        "| Ulcers, inflammation, obstructions, and fistulas"
+      ],
+      "correctAnswers": [],
+      "explanation": "Anorexia and nausea can occur when radiation treatment disturbs oral mucosa and salivary secretions, affecting taste sensations. Radiation therapy, when used to treat cancer of the head, neck, or esophagus, also affects taste sensations and sensitivity to food texture and temperature. Ulcers, inflammation, obstructions, and fistulas can occur when radiation therapy is administered to the abdominal area, causing a loss of intestinal villi and tissue breakdown. Chemotherapy, not radiation therapy, can cause disturbances of the bone marrow, which can result in a reduced blood cell count and anemia; however, these are not nutrition-related problems. Interference with normal hair growth and general hair loss are side effects of chemotherapy but are not nutrition-related problems."
+    },
+    {
+      "id": "nutrition-ch23-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Place the stages of the disease progression of HIV/AIDS in the correct order. Cy) 1. HIV infection occurs. 2. Development of antibodies occurs. 3. Viral incubation takes over the CD4 cells. Infectious illnesses begin to invade the body. 5. T-lymphocyte counts decline, and the criteria for a diagnosis of AIDS is met. >",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "After the initial exposure and infection of HIV, antibodies to the viral infection begin to develop. Then, there is a long period of viral incubation in which the infected person typically feels well. During this time the virus takes over CD4 cells and gains power. After the asymptomatic HIV-positive stage, associated infectious illnesses mark the terminal stage of HIV infection, known as AIDS. pp. 446-447"
+    },
+    {
+      "id": "nutrition-ch23-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Place the steps of a nutritional assessment for a patient with HIV in the correct order. tx} 1. Patient is referred to a nutrition professional. tx} 2. Use of a screening tool to establish nutritional status. 3. Typical ABCD nutritional evaluations are performed. rv] 4. Environmental, behavioral, and psychologic factors are considered. 5. Financial status is evaluated.",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The first step in nutritional assessment for a patient with HIV is to use a screening tool, such as the Subjective Global Assessment-HIV, to quickly and efficiently identify the risk for malnutrition. The patient is then referred to a nutrition professional who will conduct a comprehensive nutrition assessment using the typical ABCD nutrition evaluations. This will establish baseline information that is necessary for starting and continuing nutrition care. HIV-infected patients may require further assessment to determine environmental, behavioral, and psychologic situations that can affect outcomes. Financial status is also evaluated to determine the ability to pay for needs such as medical insurance, food, enteral supplements, and vitamins and minerals."
+    },
+    {
+      "id": "nutrition-ch23-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which nutrition recommendation reduces the risk for breast cancer? Select all that apply.",
+      "options": [
+        "| Avoid dietary supplements as the main source of nutrients."
+      ],
+      "correctAnswers": [],
+      "explanation": "Consuming a plant-based diet has a strong protective association against breast cancer. Getting regular physical activity is beneficial for reducing the risk for breast cancer because it helps reduce excess body fat. A diet that avoids red meat, processed meat, and saturated fat is associated with protection from breast cancer. Dietary supplements should not be used as main source of nutrients to reduce the risk for breast cancer. A diet that is rich in whole grains and fiber can reduce the risk for colorectal cancer, but it is not beneficial in reducing the risk for breast cancer."
+    },
+    {
+      "id": "nutrition-ch23-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which dietary modification would the nurse suggest for a patient with HIV who is experiencing anorexia? Select all that apply.",
+      "options": [
+        "| Choose foods that appeal to the sense of smell."
+      ],
+      "correctAnswers": [],
+      "explanation": "Participating in physical activity, if possible, can help to increase appetite. Choosing foods that appeal to the sense of smell is helpful when suffering from a loss of appetite. Regardless of hunger, small, frequent, high- caloric meals and snacks should be consumed to help provide the body with some nutrition. Frequent mouth care may help to relieve aftertastes that make foods unappealing. A patient who is experiencing anorexia should choose foods that are appealing, regardless of the consistency. Remaining upright for 1 hour after eating may help with nausea and vomiting but has no effect on anorexia."
+    },
+    {
+      "id": "nutrition-ch23-078",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which nutrition intervention is included in the plan of care for patients with cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Preventing nutrient deficiencies and unintentional weight loss is an important intervention when developing a plan of care for patients with cancer and can be controlled by continually updating according to the patient status. It is important for the cancer patient to maintain tolerance to treatment, immune function, and quality of life by appropriate methods offered by the health care professional. Patients with cancer should maintain or improve lean body mass, strength, energy, and functional ability; this need should be carefully considered when developing a plan of care. Side effects from cancer and its treatment should be carefully monitored and controlled by making changes to the nutrition intervention plan. Enteral or parenteral nutrition support should be considered if the patient is unable to tolerate normal intake of food, but it should only be used if the nutrition status continues to decline."
+    },
+    {
+      "id": "nutrition-ch23-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "According to the Centers for Disease Control and Prevention’s classification system for HIV, which client is considered to have AIDS? x) © A client in category B with any stage 2 CD4+ T-lymphocyte count",
+      "options": [
+        "A client in category A with a CD4+ T-lymphocyte count of 500 cells/yiL or more"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the Centers for Disease Control and Prevention’s classification system for HIV, a client is considered to have AIDS if they are in clinical category C with any stage 3 CD4+ T-lymphocyte counts. A client in clinical category B is considered to have AIDS only if the CD4+ T-lymphocyte count is in stage 3 (more than 200 cells/uL). A client in category A with a CD4+ T-lymphocyte count of 500 cells/piL or more is not considered to have AIDS. The CD4+ T lymphocyte count is a stage 1 count. The client in category B with a CD4+ T lymphocyte count of 200-499 cells/yL is not considered to have AIDS. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch23-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A client’s initial HIV test is indeterminate but 6 months later comes back positive. Using the Centers for Disease Control and Prevention’s classification system for HIV, in which stage of HIV is this client?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The client is in stage 0 according to the Centers for Disease Control and Prevention’s classification system. Stage 0 is defined as an “early HIV infection, inferred from a negative or indeterminate HIV test result within 6 months of a confirmed positive test.\" Clients are categorized as being in stages 1, 2, and 3 based on their CD4+ T-lymphocyte counts and symptomatic conditions. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch23-081",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a current established goal for the medical management of HIV infection? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Current goals for the medical management of HIV infection include recognizing and treating infection early, preventing opportunistic illness, and boosting the immune system. Prophylactic antibiotics are not used to prevent infection, and high-dose radiation therapy is not used for clients with HIV. Low-dose radiation or anticancer drugs may be used to slow the spread of tumors if they occur during the disease process. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch23-082",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which class of HIV antiretroviral therapy is associated with an increased risk for lipoatrophy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Lipoatrophy is a side effect of treatment with protease inhibitors and nucleoside reverse transcriptase inhibitors. Integrase inhibitors, fusion inhibitors, and CCR5 antagonists are associated with other side effects, not lipoatrophy."
+    },
+    {
+      "id": "nutrition-ch23-083",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which side effect is reported by patients with HIV who take antiretroviral medications? Select all that apply.",
+      "options": [
+        "| Altered taste"
+      ],
+      "correctAnswers": [],
+      "explanation": "Antiretroviral medications have multiple side effects, including nausea, altered taste, hyperglycemia, and diarrhea. Increased appetite is not a known side effect of using antiretroviral medications."
+    },
+    {
+      "id": "nutrition-ch23-084",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which risk is associated with the use of complementary and alternative medicine (CAM) by patients with cancer? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Many CAM practices have undergone clinical experimentation and failed to produce any positive or cancer- protective results. Experts discourage the use of macrobiotic diets for cancer prevention because of the restrictive nature of the diet and the risk for multiple nutrient deficiencies. Patients often feel uncomfortable discussing their CAM practices with their health care provider, which could result in serious consequences. Clinical experimentation has determined that some CAM practices are not safe in patients with cancer. Dietary supplements can have dangerous interactions with chemotherapy drugs and reduce the effectiveness of chemotherapy. Test-Taking Tip: Monitor questions that you answer with an educated guess or changed your answer from the first option you selected. This will help you to analyze your ability to think critically. Usually your first answer is correct and should not be changed without reason."
+    },
+    {
+      "id": "nutrition-ch23-085",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which is the best dietary recommendation for a client diagnosed with HIV infection?",
+      "options": [
+        "High-calorie diet",
+        "High-protein diet",
+        "Standard dietary recommendations",
+        "High-carbohydrate diet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are no specific dietary recommendations for a client diagnosed with HIV infection other than meeting their general dietary needs. Dietary changes such as high-calorie, high-protein, or high-carbohydrate diets aim to reduce or eliminate malnutrition (if the risk is present) and to correct any other nutritional problems identified in the nutritional assessment."
+    },
+    {
+      "id": "nutrition-ch23-086",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 23",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which potential change in a client’s body fat can occur during therapy with nucleoside reverse transcriptase inhibitors?",
+      "options": [
+        "Lipodystrophy",
+        "Lipohypertrophy"
+      ],
+      "correctAnswer": null,
+      "explanation": "A client treated with nucleoside reverse transcriptase inhibitors is at risk for lipoatrophy, which is a reduction in body fat. Lipodystrophy is abnormal fat redistribution associated with metabolic abnormalities and an increased risk for chronic conditions such as dyslipidemia, hypertension, and insulin resistance. Lipohypertrophy occurs with the use of protease inhibitors and causes an increase in the fat mass around the abdomen and the back of the neck. Hyperlipidemia is a condition characterized by abnormally elevated levels of fats or lipids in the blood."
+    }
+  ]
+}

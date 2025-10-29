@@ -1,0 +1,970 @@
+{
+  "name": "Nutrition Minerals",
+  "description": "Chapter 8 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch8-001",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which mineral is considered a major mineral? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Manganese, phosphorus, and sulfur are among the major minerals. Zinc and iron are essential trace minerals."
+    },
+    {
+      "id": "nutrition-ch8-002",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which food is rich in selenium? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Selenium is a trace mineral essential for normal body functioning. Foods rich in selenium include meat, fish, eggs, and whole wheat. Liver is a good dietary source of copper, and seafood is a good source of iodine, copper, and zinc."
+    },
+    {
+      "id": "nutrition-ch8-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the recommended daily dietary intake of calcium for a 30-year-old male?",
+      "options": [
+        "@ 1200 mg",
+        "1000 mg",
+        "2000 mg",
+        "2500 mg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The daily recommended intake of calcium for a 30-year-old male is 1000 mg. The daily recommended intake of calcium for a woman between the ages of 51 and 70 is 1200 mg. The tolerable upper intake level of calcium per day is 2000 to 3000 mg, depending on age, and higher levels can result in toxicity."
+    },
+    {
+      "id": "nutrition-ch8-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which mineral is considered a major mineral? Select all that apply.",
+      "options": [
+        "Manganese",
+        "Phosphorus",
+        "Zinc",
+        "m) Sulfur",
+        "Iron"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Manganese, phosphorus, and sulfur are among the major minerals. Zinc and iron are essential trace minerals."
+    },
+    {
+      "id": "nutrition-ch8-005",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which food is rich in selenium? Select all that apply.",
+      "options": [
+        "_] Liver",
+        "Meat",
+        "my Fish",
+        "ml Fees",
+        "iv) [ml] Whole wheat bread",
+        "Seafood"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "Selenium is a trace mineral essential for normal body functioning. Foods rich in selenium include meat, fish, eggs, and whole wheat. Liver is a good dietary source of copper, and seafood is a good source of iodine, copper, and zinc."
+    },
+    {
+      "id": "nutrition-ch8-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the recommended daily dietary intake of calcium for a 30-year-old male?",
+      "options": [
+        "1200 mg",
+        "@ 1000 mg",
+        "2000 mg",
+        "2500 mg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The daily recommended intake of calcium for a 30-year-old male is 1000 mg. The daily recommended intake of calcium for a woman between the ages of 51 and 70 is 1200 mg. The tolerable upper intake level of calcium per day is 2000 to 3000 mg, depending on age, and higher levels can result in toxicity."
+    },
+    {
+      "id": "nutrition-ch8-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which mineral accumulates in calcified tissues and protects teeth and bones from mineral loss?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Fluoride accumulates in the body’s calcified tissues and protects teeth and bones from mineral loss. Calcium is an essential mineral for construction and maintenance of bones and teeth. Copper is a component of cell enzymes, is involved in energy production, and plays a role in hemoglobin synthesis. lodine is important for the synthesis of thyroxin, which regulates cell metabolism and basal metabolic rates."
+    },
+    {
+      "id": "nutrition-ch8-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "A deficiency in which mineral can cause symptoms of heart muscle weakness with possible cardiac arrest?",
+      "options": [
+        "Potassium",
+        "Magnesium"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One of the characteristic symptoms of potassium deficiency is heart muscle weakness with possible cardiac arrest. Calcium deficiency can cause osteoporosis due to factors that create an overall loss of bone density. A deficiency of sodium can result in acid-base imbalances and muscle cramping but does not affect the heart. Magnesium deficiency is rare but can cause cardiovascular and neurologic instability."
+    },
+    {
+      "id": "nutrition-ch8-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the main function of sodium in the body?",
+      "options": [
+        "Blood clotting",
+        "Bone and teeth formation",
+        "Intracellular fluid control",
+        "@ Maintenance of body water balance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main function of sodium is the maintenance of body water balance. Blood clotting is a function of calcium. Calcium is also responsible for bone and teeth formation. Potassium controls intracellular fluid by holding water inside the cells and counterbalancing the osmotic effect of sodium."
+    },
+    {
+      "id": "nutrition-ch8-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which food source is an exceptionally good source of selenium?",
+      "options": [
+        "Brazil nuts",
+        "Seafood",
+        "Organ meats",
+        "Whole grains"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brazil nuts are an exceptionally good source of selenium, with 1342 mcg per 1/2-cup serving. Although seafood is a good source of selenium, the quantity varies. Organ meats are a consistently good source of selenium, but the amount depends on the quantity of selenium in the soil used to graze animals. Selenium can be found in whole grains, but the quantity varies."
+    },
+    {
+      "id": "nutrition-ch8-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "A deficiency in which trace mineral can cause anemia?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A deficiency in iron can cause anemia. Insufficient iodine intake can cause thyroid disorders. Zinc deficiency can result in compromised immunity. Selenium deficiency can cause impaired immune function."
+    },
+    {
+      "id": "nutrition-ch8-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "hard",
+      "question": "Which major mineral creates a dependent glucose transporter that allows the passage of glucose and galactose from the intestinal lumen into the intestinal cell?",
+      "options": [
+        "Potassium",
+        "Zinc",
+        "Chromium",
+        "Sodium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sodium creates a dependent glucose transporter that allows the passage of glucose and galactose from the intestinal lumen into the intestinal cells. Potassium plays a role in energy production by converting glucose into stored glycogen. Zinc is an essential enzyme constituent, which includes storage of insulin. Chromium is thought to be an essential component of the organic complex glucose factor, which stimulates the action of insulin. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch8-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The nurse knows that a patient who has participated in strenuous exercise over a period of several hours is at risk for which electrolyte imbalance?",
+      "options": [
+        "iv) © Hyponatremia",
+        "Hypocalcemia",
+        "Hypernatremia",
+        "Hyperkalemia"
+      ],
+      "correctAnswer": null,
+      "explanation": "A patient who has participated in strenuous exercise over several hours is at risk for hyponatremia. Although sweat is relatively low in sodium, prolonged sweating results in sodium loss. The patient is not at risk for hypernatremia in this setting, which typically occurs with inadequate water intake or excessive water loss without replacement. Hypocalcemia is related to conditions such as hypoparathyroidism, malnutrition, or malabsorption. Hyperkalemia is associated with renal impairment or tissue breakdown, whereas sweating is more likely to cause potassium loss and possible hypokalemia."
+    },
+    {
+      "id": "nutrition-ch8-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which disease is associated with excessive sodium intake?",
+      "options": [
+        "iv) O Hypertension"
+      ],
+      "correctAnswer": null,
+      "explanation": "Hypertension is associated with excessive sodium intake. Edema is excessive fluid in the extracellular space and is a medical term for swelling. It is not a disease, but a clinical finding. Hypernatremia is not a disease; it is an electrolyte imbalance in which serum sodium is high. Hyperthyroidism is not caused by excessive sodium intake; the most common cause of hyperthyroidism is the autoimmune disorder Graves disease."
+    },
+    {
+      "id": "nutrition-ch8-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which is a function of chloride?",
+      "options": [
+        "@ Maintaining acid-base balance",
+        "Opposing the action of sodium",
+        "Killing bacteria in food that enters the stomach",
+        "Activating pepsin enzymes to break down protein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chloride helps maintain the body’s acid-base balance. It does not oppose the action of sodium; it has a negatively charged ion that passively follows sodium, which has a positively charged ion. Hydrochloric acid is secreted in gastric juices and kills bacteria in food that enters the stomach. Hydrochloric acid also activates the pepsin enzymes to break down protein. Chloride is only one component of hydrochloric acid."
+    },
+    {
+      "id": "nutrition-ch8-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "During the chloride shift, which ions move out of the red blood cell (RBC) and into the plasma as chloride ions move into the RBC and out of the plasma, maintaining the balance of negative charges on either side of the RBC membrane?",
+      "options": [
+        "Sodium",
+        "Bicarbonate",
+        "Potassium",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During the chloride shift, bicarbonate ions move out of the RBC and into the plasma as chloride ions move into the RBC and out of the plasma, maintaining the balance of negative charges on either side of the RBC membrane. Sodium has an inverse relationship with potassium, and both have positively charged ions. Hydrogen is a chemical gas with a positive charge."
+    },
+    {
+      "id": "nutrition-ch8-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the primary cause of a chloride deficiency? tx} © Diarrhea",
+      "options": [
+        "Menkes disease",
+        "Low dietary intake",
+        "Vomiting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The primary cause of chloride deficiency is excessive loss of hydrochloric acid through vomiting. Diarrhea results in a loss of several electrolytes, including chloride, but it is not the primary reason for a chloride deficiency. Menkes disease is an inborn error of metabolism that involves copper. A dietary deficiency of chloride does not occur under normal circumstances."
+    },
+    {
+      "id": "nutrition-ch8-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Where is chloride primarily found in the body?",
+      "options": [
+        "Intracellular fluid compartments",
+        "All body tissues",
+        "Small intestine",
+        "Extracellular fluid compartments"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chloride is primarily found in the extracellular fluid compartments. Potassium is primarily found in the intercellular fluid compartments. Chloride is not found in actual body tissue; it is found in the extracellular fluid compartments. The majority of chloride is not found in the small intestine."
+    },
+    {
+      "id": "nutrition-ch8-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "In which metabolic process are minerals involved? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Minerals are involved in activating, transmitting, regulating, and controlling metabolic processes. Minerals are transported throughout the body, but they do not do the transferring themselves."
+    },
+    {
+      "id": "nutrition-ch8-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which mineral is essential to blood clotting?",
+      "options": [
+        "lron",
+        "Chromium",
+        "Calcium",
+        "Selenium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Calcium is essential for the formation of fibrin, which is the protein matrix of a blood clot. Iron is bound to heme and forms the organic compound hemoglobin, which transports oxygen from the lungs to the body’s tissues and the carbon dioxide out of the tissue back to the lungs. Chromium is an essential component of the organic complex glucose tolerance factor, which stimulates the action of insulin. Selenium is the important part of the antioxidant enzyme glutathione peroxidase, which protects the lipids in cell membranes from oxidative damage."
+    },
+    {
+      "id": "nutrition-ch8-022",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "The nurse knows that sulfur enhances the structure of which body part? Select all that apply.",
+      "options": [
+        "By] Hair",
+        "mm] Skin",
+        "Bone",
+        "Nails",
+        "Blood"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Sulfur enhances the structure of hair, skin, and nails. Calcium has effects on bone and blood."
+    },
+    {
+      "id": "nutrition-ch8-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which mineral is essential in binding oxygen or carbon dioxide to hemoglobin during the respiratory cycle?",
+      "options": [
+        "Potassium",
+        "Phosphorus",
+        "Protein",
+        "lron"
+      ],
+      "correctAnswer": 3,
+      "explanation": "lron is a trace element that helps bind oxygen to hemoglobin for transport to cells and carbon dioxide to hemoglobin for return to the lungs. Potassium is an electrolyte vital for normal cardiac functioning and is crucial to skeletal and smooth muscle contraction. Phosphorus is an essential mineral that plays an important role in formation of bones and teeth. Proteins are large, complex molecules necessary for structure, function, and regulation of the body’s tissues and organs."
+    },
+    {
+      "id": "nutrition-ch8-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the basic function of iodine in the body?",
+      "options": [
+        "Synthesizing thyroxine",
+        "Carrying oxygen to body cells",
+        "Forming bones and teeth",
+        "Producing red blood cells"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The basic function of iodine in the body is the synthesis of thyroxine. Hemoglobin carries oxygen to body cells. Phosphorus forms bones and teeth. Iron assists the body in the production of red blood cells."
+    },
+    {
+      "id": "nutrition-ch8-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The novice nurse is teaching a patient about hypothyroidism. Which statement made by the nurse requires correction by the preceptor?",
+      "options": [
+        "\"Be sure the salt used for cooking and seasoning is iodized.\"",
+        "\"Seafood such as salmon or shellfish are good sources of iodine.\"",
+        "\"Eggs, cow’s milk, and cheese contain iodine.\"",
+        "‘Avoid dairy products, eggs, shellfish, and iodized salt in the diet.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "Avoiding dairy products, eggs, shellfish, and iodized salt will further reduce iodine and worsen dietary hypothyroidism. In the United States, dietary hypothyroidism is rare because of iodized salt often used in cooking and seasoning. Seafood such as salmon and shellfish are good sources of iodine and should be recommended. Eggs, cow’s milk, and cheese also contain iodine and should be recommended for dietary hypothyroidism. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch8-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement made by a pregnant patient indicates understanding of the role of zinc in the diet?",
+      "options": [
+        "\"Poor zinc intake in pregnancy can result in congenital malformations.\"",
+        "\"Poor zinc intake in pregnancy can result in premature births.\"",
+        "\"Poor zinc intake in pregnancy can result in maternal hypertension.\"",
+        "\"Zinc deficiency in pregnancy is the most common cause of preventable brain damage.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The statement \"Poor zinc intake in pregnancy can result in congenital malformations\" indicates an understanding of the role of zinc in the diet. Poor zinc intake is not associated with premature births, and zinc has no effect on blood pressure. lodine is the most common deficiency causing preventable brain damage during pregnancy. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch8-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Selenium, an essential part of an antioxidant enzyme, protects cells and lipid membranes from which process?",
+      "options": [
+        "Apoptosis",
+        "Glycolysis",
+        "@ Oxidative damage",
+        "Anabolism damage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Selenium is an integral part of an antioxidant enzyme that protects cells and lipid membranes from oxidative damage. Apoptosis is a term used to describe cellular suicide. Glycolysis is the process that allows glucose to be broken down into usable energy. Anabolism is the process by which the body uses energy released by catabolism to synthesize complex molecules used to form cellular structures."
+    },
+    {
+      "id": "nutrition-ch8-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Selenium functions as which component in the body?",
+      "options": [
+        "iv) © Antioxidant",
+        "Free radical",
+        "Coagulator",
+        "Neutron"
+      ],
+      "correctAnswer": null,
+      "explanation": "Selenium is a trace mineral found in the enzyme glutathione peroxidase, and it functions as an antioxidant. Free radicals are molecules capable of independent existence that contain an unpaired electronic in an atomic orbital. Coagulator is a general term describing something that assists in blood clotting. A neutron is an elementary particle having no charge."
+    },
+    {
+      "id": "nutrition-ch8-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The nurse is caring for a patient with a selenium deficiency. For which disease is the patient at risk?",
+      "options": [
+        "Balo disease",
+        "Crohn’s disease",
+        "CREST disease",
+        "Kashin-Bek disease"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Kashin-Bek disease is caused by selenium deficiency and can lead to heart failure and cardiomyopathy. Balo disease is a rare, demyelinating disorder of the central nervous system that has no relation to selenium deficiency. Crohn’s disease is an inflammatory bowel disease and is not caused by selenium deficiency. CREST disease is a connective tissue disordered characterized by changes in the skin, blood vessels, skeletal muscles, and internal organs and has no relationship to selenium deficiency. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch8-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which food is rich in molybdenum? Select all that apply.",
+      "options": [
+        "Whole grains",
+        "Chicken",
+        "iv) [ml] Legumes",
+        "String beans",
+        "Leafy vegetables",
+        "Coffee"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": "Foods rich in molybdenum include whole grains, legumes, and leafy vegetables. Most animal products such as chicken, vegetables such as string beans, and fruit are poor dietary sources of molybdenum. Foods containing caffeine such as coffee, cocoa, or tea are poor dietary sources of molybdenum."
+    },
+    {
+      "id": "nutrition-ch8-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is the best source of phosphorus?",
+      "options": [
+        "Eszgs",
+        "Tomatoes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eggs are the best source of dietary phosphorus. Legumes such as lentils and nuts do not have a high bioavailability of phosphorus. Tomatoes are low in phosphorus."
+    },
+    {
+      "id": "nutrition-ch8-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which assessment findings may indicate that the patient is not consuming adequate amounts of iodine?",
+      "options": [
+        "Muscle weakness and pain, leg cramps, constipation",
+        "Extreme fatigue, weakness, pallor, spoon-shaped nails",
+        "Goiter, choking when lying flat, difficulty swallowing",
+        "Facial twitching upon tapping cranial nerve VII"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Low iodine in the diet can result in a goiter (enlarged thyroid gland). The patient with a goiter often complains of a choking sensation when lying down, difficulty breathing, and fatigue. Muscle weakness and myalgia, leg cramping, and constipation are signs and symptoms of hypokalemia. Patients with iron deficiency anemia often complain of extreme fatigue and weakness and have pallor and spoon-shaped nails. Facial twitching that occurs with tapping on cranial nerve VII is known as Chvostek sign, which is caused by hypocalcemia, or low levels of calcium."
+    },
+    {
+      "id": "nutrition-ch8-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which role does iodine play in the body?",
+      "options": [
+        "Exchanges oxygen and carbon dioxide in the body",
+        "Maintains water balance, acid-base balance, and cell permeability",
+        "Promotes healthy teeth and bones, blood clotting, and nerve transmission",
+        "Produces thyroid hormones that control the body’s metabolism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "lodine is necessary for producing thyroid hormones T 4 and T 3, which are significant in the body’s metabolism. Iron is \"pocketed\" in the heme molecule, a constituent of hemoglobin responsible for carrying oxygen to all body cells returning carbon dioxide to the lungs. Sodium is necessary for water balance, acid- base balance, and cellular permeability. Calcium is found in the bones and teeth and plays a role in blood clotting and nerve transmission. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch8-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which food source provides the highest amount of potassium?",
+      "options": [
+        "Spinach"
+      ],
+      "correctAnswer": null,
+      "explanation": "Soybeans, raw or roasted, offer the highest source of potassium. Spinach is an excellent source of magnesium and iron. Egg yolks are a good source of iron and other minerals. Organ meats are an excellent source of molybdenum."
+    },
+    {
+      "id": "nutrition-ch8-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which statement by a patient following nutritional counseling indicates an understanding of the recommended daily allowance (RDA) for iodine?",
+      "options": [
+        "\"The RDA for iodine is 65 yg for women.\"",
+        "\"The RDA for iodine is 160 yg for men.\"",
+        "\"The RDA for men and women is 150 pg.\"",
+        "\"The RDA for pregnant women is 150 pg.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The statement \"The RDA for men and women is 150 pg\" demonstrates that the teaching by the nutritionist is effective. The RDA of iodine for children 4 to 8 years old is 65 pg. The RDA of iodine for men is 150 pg, not 160 pg. The RDA for pregnant women is 160 yg, not 150 pg."
+    },
+    {
+      "id": "nutrition-ch8-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which mineral accumulates in calcified tissues and protects teeth and bones from mineral loss?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Fluoride accumulates in the body’s calcified tissues and protects teeth and bones from mineral loss. Calcium is an essential mineral for construction and maintenance of bones and teeth. Copper is a component of cell enzymes, is involved in energy production, and plays a role in hemoglobin synthesis. lodine is important for the synthesis of thyroxin, which regulates cell metabolism and basal metabolic rates."
+    },
+    {
+      "id": "nutrition-ch8-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "The nurse is assessing a patient with iron-deficiency anemia. Which sign or symptom might the nurse observe? Select all that apply.",
+      "options": [
+        "Reports of fatigue",
+        "Nerve degeneration",
+        "iv) [ml] Pale skin color",
+        "Low B j3 level in blood",
+        "Spoon-shaped nails",
+        "Shortness of breath"
+      ],
+      "correctAnswers": [
+        0,
+        4,
+        5
+      ],
+      "explanation": "Fatigue, pallor, spoon-shaped nails, and shortness of breath are consistent with iron-deficiency anemia. Nerve degeneration and low serum B j) levels are consistent with a diagnosis of pernicious anemia."
+    },
+    {
+      "id": "nutrition-ch8-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "A deficiency in which mineral can cause symptoms of heart muscle weakness with possible cardiac arrest?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "One of the characteristic symptoms of potassium deficiency is heart muscle weakness with possible cardiac arrest. Calcium deficiency can cause osteoporosis due to factors that create an overall loss of bone density. A deficiency of sodium can result in acid-base imbalances and muscle cramping but does not affect the heart. Magnesium deficiency is rare but can cause cardiovascular and neurologic instability."
+    },
+    {
+      "id": "nutrition-ch8-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the main function of sodium in the body?",
+      "options": [
+        "Blood clotting",
+        "Bone and teeth formation",
+        "Intracellular fluid control",
+        "@ Maintenance of body water balance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main function of sodium is the maintenance of body water balance. Blood clotting is a function of calcium. Calcium is also responsible for bone and teeth formation. Potassium controls intracellular fluid by holding water inside the cells and counterbalancing the osmotic effect of sodium."
+    },
+    {
+      "id": "nutrition-ch8-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "hard",
+      "question": "Which characteristic differentiates major minerals from trace minerals?",
+      "options": [
+        "Major minerals are metabolized more quickly than trace minerals.",
+        "Major minerals are more important to human nutrition than trace minerals.",
+        "@ Major minerals are found in larger amounts in the body than trace minerals.",
+        "Major minerals have a recommended intake of less than 100 mg/day; trace minerals have a"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The difference between major minerals and trace minerals is that major minerals are found in larger amounts in the body than trace minerals. Mineral metabolism is usually controlled at the point of intestinal absorption and the point of tissue uptake, regardless of the class. The term major refers to the amount of a mineral in the body and not its relative importance to human nutrition. Major minerals have a recommended intake of more than 100 mg/day; trace minerals have a recommended intake of less than 100 mg/day."
+    },
+    {
+      "id": "nutrition-ch8-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which food source is an exceptionally good source of selenium?",
+      "options": [
+        "Brazil nuts",
+        "Seafood",
+        "Organ meats",
+        "Whole grains"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Brazil nuts are an exceptionally good source of selenium, with 1342 mcg per 1/2-cup serving. Although seafood is a good source of selenium, the quantity varies. Organ meats are a consistently good source of selenium, but the amount depends on the quantity of selenium in the soil used to graze animals. Selenium can be found in whole grains, but the quantity varies."
+    },
+    {
+      "id": "nutrition-ch8-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "A deficiency in which trace mineral can cause anemia?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A deficiency in iron can cause anemia. Insufficient iodine intake can cause thyroid disorders. Zinc deficiency can result in compromised immunity. Selenium deficiency can cause impaired immune function."
+    },
+    {
+      "id": "nutrition-ch8-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "hard",
+      "question": "Which major mineral creates a dependent glucose transporter that allows the passage of glucose and galactose from the intestinal lumen into the intestinal cell?",
+      "options": [
+        "Potassium",
+        "Zinc",
+        "Chromium",
+        "Sodium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sodium creates a dependent glucose transporter that allows the passage of glucose and galactose from the intestinal lumen into the intestinal cells. Potassium plays a role in energy production by converting glucose into stored glycogen. Zinc is an essential enzyme constituent, which includes storage of insulin. Chromium is thought to be an essential component of the organic complex glucose factor, which stimulates the action of insulin. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch8-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The nurse knows that a patient who has participated in strenuous exercise over a period of several hours is at risk for which electrolyte imbalance?",
+      "options": [
+        "iv) © Hyponatremia",
+        "Hypocalcemia",
+        "Hypernatremia",
+        "Hyperkalemia"
+      ],
+      "correctAnswer": null,
+      "explanation": "A patient who has participated in strenuous exercise over several hours is at risk for hyponatremia. Although sweat is relatively low in sodium, prolonged sweating results in sodium loss. The patient is not at risk for hypernatremia in this setting, which typically occurs with inadequate water intake or excessive water loss without replacement. Hypocalcemia is related to conditions such as hypoparathyroidism, malnutrition, or malabsorption. Hyperkalemia is associated with renal impairment or tissue breakdown, whereas sweating is more likely to cause potassium loss and possible hypokalemia."
+    },
+    {
+      "id": "nutrition-ch8-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which disease is associated with excessive sodium intake?",
+      "options": [
+        "Edema",
+        "iv) © Hypertension",
+        "Hypernatremia",
+        "Hyperthyroidism"
+      ],
+      "correctAnswer": null,
+      "explanation": "Hypertension is associated with excessive sodium intake. Edema is excessive fluid in the extracellular space and is a medical term for swelling. It is not a disease, but a clinical finding. Hypernatremia is not a disease; it is an electrolyte imbalance in which serum sodium is high. Hyperthyroidism is not caused by excessive sodium intake; the most common cause of hyperthyroidism is the autoimmune disorder Graves disease."
+    },
+    {
+      "id": "nutrition-ch8-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food is a natural, unprocessed source of sodium? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Natural, unprocessed sources of sodium include milk, broccoli, eggs, and chicken. Ham is a processed food source containing high amounts of sodium."
+    },
+    {
+      "id": "nutrition-ch8-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "What is the potassium-sodium ratio recommended by the dietary approaches to stop hypertension (DASH) diet?",
+      "options": [
+        "©@ Increased potassium, decreased sodium",
+        "Decreased potassium, increased sodium",
+        "Equal intake of potassium and sodium",
+        "No specific potassium-sodium ratio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "According to the DASH diet, an equal intake of potassium and sodium can help prevent the development of hypertension. Increased potassium and decreased sodium, decreased potassium and increased sodium, and no specific potassium-sodium ratio are not recommendations of the DASH diet and are not known to prevent hypertension. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question."
+    },
+    {
+      "id": "nutrition-ch8-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which is a function of chloride?",
+      "options": [
+        "@ Maintaining acid-base balance",
+        "Opposing the action of sodium",
+        "Killing bacteria in food that enters the stomach",
+        "Activating pepsin enzymes to break down protein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chloride helps maintain the body’s acid-base balance. It does not oppose the action of sodium; it has a negatively charged ion that passively follows sodium, which has a positively charged ion. Hydrochloric acid is secreted in gastric juices and kills bacteria in food that enters the stomach. Hydrochloric acid also activates the pepsin enzymes to break down protein. Chloride is only one component of hydrochloric acid."
+    },
+    {
+      "id": "nutrition-ch8-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "During the chloride shift, which ions move out of the red blood cell (RBC) and into the plasma as chloride ions move into the RBC and out of the plasma, maintaining the balance of negative charges on either side of the RBC membrane?",
+      "options": [
+        "Potassium"
+      ],
+      "correctAnswer": null,
+      "explanation": "During the chloride shift, bicarbonate ions move out of the RBC and into the plasma as chloride ions move into the RBC and out of the plasma, maintaining the balance of negative charges on either side of the RBC membrane. Sodium has an inverse relationship with potassium, and both have positively charged ions. Hydrogen is a chemical gas with a positive charge."
+    },
+    {
+      "id": "nutrition-ch8-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which can cause chloride toxicity?",
+      "options": [
+        "@ Severe dehydration",
+        "Prolonged use of supplements",
+        "Adiet high in processed foods",
+        "Exceeding the recommended upper intake level"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The only known dietary cause of chloride toxicity occurs as a result of severe dehydration. Prolonged use of supplements is not a factor in chloride toxicity. A diet high in processed foods contains a significant amount of sodium chloride (salt) but does not cause chloride toxicity. There is no recommended upper intake level of chloride, making toxicity highly unlikely."
+    },
+    {
+      "id": "nutrition-ch8-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which is the primary cause of a chloride deficiency?",
+      "options": [
+        "Diarrhea",
+        "Menkes disease",
+        "Low dietary intake",
+        "Vomiting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The primary cause of chloride deficiency is excessive loss of hydrochloric acid through vomiting. Diarrhea results in a loss of several electrolytes, including chloride, but it is not the primary reason for a chloride deficiency. Menkes disease is an inborn error of metabolism that involves copper. A dietary deficiency of chloride does not occur under normal circumstances."
+    },
+    {
+      "id": "nutrition-ch8-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Where is chloride primarily found in the body?",
+      "options": [
+        "Intracellular fluid compartments",
+        "All body tissues",
+        "Small intestine",
+        "Extracellular fluid compartments"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chloride is primarily found in the extracellular fluid compartments. Potassium is primarily found in the intercellular fluid compartments. Chloride is not found in actual body tissue; it is found in the extracellular fluid compartments. The majority of chloride is not found in the small intestine."
+    },
+    {
+      "id": "nutrition-ch8-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which role does magnesium have in the body? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Magnesium is involved in the secretion of thyroxine and in nerve impulses that stimulate muscle contraction. It is also a cofactor in activating amino acids for protein synthesis. Sulfur is an essential constituent of cell protein. Fluoride prevents dental caries."
+    },
+    {
+      "id": "nutrition-ch8-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "In which metabolic process are minerals involved? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Minerals are involved in activating, transmitting, regulating, and controlling metabolic processes. Minerals are transported throughout the body, but they do not do the transferring themselves."
+    },
+    {
+      "id": "nutrition-ch8-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which mineral is essential to blood clotting?",
+      "options": [
+        "lron",
+        "Chromium",
+        "Calcium",
+        "Selenium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Calcium is essential for the formation of fibrin, which is the protein matrix of a blood clot. Iron is bound to heme and forms the organic compound hemoglobin, which transports oxygen from the lungs to the body’s tissues and the carbon dioxide out of the tissue back to the lungs. Chromium is an essential component of the organic complex glucose tolerance factor, which stimulates the action of insulin. Selenium is the important part of the antioxidant enzyme glutathione peroxidase, which protects the lipids in cell membranes from oxidative damage."
+    },
+    {
+      "id": "nutrition-ch8-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "The nurse knows that sulfur enhances the structure of which body part? Select all that apply.",
+      "options": [
+        "By] Hair",
+        "mm] Skin",
+        "Bone",
+        "Nails",
+        "Blood"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Sulfur enhances the structure of hair, skin, and nails. Calcium has effects on bone and blood."
+    },
+    {
+      "id": "nutrition-ch8-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the maximum daily recommended dietary intake of magnesium for an adult woman?",
+      "options": [
+        "320mg",
+        "274mg",
+        "400 mg",
+        "@ 350mg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The maximum daily recommended dietary intake of magnesium for an adult woman is 320 mg. The average dietary consumption for an adult woman is 274 mg. The recommended dietary daily intake for an adult male is 400 mg. The tolerable upper intake level from supplements, not dietary intake, is 350 mg."
+    },
+    {
+      "id": "nutrition-ch8-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which mineral is essential in binding oxygen or carbon dioxide to hemoglobin during the respiratory cycle?",
+      "options": [
+        "Potassium",
+        "Phosphorus",
+        "Protein",
+        "lron"
+      ],
+      "correctAnswer": 3,
+      "explanation": "lron is a trace element that helps bind oxygen to hemoglobin for transport to cells and carbon dioxide to hemoglobin for return to the lungs. Potassium is an electrolyte vital for normal cardiac functioning and is crucial to skeletal and smooth muscle contraction. Phosphorus is an essential mineral that plays an important role in formation of bones and teeth. Proteins are large, complex molecules necessary for structure, function, and regulation of the body’s tissues and organs."
+    },
+    {
+      "id": "nutrition-ch8-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is teaching a pregnant patient in good general health about the importance of",
+      "options": [
+        "iron intake. How many milligrams of iron does the nurse recommend the patient consume"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse recommends that the pregnant patient consume 27 mg of iron per day. This is beyond normal daily intake of iron for nonpregnant women. For the lactating patient, 9 mg of iron is recommended a day. The amounts 33 mg and 60 mg are more than necessary for the patient."
+    },
+    {
+      "id": "nutrition-ch8-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 8",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the basic function of iodine in the body?",
+      "options": [
+        "Synthesizing thyroxine",
+        "Carrying oxygen to body cells",
+        "Forming bones and teeth",
+        "Producing red blood cells"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The basic function of iodine in the body is the synthesis of thyroxine. Hemoglobin carries oxygen to body cells. Phosphorus forms bones and teeth. Iron assists the body in the production of red blood cells."
+    }
+  ]
+}

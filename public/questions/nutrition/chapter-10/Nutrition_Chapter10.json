@@ -1,0 +1,2021 @@
+{
+  "name": "Nutrition Pregnancy and Lactation",
+  "description": "Chapter 10 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch10-001",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which vitamin must be increased to support nutrition needs during pregnancy? Select all that apply.",
+      "options": [
+        "By Vitamin",
+        "By Vitaminc"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "During pregnancy, increased amounts of vitamins A, C, and B complex are needed for additional collagen needs for tissue expansion and red blood cell production. No increases are needed in vitamins E and K if they are already consumed in sufficient amounts. pp. 158-159"
+    },
+    {
+      "id": "nutrition-ch10-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which range represents the number of times per day a breastfed infant should feed?",
+      "options": [
+        "© Fourto six",
+        "Upto 10",
+        "Atleast 12",
+        "Unlimited"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No restrictions should be placed on the number of times an infant, particularly a newborn, nurses per day, in part because of the supply-and-demand nature of breastfeeding. The infant should not be restricted to four to six or up to 10 feedings per day, nor should the infant be forced to feed at least 12 times per day. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which is the recommended daily intake for folic acid during the preconception period to prevent neural tube defects in infants?",
+      "options": [
+        "150 meg",
+        "© 300 meg",
+        "400 meg",
+        "600 meg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The recommended daily intake for folic acid during the preconception period is 400 mcg. The recommended amount for toddlers (1 to 3 years) is 150 mcg. The recommended amount for children between the ages of 9 and 13 is 300 mcg. The recommended amount during pregnancy is 600 mcg."
+    },
+    {
+      "id": "nutrition-ch10-004",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food is a good source for DHA (docosahexaenoic acid)? Select all that apply.",
+      "options": [
+        "I Ege yolks and algae"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Egg yolks and algae as well as fish and seafood are rich in DHA. Milk, yogurt, and other dairy products are good sources of calcium, not DHA. Liver, legumes, and green leafy vegetables are good sources of iron, not DHA. Vitamin A, not DHA, is provided by yellow vegetables and fruits. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch10-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Why is human milk the ideal first food for human infants? CO It contains high levels of iron and vitamin D.",
+      "options": [
+        "Its nutrient content regularly changes to meet the infant's needs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Human milk changes to meet changing nutrient and energy needs of the newborn and the maturing infant during the first months of life. It is always there in the correct form to meet the growing infant's needs. Human milk may not provide sufficient levels of iron and vitamin D after 6 months. The macronutrient content of human milk changes to meet the infant’s needs, but it is not considered a low-fat or low-sugar food. The nutrient contents of human milk and cow’s milk vary considerably. Test-1 question that was asked? If the question stem asks \"why, ing Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch10-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which statement regarding treatment for a pregnant client with severe nausea and",
+      "options": [
+        "vomiting is untrue?",
+        "\"You may find ginger and B ¢ supplements helpful in decreasing nausea.”",
+        "\"Make sure to always drink liquids with your meals to help with digestion.\"",
+        "© \"Snacks and meals should be fairly dry and bland and low in fat and fiber.\"",
+        "\"Try to always keep some food in your stomach by eating small, frequent meals.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pregnant clients suffering from nausea and vomiting should be encouraged to drink liquids between meals, not with meals; thus this statement requires correction. Ginger and B g supplements can help decrease nausea. Dry, bland, low-fat, and low-fiber meals and snacks are recommended to combat nausea and vomiting. Small, frequent meals and snacks to prevent an empty stomach can help with nausea and vomiting."
+    },
+    {
+      "id": "nutrition-ch10-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "The nursing student is learning about what a mother experiences while lactating. Which statement by the student requires correction by the instructor?",
+      "options": [
+        "“Atingling sensation in the breast may indicate mastitis or a plugged duct.\"",
+        "\"Colostrum may be secreted from the breast during late pregnancy.\"",
+        "\"During pregnancy, estrogen stimulates proliferation of the ductal system.\"",
+        "“Oxytocin is involved in stimulating both uterine contractions and milk ejection.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Many women experience a tingling sensation in the breast when let-down of milk occurs. This sensation is normal and is not a sign of mastitis, plugged duct, or other complications. It is true that colostrum may be secreted from the breast during late pregnancy, estrogen stimulates proliferation of the ductal system, and oxytocin is involved in stimulating both uterine contractions and milk ejection. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "If a woman's pre-pregnancy body mass index (BMI) was 26.5, which range of total pregnancy weight gain in pounds would be recommended to this client?",
+      "options": [
+        "l1to20",
+        "@ 15t025",
+        "25 to 35",
+        "28 to 40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ABMI of 26.5 places the client in the overweight category, so the total recommended weight gain is 15 to 25 Ib. A total weight gain of 11 to 20 Ib is recommended for a woman categorized as obese by BMI. A total weight gain of 25 to 35 Ib is recommended for a woman categorized as normal weight by BMI. A total weight gain of 28 to 40 |b is recommended for a woman categorized as underweight by BMI."
+    },
+    {
+      "id": "nutrition-ch10-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "For which complication are clients at higher risk if they did not gain adequate weight during pregnancy?",
+      "options": [
+        "Anencephaly"
+      ],
+      "correctAnswer": null,
+      "explanation": "Patients who are underweight (body mass index [BMI] less than 18.5) at the start of pregnancy should have a total weight gain between 28 and 40 Ib. Low maternal weight gain is a predictor of small-for-gestational-age infants. Anencephaly can result from folate deficiency, not low weight gain. Malformed facial features can result from alcohol use, not low weight gain, during pregnancy. Inadequate fetal bone growth may result from lack of vitamin D, not low weight gain during pregnancy. Test: correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in ing Tip: Identifying content and what is being asked about that content is critical to your choosing the one or two of the options."
+    },
+    {
+      "id": "nutrition-ch10-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "What is the dietary reference intake (DRI) for vitamin D in lactating mothers?",
+      "options": [
+        "5 meg/d"
+      ],
+      "correctAnswer": null,
+      "explanation": "The DRI for vitamin D in pregnant and lactating women is 15 mcg/d. The DRI does not recommend 5, 150, or 1500 mg/d."
+    },
+    {
+      "id": "nutrition-ch10-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement by the nurse concerning the maternal need for increased kilocalories during the second and third trimesters of pregnancy requires clarification?",
+      "options": [
+        "\"The metabolic workload of the fetus requires increased fuel.\"",
+        "‘Added tissue-building requirements need more kilocalories to spare protein.\"",
+        "© “More kilocalories are needed to supply increased fuel for the mother’s metabolic workload.”",
+        "\"Kilocalorie needs during the second and third trimesters do not vary significantly from the first.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "More kilocalories are necessary during the second and third trimesters compared with the first trimester, when the kilocalorie needs are the same as they were before conception. The increased kilocalories are needed to support the increased demands of the metabolic workload of the fetus, added tissue-building requirements, and the increased metabolic workload of the mother."
+    },
+    {
+      "id": "nutrition-ch10-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which statement shows an understanding of foods that are good sources of complete protein foods?",
+      "options": [
+        "\"ican get complete proteins from foods like eggs, milk, and beef\"",
+        "\"Beans, peas, and lentils are all great sources of complete proteins.\"",
+        "\"Good sources of complete proteins are items from the grains group.\"",
+        "\"Nuts would be a good snack to help provide a source of complete proteins.”"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete proteins can be found in eggs, milk, and beef. Legumes such as beans, peas, and lentils; grains; and nuts are all sources of incomplete proteins, not complete proteins. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch10-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which mineral supplement is potentially necessary for mothers expecting multiple births?",
+      "options": [
+        "@ Iron",
+        "Gacium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Calcium is essential for fetal bone and teeth development, blood clotting, and maternal body needs. Calcium supplements may be indicated in the case of pregnancies involving more than one fetus. Iron, potassium, and magnesium supplements are not specifically indicated in cases of multiples."
+    },
+    {
+      "id": "nutrition-ch10-014",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which factor is most likely to present challenges to breastfeeding? Select all that apply.",
+      "options": [
+        "By] Maternal fatigue and stress"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Maternal fatigue and stress may present a challenge to breastfeeding by inhibiting the let-down reflex. Even moderate consumption of alcohol may also inhibit the let-down reflex. A diet consisting of 1600 kcal/day is below the recommended minimum energy intake to sustain adequate lactation. Breast size is not a determinant of successful breastfeeding. The dietary reference intake for vitamin D is the same for lactating and pregnant women. Test-Taking Tip: Multiple choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch10-015",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor can lead to individual variations in energy needs during pregnancy? Select all that apply.",
+      "options": [
+        "Occupation"
+      ],
+      "correctAnswers": [],
+      "explanation": "The energy needs of pregnancy can vary for individuals based on health status, activity level, and prepregnancy weight. Occupation and race and ethnicity are not factors that result in variations in energy needs during pregnancy. Test-Te to select all options that apply to a given situation or client. All options likely relate to the situation, but only ing Tip: Be alert for details about what you are being asked to do. In this question type, you are asked some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch10-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which range represents the number of times per day a breastfed infant should feed?",
+      "options": [
+        "Fourto six",
+        "Upto 10",
+        "Atleast 12",
+        "Unlimited"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No restrictions should be placed on the number of times an infant, particularly a newborn, nurses per day, in part because of the supply-and-demand nature of breastfeeding. The infant should not be restricted to four to six or up to 10 feedings per day, nor should the infant be forced to feed at least 12 times per day. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which is the recommended daily intake for folic acid during the preconception period to prevent neural tube defects in infants?",
+      "options": [
+        "150 meg",
+        "300 meg",
+        "400 meg",
+        "600 meg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The recommended daily intake for folic acid during the preconception period is 400 mcg. The recommended amount for toddlers (1 to 3 years) is 150 mcg. The recommended amount for children between the ages of 9 and 13 is 300 mcg. The recommended amount during pregnancy is 600 mcg."
+    },
+    {
+      "id": "nutrition-ch10-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which food is a good source for DHA (docosahexaenoic acid)? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Egg yolks and algae as well as fish and seafood are rich in DHA. Milk, yogurt, and other dairy products are good sources of calcium, not DHA. Liver, legumes, and green leafy vegetables are good sources of iron, not DHA. Vitamin A, not DHA, is provided by yellow vegetables and fruits. Test-Taking Ti you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your ‘ou have at least a 25% chance of selecting the correct response in multiple choice items. If knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch10-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which statement regarding treatment for a pregnant client with severe nausea and",
+      "options": [
+        "vomiting is untrue?",
+        "\"You may find ginger and B ¢ supplements helpful in decreasing nausea.”",
+        "\"Make sure to always drink liquids with your meals to help with digestion.\"",
+        "\"Snacks and meals should be fairly dry and bland and low in fat and fiber.\"",
+        "\"Try to always keep some food in your stomach by eating small, frequent meals.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pregnant clients suffering from nausea and vomiting should be encouraged to drink liquids between meals, not with meals; thus this statement requires correction. Ginger and B g supplements can help decrease nausea. Dry, bland, low-fat, and low-fiber meals and snacks are recommended to combat nausea and vomiting. Small, frequent meals and snacks to prevent an empty stomach can help with nausea and vomiting."
+    },
+    {
+      "id": "nutrition-ch10-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "What is the dietary reference intake (DRI) for vitamin D in lactating mothers?",
+      "options": [
+        "5 meg/d"
+      ],
+      "correctAnswer": null,
+      "explanation": "The DRI for vitamin D in pregnant and lactating women is 15 mcg/d. The DRI does not recommend 5, 150, or 1500 mg/d."
+    },
+    {
+      "id": "nutrition-ch10-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement by the nurse concerning the maternal need for increased kilocalories during the second and third trimesters of pregnancy requires clarification?",
+      "options": [
+        "\"The metabolic workload of the fetus requires increased fuel.\"",
+        "‘Added tissue-building requirements need more kilocalories to spare protein.\"",
+        "\"More kilocalories are needed to supply increased fuel for the mother’s metabolic workload.”",
+        "\"Kilocalorie needs during the second and third trimesters do not vary significantly from the first.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "More kilocalories are necessary during the second and third trimesters compared with the first trimester, when the kilocalorie needs are the same as they were before conception. The increased kilocalories are needed to support the increased demands of the metabolic workload of the fetus, added tissue-building requirements, and the increased metabolic workload of the mother."
+    },
+    {
+      "id": "nutrition-ch10-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which mineral supplement is potentially necessary for mothers expecting multiple births?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcium is essential for fetal bone and teeth development, blood clotting, and maternal body needs. Calcium supplements may be indicated in the case of pregnancies involving more than one fetus. Iron, potassium, and magnesium supplements are not specifically indicated in cases of multiples."
+    },
+    {
+      "id": "nutrition-ch10-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor can lead to individual variations in energy needs during pregnancy? Select all that apply.",
+      "options": [
+        "By Health status",
+        "By Activity level"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "The energy needs of pregnancy can vary for individuals based on health status, activity level, and prepregnancy weight. Occupation and race and ethnicity are not factors that result in variations in energy needs during pregnancy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch10-024",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which daily lifestyle information would the nurse discuss with a patient to decrease risk for prolactin inhibitors? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Patients may have a difficult time with lactation because of nutrition and hydration issues, rest, exercise, and relaxation. There are also prolactin inhibitors such as stress, fatigue, medical complications, lack of support, poor self-efficiency, and irregular breastfeeding schedule that can affect lactation. Therefore the nurse would provide information on ways to reduce the risk for developing these inhibitors such as drinking plenty of liquids, resting when baby rests, practicing meditation or other stress-relieving exercises, and establishing a routine for both mom and baby. The fat stored from pregnancy is needed for the extra energy supply needed during lactation."
+    },
+    {
+      "id": "nutrition-ch10-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor accounts for the increased caloric needs of lactating mothers? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The recommended calo \\crease is 330 kcal/day (plus 170 kcal/day from maternal stores) in the first 6 months and 400 kcal/day in the second 6 months of breastfeeding (beyond the usual adult allowance). This additional energy need for the overall total lactation process is based on four factors: the energy content of milk, the metabolic work of milk production, the energy expenditure of the active mother, and maintenance of maternal adipose tissue storage. The metabolic rate of the postpartum, lactating mother is increased, not decreased."
+    },
+    {
+      "id": "nutrition-ch10-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "When using the Daily Food Plan for Moms to determine nutrition needs for lactating mothers, which factor is taken into consideration? Select all that apply.",
+      "options": [
+        "| Infant's age"
+      ],
+      "correctAnswers": [],
+      "explanation": "The Daily Food Plan for Moms takes into consideration the age of the infant who is being breastfed. The amount of breast milk that the mom is producing is one of the factors taken into consideration when using the Daily Food Plan for Moms to offer individualized recommendations for lactating mothers. The mother’s age, height, weight, and physical activity level are used to evaluate her nutrition needs using the Daily Food Plan for Moms. The presence of prolactin inhibitors is a factor that may contribute to early cessation of breastfeeding; t the mother during pregnancy helps meet some of the extra energy needs when breastfeeding, but this is not a is not taken into account when using the Daily Food Plan for Moms. The extra fat stored in factor when using the Daily Food Plan for Moms. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch10-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Vitamin D deficiency could contribute to which pregnancy complication? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A deficiency in vitamin D during pregnancy can result in preterm birth, preeclampsia, and gestational diabetes. Inappropriate weight gain, not vitamin D deficiency, may result in a low-birth-weight infant and increased risk of cesarean delivery."
+    },
+    {
+      "id": "nutrition-ch10-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which reason is associated with increased protein needs during pregnancy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During pregnancy, the development of the placenta requires sufficient protein to sustain, support, and nourish the fetus. Increased protei is required for the development of uterine and breast tissue to support pregnancy and lactation. Hemoglobin, albumin, and other blood components vital to pregnancy require increased protein as the mother’s plasma volume increases. Amniotic fluid contains various proteins, and the need for protein increases as the pregnancy progresses. There is a relatively large amount of protein needed for the rapid growth of the fetus during pregnancy."
+    },
+    {
+      "id": "nutrition-ch10-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "Which would be critical to discuss with the health care team of a pregnant patient with a history of eating disorders to include in the plan of care to support a successful outcome? Select all that apply.",
+      "options": [
+        "By Postpartum care"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "For individuals with bulimia nervosa who are pregnant, the health care team should focus on postpartum care, emphasize nutritional needs of the growing fetus, and discuss anticipated maternal body size and shape changes to best support a successful pregnancy outcome. Breastfeeding should not be discussed in terms of its possible role in helping keep weight down, nor should the patient be told not to focus on herself throughout the pregnancy because the health of both mother and baby are important."
+    },
+    {
+      "id": "nutrition-ch10-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "For which nutrient is the dietary reference intakes (DRIs) increased during pregnancy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The DRls recommend increased zinc and niacin during pregnancy, but intake of vitamin D, fluoride, and calcium can remain the same."
+    },
+    {
+      "id": "nutrition-ch10-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which growth need during pregnancy requires sufficient protein? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Sufficient protein is needed to support amniotic fluid, rapid growth of the fetus, development of a mature placenta to support the fetus, and increased synthesis of hemoglobin and albumin secondary to the increased maternal blood volume required to nourish the fetus and support increased metabolic demands. Vitamin D, not protein, is necessary for supporting absorption and the use of calcium to support fetal bone growth."
+    },
+    {
+      "id": "nutrition-ch10-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "When supplementing infant feedings with breast milk substitutes or formula, which complication may result?",
+      "options": [
+        "The infant may become dehydrated."
+      ],
+      "correctAnswer": null,
+      "explanation": "each time that the infant feeds. Therefore the more milk that is taken from the breast, the more milk the mother produces. If the infant requires supplemental feedings, the mammary glands may in turn produce less milk. If caregivers follow formula preparation and feeding instructions properly, the infant should not become dehydrated or receive too few calories. The mammary glands are not at risk of reverting to the production of colostrum. P.169"
+    },
+    {
+      "id": "nutrition-ch10-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "Breastfeeding provides which benefit for the lactating mother? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Benefits of breastfeeding for the lactating mother include improved bone density, decreased postpartum bleeding, earlier return to prepregnancy weight, and decreased risk of breast and ovarian cancers. Breastfeeding mothers may experience delayed, not earlier, return of the menstrual cycle."
+    },
+    {
+      "id": "nutrition-ch10-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "At which time do levels of oxytocin increase? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Oxytocin increases after delivery of the baby (not before the onset of labor) and when the infant suckles at the breast. It may also increase when a breastfeeding mother hears any infant cry, which may stimulate the let- down reflex. Oxytocin does not increase during weaning or when the colostrum transitions to milk."
+    },
+    {
+      "id": "nutrition-ch10-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which factor is a prolactin inhibitor leading to the early cessation of breastfeeding? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Psychologic factors like stress may lead to early cessation of breastfeeding. Fatigue is a factor that is a prolactin inhibitor leading to early cessation of breastfeeding. Medical complications are a contributing factor to early cessation of breastfeeding. Lack of support from family or friends is a prolactin inhibitor, which may lead to the early cessation of breastfeeding. Poor self-efficacy is a negative psychologic factor that may lead to early cessation of breastfeeding. Irregular breastfeeding is a prolactin inhibitor leading to the early cessation of breastfeeding."
+    },
+    {
+      "id": "nutrition-ch10-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which pregnant patient would have the highest nutritional risk for pregnancy complications?",
+      "options": [
+        "@ 4 40-year-old patient of low socioeconomic status with a body mass index (BMI) of 17.5",
+        "Asingle 18-year-old patient with a BMI of 20.5",
+        "A 30-year-old patient with a BMI of 22 who smokes two packs of cigarettes a day",
+        "A 24-year-old patient with a BMI of 21 who maintains a vegetarian diet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Age over 35, BMI below 18.5, and low socioeconomic status at the onset of pregnancy may lead to pregnancy complications, placing the 40-year-old patient at the highest risk. The 18-year-old patient with a BMI of 20.5 and single status does not have any indicated nutritional risk factors. The 30-year-old patient with a BMI of 22 who smokes has one risk factor: smoking. The 24-year-old patient with a BMI of 21 who is a vegetarian has no risk factors."
+    },
+    {
+      "id": "nutrition-ch10-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "ey When assessing an adolescent pregnant patient, on which area of concern would the nurse focus to develop a prenatal plan of care? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "‘Adolescent pregnancies are more likely to have pregnancy complications and poor outcomes such as infant mortality, low birth weight, and preterm delivery. Adolescents are also likely to have many emotional and nutritional risks. Therefore the nurse would concentrate on the patient's accessibility to the health care provider for prenatal care and socioeconomic status, which would address support, care, and nutritional n needs. Also, determining social behaviors, such as smoking and alcohol consumption, will help develop a plan to stop these behaviors to prevent low birth weight and infant mortality. Determining how the patient feels about the pregnancy and health status will guide the nurse in determining psychosocial needs. Family history of low-birth-weight births is not directly correlated to the patient's risk for problems related to pregnancy and birth."
+    },
+    {
+      "id": "nutrition-ch10-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "Which intervention would be implemented for a pregnant patient with a prior history of hyperemesis gravidarum to prevent hospitalization? Select all that apply.",
+      "options": [
+        "BM] Educate the patient on avoiding smells or triggers that cause nausea."
+      ],
+      "correctAnswers": [],
+      "explanation": "There is no one treatment that will benefit all women who experience nausea and vomiting with pregnancy. However, some patients experience prolonged severe nausea and vomiting called hyperemesis gravidarum. Patients who have experienced this once are prone to be hospitalized with each subsequent pregnancy. Therefore steps should be implemented to prevent this if possible. Monitoring weight, electrolytes, and fluids is integral in ensuring the nutritional needs are being met. Therefore inquiring as to any food aversions and vomiting will be needed to determine whether nutrition is being maintained. All patients with nausea and vomiting would be advised to avoid smells or triggers that cause nausea and avoid an empty stomach by eating small meals throughout the day. These, however, are not interventions specific to preventing hospitalization caused by hyperemesis gravidarum."
+    },
+    {
+      "id": "nutrition-ch10-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which dietary intake would account for the difference in protein needs between a lactating mother and a nonlactating adult woman?",
+      "options": [
+        "20z tofu",
+        "1ozalmonds",
+        "1/2 c black beans",
+        "@ 3.5 02 chicken breast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The dietary reference intake of protein is 46 g for nonlactating adult women and 71 g for lactating mothers. The difference is 25 g, which the lactating mother can meet by consuming 3.5 oz of chicken breast. The amount of protein in 2 07 of tofu, 1 0z of almonds, or 1/2 ¢ of black beans alone is insufficient to account for this difference."
+    },
+    {
+      "id": "nutrition-ch10-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "After laboratory results of a 24-hour urine sample for a patient with gestational hypertension indicate protein equal to or higher than 300 mg/d, which dietary instruction would be recommended?",
+      "options": [
+        "© Decrease the amount of red meat in the diet.",
+        "Drink three full glasses of milk each day."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Preeclampsia is defined as gestational hypertension with proteinuria (»300 mg/d protein in 24-hour urine) or end-organ dysfunction. An overall healthy diet before and during pregnancy containing a high intake of plant- based food, antioxidants, and high fiber is thought to be helpful. However, an increase in vitamin D has been known to aid in decreasing gestational hypertension and preeclampsia, and a recommended three glasses of vitamin D-fortified milk per day should be included in the diet. Reducing red meat is not suggested because this is a source of iron. Salt restriction is inappropriate because it does not prevent or help treat symptoms. ‘Adding beans and legumes to each meal is not required, although a routine intake of these foods is good for folate."
+    },
+    {
+      "id": "nutrition-ch10-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient with a history of gestational diabetes has just delivered her second child within a 2-year period. Which protocol would the nurse recommend when discussing postnatal follow-up for this patient? Select all that apply.",
+      "options": [
+        "it"
+      ],
+      "correctAnswers": [],
+      "explanation": "Women with a history of gestational diabetes are at a higher risk for developing heart disease, type 2 diabetes, and hypertension. Therefore blood pressure should be monitored regularly, as well as weight and BMI and blood glucose levels. However, a glucose tolerance test is not a yearly required test. Physical examinations should still be yearly until the health care provider deems more frequent visits are needed. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: If you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch10-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor accounts for the increased caloric needs of lactating mothers? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The recommended caloric increase is 330 kcal/day (plus 170 kcal/day from maternal stores) in the first 6 months and 400 kcal/day in the second 6 months of breastfeeding (beyond the usual adult allowance). This additional energy need for the overall total lactation process is based on four factors: the energy content of milk, the metabolic work of milk production, the energy expenditure of the active mother, and maintenance of maternal adipose tissue storage. The metabolic rate of the postpartum, lactating mother is increased, not decreased."
+    },
+    {
+      "id": "nutrition-ch10-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "When using the Daily Food Plan for Moms to determine nutrition needs for lactating mothers, which factor is taken into consideration? Select all that apply.",
+      "options": [
+        "BM Infant's age"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "The Daily Food Plan for Moms takes into consideration the age of the infant who is being breastfed. The amount of breast milk that the mom is producing is one of the factors taken into consideration when using the Daily Food Plan for Moms to offer individualized recommendations for lactating mothers. The mother’s age, height, weight, and physical activity level are used to evaluate her nutrition needs using the Daily Food Plan for Moms. The presence of prolactin inhibitors is a factor that may contribute to early cessation of breastfeeding; this is not taken into account when using the Daily Food Plan for Moms. The extra fat stored in the mother during pregnancy helps meet some of the extra energy needs when breastfeeding, but this is not a factor when using the Daily Food Plan for Moms. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch10-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Vitamin D deficiency could contribute to which pregnancy complication? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A deficiency in vitamin D during pregnancy can result in preterm birth, preeclampsia, and gestational diabetes. Inappropriate weight gain, not vitamin D deficiency, may result in a low-birth-weight infant and increased risk of cesarean delivery."
+    },
+    {
+      "id": "nutrition-ch10-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which reason is associated with increased protein needs during pregnancy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "During pregnancy, the development of the placenta requires sufficient protein to sustain, support, and nourish the fetus. Increased protein is required for the development of uterine and breast tissue to support pregnancy and lactation. Hemoglobin, albumin, and other blood components vital to pregnancy require increased protein as the mother's plasma volume increases. Amniotic fluid contains various proteins, and the need for protein increases as the pregnancy progresses. There is a relatively large amount of protein needed for the rapid growth of the fetus during pregnancy."
+    },
+    {
+      "id": "nutrition-ch10-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "For which nutrient is the dietary reference intakes (DRIs) increased during pregnancy? Select all that apply.",
+      "options": [
+        "By Vitamind"
+      ],
+      "correctAnswers": [],
+      "explanation": "The DRls recommend increased zinc and niacin during pregnancy, but intake of vitamin D, fluoride, and calcium can remain the same."
+    },
+    {
+      "id": "nutrition-ch10-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which growth need during pregnancy requires sufficient protein? Select all that apply.",
+      "options": [
+        "| Amniotic fluid"
+      ],
+      "correctAnswers": [],
+      "explanation": "Sufficient protein is needed to support amniotic fluid, rapid growth of the fetus, development of a mature placenta to support the fetus, and increased synthesis of hemoglobin and albumin secondary to the increased maternal blood volume required to nourish the fetus and support increased metabolic demands. Vitamin D, not protein, is necessary for supporting absorption and the use of calcium to support fetal bone growth."
+    },
+    {
+      "id": "nutrition-ch10-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Breastfeeding provides which benefit for the lactating mother? Select all that apply.",
+      "options": [
+        "Improved bone density",
+        "Decreased postpartum bleeding",
+        "Earlier return of the menstrual cycle",
+        "B) Earlier return to prepregnancy weight",
+        "iv) [ml] Decreased risk of breast and ovarian cancers"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Benefits of breastfeeding for the lactating mother include improved bone density, decreased postpartum bleeding, earlier return to prepregnancy weight, and decreased risk of breast and ovarian cancers. Breastfeeding mothers may experience delayed, not earlier, return of the menstrual cycle."
+    },
+    {
+      "id": "nutrition-ch10-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "At which time do levels of oxytocin increase? Select all that apply.",
+      "options": [
+        "After delivery of the baby",
+        "iv) [ml] When the infant suckles at the breast",
+        "During weaning",
+        "When the colostrum transitions to milk",
+        "Before the onset of labor"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Oxytocin increases after delivery of the baby (not before the onset of labor) and when the infant suckles at the breast. It may also increase when a breastfeeding mother hears any infant cry, which may stimulate the let- down reflex. Oxytocin does not increase during weaning or when the colostrum transitions to milk."
+    },
+    {
+      "id": "nutrition-ch10-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which factor is a prolactin inhibitor leading to the early cessation of breastfeeding? Select all that apply.",
+      "options": [
+        "iv) [ml] Stress",
+        "iv) [ml] Fatigue",
+        "|B] Medical complications",
+        "BB) Lack of support",
+        "Poor self-efficacy",
+        "Irregular breastfeeding"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": "Psychologic factors like stress may lead to early cessation of breastfeeding. Fatigue is a factor that is a prolactin inhibitor leading to early cessation of breastfeeding. Medical complications are a contributing factor to early cessation of breastfeeding. Lack of support from family or friends is a prolactin inhibitor, which may lead to the early cessation of breastfeeding. Poor self-efficacy is a negative psychologic factor that may lead to early cessation of breastfeeding. Irregular breastfeeding is a prolactin inhibitor leading to the early cessation of breastfeeding."
+    },
+    {
+      "id": "nutrition-ch10-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "When assessing an adolescent pregnant patient, on which area of concern would the nurse focus to develop a prenatal plan of care? Select all that apply.",
+      "options": [
+        "Accessibility to prenatal care",
+        "_] Family history of low-birth-weight births",
+        "|B] Social behaviors such as smoking and alcohol consumption",
+        "|B] Patient’s feeling about the pregnancy and health status",
+        "iv) [ml] Socioeconomic status and needs"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Adolescent pregnancies are more likely to have pregnancy complications and poor outcomes such as infant mortality, low birth weight, and preterm delivery. Adolescents are also likely to have many emotional and nutritional risks. Therefore the nurse would concentrate on the patient’s accessibility to the health care provider for prenatal care and socioeconomic status, which would address support, care, and nutritional needs. Also, determining social behaviors, such as smoking and alcohol consumption, will help develop a plan to stop these behaviors to prevent low birth weight and infant mortality. Determining how the patient feels about the pregnancy and health status will guide the nurse in determining psychosocial needs. Family history of low-birth-weight births is not directly correlated to the patient’s risk for problems related to pregnancy and birth."
+    },
+    {
+      "id": "nutrition-ch10-052",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "Which intervention would be implemented for a pregnant patient with a prior history of hyperemesis gravidarum to prevent hospitalization? Select all that apply.",
+      "options": [
+        "Educate the patient on avoiding smells or triggers that cause nausea.",
+        "_] Encourage the patient to avoid an empty stomach by eating small meals throughout the day.",
+        "Schedule weekly visits to monitor weight.",
+        "Inquire as to food aversions and vomiting during prenatal visits.",
+        "Monitor electrolytes and fluid intake with each visit."
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": "There is no one treatment that will benefit all women who experience nausea and vomiting with pregnancy. However, some patients experience prolonged severe nausea and vomiting called hyperemesis gravidarum. Patients who have experienced this once are prone to be hospitalized with each subsequent pregnancy. Therefore steps should be implemented to prevent this if possible. Monitoring weight, electrolytes, and fluids is integral in ensuring the nutritional needs are being met. Therefore inquiring as to any food aversions and vomiting will be needed to determine whether nutrition is being maintained. All patients with nausea and vomiting would be advised to avoid smells or triggers that cause nausea and avoid an empty stomach by eating small meals throughout the day. These, however, are not interventions specific to preventing hospitalization caused by hyperemesis gravidarum."
+    },
+    {
+      "id": "nutrition-ch10-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "After laboratory results of a 24-hour urine sample for a patient with gestational hypertension indicate protein equal to or higher than 300 mg/d, which dietary instruction would be recommended?",
+      "options": [
+        "Decrease the amount of red meat in the diet.",
+        "Drink three full glasses of milk each day.",
+        "Reduce salt intake and highly cured meats.",
+        "Add a serving of legumes or beans to meals."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Preeclampsia is defined as gestational hypertension with proteinuria (>300 mg/d protein in 24-hour urine) or end-organ dysfunction. An overall healthy diet before and during pregnancy containing a high intake of plant- based food, antioxidants, and high fiber is thought to be helpful. However, an increase in vitamin D has been known to aid in decreasing gestational hypertension and preeclampsia, and a recommended three glasses of vitamin D-fortified milk per day should be included in the diet. Reducing red meat is not suggested because this is a source of iron. Salt restriction is inappropriate because it does not prevent or help treat symptoms. Adding beans and legumes to each meal is not required, although a routine intake of these foods is good for folate."
+    },
+    {
+      "id": "nutrition-ch10-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A patient with a history of gestational diabetes has just delivered her second child within a 2-year period. Which protocol would the nurse recommend when discussing postnatal follow-up for this patient? Select all that apply.",
+      "options": [
+        "|B] Blood pressure should be monitored on a regular basis.",
+        "Maintain a healthy weight and body mass index (BMI).",
+        "Continue to monitor for type 2 diabetes.",
+        "Physical examinations should be completed every 6 months.",
+        "Ensure glucose tolerance testing is completed every year."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Women with a history of gestational diabetes are at a higher risk for developing heart disease, type 2 diabetes, and hypertension. Therefore blood pressure should be monitored regularly, as well as weight and BMI and blood glucose levels. However, a glucose tolerance test is not a yearly required test. Physical examinations should still be yearly until the health care provider deems more frequent visits are needed. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: If you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch10-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which factor accounts for the increased caloric needs of lactating mothers? Select all that apply.",
+      "options": [
+        "The energy content of milk",
+        "The metabolic work of milk production",
+        "The energy expenditure of the active mother",
+        "Maintenance of maternal adipose tissue storage",
+        "The decreased metabolic rate of the postpartum mother"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "The recommended caloric increase is 330 kcal/day (plus 170 kcal/day from maternal stores) in the first 6 months and 400 kcal/day in the second 6 months of breastfeeding (beyond the usual adult allowance). This additional energy need for the overall total lactation process is based on four factors: the energy content of milk, the metabolic work of milk production, the energy expenditure of the active mother, and maintenance of maternal adipose tissue storage. The metabolic rate of the postpartum, lactating mother is increased, not decreased."
+    },
+    {
+      "id": "nutrition-ch10-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "When using the Daily Food Plan for Moms to determine nutrition needs for lactating mothers, which factor is taken into consideration? Select all that apply.",
+      "options": [
+        "|B] Infant's age",
+        "Presence of prolactin inhibitors",
+        "_| Amount of fat stored during pregnancy",
+        "Amount of breast milk the mom is producing",
+        "Mother's age, height, weight, and physical activity level"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": "The Daily Food Plan for Moms takes into consideration the age of the infant who is being breastfed. The amount of breast milk that the mom is producing is one of the factors taken into consideration when using the Daily Food Plan for Moms to offer individualized recommendations for lactating mothers. The mother’s age, height, weight, and physical activity level are used to evaluate her nutrition needs using the Daily Food Plan for Moms. The presence of prolactin inhibitors is a factor that may contribute to early cessation of breastfeeding; this is not taken into account when using the Daily Food Plan for Moms. The extra fat stored in the mother during pregnancy helps meet some of the extra energy needs when breastfeeding, but this is not a factor when using the Daily Food Plan for Moms. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch10-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Vitamin D deficiency could contribute to which pregnancy complication? Select all that apply.",
+      "options": [
+        "Preterm birth",
+        "Preeclampsia",
+        "iv) [ml] Gestational diabetes",
+        "Low-birth-weight infant",
+        "Increased risk of cesarean delivery"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "A deficiency in vitamin D during pregnancy can result in preterm birth, preeclampsia, and gestational diabetes. Inappropriate weight gain, not vitamin D deficiency, may result in a low-birth-weight infant and increased risk of cesarean delivery."
+    },
+    {
+      "id": "nutrition-ch10-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "When attempting to meet the nutritional needs of diverse clients during pregnancy, what is the most important factor to consider?",
+      "options": [
+        "Patients from diverse cultures may need to broaden their food choices.",
+        "Specific nutrients, not specific foods, are required for a successful pregnancy.",
+        "Personal cultural food patterns may not support the needs of the pregnancy.",
+        "Pregnancy may require that the client alter cultural and religious food practices."
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is important for the nurse to remember that specific nutrients, not specific foods, are required for a successful pregnancy. Nurses should encourage clients to use foods that best serve their nutritional needs and respect their cultural food patterns. Although it may be necessary for clients to broaden their food choices, this is not necessarily a true statement and is not the most important for the nurse to remember. The broad statement that personal cultural and religious food patterns will not support a successful pregnancy is not necessarily true. Although there may be a need to alter some practices, this would not be the best choice nor the most important for the nurse to consider."
+    },
+    {
+      "id": "nutrition-ch10-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which range is the target weight gain for all pregnant women during the first trimester?",
+      "options": [
+        "0.5 to 2.0 kg",
+        "2.0 to 3.5 kg",
+        "3.5 to 5.0 kg",
+        "@ 5.010 7.5 kg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The target weight gain for the first trimester is 0.5 kg to 2.0 kg. The ranges 2.0 to 3.5 kg, 3.5 to 5.0 kg, and 5.0 to 7.5 kg are all higher than the target weight gain for the first trimester."
+    },
+    {
+      "id": "nutrition-ch10-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which guidance can be given to the pregnant client to help address heartburn associated with pregnancy? Select all that apply.",
+      "options": [
+        "Eat several small meals a day.",
+        "Increase fluid intake.",
+        "_] Use pyridoxine supplements daily.",
+        "Avoid eating large meals at one sitting.",
+        "Avoid lying down immediately after a meal."
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": "Heartburn secondary to gastric reflux sometimes occurs with pregnancy and can be relieved by breaking the daily food requirements into several small meals, not eating a large meal at one time, and not lying down after a meal. Pyridoxine supplements help address hyperemesis, not heartburn. Increased fluid intake can help address constipation, not heartburn."
+    },
+    {
+      "id": "nutrition-ch10-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "The nurse is interviewing a mother 4 months postpartum who has recently returned to her office job. She finds it challenging to stimulate her let-down reflex using a breast pump while away from her infant. The client explains that she expresses milk in a small office without a lock on the door and is always worried a coworker will come in. Which hormone",
+      "options": [
+        "is most likely being inhibited during the mother’s pumping sessions?",
+        "© Prolactin",
+        "Ovytocin",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The suckling infant stimulates the brain’s release of the hormone oxytocin from the pituitary gland to initiate the let-down reflex for the release of milk from storage cells to travel down to the nipple. This reflex is easily inhibited by the mother’s fatigue, tension, or lack of confidence. Transitioning from a suckling infant to a breast pump stimulating the release of oxytocin can be a challenge in itself. Prolactin, progesterone, and estrogen are involved in the production of milk, not the let-down reflex specifically. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which component of human milk most accounts for the breastfed infant’s improved",
+      "options": [
+        "immune system functioning?"
+      ],
+      "correctAnswer": null,
+      "explanation": "The antibodies in human milk that are passed to the nursing infant make a significant contribution to the infant’s immune system. This accounts for the reduced risk of many diseases and infections. Colostrum is not a component of milk; it is the first milk produced after birth and is rich in antibodies. Human milk contains fatty acids, but they do not directly account for the infant’s improved immune system functioning. Prolactin is a hormone that stimulates milk production, not a component of breast milk. Test-Taking Tip: Sometimes the reading of a question in the middle or toward the end of an exam may trigger your mind with the answer or provide an important clue to an earlier question."
+    },
+    {
+      "id": "nutrition-ch10-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which part of the mother’s body receives a nerve impulse when the infant suckles at the breast?",
+      "options": [
+        "Anterior pituitary",
+        "Posterior pituitary",
+        "Hypothalamus",
+        "Thalamus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When an infant is allowed to suckle after birth, a nerve impulse is sent to the mother’s hypothalamus. This stimulates the anterior pituitary to secrete prolactin, which then stimulates milk production in the alveolar cells. Oxytocin is released from the posterior pituitary. The thalamus is not directly involved in this process. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "What is the dietary reference intake (DRI) for vitamin D in lactating mothers?",
+      "options": [
+        "5mcg/d",
+        "@ 15 mg/d",
+        "150 meg/d",
+        "1500 meg/d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The DRI for vitamin D in pregnant and lactating women is 15 mcg/d. The DRI does not recommend 5, 150, or 1500 mcg/d."
+    },
+    {
+      "id": "nutrition-ch10-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which food is a good source for DHA (docosahexaenoic acid)? Select all that apply.",
+      "options": [
+        "Egg yolks and algae",
+        "Milk, yogurt, and other dairy products",
+        "iv) [ml] Fish and seafood",
+        "Liver, legumes, and green leafy vegetables",
+        "Yellow vegetables and fruits"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Egg yolks and algae as well as fish and seafood are rich in DHA. Milk, yogurt, and other dairy products are good sources of calcium, not DHA. Liver, legumes, and green leafy vegetables are good sources of iron, not DHA. Vitamin A, not DHA, is provided by yellow vegetables and fruits. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch10-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which range is the target weight gain for all pregnant women during the first trimester?",
+      "options": [
+        "0.5 to 2.0 kg",
+        "2.0 to 3.5 kg",
+        "3.5 to 5.0 kg",
+        "5.0 to 7.5 kg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The target weight gain for the first trimester is 0.5 kg to 2.0 kg. The ranges 2.0 to 3.5 kg, 3.5 to 5.0 kg, and 5.0 to 7.5 kg are all higher than the target weight gain for the first trimester."
+    },
+    {
+      "id": "nutrition-ch10-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "MyPlate Guidelines",
+      "difficulty": "easy",
+      "question": "Which resource can assist lactating mothers in finding healthy meal options that meet their nutritional requirements? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "MyPlate.gov, La Leche League, and WIC are valuable resources for nutrition information for lactating mothers. MyPlate.gov includes specific categories for pregnancy and lactation. La Leche League and WIC include mother-to-mother support in their offerings, which could help the client brainstorm meal ideas. The American Academy of Pediatrics focuses on infant and child health. The National Center for Health Statistics provides standard growth charts for infants and children."
+    },
+    {
+      "id": "nutrition-ch10-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which reason is associated with increased protein needs during pregnancy? Select all that apply.",
+      "options": [
+        "Development of the placenta",
+        "iv) [ml] Growth of maternal tissues",
+        "iv) [ml] Increased maternal blood volume",
+        "iv) [ml] Amniotic fluid",
+        "iv) [ml] Growth of the fetus"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "During pregnancy, the development of the placenta requires sufficient protein to sustain, support, and nourish the fetus. Increased protein is required for the development of uterine and breast tissue to support pregnancy and lactation. Hemoglobin, albumin, and other blood components vital to pregnancy require increased protein as the mother’s plasma volume increases. Amniotic fluid contains various proteins, and the need for protein increases as the pregnancy progresses. There is a relatively large amount of protein needed for the rapid growth of the fetus during pregnancy."
+    },
+    {
+      "id": "nutrition-ch10-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "For which nutrient is the dietary reference intakes (DRIs) increased during pregnancy? Select all that apply.",
+      "options": [
+        "_] Vitamin D",
+        "Fluoride",
+        "Zinc",
+        "Niacin",
+        "Calcium"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "The DRIs recommend increased zinc and niacin during pregnancy, but intake of vitamin D, fluoride, and calcium can remain the same."
+    },
+    {
+      "id": "nutrition-ch10-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which guidance can be given to the pregnant client to help address heartburn associated with pregnancy? Select all that apply.",
+      "options": [
+        "Eat several small meals a day.",
+        "_] Increase fluid intake.",
+        "_] Use pyridoxine supplements daily.",
+        "Avoid eating large meals at one sitting.",
+        "Avoid lying down immediately after a meal."
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": "Heartburn secondary to gastric reflux sometimes occurs with pregnancy and can be relieved by breaking the daily food requirements into several small meals, not eating a large meal at one time, and not lying down after a meal. Pyridoxine supplements help address hyperemesis, not heartburn. Increased fluid intake can help address constipation, not heartburn."
+    },
+    {
+      "id": "nutrition-ch10-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "The nurse is interviewing a mother 4 months postpartum who has recently returned to her office job. She finds it challenging to stimulate her let-down reflex using a breast pump while away from her infant. The client explains that she expresses milk in a small office without a lock on the door and is always worried a coworker will come in. Which hormone",
+      "options": [
+        "is most likely being inhibited during the mother’s pumping sessions?",
+        "Prolactin",
+        "Oxytocin",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The suckling infant stimulates the brain’s release of the hormone oxytocin from the pituitary gland to initiate the let-down reflex for the release of milk from storage cells to travel down to the nipple. This reflex is easily inhibited by the mother’s fatigue, tension, or lack of confidence. Transitioning from a suckling infant to a breast pump stimulating the release of oxytocin can be a challenge in itself. Prolactin, progesterone, and estrogen are involved in the production of milk, not the let-down reflex specifically. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-072",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the daily recommended fluid intake for breastfeeding mothers?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Because milk is a fluid, breastfeeding mothers need ample fluids for adequate milk production. Their fluid intake should be approximately 3 to 4 L per day. Water and other sources of fluid such as juices, milk, and soup contribute to the fluid that is necessary to produce milk. The amount 1 to 2 Lis not enough, and 5 to 6 L and 7 to 8 L are more than necessary."
+    },
+    {
+      "id": "nutrition-ch10-073",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which daily lifestyle information would the nurse discuss with a patient to decrease risk for prolactin inhibitors? Select all that apply.",
+      "options": [
+        "Engage in aerobic exercise to reduce stored fat content from pregnancy.",
+        "Drink plenty of liquids throughout the day to maintain proper hydration.",
+        "|B] Rest when the baby sleeps to prevent fatigue.",
+        "|B] Practice stress-reduction techniques such as meditation.",
+        "|B] Establish a routine for both mom and baby."
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Patients may have a difficult time with lactation because of nutrition and hydration issues, rest, exercise, and relaxation. There are also prolactin inhibitors such as stress, fatigue, medical complications, lack of support, poor self-efficiency, and irregular breastfeeding schedule that can affect lactation. Therefore the nurse would provide information on ways to reduce the risk for developing these inhibitors such as drinking plenty of liquids, resting when baby rests, practicing meditation or other stress-relieving exercises, and establishing a routine for both mom and baby. The fat stored from pregnancy is needed for the extra energy supply needed during lactation."
+    },
+    {
+      "id": "nutrition-ch10-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which pregnant patient would have the highest nutritional risk for pregnancy complications?",
+      "options": [
+        "@ 4 40-year-old patient of low socioeconomic status with a body mass index (BMI) of 17.5",
+        "Asingle 18-year-old patient with a BMI of 20.5",
+        "A 30-year-old patient with a BMI of 22 who smokes two packs of cigarettes a day",
+        "A 24-year-old patient with a BMI of 21 who maintains a vegetarian diet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Age over 35, BMI below 18.5, and low socioeconomic status at the onset of pregnancy may lead to pregnancy complications, placing the 40-year-old patient at the highest risk. The 18-year-old patient with a BMI of 20.5 and single status does not have any indicated nutritional risk factors. The 30-year-old patient with a BMI of 22 who smokes has one risk factor: smoking. The 24-year-old patient with a BMI of 21 who is a vegetarian has no risk factors."
+    },
+    {
+      "id": "nutrition-ch10-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which helps meet some of the extra energy needs required by lactation in the postpartum mother?",
+      "options": [
+        "Protein stores in the placenta",
+        "Protein stores in the breast tissue",
+        "Adipose tissue deposited in the fetus during gestation",
+        "Adipose tissue deposited in the mother during pregnancy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Some of the extra energy needs required by lactation in the postpartum mother are met by the adipose tissue that is deposited in her body during pregnancy. The rest are met by increased caloric intake. Protein stores in the placenta do not meet these needs because the mother delivers the placenta after she delivers the baby. Protein is not stored in breast tissue, and adipose tissue is not deposited in the fetus for this purpose. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch10-076",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Why is human milk the ideal first food for human infants?",
+      "options": [
+        "It contains high levels of iron and vitamin D.",
+        "Its nutrient content regularly changes to meet the infant's needs.",
+        "Itis low in fat and sugar, which establishes early healthy eating habits.",
+        "Itis nearly identical in nutrient content to cow’s milk, making the transition to cow’s milk smoother."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Human milk changes to meet changing nutrient and energy needs of the newborn and the maturing infant during the first months of life. It is always there in the correct form to meet the growing infant’s needs. Human milk may not provide sufficient levels of iron and vitamin D after 6 months. The macronutrient content of human milk changes to meet the infant’s needs, but it is not considered a low-fat or low-sugar food. The nutrient contents of human milk and cow’s milk vary considerably. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch10-077",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement reflects an accurate understanding of sources of easily absorbed forms of folate?",
+      "options": [
+        "\"Liver, pinto beans, asparagus, and broccoli all provide easily absorbed forms of folate.\"",
+        "\"Enriched grain and flour products and fortified cereals are great sources of easily absorbed folate.\"",
+        "\"Itis best to increase my intake of milk products because milk helps increase the uptake of folate from"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enriched grain, flour products, and fortified cereals are sources of easily absorbed forms of folate. Liver, pinto beans, broccoli, and asparagus are sources of folate but are not easily absorbed forms of it. Milk does not increase folate absorption. Many foods are available that can supply easily absorbed folate; a supplement is not required unless the client is unable to meet the requirements via dietary food intake."
+    },
+    {
+      "id": "nutrition-ch10-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which vitamin should be supplemented at least 2 months before conception to help prevent neural tube defects?",
+      "options": [
+        "iv) © Folate",
+        "Vitamin A",
+        "Vitamin D",
+        "Ascorbic acid"
+      ],
+      "correctAnswer": null,
+      "explanation": "Folate supports adequate nutrient availability for the endometrial lining to support embryonic tissue development. The neural tube forms very early in the pregnancy (21 to 28 days), so taking folate before conception helps ensure the necessary support. Vitamin A, vitamin D, and ascorbic acid are not recommended for preventing neural tube defects."
+    },
+    {
+      "id": "nutrition-ch10-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For up to how many months is breastfeeding recommended?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The Academy of Nutrition and Dietetics and the American Academy of Pediatrics encourage and strongly support breastfeeding for all able mothers for the first 12 months of life and continued thereafter for as long as mutually desired."
+    },
+    {
+      "id": "nutrition-ch10-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A lactating mother is feeling anxiety because her let-down reflex takes longer than she thinks it should. What is the most therapeutic response?",
+      "options": [
+        "\"If breastfeeding is too challenging, there is no reason you shouldn't switch to using formula.\"",
+        "\"Colostrum is secreted before the let-down reflex occurs, so your baby is still getting good nutrition"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most therapeutic response from the nurse is, \"Every woman is different, and there is no correct time in which let-down should occur. If your baby is healthy and growing, you’re doing great.\" The nurse should provide support and resources to encourage breastfeeding rather than automatically recommend that the client switch to using formula. Colostrum is secreted during the first few days postpartum, not before let- down. Alcohol can actually inhibit the let-down reflex, and it passes through milk to the nursing child, so it should not be recommended. Test-Taking Tip: Look for answers that focus on the client or are directed toward feelings."
+    },
+    {
+      "id": "nutrition-ch10-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "The nursing student is learning about what a mother experiences while lactating. Which statement by the student requires correction by the instructor?",
+      "options": [
+        "“Atingling sensation in the breast may indicate mastitis or a plugged duct.\"",
+        "\"Colostrum may be secreted from the breast during late pregnancy.\"",
+        "\"During pregnancy, estrogen stimulates proliferation of the ductal system.\"",
+        "\"Oxytocin is involved in stimulating both uterine contractions and milk ejection.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Many women experience a tingling sensation in the breast when let-down of milk occurs. This sensation is normal and is not a sign of mastitis, plugged duct, or other complications. It is true that colostrum may be secreted from the breast during late pregnancy, estrogen stimulates proliferation of the ductal system, and oxytocin is involved in stimulating both uterine contractions and milk ejection. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which dietary intake would account for the difference in protein needs between a lactating mother and a nonlactating adult woman?",
+      "options": [
+        "20z tofu",
+        "1ozalmonds",
+        "1/2 ¢ black beans",
+        "@ 3.5 0z chicken breast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The dietary reference intake of protein is 46 g for nonlactating adult women and 71 g for lactating mothers. The difference is 25 g, which the lactating mother can meet by consuming 3.5 oz of chicken breast. The amount of protein in 2 oz of tofu, 1 oz of almonds, or 1/2 c of black beans alone is insufficient to account for this difference."
+    },
+    {
+      "id": "nutrition-ch10-083",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "Which would be critical to discuss with the health care team of a pregnant patient with a history of eating disorders to include in the plan of care to support a successful outcome? Select all that apply.",
+      "options": [
+        "iv) [ml] Postpartum care",
+        "Breastfeeding to support weight loss after delivery",
+        "Emphasis on nutritional needs of the growing fetus",
+        "Anticipated maternal body size and shape changes",
+        "The need to prioritize the baby over oneself"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "For individuals with bulimia nervosa who are pregnant, the health care team should focus on postpartum care, emphasize nutritional needs of the growing fetus, and discuss anticipated maternal body size and shape changes to best support a successful pregnancy outcome. Breastfeeding should not be discussed in terms of its possible role in helping keep weight down, nor should the patient be told not to focus on herself throughout the pregnancy because the health of both mother and baby are important."
+    },
+    {
+      "id": "nutrition-ch10-084",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "What is the most common cause of anemia in pregnancy?",
+      "options": [
+        "@ Blood loss",
+        "Iron deficiency",
+        "Kidney disease",
+        "Folate deficiency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Iron deficiency is the most common cause of anemia during pregnancy. Blood loss and kidney disease can also cause anemia, but they are not the most common causes. Folate deficiency can result in neural tube defects, not anemia, for the fetus."
+    },
+    {
+      "id": "nutrition-ch10-085",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement is most accurate concerning alcohol use during pregnancy?",
+      "options": [
+        "@ \"No safe level of alcohol use has been established for pregnant women.\"",
+        "\"One to two glasses of wine per week are acceptable in the last trimester.\"",
+        "\"Even minor alcohol use will result in fetal alcohol syndrome and mental retardation.\"",
+        "\"You should avoid hard liquor, but beverages with lower alcohol content can be safely consumed in"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No safe level of alcohol consumption has been determined for pregnant women. Because no safe level of alcohol use has been established, stating that one to two glasses of wine are acceptable would not be accurate. Extensive or habitual alcohol use may lead to fetal alcohol syndrome, and minor alcohol use may be dangerous to the fetus. However, the exact impact is unknown. There is no established safe level of alcohol use, regardless of alcohol content."
+    },
+    {
+      "id": "nutrition-ch10-086",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which statement shows an understanding of foods that are good sources of complete protein foods?",
+      "options": [
+        "@ \"Ican get complete proteins from foods like eggs, milk, and beef.\"",
+        "\"Beans, peas, and lentils are all great sources of complete proteins.’",
+        "\"Good sources of complete proteins are items from the grains group.\"",
+        "\"Nuts would be a good snack to help provide a source of complete proteins.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete proteins can be found in eggs, milk, and beef. Legumes such as beans, peas, and lentils; grains; and nuts are all sources of incomplete proteins, not complete proteins. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch10-087",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "If a woman’s pre-pregnancy body mass index (BMI) was 26.5, which range of total pregnancy weight gain in pounds would be recommended to this client?",
+      "options": [
+        "11 to 20",
+        "@ 151025",
+        "25 to 35",
+        "28 to 40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A BMI of 26.5 places the client in the overweight category, so the total recommended weight gain is 15 to 25 Ib. A total weight gain of 11 to 20 Ib is recommended for a woman categorized as obese by BMI. A total weight gain of 25 to 35 |b is recommended for a woman categorized as normal weight by BMI. A total weight gain of 28 to 40 Ib is recommended for a woman categorized as underweight by BMI."
+    },
+    {
+      "id": "nutrition-ch10-088",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which vitamin must be increased to support nutrition needs during pregnancy? Select all that apply.",
+      "options": [
+        "iv) [ml] Vitamin A",
+        "iv) [ml] Vitamin C",
+        "Vitamin E",
+        "Vitamin K",
+        "|B] Vitamin B complex"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": "During pregnancy, increased amounts of vitamins A, C, and B complex are needed for additional collagen needs for tissue expansion and red blood cell production. No increases are needed in vitamins E and K if they are already consumed in sufficient amounts. pp. 158-159"
+    },
+    {
+      "id": "nutrition-ch10-089",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "For which complication are clients at higher risk if they did not gain adequate weight during pregnancy?",
+      "options": [
+        "Anencephaly",
+        "Malformed facial features",
+        "Inadequate fetal bone growth",
+        "Small-for-gestational-age infant"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Patients who are underweight (body mass index [BMI] less than 18.5) at the start of pregnancy should have a total weight gain between 28 and 40 |b. Low maternal weight gain is a predictor of small-for-gestational-age infants. Anencephaly can result from folate deficiency, not low weight gain. Malformed facial features can result from alcohol use, not low weight gain, during pregnancy. Inadequate fetal bone growth may result from lack of vitamin D, not low weight gain during pregnancy. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options."
+    },
+    {
+      "id": "nutrition-ch10-090",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "When supplementing infant feedings with breast milk substitutes or formula, which complication may result?",
+      "options": [
+        "The infant may become dehydrated.",
+        "The infant may not receive enough calories.",
+        "The mammary glands may revert to producing colostrum.",
+        "@ The mammary glands may produce less milk in response to fewer infant feedings."
+      ],
+      "correctAnswer": 3,
+      "explanation": "each time that the infant feeds. Therefore the more milk that is taken from the breast, the more milk the mother produces. If the infant requires supplemental feedings, the mammary glands may in turn produce less milk. If caregivers follow formula preparation and feeding instructions properly, the infant should not become dehydrated or receive too few calories. The mammary glands are not at risk of reverting to the production of colostrum. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-091",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "Which hormone is responsible for the phenomenon of a breastfeeding mother’s milk leaking when she sees another infant?",
+      "options": [
+        "Prolactin",
+        "iv) © Oxytocin",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "correctAnswer": null,
+      "explanation": "If a mother sees or hears another infant, she may experience a let-down accompanied by a rush of milk ejecting from her breasts. Oxytocin is responsible for this let-down reflex, not prolactin, estrogen, or progesterone. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-092",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Due to uncertainties about the fetal effects of maternal consumption of caffeine, what maximum amount should the nurse recommend to newly pregnant clients to prevent possible complications such as first-trimester spontaneous abortion?",
+      "options": [
+        "@ Omg/day",
+        "100 mg/day",
+        "300 mg/day",
+        "500 mg/day"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Caffeine can cross the placenta and enter fetal circulation. Most health institutions recommend limiting caffeine intake to a maximum of 300 mg/day. The maximum recommended daily caffeine intake is more than 0 mg and 100 mg. First-trimester spontaneous abortion has been associated with caffeine intake of 500 mg/day or greater."
+    },
+    {
+      "id": "nutrition-ch10-093",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the daily recommended fluid intake for breastfeeding mothers?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Because milk is a fluid, breastfeeding mothers need ample fluids for adequate milk production. Their fluid intake should be approximately 3 to 4 L per day. Water and other sources of fluid such as juices, milk, and soup contribute to the fluid that is necessary to produce milk. The amount 1 to 2 Lis not enough, and 5 to 6 L and 7 to 8 L are more than necessary."
+    },
+    {
+      "id": "nutrition-ch10-094",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "When attempting to meet the nutritional needs of diverse clients during pregnancy, what is the most important factor to consider?",
+      "options": [
+        "Patients from diverse cultures may need to broaden their food choices.",
+        "Specific nutrients, not specific foods, are required for a successful pregnancy.",
+        "Personal cultural food patterns may not support the needs of the pregnancy.",
+        "Pregnancy may require that the client alter cultural and religious food practices."
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is important for the nurse to remember that specific nutrients, not specific foods, are required for a successful pregnancy. Nurses should encourage clients to use foods that best serve their nutritional needs and respect their cultural food patterns. Although it may be necessary for clients to broaden their food choices, this is not necessarily a true statement and is not the most important for the nurse to remember. The broad statement that personal cultural and religious food patterns will not support a successful pregnancy is not necessarily true. Although there may be a need to alter some practices, this would not be the best choice nor the most important for the nurse to consider."
+    },
+    {
+      "id": "nutrition-ch10-095",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "What is the estimated increased calorie recommendations for the lactating mother in the first 6 months of lactation?",
+      "options": [
+        "130 kcal/day",
+        "@ 330 kcal/day",
+        "530 kcal/day",
+        "730 kcal/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactation requires energy for both the process of milk production and the actual milk. The extra fat that is stored in the mother during pregnancy will meet some of the extra energy needs. The increased calorie recommendations are 330 kcal/day (plus 170 kcal/day from maternal stores) during the first 6 months of lactation."
+    },
+    {
+      "id": "nutrition-ch10-096",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which daily lifestyle information would the nurse discuss with a patient to decrease risk for prolactin inhibitors? Select all that apply.",
+      "options": [
+        "Engage in aerobic exercise to reduce stored fat content from pregnancy.",
+        "Drink plenty of liquids throughout the day to maintain proper hydration.",
+        "|B] Rest when the baby sleeps to prevent fatigue.",
+        "|B] Practice stress-reduction techniques such as meditation.",
+        "|B] Establish a routine for both mom and baby."
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": "Patients may have a difficult time with lactation because of nutrition and hydration issues, rest, exercise, and relaxation. There are also prolactin inhibitors such as stress, fatigue, medical complications, lack of support, poor self-efficiency, and irregular breastfeeding schedule that can affect lactation. Therefore the nurse would provide information on ways to reduce the risk for developing these inhibitors such as drinking plenty of liquids, resting when baby rests, practicing meditation or other stress-relieving exercises, and establishing a routine for both mom and baby. The fat stored from pregnancy is needed for the extra energy supply needed during lactation."
+    },
+    {
+      "id": "nutrition-ch10-097",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which pregnant patient would have the highest nutritional risk for pregnancy complications?",
+      "options": [
+        "@ 4 40-year-old patient of low socioeconomic status with a body mass index (BMI) of 17.5",
+        "Asingle 18-year-old patient with a BMI of 20.5",
+        "A 30-year-old patient with a BMI of 22 who smokes two packs of cigarettes a day",
+        "A 24-year-old patient with a BMI of 21 who maintains a vegetarian diet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Age over 35, BMI below 18.5, and low socioeconomic status at the onset of pregnancy may lead to pregnancy complications, placing the 40-year-old patient at the highest risk. The 18-year-old patient with a BMI of 20.5 and single status does not have any indicated nutritional risk factors. The 30-year-old patient with a BMI of 22 who smokes has one risk factor: smoking. The 24-year-old patient with a BMI of 21 who is a vegetarian has no risk factors."
+    },
+    {
+      "id": "nutrition-ch10-098",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "When assessing an adolescent pregnant patient, on which area of concern would the nurse focus to develop a prenatal plan of care? Select all that apply.",
+      "options": [
+        "Accessibility to prenatal care",
+        "_] Family history of low-birth-weight births",
+        "|B] Social behaviors such as smoking and alcohol consumption",
+        "|B] Patient’s feeling about the pregnancy and health status",
+        "iv) [ml] Socioeconomic status and needs"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Adolescent pregnancies are more likely to have pregnancy complications and poor outcomes such as infant mortality, low birth weight, and preterm delivery. Adolescents are also likely to have many emotional and nutritional risks. Therefore the nurse would concentrate on the patient’s accessibility to the health care provider for prenatal care and socioeconomic status, which would address support, care, and nutritional needs. Also, determining social behaviors, such as smoking and alcohol consumption, will help develop a plan to stop these behaviors to prevent low birth weight and infant mortality. Determining how the patient feels about the pregnancy and health status will guide the nurse in determining psychosocial needs. Family history of low-birth-weight births is not directly correlated to the patient’s risk for problems related to pregnancy and birth."
+    },
+    {
+      "id": "nutrition-ch10-099",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "Which intervention would be implemented for a pregnant patient with a prior history of hyperemesis gravidarum to prevent hospitalization? Select all that apply.",
+      "options": [
+        "Educate the patient on avoiding smells or triggers that cause nausea.",
+        "_] Encourage the patient to avoid an empty stomach by eating small meals throughout the day.",
+        "Schedule weekly visits to monitor weight.",
+        "Inquire as to food aversions and vomiting during prenatal visits.",
+        "Monitor electrolytes and fluid intake with each visit."
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": "There is no one treatment that will benefit all women who experience nausea and vomiting with pregnancy. However, some patients experience prolonged severe nausea and vomiting called hyperemesis gravidarum. Patients who have experienced this once are prone to be hospitalized with each subsequent pregnancy. Therefore steps should be implemented to prevent this if possible. Monitoring weight, electrolytes, and fluids is integral in ensuring the nutritional needs are being met. Therefore inquiring as to any food aversions and vomiting will be needed to determine whether nutrition is being maintained. All patients with nausea and vomiting would be advised to avoid smells or triggers that cause nausea and avoid an empty stomach by eating small meals throughout the day. These, however, are not interventions specific to preventing hospitalization caused by hyperemesis gravidarum."
+    },
+    {
+      "id": "nutrition-ch10-100",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "After laboratory results of a 24-hour urine sample for a patient with gestational hypertension indicate protein equal to or higher than 300 mg/d, which dietary instruction would be recommended?",
+      "options": [
+        "Decrease the amount of red meat in the diet.",
+        "Drink three full glasses of milk each day.",
+        "Reduce salt intake and highly cured meats.",
+        "Add a serving of legumes or beans to meals."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Preeclampsia is defined as gestational hypertension with proteinuria (>300 mg/d protein in 24-hour urine) or end-organ dysfunction. An overall healthy diet before and during pregnancy containing a high intake of plant- based food, antioxidants, and high fiber is thought to be helpful. However, an increase in vitamin D has been known to aid in decreasing gestational hypertension and preeclampsia, and a recommended three glasses of vitamin D-fortified milk per day should be included in the diet. Reducing red meat is not suggested because this is a source of iron. Salt restriction is inappropriate because it does not prevent or help treat symptoms. Adding beans and legumes to each meal is not required, although a routine intake of these foods is good for folate."
+    },
+    {
+      "id": "nutrition-ch10-101",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A patient with a history of gestational diabetes has just delivered her second child within a 2-year period. Which protocol would the nurse recommend when discussing postnatal follow-up for this patient? Select all that apply.",
+      "options": [
+        "|B] Blood pressure should be monitored on a regular basis.",
+        "Maintain a healthy weight and body mass index (BMI).",
+        "Continue to monitor for type 2 diabetes.",
+        "Physical examinations should be completed every 6 months.",
+        "Ensure glucose tolerance testing is completed every year."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Women with a history of gestational diabetes are at a higher risk for developing heart disease, type 2 diabetes, and hypertension. Therefore blood pressure should be monitored regularly, as well as weight and BMI and blood glucose levels. However, a glucose tolerance test is not a yearly required test. Physical examinations should still be yearly until the health care provider deems more frequent visits are needed. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: If you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch10-102",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which helps meet some of the extra energy needs required by lactation in the postpartum mother?",
+      "options": [
+        "Protein stores in the placenta",
+        "Protein stores in the breast tissue",
+        "Adipose tissue deposited in the fetus during gestation",
+        "Adipose tissue deposited in the mother during pregnancy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Some of the extra energy needs required by lactation in the postpartum mother are met by the adipose tissue that is deposited in her body during pregnancy. The rest are met by increased caloric intake. Protein stores in the placenta do not meet these needs because the mother delivers the placenta after she delivers the baby. Protein is not stored in breast tissue, and adipose tissue is not deposited in the fetus for this purpose. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch10-103",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Why is human milk the ideal first food for human infants?",
+      "options": [
+        "It contains high levels of iron and vitamin D.",
+        "Its nutrient content regularly changes to meet the infant's needs.",
+        "Itis low in fat and sugar, which establishes early healthy eating habits.",
+        "Itis nearly identical in nutrient content to cow’s milk, making the transition to cow’s milk smoother."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Human milk changes to meet changing nutrient and energy needs of the newborn and the maturing infant during the first months of life. It is always there in the correct form to meet the growing infant’s needs. Human milk may not provide sufficient levels of iron and vitamin D after 6 months. The macronutrient content of human milk changes to meet the infant’s needs, but it is not considered a low-fat or low-sugar food. The nutrient contents of human milk and cow’s milk vary considerably. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch10-104",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "easy",
+      "question": "Which statement is correct regarding meeting nutrition needs during the second trimester without gaining excess weight?",
+      "options": [
+        "\"It is more important that you worry about what you are eating rather than about the amount of"
+      ],
+      "correctAnswer": null,
+      "explanation": "During the second trimester of pregnancy, the increased kilocalorie needs can be met with one additional snack a day, such as a banana, a serving of yogurt, or a serving of nuts. Although it is important for the mother to worry about where the extra kilocalories are coming from, it is also important to be mindful of weight gain because excessive weight gain can potentially lead to complications for the fetus. During the second trimester, an extra 340 kilocalories per day are needed, not 500 to 700 kilocalories. \"Eating for two\" is a fallacy that can lead to misunderstandings and should not be a phrase nurses use. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch10-105",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which factor is most likely to present challenges to breastfeeding? Select all that apply.",
+      "options": [
+        "Maternal fatigue and stress",
+        "_] Smaller than average breast size",
+        "Moderate consumption of alcohol",
+        "A diet consisting of 1600 kcal/day",
+        "_] Failure to increase vitamin D above pregnancy levels"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Maternal fatigue and stress may present a challenge to breastfeeding by inhibiting the let-down reflex. Even moderate consumption of alcohol may also inhibit the let-down reflex. A diet consisting of 1600 kcal/day is below the recommended minimum energy intake to sustain adequate lactation. Breast size is not a determinant of successful breastfeeding. The dietary reference intake for vitamin D is the same for lactating and pregnant women. Test-Taking Tip: Multiple choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch10-106",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement reflects an accurate understanding of sources of easily absorbed forms of folate?",
+      "options": [
+        "\"Liver, pinto beans, asparagus, and broccoli all provide easily absorbed forms of folate.\"",
+        "\"Enriched grain and flour products and fortified cereals are great sources of easily absorbed folate.\"",
+        "\"Itis best to increase my intake of milk products because milk helps increase the uptake of folate from"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enriched grain, flour products, and fortified cereals are sources of easily absorbed forms of folate. Liver, pinto beans, broccoli, and asparagus are sources of folate but are not easily absorbed forms of it. Milk does not increase folate absorption. Many foods are available that can supply easily absorbed folate; a supplement is not required unless the client is unable to meet the requirements via dietary food intake."
+    },
+    {
+      "id": "nutrition-ch10-107",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which vitamin should be supplemented at least 2 months before conception to help prevent neural tube defects?",
+      "options": [
+        "iv) © Folate",
+        "Vitamin A",
+        "Vitamin D",
+        "Ascorbic acid"
+      ],
+      "correctAnswer": null,
+      "explanation": "Folate supports adequate nutrient availability for the endometrial lining to support embryonic tissue development. The neural tube forms very early in the pregnancy (21 to 28 days), so taking folate before conception helps ensure the necessary support. Vitamin A, vitamin D, and ascorbic acid are not recommended for preventing neural tube defects."
+    },
+    {
+      "id": "nutrition-ch10-108",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which statement regarding treatment for a pregnant client with severe nausea and",
+      "options": [
+        "vomiting is untrue?",
+        "\"You may find ginger and B ¢ supplements helpful in decreasing nausea.’",
+        "@ \"Make sure to always drink liquids with your meals to help with digestion.\"",
+        "\"Snacks and meals should be fairly dry and bland and low in fat and fiber.\"",
+        "\"Try to always keep some food in your stomach by eating small, frequent meals.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pregnant clients suffering from nausea and vomiting should be encouraged to drink liquids between meals, not with meals; thus this statement requires correction. Ginger and B ¢ supplements can help decrease nausea. Dry, bland, low-fat, and low-fiber meals and snacks are recommended to combat nausea and vomiting. Small, frequent meals and snacks to prevent an empty stomach can help with nausea and vomiting."
+    },
+    {
+      "id": "nutrition-ch10-109",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For up to how many months is breastfeeding recommended?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The Academy of Nutrition and Dietetics and the American Academy of Pediatrics encourage and strongly support breastfeeding for all able mothers for the first 12 months of life and continued thereafter for as long as mutually desired."
+    },
+    {
+      "id": "nutrition-ch10-110",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A lactating mother is feeling anxiety because her let-down reflex takes longer than she thinks it should. What is the most therapeutic response?",
+      "options": [
+        "\"If breastfeeding is too challenging, there is no reason you shouldn't switch to using formula.\"",
+        "\"Colostrum is secreted before the let-down reflex occurs, so your baby is still getting good nutrition"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most therapeutic response from the nurse is, \"Every woman is different, and there is no correct time in which let-down should occur. If your baby is healthy and growing, you’re doing great.\" The nurse should provide support and resources to encourage breastfeeding rather than automatically recommend that the client switch to using formula. Colostrum is secreted during the first few days postpartum, not before let- down. Alcohol can actually inhibit the let-down reflex, and it passes through milk to the nursing child, so it should not be recommended. Test-Taking Tip: Look for answers that focus on the client or are directed toward feelings."
+    },
+    {
+      "id": "nutrition-ch10-111",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "The nursing student is learning about what a mother experiences while lactating. Which statement by the student requires correction by the instructor?",
+      "options": [
+        "“Atingling sensation in the breast may indicate mastitis or a plugged duct.\"",
+        "\"Colostrum may be secreted from the breast during late pregnancy.\"",
+        "© \"During pregnancy, estrogen stimulates proliferation of the ductal system.\"",
+        "\"Oxytocin is involved in stimulating both uterine contractions and milk ejection.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Many women experience a tingling sensation in the breast when let-down of milk occurs. This sensation is normal and is not a sign of mastitis, plugged duct, or other complications. It is true that colostrum may be secreted from the breast during late pregnancy, estrogen stimulates proliferation of the ductal system, and oxytocin is involved in stimulating both uterine contractions and milk ejection. P. 169"
+    },
+    {
+      "id": "nutrition-ch10-112",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which dietary intake would account for the difference in protein needs between a lactating mother and a nonlactating adult woman?",
+      "options": [
+        "20z tofu",
+        "1 oz almonds",
+        "1/2 ¢ black beans",
+        "3.5 oz chicken breast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The dietary reference intake of protein is 46 g for nonlactating adult women and 71 g for lactating mothers. The difference is 25 g, which the lactating mother can meet by consuming 3.5 oz of chicken breast. The amount of protein in 2 oz of tofu, 1 oz of almonds, or 1/2 c of black beans alone is insufficient to account for this difference."
+    },
+    {
+      "id": "nutrition-ch10-113",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "hard",
+      "question": "Which would be critical to discuss with the health care team of a pregnant patient with a history of eating disorders to include in the plan of care to support a successful outcome? Select all that apply.",
+      "options": [
+        "iv) [ml] Postpartum care",
+        "Breastfeeding to support weight loss after delivery",
+        "Emphasis on nutritional needs of the growing fetus",
+        "Anticipated maternal body size and shape changes",
+        "The need to prioritize the baby over oneself"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "For individuals with bulimia nervosa who are pregnant, the health care team should focus on postpartum care, emphasize nutritional needs of the growing fetus, and discuss anticipated maternal body size and shape changes to best support a successful pregnancy outcome. Breastfeeding should not be discussed in terms of its possible role in helping keep weight down, nor should the patient be told not to focus on herself throughout the pregnancy because the health of both mother and baby are important."
+    },
+    {
+      "id": "nutrition-ch10-114",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "What is the most common cause of anemia in pregnancy?",
+      "options": [
+        "Blood loss",
+        "@ Iron deficiency",
+        "Kidney disease",
+        "Folate deficiency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Iron deficiency is the most common cause of anemia during pregnancy. Blood loss and kidney disease can also cause anemia, but they are not the most common causes. Folate deficiency can result in neural tube defects, not anemia, for the fetus."
+    },
+    {
+      "id": "nutrition-ch10-115",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement is most accurate concerning alcohol use during pregnancy?",
+      "options": [
+        "@ \"No safe level of alcohol use has been established for pregnant women.\"",
+        "\"One to two glasses of wine per week are acceptable in the last trimester.\"",
+        "\"Even minor alcohol use will result in fetal alcohol syndrome and mental retardation.\"",
+        "\"You should avoid hard liquor, but beverages with lower alcohol content can be safely consumed in"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No safe level of alcohol consumption has been determined for pregnant women. Because no safe level of alcohol use has been established, stating that one to two glasses of wine are acceptable would not be accurate. Extensive or habitual alcohol use may lead to fetal alcohol syndrome, and minor alcohol use may be dangerous to the fetus. However, the exact impact is unknown. There is no established safe level of alcohol use, regardless of alcohol content."
+    },
+    {
+      "id": "nutrition-ch10-116",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which statement by the nurse concerning the maternal need for increased kilocalories during the second and third trimesters of pregnancy requires clarification?",
+      "options": [
+        "\"The metabolic workload of the fetus requires increased fuel.\"",
+        "\"Added tissue-building requirements need more kilocalories to spare protein.\"",
+        "\"More kilocalories are needed to supply increased fuel for the mother’s metabolic workload.\"",
+        "\"Kilocalorie needs during the second and third trimesters do not vary significantly from the first.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "More kilocalories are necessary during the second and third trimesters compared with the first trimester, when the kilocalorie needs are the same as they were before conception. The increased kilocalories are needed to support the increased demands of the metabolic workload of the fetus, added tissue-building requirements, and the increased metabolic workload of the mother."
+    },
+    {
+      "id": "nutrition-ch10-117",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which growth need during pregnancy requires sufficient protein? Select all that apply.",
+      "options": [
+        "iv) [ml] Amniotic fluid",
+        "|B] Growth of the fetus",
+        "Development of the placenta",
+        "|B] Increased synthesis of hemoglobin and albumin",
+        "_] Absorption and use of calcium for fetal bone growth"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "Sufficient protein is needed to support amniotic fluid, rapid growth of the fetus, development of a mature placenta to support the fetus, and increased synthesis of hemoglobin and albumin secondary to the increased maternal blood volume required to nourish the fetus and support increased metabolic demands. Vitamin D, not protein, is necessary for supporting absorption and the use of calcium to support fetal bone growth."
+    },
+    {
+      "id": "nutrition-ch10-118",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which statement shows an understanding of foods that are good sources of complete protein foods?",
+      "options": [
+        "@ \"Ican get complete proteins from foods like eggs, milk, and beef.\"",
+        "\"Beans, peas, and lentils are all great sources of complete proteins.’",
+        "\"Good sources of complete proteins are items from the grains group.\"",
+        "\"Nuts would be a good snack to help provide a source of complete proteins.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete proteins can be found in eggs, milk, and beef. Legumes such as beans, peas, and lentils; grains; and nuts are all sources of incomplete proteins, not complete proteins. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch10-119",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Which mineral supplement is potentially necessary for mothers expecting multiple births?",
+      "options": [
+        "lron",
+        "iv) © Calcium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "correctAnswer": null,
+      "explanation": "Calcium is essential for fetal bone and teeth development, blood clotting, and maternal body needs. Calcium supplements may be indicated in the case of pregnancies involving more than one fetus. Iron, potassium, and magnesium supplements are not specifically indicated in cases of multiples."
+    },
+    {
+      "id": "nutrition-ch10-120",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 10",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "If a woman’s pre-pregnancy body mass index (BMI) was 26.5, which range of total pregnancy weight gain in pounds would be recommended to this client?",
+      "options": [
+        "11 to 20",
+        "@ 151025",
+        "25 to 35",
+        "28 to 40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A BMI of 26.5 places the client in the overweight category, so the total recommended weight gain is 15 to 25 Ib. A total weight gain of 11 to 20 Ib is recommended for a woman categorized as obese by BMI. A total weight gain of 25 to 35 |b is recommended for a woman categorized as normal weight by BMI. A total weight gain of 28 to 40 Ib is recommended for a woman categorized as underweight by BMI."
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "name": "Nutrition Weight Management",
+  "description": "Chapter 15 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch15-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "— Which clinical term is used to describe a patient who has excess body fat? Cy) O Obese",
+      "options": [
+        "Normal weight",
+        "©@ Overweight",
+        "Clinically obese"
+      ],
+      "correctAnswer": null,
+      "explanation": "As used in the traditional medical sense, obese is the clinical term for a patient who has excess body fat and is generally used to describe people who are at least 20% above the recommended weight for height. The term normal weight denotes a body mass index of 18.5 to 24.9 kg/m *. The terms overweight and obesity are often used interchangeably, but they technically have different meanings. Overweight denotes a body weight that is above a population weight-for-height standard without regard to body composition. Clinically obese indicates a body mass index greater than 35 kg/m 2."
+    },
+    {
+      "id": "nutrition-ch15-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "— Which personality trait is associated with clinical eating disorders?",
+      "options": [
+        "Histrionic",
+        "Impulsive",
+        "Paranoid",
+        "Aggressive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An impulsive personality is associated with clinical eating disorders. Histrionic, paranoid, and aggressive personalities are more closely associated with other psychiatric disorders."
+    },
+    {
+      "id": "nutrition-ch15-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a Which statement describes night eating syndrome?",
+      "options": [
+        "The patient repeatedly consumes large amounts of food after the evening meal or upon waking from"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The patient experiences recurrent episodes of eating after the evening meal or upon waking. The syndrome is not caused by an abnormal sleep-wake cycle; it interferes with a normal sleep-wake cycle. The patient is aware and can recall food consumption that occurs throughout the night. A patient with binge eating disorder expresses guilt for consuming large quantities of food, but this is not necessarily true of a patient with night eating syndrome."
+    },
+    {
+      "id": "nutrition-ch15-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which consideration is made in the dietary treatment of an underweight patient?",
+      "options": [
+        "Low-protein diet",
+        "Low-carbohydrate diet",
+        "High intake of fats",
+        "Energy- and nutrient-dense diet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Energy- and nutrient-dense diets that are above the standard requirements are considered for underweight and undernourished patients. High-protein and high-carbohydrates diets are considered for underweight patients to rebuild tissues and provide the primary energy source in an easily digested form. Moderate fat, not high intake of fat, is included in special nutrition care for underweight patients to provide essential fatty acids and add energy without exceeding tolerance limits."
+    },
+    {
+      "id": "nutrition-ch15-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which feature is a characteristic of normal eating?",
+      "options": [
+        "Eating a fixed quantity of food daily even if not hungry",
+        "Demonstrating very high restraint with regard to food selection",
+        ", Recognizing that overeating and undereating are never acceptable",
+        "Having the ability to be flexible with an eating schedule"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Normal eating, as opposed to disordered eating, involves having the ability to be flexible with an eating schedule. Normal eating involves eating when hungry and stopping when full. It does not involve eating a fixed quantity of food daily even if not hungry. Normal eating also involves demonstrating moderate restraint with regard to food selection and recognizing that overeating and undereating are sometimes acceptable and trusting the body to establish a balance. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch15-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Realistic goals, cultural appeal, and energy readjustment to maintain weight are among the five characteristics of a successful central dietary approach in a weight-management program. Negative energy balance, not positive energy balance, is also a characteristic of a successful weight-management program. Nutrient adequacy, not nutrient inadequacy, is a characteristic of a successful weight-management program."
+    },
+    {
+      "id": "nutrition-ch15-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which outcome is associated with the use of body wraps as a method of weight loss?",
+      "options": [
+        "Major weight loss",
+        "Burning stored calories",
+        "Temporary water loss",
+        "Melting of fat mass"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Temporary water loss is a result of using body wraps as a method of weight loss. Small weight loss, not major weight loss, is observed with the use of body wraps. Fat mass cannot be melted away with the use of body wraps. The burning of stored calories does not take place through the use of body wraps."
+    },
+    {
+      "id": "nutrition-ch15-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which environmental factor leads to an increase in obesity?",
+      "options": [
+        "Consumption of energy-dense foods",
+        "Consumption of nutrient-dense foods",
+        "Increase in physical activity",
+        "Increase in active leisure time"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Increased consumption of energy-dense foods such as fast foods leads to an increase in obesity. Consumption of nutrient-dense foods does not lead to increase in obesity. An increase in physical activity or active leisure time also does not lead to an increase in obesity."
+    },
+    {
+      "id": "nutrition-ch15-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which body mass index (BMI) range indicates that a patient is overweight? CO 18.5 to 24.9 Cy) O 25 to 29.9 tx} © 30 to 35",
+      "options": [
+        ">35"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI range of 25 to 29.9 is considered overweight. The normal classification is indicated by the BMI range of 18.5 to 24.9. The obese classification is indicated by the BMI range of 30 to 35. Clinically or extremely obese is indicated by the BMI range of >35."
+    },
+    {
+      "id": "nutrition-ch15-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor in determining a patient’s ideal body weight has been overlooked by health practitioners? rv) O Age x) © Genetics",
+      "options": [
+        "Body mass index",
+        "Waist circumference"
+      ],
+      "correctAnswer": null,
+      "explanation": "Until recently, health practitioners overlooked a patient’s age as an important factor for setting an ideal body weight. A patient’s weight will usually increase with age, then decline after a certain age. Genetics is one of several factors considered when determining a reasonable body weight for a patient. Body mass index (BMI) has been used for decades to help clinicians determine reasonable body weights for patients. Waist circumference helps improve accuracy when assessing a patient’s chronic disease and mortality risk. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch15-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which popular weight-loss drug was removed from the market by the Food and Drug Administration (FDA) after it was discovered that one in eight patients who were using it developed valvular regurgitation?",
+      "options": [
+        "Lorcaserin",
+        "Liraglutide",
+        "Sibutramine",
+        "Fenfluramine/phentermine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The popular weight-loss drugs fenfluramine and phentermine (\"fen—phen\") were withdrawn from the market by the FDA after patients who were using it developed valvular regurgitation, which can be fatal. In 2012, the FDA approved the drug lorcaserin primarily for use in obese and/or patients with type 2 diabetes; it is still in use. Sibutramine was a weight-loss drug that was removed from the market by the FDA in 2010 because of an increased risk for heart attack and stroke. Liraglutide is a weight-loss drug approved by the FDA that is still in use."
+    },
+    {
+      "id": "nutrition-ch15-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "What is the impact of yo-yo dieting?",
+      "options": [
+        "Reduced metabolic rate and fat mass",
+        "Increased metabolic rate and fat mass",
+        "Reduced metabolic rate and lean body mass",
+        "Increased metabolic rate and lean body mass"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Yo-yo dieting, or repeated periods of weight loss followed by weight gain, can lead to reduced metabolic rate and lean body mass. It does not lead to reduced fat mass, increased metabolic rate, or increased lean body mass."
+    },
+    {
+      "id": "nutrition-ch15-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which behavior does the nurse expect in a patient with an eating disorder?",
+      "options": [
+        "Eating when hungry",
+        "Adhering to a rigid eating schedule"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a patient with an eating disorder, the nurse expects adherence to a rigid eating schedule. Normal eating occurs when an individual has the ability to be flexible with an eating schedule. Eating when hungry, recognizing overeating is sometimes acceptable, and demonstrating moderate restraint of food choices are all defined as normal eating behaviors. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch15-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Glucose",
+      "difficulty": "medium",
+      "question": "Which health problem is associated with obesity and can be improved by weight loss and maintenance of appropriate weight?",
+      "options": [
+        "@ Ischemic heart disease",
+        "Hyperthyroidism",
+        "Bronchial asthma",
+        "Systemic sclerosis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Weight loss can reduce elevated blood glucose levels and blood pressure in obese people. In turn, these improvements reduce risks related to heart diseases such as ischemic heart disease. Hyperthyroidism, bronchial asthma, and systemic sclerosis are not associated with obesity."
+    },
+    {
+      "id": "nutrition-ch15-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which method of measuring body composition is inexpensive, portable, and easy to perform, and does not need technical expertise? x) © Skin-fold calipers rv) O Bioelectrical impedance analysis (BIA)",
+      "options": [
+        "Air displacement plethysmography",
+        "Hydrostatic weighing"
+      ],
+      "correctAnswer": null,
+      "explanation": "BIA is an easy, portable, inexpensive, and noninvasive body composition measurement tool. This method does not require any special skill on the technician’s part. Skin fold calipers need technical expertise because the method depends on the accuracy of locating the correct anatomical site. Air displacement plethysmography needs a BOD POD machine, which is expensive and not portable. Hydrostatic weighing is not portable or inexpensive."
+    },
+    {
+      "id": "nutrition-ch15-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "In an otherwise healthy individual, which range of body mass index (BMI) would the extremely obese fall into? rv) O >40 x) © >35 to 39.9",
+      "options": [
+        "30 to 34.9",
+        "25 to 29.9"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI of 40 kg/m 2 or more or a BMI of 35 to 39 kg/m 2 with at least one obesity-related disorder is referred to as extreme obesity or morbid obesity. All BMls greater than 35 kg/m 2 are not classified as extremely obese. A BMI of 30 to 35 kg/m ? is classified as obese, not extremely obese. A BMI of 25 to 29.9 kg/m @ is classified as overweight, not extremely obese. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch15-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which principle of dietary modification addresses the need for reduction of about 500 keal/day?",
+      "options": [
+        "Realistic goals",
+        "Cultural appeal",
+        "Nutrient adequacy"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most important factor affecting weight loss is the establishment of a negative energy balance with a reduction of about 500 kcal/day. Realistic goals for weight loss determine overall weight loss and rate of loss but do not address the need for reduction of 500 kcal/day. Cultural appeal ensures that an individual can maintain cultural eating patterns while losing weight, but it does not address the need for reduction of 500 kcal/day. For weight loss to be successful, it must be nutritionally adequate. Patients must consume less food and consciously choose nutrient-dense foods. However, this does not specifically address the need for a reduction of 500 kcal/day. Test-Taking Tip: Multiple-choice questions can be challenging because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch15-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which clinical term is used to describe a patient who has excess body fat? Cy) O Obese",
+      "options": [
+        "Normal weight",
+        "©@ Overweight",
+        "Clinically obese"
+      ],
+      "correctAnswer": null,
+      "explanation": "As used in the traditional medical sense, obese is the clinical term for a patient who has excess body fat and is generally used to describe people who are at least 20% above the recommended weight for height. The term normal weight denotes a body mass index of 18.5 to 24.9 kg/m *. The terms overweight and obesity are often used interchangeably, but they technically have different meanings. Overweight denotes a body weight that is above a population weight-for-height standard without regard to body composition. Clinically obese indicates a body mass index greater than 35 kg/m 2."
+    },
+    {
+      "id": "nutrition-ch15-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which characteristic of a weight-management program aids in lasting success? Select all that apply.",
+      "options": [
+        "| Cultural appeal"
+      ],
+      "correctAnswers": [],
+      "explanation": "Realistic goals, cultural appeal, and energy readjustment to maintain weight are among the five characteristics of a successful central dietary approach in a weight-management program. Negative energy balance, not positive energy balance, is also a characteristic of a successful weight-management program. Nutrient adequacy, not nutrient inadequacy, is a characteristic of a successful weight-management program."
+    },
+    {
+      "id": "nutrition-ch15-021",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which cue is associated with general symptoms used to help diagnose an eating disorder? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A general sign of eating disorders is cold intolerance caused by the loss of fat tissue. Fatigue and lethargy in eating disorders is caused by low energy intake. Other signs and symptoms are specific to the body system they impact. Amenorrhea is related to the endocrine system. Epigastric discomfort is a symptom of gastrointestinal problems. Parotid gland enlargement can occur as an oral and dental sign and symptom. Because of nutritional deficiencies, low bone mineral density may occur; this is a symptom of the endocrine system."
+    },
+    {
+      "id": "nutrition-ch15-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which body mass index will concern the nurse the least?",
+      "options": [
+        "17.5 kg/m ?",
+        "19.5 kg/m?",
+        "25.5 kg/m ?",
+        "29.5 kg/m ?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Patients who are overweight and underweight may be experiencing malnutrition. A body mass index of 19.5 kg/m * is considered to be normal and would not cause the nurse concern. A patient with a body mass index of 17.5 kg/m 7 is underweight. Patients with body mass indices of 25.5 or 29.5 kg/m 2 are overweight. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch15-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which explanation describes the association between lacking the leptin receptor and severe early-onset obesity? rv) © No negative feedback regarding energy intake",
+      "options": [
+        "Difficulty losing extra fat cells gained later in life",
+        "Reduction in metabolic rate due to high stress levels",
+        "Significant weight gain resulting from even slight energy imbalances"
+      ],
+      "correctAnswer": null,
+      "explanation": "Lacking the leptin receptor is associated with severe early-onset obesity because there is no negative feedback regarding energy intake. It is more difficult to lose fat cells gained earlier in life. The reduction in metabolic rate due to high stress levels is not related to lacking the leptin receptor. Significant weight gain from slight energy imbalances can occur in healthy individuals with the leptin receptor. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch15-024",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which environmental factor adds to the increasing problem of obesity in the United States? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Environmental factors adding to the increasing problem of obesity in the United States include increased screen time, low-cost convenience foods, less active leisure time, increased portion sizes, and decreased food preparation skills. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch15-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which patient is most at risk for obesity?",
+      "options": [
+        "© Patient with leptin resistance",
+        "Patient with ghrelin resistance",
+        "Patient who performs an average of 15 minutes of physical activity daily",
+        "Patient whose energy output exceeds intake by 100 kcal daily"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The patient who performs an average of 15 minutes of physical activity daily is most at risk for obesity. A major contributor to obesity in Americans is physical inactivity. Walking more than 30 minutes per day can help reduce total body weight, body mass index, waist circumference, and resting heart rate. This increase in physical activity can also improve glucose tolerance, independent of changes to dietary intake. Obesity is associated with leptin resistance, but the exact role leptin plays in human obesity remains unclear. Ghrelin increases appetite and adiposity, so ghrelin resistance would not put someone at risk for obesity. A patient whose energy output exceeds intake by 100 kcal daily would likely lose weight. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options ."
+    },
+    {
+      "id": "nutrition-ch15-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "A patient states to the nurse, \"| cannot stop consuming large quantities of food several times a week. | have been doing this over the past year, and | need help.\" Based on the patient’s statement, which eating disorder does the nurse suspect?",
+      "options": [
+        "Anorexia nervosa",
+        "Bulimia nervosa",
+        "Binge eating disorder",
+        "Body dysmorphic disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Based on the patient’s statement, the nurse would suspect binge eating disorder. Binge eating disorder is a psychiatric eating disorder characterized by the occurrence of eating excessive amounts of food at least twice a week for a 6-month period. Anorexia nervosa results in malnourishment and starvation due to an aversion to food or a distorted body image. Bulimia nervosa is an eating disorder related to a person’s fear of fatness in which cycles of gorging on large quantities of food are followed by compensatory mechanisms to maintain a normal body weight. Body dysmorphic disorder is a result of an obsession with a perceived defect of the body."
+    },
+    {
+      "id": "nutrition-ch15-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which compensatory mechanisms would the nurse expect to be used by a patient diagnosed with bulimia nervosa? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A patient diagnosed with bulimia nervosa might compensate for binge eating with laxatives, excessive exercise, purging, and diuretics. Bulimics have recurring episodes of binge eating; although they may practice fasting, they do not starve themselves entirely, as in anorexia nervosa."
+    },
+    {
+      "id": "nutrition-ch15-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutrition-related physical assessment finding does the nurse expect in a patient with an eating disorder? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Dental caries and heart palpations are nutrition-related clinical signs of bulimia nervosa. Dental caries is a result of enamel erosion and can occur due to contact of the teeth with stomach acid from frequent purging. Heart palpitations are caused by repeated episodes of vomiting, which result in dehydration and electrolyte imbalances. Purging may also result in gastrointestinal bleeding due to irritation of the lining of the esophagus by stomach acid and bile. Lanugo hair is associated with anorexia nervosa. Menorrhagia does not occur with an eating disorder; on the contrary, the patient may have amenorrhea."
+    },
+    {
+      "id": "nutrition-ch15-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which rationale is accurate for reestablishing a normal weight and eating pattern as a priority in the treatment of an eating disorder? rv) O The neurochemistry returns to normal.",
+      "options": [
+        "The patient is more compliant with treatment."
+      ],
+      "correctAnswer": null,
+      "explanation": "Reestablishing a normal weight and eating pattern are a priority in the treatment of an eating disorder because neurochemistry will return to normal. Compliance with treatment is multifactorial and based on the individual’s willingness and ability to participate in their own treatment. Psychological therapy is more successful when neurologic disturbances are reduced. Psychological and social well-being are important, but the main focus is on the neurochemistry returning to normal so that psychological therapy can be more effective. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,\" be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch15-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which nutritional therapy goal is appropriate for a patient with binge eating disorder?",
+      "options": [
+        "Eliminate episodes of purging.",
+        "Supplement the diet for weight gain.",
+        "|mplement behavioral weight loss treatment.",
+        "Correct endocrine imbalances in the body."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The nutritional therapy goal appropriate for a patient with binge eating disorder is to implement behavioral therapy to establish a healthy weight, because patients with such disorders are often overweight or obese. Patients with binge eating disorder do not purge; purging occurs in patients with bulimia nervosa, a purging disorder. Supplementation for weight gain is not necessary, because weight loss is a goal. Endocrine imbalances occur most often in patients with anorexia nervosa or bulimia nervosa. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch15-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which clinical sign is associated with eating disorders? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Carotenoderma or calluses on the back of the hand are dermatologic symptoms associated with eating disorders. Amenorrhea is an endocrine-related clinical sign associated with eating disorders. Hypotension, not hypertension, is a symptom associated with eating disorders. Manic symptoms are not associated with eating disorders."
+    },
+    {
+      "id": "nutrition-ch15-032",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which criterion is assessed to diagnose a patient with bulimia nervosa? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Binge eating with lack of control while eating and the use of laxatives to prevent weight gain are criteria for bulimia nervosa diagnosis. The experience of such episodes once a week for 3 months is considered to diagnose a patient with bulimia nervosa. The restriction of food intake below body requirements is a criterion for anorexia nervosa. Repeated experience of night-eating syndrome is a criterion for other specified feeding or eating disorders."
+    },
+    {
+      "id": "nutrition-ch15-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "The overall food guide should consist of plenty of fruits and vegetables, whole grains, and lean proteins, while reducing the energy density of foods eaten, with water as the ideal beverage. Red meat and alcohol are not recommended as exchange food as per a food guide to follow a sound food plan for weight management."
+    },
+    {
+      "id": "nutrition-ch15-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which risk is associated with lipectomy procedures? Select all that apply.",
+      "options": [
+        "| Large disfiguring skin depressions"
+      ],
+      "correctAnswers": [],
+      "explanation": "Lipectomy procedures can be painful and carry risks such as infection, large disfiguring skin depressions, and blood clots that can lead to dangerous circulatory problems. Anemia and respiratory complications are not risks associated with lipectomy."
+    },
+    {
+      "id": "nutrition-ch15-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which effect on health is caused by a very low-calorie diet (VLCD)? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Possible effects of a VLCD include acidosis and electrolyte imbalance. Other effects include low blood pressure, not high blood pressure. Alkalosis is not caused by a VLCD. A decreased BMR is also observed because of a calorie-deficient diet. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch15-036",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which characteristic is a basic principle of successful weight-loss programs? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Realistic goals determine a patient’s overall weight loss and rate of loss, which are important principles of a successful weight-loss program. Cultural appeal ensures that an individual can maintain cultural eating patterns as they work on losing weight. For weight loss to be successful, it must be nutritionally adequate. Patients should be consuming less food and consciously choose nutrient-dense foods. The establishment of a negative energy balance with a reduction of about 500 keal/day is an important component of successful weight loss; the principle consists of reduced energy in and increased energy out. Once patients have achieved the desired weight, the kilocalorie intake must be adjusted in accordance with their maintenance needs."
+    },
+    {
+      "id": "nutrition-ch15-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which aspect of the principle of energy balance is the first step in making a personalized food plan?",
+      "options": [
+        "Obtain the patient’s detailed diet history.",
+        "Have patient spread food evenly throughout the day."
+      ],
+      "correctAnswer": null,
+      "explanation": "Determining the current total energy needs of the patient is the first step in making a personalized food plan. Obtaining the patient’s diet history is required before the principles of a sound food plan can be put in place; it is not part of the principle of energy balance. Spreading food evenly throughout the day can help with distribution balance and portion control, but it is not an aspect of energy balance. After the current total energy needs of the patient have been determined, the energy intake and energy output can be modified to yield a negative energy balance."
+    },
+    {
+      "id": "nutrition-ch15-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which medication is Food and Drug Administration (FDA)-approved for use in patients who are obese and/or have type 2 diabetes? Select all that apply.",
+      "options": [
+        "|B] Phentermine/topiramate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "In 2012, the FDA approved the drug lorcaserin primarily for use in obese and/or patients with type 2 diabetes. Phentermine/topiramate was approved by the FDA in 2012 for use by patients who are obese and/or have type 2 diabetes. Sibutramine was a weight loss drug used for a short time before it was removed from the market by the FDA in 2010. Phenylpropanolamine was once a popular stimulant used for weight loss but is currently banned in the US. The popular weight loss drugs fenfluramine and phentermine were withdrawn from the market by the FDA after patients who were using them developed valvular regurgitation, which can be fatal."
+    },
+    {
+      "id": "nutrition-ch15-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which psychological factor increases a patient’s risk for obesity?",
+      "options": [
+        "Pregnancy",
+        "Fast-food restaurants",
+        "©@ Inappropriate family food patterns",
+        "Advertisements of \"ideal\" body types"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advertisements of \"ideal\" body types are an example of a psychological risk factor for obesity because they cultivate emotional stress in society. Pregnancy is a physiologic risk factor for obesity. Fast-food restaurants are environmental risk factors for obesity. Inappropriate family food patterns are a family reinforcement risk factor for obesity."
+    },
+    {
+      "id": "nutrition-ch15-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which pathology is found in obesity?",
+      "options": [
+        ", Body mass index greater than 30 kg/m 2",
+        "Enlarged fat cells",
+        "©@ Imbalance between energy intake and energy expenditure",
+        "Presence of a chronic health condition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The presence of enlarged fat cells characterizes the pathology of obesity. A body mass index of greater than 30 kg/m 2, an imbalance between energy intake and energy expenditure, and the presence of a chronic health condition are all associated with obesity, but they are not considered part of the pathology of obesity."
+    },
+    {
+      "id": "nutrition-ch15-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which eating disorder involves overeating with no compensatory behavior?",
+      "options": [
+        "Anorexia nervosa",
+        "Bulimia nervosa",
+        "Binge eating disorder",
+        "Other specified feeding or eating disorder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Binge eating disorder involves binging episodes without compensatory behaviors. This type of binge often follows stress or anxiety as an emotional eating pattern to soothe or relieve painful or tense feelings or experiences. Anorexia nervosa involves undereating, bulimia nervosa includes compensatory behavior following binge eating. Other specified feeding or eating disorder lacks consistent diagnostic criteria."
+    },
+    {
+      "id": "nutrition-ch15-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which cue is associated with general symptoms used to help diagnose an eating disorder? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A general sign of eating disorders is cold intolerance caused by the loss of fat tissue. Fatigue and lethargy in eating disorders is caused by low energy intake. Other signs and symptoms are specific to the body system they impact. Amenorrhea is related to the endocrine system. Epigastric discomfort is a symptom of gastrointestinal problems. Parotid gland enlargement can occur as an oral and dental sign and symptom. Because of nutritional deficiencies, low bone mineral density may occur; this is a symptom of the endocrine system."
+    },
+    {
+      "id": "nutrition-ch15-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which patient is most at risk for obesity?",
+      "options": [
+        "© Patient with leptin resistance",
+        "Patient with ghrelin resistance",
+        "Patient who performs an average of 15 minutes of physical activity daily",
+        "Patient whose energy output exceeds intake by 100 kcal daily"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The patient who performs an average of 15 minutes of physical activity daily is most at risk for obesity. A major contributor to obesity in Americans is physical inactivity. Walking more than 30 minutes per day can help reduce total body weight, body mass index, waist circumference, and resting heart rate. This increase in physical activity can also improve glucose tolerance, independent of changes to dietary intake. Obesity is associated with leptin resistance, but the exact role leptin plays in human obesity remains unclear. Ghrelin increases appetite and adiposity, so ghrelin resistance would not put someone at risk for obesity. A patient whose energy output exceeds intake by 100 kcal daily would likely lose weight. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options ."
+    },
+    {
+      "id": "nutrition-ch15-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which compensatory mechanisms would the nurse expect to be used by a patient diagnosed with bulimia nervosa? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A patient diagnosed with bulimia nervosa might compensate for binge eating with laxatives, excessive exercise, purging, and diuretics. Bulimics have recurring episodes of binge eating; although they may practice fasting, they do not starve themselves entirely, as in anorexia nervosa."
+    },
+    {
+      "id": "nutrition-ch15-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which nutrition-related physical assessment finding does the nurse expect in a patient with an eating disorder? Select all that apply.",
+      "options": [
+        "| Heart palpitations"
+      ],
+      "correctAnswers": [],
+      "explanation": "Dental caries and heart palpations are nutrition-related clinical signs of bulimia nervosa. Dental caries is a result of enamel erosion and can occur due to contact of the teeth with stomach acid from frequent purging. Heart palpitations are caused by repeated episodes of vomiting, which result in dehydration and electrolyte imbalances. Purging may also result in gastrointestinal bleeding due to irritation of the lining of the esophagus by stomach acid and bile. Lanugo hair is associated with anorexia nervosa. Menorrhagia does not occur with an eating disorder; on the contrary, the patient may have amenorrhea."
+    },
+    {
+      "id": "nutrition-ch15-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which rationale is accurate for reestablishing a normal weight and eating pattern as a priority in the treatment of an eating disorder? rv) O The neurochemistry returns to normal.",
+      "options": [
+        "The patient is more compliant with treatment."
+      ],
+      "correctAnswer": null,
+      "explanation": "Reestablishing a normal weight and eating pattern are a priority in the treatment of an eating disorder because neurochemistry will return to normal. Compliance with treatment is multifactorial and based on the individual’s willingness and ability to participate in their own treatment. Psychological therapy is more successful when neurologic disturbances are reduced. Psychological and social well-being are important, but the main focus is on the neurochemistry returning to normal so that psychological therapy can be more effective. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,\" be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch15-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which clinical sign is associated with eating disorders? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Carotenoderma or calluses on the back of the hand are dermatologic symptoms associated with eating disorders. Amenorrhea is an endocrine-related clinical sign associated with eating disorders. Hypotension, not hypertension, is a symptom associated with eating disorders. Manic symptoms are not associated with eating disorders."
+    },
+    {
+      "id": "nutrition-ch15-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which characteristic is a basic principle of successful weight-loss programs? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Realistic goals determine a patient’s overall weight loss and rate of loss, which are important principles of a successful weight-loss program. Cultural appeal ensures that an individual can maintain cultural eating patterns as they work on losing weight. For weight loss to be successful, it must be nutritionally adequate. Patients should be consuming less food and consciously choose nutrient-dense foods. The establishment of a negative energy balance with a reduction of about 500 keal/day is an important component of successful weight loss; the principle consists of reduced energy in and increased energy out. Once patients have achieved the desired weight, the kilocalorie intake must be adjusted in accordance with their maintenance needs."
+    },
+    {
+      "id": "nutrition-ch15-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physiologic, psychologic, or social factor can contribute to malnutrition in older adults? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Taste changes can affect food intake and contribute to malnutrition in older adult patients. Social problems, like a sense of isolation, can lead to decreased food intake and malnutrition. Delayed gastric emptying can cause abdominal distention and lack of appetite, leading to malnutrition. Many prescribed and over-the- counter (OTC) medications cause anorexia, nausea, and vomiting, and some can cause nutrient malabsorption, leading to malnutrition. Changes in body composition can cause eating difficulties because of decreased fluid status and xerostomia, which can contribute to malnutrition."
+    },
+    {
+      "id": "nutrition-ch15-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Having a body mass index of less than 18.5 kg/m 2 can lead to which health condition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A body mass index of less than 18.5 kg/m “is considered underweight. People who are underweight can have a lowered resistance to infection, poor overall health, and decreased strength. Diabetes mellitus and increased cholesterol are health conditions associated with being overweight."
+    },
+    {
+      "id": "nutrition-ch15-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which extreme practice is the most successful method of permanent weight loss for patients with severe obesity?",
+      "options": [
+        "Body wrapping"
+      ],
+      "correctAnswer": null,
+      "explanation": "Historically, the most successful extreme method of permanent weight loss for patients with severe obesity is bariatric surgery. The procedure provides significant and sustained weight loss and reduces relative risk for death by decreasing co-morbid diseases. Body wraps are used to attempt to reduce body size, but the small weight loss is caused by temporary water loss. There are many weight-loss drugs on the market, but many have been removed from the market. Any drug must be used under careful supervision because it can have dangerous health consequences. The drastic approach of a very low-calorie diet requires medical supervision and can have deleterious effects on a patient’s health. When normal eating is resumed, the patient will gain back more fat mass than was initially lost."
+    },
+    {
+      "id": "nutrition-ch15-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which hormone is an appetite stimulant?",
+      "options": [
+        "Leptin",
+        "@ Ghrelin",
+        "Secretin",
+        "Cholecystokinin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ghrelin is an appetite stimulant secreted from the stomach to activate the appetite-regulating network. Leptin controls satiety by serving as a negative feedback mechanism against the overconsumption of total energy. Secretin stimulates gastric and pancreatic secretions. Cholecystokinin inhibits gastric motility and stimulates pancreatic secretions and bile. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch15-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which risk is associated with a body fat percentage that is below the recommended range? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Sometimes athletes and dancers strive for body fat levels below the recommended range. Low body fat percentages may put athletic women at risk for low bone mineral density associated with amenorrhea . Increased risk for fractures, including stress fractures, is also a concern. A high percentage of visceral fat is associated with abdominal organ dysfunction, such as gastroesophageal reflux disease, constipation, and hemorrhoids. The body fat percentage associated with increased athletic performance may not be the best level for all-around long-term health."
+    },
+    {
+      "id": "nutrition-ch15-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which is a modifiable risk factor that can cause obesity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "While educating the family, the nurse should include physical inactivity, body fat percentage, and family food patterns as modifiable risk factors and instruct the family to develop healthy eating habits and increase physical activity. Leptin is a hormone that predisposes individuals to obesity. Leptin and genetic predisposition are not modifiable risk factors for obesity."
+    },
+    {
+      "id": "nutrition-ch15-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which reason explains why weight-loss fad diets fail? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Weight-loss fad diets fail because they are often nutritionally inadequate and based on false claims, setting individuals up for failure. The degree of energy restriction required by some fad diets is impossible to maintain long term. Books and supplements sell briefly and then fade away because the quick fixes either do not work or are not sustainable; individuals who try these fads are led to believe that weight loss is easy and effortless. People are often set up for failure regarding the maintenance of healthy weight because they fail to address the necessity of changing long-term habits and behaviors. Fast and convenient foods may cost less than energy-dense foods, but this is not a cause of fad diet failure. Rather, it is an environmental factor that adds to the ever-increasing problem of obesity."
+    },
+    {
+      "id": "nutrition-ch15-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which principle is associated with a sound food plan? Select all that apply.",
+      "options": [
+        "| Distribution balance and portion control"
+      ],
+      "correctAnswers": [],
+      "explanation": "A food guide for reference is important when developing a sound food plan. It provides comparative food values and portions, variety in food choices, and basic meal planning. A preventative approach is an important part of a sound food plan because prevention of excess weight gain is the most effective means of healthy weight management. Energy and nutrient balance are requirements of a sound food plan. Energy intake and output modifications can be used for weight loss, while nutrient balance can determine the proper basic diet components. Distribution balance and portion control is essential when developing a sound food plan because it assists patients with planning meals and snacks throughout the day and helps them control their intake. The patient’s diet history should be obtained before the food plan is constructed. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch15-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food fad claim considers all processed foods unhealthy?",
+      "options": [
+        "Food cures"
+      ],
+      "correctAnswer": null,
+      "explanation": "The natural foods claim describes unprocessed or minimally processed products as \"natural\" foods and states that only these can meet the body’s needs and prevent disease. The claim may lead a patient to believe that all processed foods are unhealthy, including those that are enriched or fortified. Food cures claim that certain foods can treat, if not cure, specific conditions, which is not necessarily true. The claim focuses on the food itself rather than the specific nutrients in the food. Some individuals are allergic to specific foods and should avoid them, but the claim of harmful foods suggests that certain foods cause harm if eaten regardless of allergies. Claims about food combinations suggest that certain combinations of foods can restore health and are effective for weight loss; however, it does not consider all processed foods unhealthy."
+    },
+    {
+      "id": "nutrition-ch15-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which negative effect is associated with erroneous claims of food fads? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Although some foods and supplements are harmless health-wise, the financial cost can be high for a \"miracle cure\" if that money could have been used for nutritious foods that would fulfill a patient’s basic nutritional needs. Misinformation hinders the development of individual and society, and ignores scientific progress, counteracting sound teaching about health. Fraudulent claims can mislead ill and anxious people to postpone proven effective therapy and fail to seek appropriate medical care, putting them in danger. Erroneous claims can cause people to distrust the food market and reject all modern food production."
+    },
+    {
+      "id": "nutrition-ch15-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which goal must be addressed at the beginning of eating disorder treatment?",
+      "options": [
+        "Continuing support groups",
+        "Restoring healthy eating habits",
+        "Establishing a healthy weight for the patient",
+        "Working to heal intrapersonal and interpersonal problems"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first goal for patients being treated for an eating disorder is to establish a healthy weight. Support that includes friends, family, health care professionals, and other patients is critical for long-term treatment of an eating disorder. The support should continue beyond the initial treatment. Healthy eating habits must be restored to optimize a patient’s physical and mental health, but this occurs once a patient has achieved a healthy weight. Healing intrapersonal and interpersonal problems addresses the possible psychologic disorders that can accompany eating disorders, but this work must be done after a patient’s weight has been restored."
+    },
+    {
+      "id": "nutrition-ch15-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which dietary need must be met for underweight and undernourished patients to increase energy and nutrient intake? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Underweight and undernourished patients need to consume a diet that is high in protein to rebuild tissue and increase energy and nutrient intake. Moderate fat in the diet is needed to provide essential fatty acids and add energy. Carbohydrates provide the primary energy source in a form that is easily digested and are essential to increase energy in underweight and undernourished patients. A nutrient-dense diet, above the standard requirements for a patient’s age and sex, is essential for people who are underweight and undernourished. Vitamins and minerals must be provided by a variety of nutrient-dense foods and dietary supplements, if necessary. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch15-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which condition causes patients to experience general malnutrition and be underweight? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Wasting is a long-term disease with chronic infection and fever that raises the basal metabolic rate (BMR). It can cause malnutrition and lead patients to become underweight. Psychologic factors that cause a patient to refuse to eat or socioeconomic factors like limited access to food can also lead to malnutrition and weight loss. Gastrointestinal problems like chronic diarrhea, gastrointestinal disease, excessive use of laxatives, or drug-nutrient interactions can cause malabsorption and a patient becoming underweight. Hormone imbalances like hyperthyroidism increase the body’s caloric needs; if these needs are not met, malnutrition can result, and a patient can become underweight. Inadequate energy intake relative to energy needs occurs from greatly increased physical activity without a corresponding increase in food, or the lack of available food supply. Patients who live in a home with inadequate and infrequent meals can become underweight and malnourished."
+    },
+    {
+      "id": "nutrition-ch15-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which patient has an increased risk for health complications related to excess body fat? Cy) © Male with a 42-in waist circumference",
+      "options": [
+        "Male with a 39-in waist circumference",
+        "Female with a 34-in waist circumference",
+        "Female with a 30-in waist circumference"
+      ],
+      "correctAnswer": null,
+      "explanation": "Men who have a waist circumference of 40 in or greater have an increased risk for health complications related to excess body fat. The male patient with a 42-in waist circumference is therefore at an increased risk for health complications. The man with the 39-in waist does not have an increased risk for health complications related to excess body fat. Women who have a waist circumference of 35 in or greater have an increased risk for health complications related to excess body fat, so the woman with the 34-in waist and the woman with the 30-in waist do not have an increased risk."
+    },
+    {
+      "id": "nutrition-ch15-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which sociocultural influence is a risk factor for eating disorders?",
+      "options": [
+        "Anxiety"
+      ],
+      "correctAnswer": null,
+      "explanation": "The sociocultural influence that has contributed to eating disorders is thin-ideal internalization. Media exposure to idealization of thinness, perceived pressure for thinness, and thin-ideal internalization are all sociocultural influences that have been identified as risk factors for eating disorders. Anxiety and perfectionism are personality traits linked to eating disorders. Serotonin disturbance affects the neurocognitive process and is not a sociocultural influence for eating disorders. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch15-064",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which characteristic is found in a patient with the diagnosis of anorexia nervosa? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Characteristics of anorexia nervosa include low self-esteem, dieting behavior, and perfectionism. Anorexia nervosa is a psychophysiologic aversion to food and distorted body image that results in life-threatening weight loss. The dieting behavior of an anorexic consists of minimal nutritional intake that results in malnutrition and starvation. Perfectionism is a personality trait associated with anorexia nervosa. The use of diuretics and self-induced vomiting are characteristics of bulimia nervosa."
+    },
+    {
+      "id": "nutrition-ch15-065",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which strategy can help reduce drug-nutrient interactions for older patients in long-term care facilities?",
+      "options": [
+        "Increase in physical activity",
+        "Use of nutrient-dense foods"
+      ],
+      "correctAnswer": null,
+      "explanation": "Drug therapy for older patients should involve constant medical, nutritional, and nursing attention to avoid the direct and indirect causes of drug-nutrient interactions. An increase in physical activity is recommended, if possible, to avoid the decline of lean body mass caused by body composition changes; however, this does not reduce drug-nutrient interactions. The use of nutrient-dense foods does not reduce drug-nutrient interactions, but it can help with body composition changes. Feeding assistance provided by sensitive nursing care can help older patients who have difficulty with eating because of functional disabilities, but it does not reduce drug-nutrient interactions. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options . Example: If the item relates to and identifies stroke rehabilitation as its focus and only one of the options contains the word stroke in relation to rehabilitation, you are safe in identifying this choice as the correct response."
+    },
+    {
+      "id": "nutrition-ch15-066",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which advice will the registered dietitian nutritionist (RDN) give to a patient post—weight loss surgery to avoid complications like dumping syndrome? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "After weight loss surgery, the RDN needs to counsel the patient about determining portion size and developing an eating plan to avoid complications like dumping syndrome. Maintaining physical activity after weight loss surgery will help lead to long-term weight loss success and therefore reduce complications by helping reduce weight effectively. Avoiding consuming fluid with food is another way to avoid complications like dumping syndrome. Decreasing simple carbohydrate intake will also help avoid complications and should be included in postsurgery counseling by the RDH."
+    },
+    {
+      "id": "nutrition-ch15-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which positive teaching approach is useful when discussing claims about diets, supplements, and other nutrition-related fads? Select all that apply.",
+      "options": [
+        "| Recognize the emotional need for food."
+      ],
+      "correctAnswers": [],
+      "explanation": "Sharing well-known, sound, community resources with patients is one positive approach to providing education about various diets, supplements, and nutrition-related fads. The emotional needs that food and food rituals help to fulfill are part of life, and they can be positive influencers in nutrition teaching. Presenting sound nutrition and health information from reliable sources can help to educate the patient about the validity of any claims discussed. The Food and Nutrition Science Alliance’s 10 Red Flags of Junk Science is a helpful tool to disseminate sound nutrition information as opposed to nutrition-related fads. Although Internet research can be useful, it is important to provide the patient with reliable sources of positive information about sound nutrition and health. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer."
+    },
+    {
+      "id": "nutrition-ch15-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which strategy must be addressed before beginning a program of personal behavior modification for weight management? Select all that apply.",
+      "options": [
+        "BH] Managing eating behavior"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "A successful program of personal behavior modification for weight management focuses on management of the patient’s eating behavior. This can involve using a food diary to document when, why, where, and how much food is consumed. Keeping track can help patients become aware of poor eating habits. The pursuit of emotional, social, and psychologic health helps patients focus on the goals developed for the weight- management program. An important component is stress management. Physical activity to increase the patient’s energy output must be addressed. The patient must be aware of changes that need to be made to their activity level for successful weight loss to be supported. Developing a preventative approach is not a strategy addressed before beginning a behavior modification program; it is one of the principles of a sound food plan. Balancing energy intake and energy output is one of the basic principles of dietary modification. It occurs after personal behavior modification has been established."
+    },
+    {
+      "id": "nutrition-ch15-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which risk is associated with a body fat percentage that is below the recommended range? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Sometimes athletes and dancers strive for body fat levels below the recommended range. Low body fat percentages may put athletic women at risk for low bone mineral density associated with amenorrhea . Increased risk for fractures, including stress fractures, is also a concern. A high percentage of visceral fat is associated with abdominal organ dysfunction, such as gastroesophageal reflux disease, constipation, and hemorrhoids. The body fat percentage associated with increased athletic performance may not be the best level for all-around long-term health."
+    },
+    {
+      "id": "nutrition-ch15-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which is a modifiable risk factor that can cause obesity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "While educating the family, the nurse should include physical inactivity, body fat percentage, and family food patterns as modifiable risk factors and instruct the family to develop healthy eating habits and increase physical activity. Leptin is a hormone that predisposes individuals to obesity. Leptin and genetic predisposition are not modifiable risk factors for obesity."
+    },
+    {
+      "id": "nutrition-ch15-071",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which principle is associated with a sound food plan? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A food guide for reference is important when developing a sound food plan. It provides comparative food values and portions, variety in food choices, and basic meal planning. A preventative approach is an important part of a sound food plan because prevention of excess weight gain is the most effective means of healthy weight management. Energy and nutrient balance are requirements of a sound food plan. Energy intake and output modifications can be used for weight loss, while nutrient balance can determine the proper basic diet components. Distribution balance and portion control is essential when developing a sound food plan because it assists patients with planning meals and snacks throughout the day and helps them control their intake. The patient’s diet history should be obtained before the food plan is constructed. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch15-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which negative effect is associated with erroneous claims of food fads? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Although some foods and supplements are harmless health-wise, the financial cost can be high for a \"miracle cure\" if that money could have been used for nutritious foods that would fulfill a patient’s basic nutritional needs. Misinformation hinders the development of individual and society, and ignores scientific progress, counteracting sound teaching about health. Fraudulent claims can mislead ill and anxious people to postpone proven effective therapy and fail to seek appropriate medical care, putting them in danger. Erroneous claims can cause people to distrust the food market and reject all modern food production."
+    },
+    {
+      "id": "nutrition-ch15-073",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which dietary need must be met for underweight and undernourished patients to increase energy and nutrient intake? Select all that apply.",
+      "options": [
+        "| High protein"
+      ],
+      "correctAnswers": [],
+      "explanation": "Underweight and undernourished patients need to consume a diet that is high in protein to rebuild tissue and increase energy and nutrient intake. Moderate fat in the diet is needed to provide essential fatty acids and add energy. Carbohydrates provide the primary energy source in a form that is easily digested and are essential to increase energy in underweight and undernourished patients. A nutrient-dense diet, above the standard requirements for a patient’s age and sex, is essential for people who are underweight and undernourished. Vitamins and minerals must be provided by a variety of nutrient-dense foods and dietary supplements, if necessary. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch15-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which sociocultural influence is a risk factor for eating disorders?",
+      "options": [
+        "Anxiety",
+        "Perfectionism",
+        "Serotonin disturbance"
+      ],
+      "correctAnswer": null,
+      "explanation": "The sociocultural influence that has contributed to eating disorders is thin-ideal internalization. Media exposure to idealization of thinness, perceived pressure for thinness, and thin-ideal internalization are all sociocultural influences that have been identified as risk factors for eating disorders. Anxiety and perfectionism are personality traits linked to eating disorders. Serotonin disturbance affects the neurocognitive process and is not a sociocultural influence for eating disorders. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch15-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which strategy can help reduce drug-nutrient interactions for older patients in long-term care facilities?",
+      "options": [
+        "Increase in physical activity",
+        "Use of nutrient-dense foods"
+      ],
+      "correctAnswer": null,
+      "explanation": "Drug therapy for older patients should involve constant medical, nutritional, and nursing attention to avoid the direct and indirect causes of drug-nutrient interactions. An increase in physical activity is recommended, if possible, to avoid the decline of lean body mass caused by body composition changes; however, this does not reduce drug-nutrient interactions. The use of nutrient-dense foods does not reduce drug-nutrient interactions, but it can help with body composition changes. Feeding assistance provided by sensitive nursing care can help older patients who have difficulty with eating because of functional disabilities, but it does not reduce drug-nutrient interactions. Test-Taking Tip: Identifying content and what is being asked about that content is critical to your choosing the correct response. Be alert for words in the stem of the item that are the same or similar in nature to those in one or two of the options . Example: If the item relates to and identifies stroke rehabilitation as its focus and only one of the options contains the word stroke in relation to rehabilitation, you are safe in identifying this choice as the correct response."
+    },
+    {
+      "id": "nutrition-ch15-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which advice will the registered dietitian nutritionist (RDN) give to a patient post—weight loss surgery to avoid complications like dumping syndrome? Select all that apply.",
+      "options": [
+        "| Determine portion size."
+      ],
+      "correctAnswers": [],
+      "explanation": "After weight loss surgery, the RDN needs to counsel the patient about determining portion size and developing an eating plan to avoid complications like dumping syndrome. Maintaining physical activity after weight loss surgery will help lead to long-term weight loss success and therefore reduce complications by helping reduce weight effectively. Avoiding consuming fluid with food is another way to avoid complications like dumping syndrome. Decreasing simple carbohydrate intake will also help avoid complications and should be included in postsurgery counseling by the RDH."
+    },
+    {
+      "id": "nutrition-ch15-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which medication is Food and Drug Administration (FDA)-approved for use in patients who are obese and/or have type 2 diabetes? Select all that apply.",
+      "options": [
+        "|B] Phentermine/topiramate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "In 2012, the FDA approved the drug lorcaserin primarily for use in obese and/or patients with type 2 diabetes. Phentermine/topiramate was approved by the FDA in 2012 for use by patients who are obese and/or have type 2 diabetes. Sibutramine was a weight loss drug used for a short time before it was removed from the market by the FDA in 2010. Phenylpropanolamine was once a popular stimulant used for weight loss but is currently banned in the US. The popular weight loss drugs fenfluramine and phentermine were withdrawn from the market by the FDA after patients who were using them developed valvular regurgitation, which can be fatal."
+    },
+    {
+      "id": "nutrition-ch15-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Pregnancy",
+      "difficulty": "medium",
+      "question": "Which psychological factor increases a patient’s risk for obesity?",
+      "options": [
+        "Pregnancy",
+        "Fast-food restaurants",
+        "Inappropriate family food patterns",
+        "Advertisements of \"ideal\" body types"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Advertisements of \"ideal\" body types are an example of a psychological risk factor for obesity because they cultivate emotional stress in society. Pregnancy is a physiologic risk factor for obesity. Fast-food restaurants are environmental risk factors for obesity. Inappropriate family food patterns are a family reinforcement risk factor for obesity."
+    },
+    {
+      "id": "nutrition-ch15-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which pathology is found in obesity?",
+      "options": [
+        ", Body mass index greater than 30 kg/m 2",
+        "Enlarged fat cells",
+        "|mbalance between energy intake and energy expenditure",
+        "Presence of a chronic health condition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The presence of enlarged fat cells characterizes the pathology of obesity. A body mass index of greater than 30 kg/m 2, an imbalance between energy intake and energy expenditure, and the presence of a chronic health condition are all associated with obesity, but they are not considered part of the pathology of obesity."
+    },
+    {
+      "id": "nutrition-ch15-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which behavior does the nurse expect in a patient with an eating disorder?",
+      "options": [
+        "Eating when hungry",
+        "Adhering to a rigid eating schedule",
+        "Recognizing overeating is sometimes acceptable",
+        "Demonstrating moderate restraint of food choices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a patient with an eating disorder, the nurse expects adherence to a rigid eating schedule. Normal eating occurs when an individual has the ability to be flexible with an eating schedule. Eating when hungry, recognizing overeating is sometimes acceptable, and demonstrating moderate restraint of food choices are all defined as normal eating behaviors. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch15-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which method of measuring body composition is inexpensive, portable, and easy to perform, and does not need technical expertise?",
+      "options": [
+        "Skin-fold calipers"
+      ],
+      "correctAnswer": null,
+      "explanation": "BIA is an easy, portable, inexpensive, and noninvasive body composition measurement tool. This method does not require any special skill on the technician’s part. Skin fold calipers need technical expertise because the method depends on the accuracy of locating the correct anatomical site. Air displacement plethysmography needs a BOD POD machine, which is expensive and not portable. Hydrostatic weighing is not portable or inexpensive."
+    },
+    {
+      "id": "nutrition-ch15-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "In an otherwise healthy individual, which range of body mass index (BMI) would the extremely obese fall into? 0 ® >40",
+      "options": [
+        ">35 to 39.9",
+        "30 to 34.9",
+        "25 to 29.9"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI of 40 kg/m 2 or more or a BMI of 35 to 39 kg/m 2 with at least one obesity-related disorder is referred to as extreme obesity or morbid obesity. All BMls greater than 35 kg/m 2 are not classified as extremely obese. A BMI of 30 to 35 kg/m ? is classified as obese, not extremely obese. A BMI of 25 to 29.9 kg/m @ is classified as overweight, not extremely obese. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch15-083",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 15",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which body mass index (BMI) range indicates that a patient is overweight? CO 18.5 to 24.9 Cy) © 25 to 29.9",
+      "options": [
+        "30 to 35",
+        ">35"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI range of 25 to 29.9 is considered overweight. The normal classification is indicated by the BMI range of 18.5 to 24.9. The obese classification is indicated by the BMI range of 30 to 35. Clinically or extremely obese is indicated by the BMI range of >35."
+    }
+  ]
+}

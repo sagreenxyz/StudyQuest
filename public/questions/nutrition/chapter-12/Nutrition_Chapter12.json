@@ -1,0 +1,1192 @@
+{
+  "name": "Nutrition Adults",
+  "description": "Chapter 12 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch12-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "— What is the advantage of using the mini nutritional assessment (MNA) to assess the nutritional status in older adults in nursing homes?",
+      "options": [
+        "It diagnoses malnutrition.",
+        "It can be used anywhere.",
+        "It assesses dietary intake."
+      ],
+      "correctAnswer": null,
+      "explanation": "The MNA is a highly reliable tool that is used to evaluate risk for malnutrition in older adults residing in nursing homes. The MNA is not used to diagnose malnutrition; rather, it is used in the nursing home setting, not anywhere, and it does not just specifically assess dietary intake. It assesses other parameters that can identify risk factors for malnutrition."
+    },
+    {
+      "id": "nutrition-ch12-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "— Which age is forecasted to be the median in the United States by the year 2060?",
+      "options": [
+        "18 years",
+        "38 years",
+        "43 years",
+        "@ 65 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The median age will increase from 38 to 43 by 2060, with women outnumbering men in the eldest groups. Eighteen, 38, and 65 are not the forecasted average median age of the U.S. population by the year 2060. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect, and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch12-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "a Which physiologic change in older adults results in the risk for a nutritional deficiency of",
+      "options": [
+        "vitamin B 43?",
+        "Poor nutrition",
+        "Decline in insulin production",
+        "Decreased metabolism"
+      ],
+      "correctAnswer": null,
+      "explanation": "As people age, the production and secretion of hydrochloric acid decreases and may result in inadequate vitamin B 39 absorption. Poor nutrition is not a physiologic change. During the aging process, the common decline in insulin production or insulin sensitivity may result in elevated blood glucose levels and diabetes. Decreased metabolism is a naturally occurring process in aging that is responsible for reduced cell metabolism and changes in body composition. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch12-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which factor governs the overall physical growth and maturity of the human body?",
+      "options": [
+        "Personality development",
+        "Marriage",
+        "Genetic potential",
+        "Family income"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Genetic potential is one of the factors that govern the overall physical growth and maturity of the human body, which level off during the early adult years. Personality development and marriage influence psychosocial development, not the physical growth, of an individual throughout adult years. Family income influences socioeconomic status, not the physical growth, of an individual during adult years."
+    },
+    {
+      "id": "nutrition-ch12-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "The Healthy People initiative website focuses on which topic?",
+      "options": [
+        "Healthy aging",
+        "Quility of life",
+        "Diet and exercise",
+        "Nutritional products"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The major focus of the Healthy People initiative is quality of life. The website includes information on healthy aging, diet, and exercise but does not sell products."
+    },
+    {
+      "id": "nutrition-ch12-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which meal program is most appropriate for a physically active older adult who is socioeconomically stable?",
+      "options": [
+        "Home-delivered meals"
+      ],
+      "correctAnswer": null,
+      "explanation": "Congregate nutrition services are most appropriate for a physically active older adult who is socioeconomically stable. Socioeconomic stability does not impact the ability to participate in the nutrition program. It is a service that provides adults who are older than 60 years of age and their spouses with nutritionally sound meals in senior centers and other public or private facilities. Home-delivered meals are for older adults who are ill or disabled and cannot travel to the community centers. SNAP issues benefits to any primary head of household at or below 130% of the federal poverty line. The commodity supplemental food program is for individuals older than 60 years of age who are at a socioeconomic disadvantage. The program is intended to provide food packages to supplement a diet with foods that are high in nutrition."
+    },
+    {
+      "id": "nutrition-ch12-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which dietary change is important for individuals as they age to help address a declining metabolic rate?",
+      "options": [
+        "The diet should include supplemental vitamin B j2."
+      ],
+      "correctAnswer": null,
+      "explanation": "Consumption of \"empty calorie\" foods should be decreased to help address the decline in the metabolic rate and avoid obesity and other health issues. The need for supplementation with vitamin B 19 is caused by reduced hydrochloric acid and intrinsic factor, not a change in metabolic rate. Carbohydrates should comprise approximately 45% to 60% of total kilocalories. An increased need for vitamin D as one ages is caused by decreased synthesis, not a change in the metabolic rate."
+    },
+    {
+      "id": "nutrition-ch12-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What common condition in older adults interferes with the ability to prepare food?",
+      "options": [
+        "Sarcopenia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Decreased hand function is a common condition in older adults and may interfere with the ability to prepare food. Sarcopenia is a loss of lean tissue mass related to aging. Not all chronic illnesses result in an older adult’s inability to prepare food. Decreased hand-eye coordination occurs as a result of the overall decreased hand function and by itself is not considered a common condition. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer."
+    },
+    {
+      "id": "nutrition-ch12-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food/nutrient can cause an adverse reaction in an older adult client taking a nonsteroidal antiinflammatory drug (NSAID)? rv) O Alcohol x) © Grapefruit juice",
+      "options": [
+        "Licorice",
+        "Caffeine"
+      ],
+      "correctAnswer": null,
+      "explanation": "Alcohol should be avoided for the older adult client taking an NSAID. Grapefruit juice should be avoided for a client taking antihyperlipidemics and antihistamines. Licorice should be avoided for a client taking antihypertensives. Caffeine should be avoided for clients taking monoamine oxidase inhibitors."
+    },
+    {
+      "id": "nutrition-ch12-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "How can a decrease in hypothalamic function adversely affect an older adult client?",
+      "options": [
+        "Increases skeletal muscle loss",
+        "Increases the risk for dehydration",
+        "©@ Promotes unintentional weight gain",
+        "Increases the risk for osteoporosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The decrease in hypothalamic function reduces thirst in older adults, which results in an increased risk for dehydration. An increased loss of skeletal muscle mass occurs as a result of inadequate dietary protein metabolism and physical activity. Unintentional weight gain results from nutritional problems. The increased risk for osteoporosis occurs significantly with age and is a result of poor bone health. Some contributing factors include inadequate vitamin D and calcium intake."
+    },
+    {
+      "id": "nutrition-ch12-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "For which health issue is the older adult client who experiences a decline in taste and smell acuity at the highest risk? rv) © Food-borne illness",
+      "options": [
+        "Frequent illness",
+        "Poor bone health",
+        "Unintentional weight loss"
+      ],
+      "correctAnswer": null,
+      "explanation": "The older adult client who experiences a decline in taste and smell acuity is at the greatest risk for food-borne illness because the client may be unable to recognize spoiled food. Frequent illnesses in the older adult are a result of malnourishment rather than the effects of aging. Poor bone health occurs when bone mineral density is low and bones become brittle. Many factors contribute to poor bone health, including inadequate calcium and vitamin D intake, which are not related to a decline in taste and smell acuity. Unintentional weight loss may be a sign of malnutrition or another disease process that is not necessarily caused by a decline in taste and smell acuity."
+    },
+    {
+      "id": "nutrition-ch12-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the most effective way that a health care team can advocate for an older adult who",
+      "options": [
+        "is at risk for malnutrition and eligible for nutritional assistance?",
+        "Set up transportation.",
+        "Counsel the client’s family."
+      ],
+      "correctAnswer": null,
+      "explanation": "A health care team can advocate for an older adult who is at risk for malnutrition by assisting in the application process for nutritional assistance and helping set up the older adult’s involvement so they can receive adequate nutrition. Setting up transportation will not help the older adult client at a socioeconomic disadvantage to purchase food. Counseling the family and consulting a community center are not as effective options as helping with the application for ensuring the client receives adequate nutritional assistance. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly to see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch12-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which statement best reflects the physical changes that may lead to a need for vitamin B 2",
+      "options": [
+        "injections?",
+        "Older adults often do not eat very well and need supplementation of all vitamins, including vitamin B"
+      ],
+      "correctAnswer": null,
+      "explanation": "There is a high risk for deficiency of vitamin B j2 as individuals age as a result of decreased gastric acid production and secretion decreasing absorption of the vitamin. Physical changes may alter food intake of older adults leading to micronutrient deficiencies, but this does not provide the best explanation for the need for vitamin B 2 injections for this client. Lack of sunlight affects vitamin D, not vitamin B 12. Foods fortified with vitamin B 1) or vitamin B j2 supplementation should be used by individuals over age 50 years, but this response does not provide an explanation for the physical changes that result in a need for vitamin B j2 injections."
+    },
+    {
+      "id": "nutrition-ch12-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Physical changes of aging, including decreased thirst, sense of taste and smell, and hand function, can all create issues related to food patterns, ultimately affecting nutrition. Decreased hearing and frequent trips to the bathroom can also occur as a person ages but are not directly implicated in changes in nutrition. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch12-016",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which factor contributes to sarcopenia? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Sarcopenia is the loss of lean tissue mass associated with aging. The contributing factors to sarcopenia include inadequate dietary protein metabolism and inadequate physical activity. Decrease in level of melatonin, osteoporosis, and high-quality dietary fat are not factors that contribute to sarcopenia."
+    },
+    {
+      "id": "nutrition-ch12-017",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Personal psychosocial growth progresses through which years? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "There are three unique stages of personal psychosocial growth that progress through the young, middle, and older years. Infancy and childhood are not identified as unique stages. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch12-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which change does the U.S. Census Bureau predict regarding future demographics of the U.S. population?",
+      "options": [
+        "Median age will increase from 28 to 38 years."
+      ],
+      "correctAnswer": null,
+      "explanation": "The U.S. Census Bureau forecasts that older women will outnumber older men by the year 2035. The median age will increase from 38 to 43 years; older adults over 65 years will outnumber children under 18 years, not over 18; and the growth rate of ethnic groups will increase, not decrease."
+    },
+    {
+      "id": "nutrition-ch12-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which program is available for low-income older adults to help improve nutrition by",
+      "options": [
+        "increasing their servings of fruits and vegetables?",
+        "U.S. Department of Health and Human Services"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Senior Farmers’ Market Nutrition Program is a grant-based program available for low-income older adults; it provides coupons that participants can exchange for fresh fruits, vegetables, and herbs at farmers’ markets, community-supported agriculture programs, and roadside stands. The program has increased the average servings of fruits and vegetables among participants. The U.S. Department of Health and Human Services provides essential services to help enhance and protect the well-being of all Americans. Meals on Wheels is an organization that delivers meals to the homes of older adults who are ill or disabled. SNAP issues electronic benefits transfer cards to the primary caregiver in the household. The electronic cards are used to purchase eligible food items at authorized food retail outlets."
+    },
+    {
+      "id": "nutrition-ch12-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Once an individual reaches early adulthood, which best reflects the process of physical growth?",
+      "options": [
+        "Physical growth is completed by adulthood and begins a slow decline.",
+        "Physical growth is genetically predetermined and stops after adolescence."
+      ],
+      "correctAnswer": null,
+      "explanation": "Physical growth and maturity levels off during the early adult years, and physical growth becomes a process of vital growth of new cells rather than increasing numbers of cells for growth and development. Physical growth and maturity are governed by genetic potential and level off in the early adult years; it is not complete at adulthood, nor does it stop at the end of adolescence. Physical growth in adulthood is about growth of new cells to replace old cells, not increasing numbers of cells. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch12-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The nurse is assessing an older adult client admitted for assessment and treatment of unexplained weight loss. Which question would be most important for the nurse to include",
+      "options": [
+        "in the assessment to understand what may have led to the unexplained weight loss?",
+        "\"Have you had trouble paying your rent and buying food?\"",
+        "\"Have you noticed that you cannot taste or smell your food recently?\"",
+        "\"Have you thought about trying to exercise to increase your appetite?\"",
+        "\"Have you had feelings of overwhelming sadness or loneliness recently?\""
+      ],
+      "correctAnswer": 4,
+      "explanation": "Depression is a common psychiatric condition seen in older adults and the leading cause of unintentional weight loss, so asking the client about overwhelming loneliness and sadness, which can indicate depression, would be most important. Asking about the ability to afford rent and food may be helpful but would not be the most important question to ask in determining the cause of the weight loss. Sensory changes including taste and smell can contribute to a poor appetite but would not be the most important in determining the cause of the unintentional weight loss. Asking whether the client has thought about exercising to help increase appetite would not elicit information to determine the possible cause of the unintentional weight loss."
+    },
+    {
+      "id": "nutrition-ch12-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement provides the most accurate information about metabolic changes related to aging in men and women? rv) O Basal metabolic rate declines for both sexes with a more rapid decline beginning earlier for men than for women.",
+      "options": [
+        "There are no real sex differences when it comes to declines in basal metabolic rate; an average of 1%"
+      ],
+      "correctAnswer": null,
+      "explanation": "Basal metabolic rate declines 1% to 2% per decade, with a more rapid decline beginning at age 40 for men and age 50 for women. Basal metabolic rate does decline 1% to 2% per decade, but an increased rate of decline begins earlier for men than women, so this is an incorrect statement. The basal metabolic rate begins a more rapid decline for men at age 40 and women at age 50, so stating that the rate declines more rapidly for women is incorrect. The basal metabolic rate does decline an estimated 5% overall during the middle and older years, but there is a more rapid decline that begins earlier for men than women, so this statement does not best respond to the question."
+    },
+    {
+      "id": "nutrition-ch12-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement best explains the recommendation for increased physical activity as",
+      "options": [
+        "individuals age?",
+        "Even though increased physical activity will not impact metabolic rate, it will help increase muscle"
+      ],
+      "correctAnswer": null,
+      "explanation": "Changes in the metabolic rate lead to loss of lean muscle mass; regular physical activity can help maintain muscle mass and the metabolic rate as well. Increased physical activity can help maintain the metabolic rate. Increased physical activity can help maintain muscle mass and the metabolic rate; it is not impossible to change. The metabolic rate begins to decline around age 30 years, not 20 years. Test-Taking Tip: Read the question carefully before looking at the answers: (1) Determine what the question is really asking, and look for key words; (2) read each answer thoroughly to see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch12-024",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the most effective way for the nurse to assist with the feeding of an older adult client? Select all that apply.",
+      "options": [
+        "| Identify the food that is being served."
+      ],
+      "correctAnswers": [],
+      "explanation": "The most effective way for the nurse to assist with feeding an older adult is to identify the food that is being served and remain focused on the client. Foods should not be switched after every bite. The client should have at least three bites of the same food before going to another food to allow time for the taste buds to become accustomed to the food. Liquids should be given throughout the meal and not just at the beginning or end of the meal. The statement \"Eat this because it is good for you\" has little value for anyone, especially for those who are struggling to maintain their personal integrity and self-esteem in a youth-oriented, age-fearing culture."
+    },
+    {
+      "id": "nutrition-ch12-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the most therapeutic statement a nurse can make when introducing healthy new foods into the diet of an older adult client with feeding problems?",
+      "options": [
+        "\"| know this looks funny, but just give it a try.\"",
+        "“Eat this; it is so good for you.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "New foods should be introduced with familiar comfort foods. \"| have added a new food today\" is the most therapeutic statement that the nurse can make. Saying \"I know this looks funny, but just give it a try\" is a negative remark about the food. \"Eat this; it is so good for you\" has little value, especially if the client is struggling to maintain personal integrity and self-esteem. \"| have put some seasoning on it so it tastes better\" is a negative statement about the food, and the nurse should only introduce seasoning if the client requests it."
+    },
+    {
+      "id": "nutrition-ch12-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "When assessing the nutritional status of the older adult, which potential nutritional problem should be the nurse’s priority concern?",
+      "options": [
+        "Physical activity",
+        "Overeating",
+        "Decreased absorption of nutrients"
+      ],
+      "correctAnswer": null,
+      "explanation": "A lack of sufficient nourishment is a primary nutrition problem for older adults. Physical activity is not a nutritional problem, but a lack of it can lead to unnecessary weight gain. Overeating can lead to obesity, which is on the rise, but it is not as common a problem in the older adult. The gastrointestinal muscles do weaken, which contributes to the decreased absorption and bioavailability of nutrients, but this is a lower-priority concern in the nurse’s assessment."
+    },
+    {
+      "id": "nutrition-ch12-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which entity provides cash and/or commodities to supplement meals offered at congregate and home-delivered nutrition programs? rv) © Nutrition Service Incentive Program",
+      "options": [
+        "U.S. Department of Agriculture",
+        "Supplemental Nutrition Assistance Program (SNAP)",
+        "Administration on Aging of the U.S. Department of Health and Human Services"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Nutrition Service Incentive Program provides cash and/or commodities to supplement meals offered at congregate and home-delivered nutrition programs. The U.S. Department of Agriculture provides research and services to older adults. SNAP issues electronic benefits transfer cards to the primary caregiver in the household. The electronic cards are used to purchase eligible food items. The Administration on Aging of the U.S. Department of Health and Human Services carries out the provisions of the Older Americans Act."
+    },
+    {
+      "id": "nutrition-ch12-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physiologic change contributes to the development of dehydration in an older adult? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Diminishing kidney function may increase body fluid loss, and changes in the hypothalamus can lead to decreased thirst sensation. Osteopenia and osteoporosis, declining gastrointestinal motility, and decreased enzyme and mucus secretion also occur with aging but are not implicated in dehydration. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or client. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch12-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which factor contributes to poor bone health for all populations? Select all that apply.",
+      "options": [
+        "| Inadequate calcium intake",
+        "| Inadequate vitamin D intake"
+      ],
+      "correctAnswers": [],
+      "explanation": "Inadequate intake of calcium and vitamin D is known to be associated with poor bone health. Use of substances such as tobacco and alcohol are also known to cause poor bone health. A thin body frame and the use of medications that alter mineral bioavailability may also contribute to poor bone health. Increased estrogen levels are also not associated with poor bone health; decreased estrogen levels occur after menopause and contribute to poor bone health. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch12-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which component of the aging process may cause insomnia in an older patient?",
+      "options": [
+        "Less physical exercise"
+      ],
+      "correctAnswer": null,
+      "explanation": "In the aging process, decreases in the level of melatonin production may interfere with normal sleep cycles. Less physical exercise, reduced cell metabolism, and cessation of estrogen production all occur with aging but do not interfere with the sleep cycle."
+    },
+    {
+      "id": "nutrition-ch12-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "After taking a health history and consulting the dietary reference intake (DRI) for a 62-year- old patient, which recommendation may be indicated as a result of a decrease in gastric acid production related to the aging process?",
+      "options": [
+        "Vitamin B 12 supplements",
+        "Monitoring glucose levels",
+        "lactose-free dairy products",
+        "Levothyroxine supplements"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gastric mucosal cells secrete hydrochloric acid, which is necessary for vitamin B 12 digestion; however, as people age, the production and secretion of hydrochloric acid often decrease and may result in inadequate vitamin B j9 absorption. The DRI specifies that individuals who are 50 years old or older should consume vitamin B j) in supplemental form or through subcutaneous vitamin B 39 injections, which bypass the digestive tract and are not dependent on such factors for absorption. Glucose levels, lactose-free dairy products, and levothyroxine supplements are not indicated for this patient."
+    },
+    {
+      "id": "nutrition-ch12-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "An older patient being seen in a community clinic is noted to have a body mass index (BMI) of 30. After ascertaining dietary habits and income information, which program does the nurse recommend?",
+      "options": [
+        "Meals on Wheels"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI of 30 indicates obesity. The Supplemental Nutrition Assistance Program (SNAP) provides nutrition education and obesity prevention interventions. Meals on Wheels and congregate nutrition services provide low-cost meals but not interventions and education clearly needed by this patient. The Human Nutrition Research Center is a research facility that does not provide direct patient services. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch12-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "As the nurse begins to create a care plan to assess physical changes that may impact nutrition for an older adult client, which question should the nurse include during the assessment process? Select all that apply.",
+      "options": [
+        "|B] \"Have you noticed any changes in thirst?\""
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Physical changes of aging, including decreased thirst, sense of taste and smell, and hand function, can all create issues related to food patterns, ultimately affecting nutrition. Decreased hearing and frequent trips to the bathroom can also occur as a person ages but are not directly implicated in changes in nutrition. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch12-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Personal psychosocial growth progresses through which years? Select all that apply.",
+      "options": [
+        "IB] Middle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "There are three unique stages of personal psychosocial growth that progress through the young, middle, and older years. Infancy and childhood are not identified as unique stages. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch12-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which change does the U.S. Census Bureau predict regarding future demographics of the U.S. population?",
+      "options": [
+        "Median age will increase from 28 to 38 years."
+      ],
+      "correctAnswer": null,
+      "explanation": "The U.S. Census Bureau forecasts that older women will outnumber older men by the year 2035. The median age will increase from 38 to 43 years; older adults over 65 years will outnumber children under 18 years, not over 18; and the growth rate of ethnic groups will increase, not decrease."
+    },
+    {
+      "id": "nutrition-ch12-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which program is available for low-income older adults to help improve nutrition by",
+      "options": [
+        "increasing their servings of fruits and vegetables?",
+        "U.S. Department of Health and Human Services"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Senior Farmers’ Market Nutrition Program is a grant-based program available for low-income older adults; it provides coupons that participants can exchange for fresh fruits, vegetables, and herbs at farmers’ markets, community-supported agriculture programs, and roadside stands. The program has increased the average servings of fruits and vegetables among participants. The U.S. Department of Health and Human Services provides essential services to help enhance and protect the well-being of all Americans. Meals on Wheels is an organization that delivers meals to the homes of older adults who are ill or disabled. SNAP issues electronic benefits transfer cards to the primary caregiver in the household. The electronic cards are used to purchase eligible food items at authorized food retail outlets."
+    },
+    {
+      "id": "nutrition-ch12-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How can the use of multiple medications adversely affect nutrition in older adults? Select all that apply.",
+      "options": [
+        "| Turns supplements toxic"
+      ],
+      "correctAnswers": [],
+      "explanation": "Taking multiple medications is known as polypharmacy. Polypharmacy can adversely affect the overall nutritional status by altering the client’s fluid balance, affecting appetite, and inhibiting absorption of nutrients. Although different medications may have adverse interactions with certain supplements, polypharmacy itself does not necessarily cause supplement toxicity. The drugs are meant to reduce disease symptoms; this does not necessarily affect nutrition."
+    },
+    {
+      "id": "nutrition-ch12-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation would be made for a patient who scores 14 points on the Mini Nutritional Assessment? x) © Nutritional counseling",
+      "options": [
+        "Close weight monitoring"
+      ],
+      "correctAnswer": null,
+      "explanation": "A screening score on the Mini Nutritional Assessment of 14 indicates a normal nutritional status and the patient should be rescreened yearly or after an illness or an acute event. Close weight monitoring, nutritional counseling, or oral nutritional supplementation are for those at risk or who are malnourished with scores above 14 points. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch12-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is completing a mini nutritional assessment (MNA) on the client. How would the nurse score a client who has a moderate decrease in food consumption but no weight loss",
+      "options": [
+        "in the past 3 months; is able to fairly independently leave the home; suffers from mild"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the MNA, a score of 1 would be assigned to the moderate decrease in food consumption, a score of 3 for no weight loss in the past 3 months, a score of 2 for the ability to independently leave the home, a score of 1 for the mild dementia, a score of 0 because of recent loss (within 3 months) of spouse, and a score of 1 for a body mass index of 20.5, which totals 8. A score of 8 places the individual at risk for malnutrition."
+    },
+    {
+      "id": "nutrition-ch12-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "An older resident of a nursing home presents to the office with symptoms that include depression and bone pain. Which condition would the nurse suspect?",
+      "options": [
+        "Sarcopenia",
+        "Senescence",
+        "Onset of dementia"
+      ],
+      "correctAnswer": null,
+      "explanation": "Living in a nursing home with too little sunlight along with the aging process are risk factors for vitamin D deficiency. Symptoms include depression, muscle weakness, and bone pain. The symptoms do not point to sarcopenia, senescence, or dementia Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch12-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Aging",
+      "difficulty": "easy",
+      "question": "Which change related to aging increases the risk potential for foodborne illness in the elderly population? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The risk for foodborne illness increases in older individuals as they begin to lose eyesight, taste, and smell acuity, and as they lose the ability to identify spoiled food. Impaired physical coordination also makes safe preparation of food difficult because inadequate chopping and cutting can pose a dangerous health risk. Senescence is the normal process of aging that is not a risk for foodborne illness. Osteoporosis increases a patient's risk for fractures but not foodborne illness. Decreased gastrointestinal motility can cause constipation and nausea, but is not a risk for foodborne illness."
+    },
+    {
+      "id": "nutrition-ch12-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor contributes to poor bone health in an older patient? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Poor bone health can be caused by smoking, inadequate calcium intake, reduction of estrogen after menopause, and other issues. Lack of exercise, not an excess, and a small, not large, body frame are also factors in poor bone health."
+    },
+    {
+      "id": "nutrition-ch12-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The family of an older adult client contacts the primary care provider regarding concerns about the client’s weight loss over the past 8 months. They report that the client does not need to lose weight and has not been trying to do so. If the client weighed 160 Ib 8 months ago, which current weight supports a diagnosis of unintentional weight loss? 0 ® 152",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Unintentional weight loss is defined as a weight loss of 5% of body weight over 6 months to a year that was not intentional; a weight of 152 lb meets the criteria. A weight of 153 |b is approximately 4% and does not meet the criteria. A weight of 156 |b is approximately 3% and does not meet the criteria. A weight of 157 Ib is approximately 2% and does not meet the criteria."
+    },
+    {
+      "id": "nutrition-ch12-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food should be avoided when taking a monoamine oxidase inhibitor antidepressant? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The older adult client taking a monoamine oxidase inhibitor should avoid tyramine-containing foods such as cheese, cured meats, and soy products; tyramine can cause adverse effects. Milk and tuna do not contain tyramine."
+    },
+    {
+      "id": "nutrition-ch12-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor most commonly contributes to depression in the older adult? Select all that apply.",
+      "options": [
+        "| Poor health",
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Feelings of loneliness, mortality, poor health, and the increased cost of health care are closely related to depression in the older adult. Depression is a clinical syndrome that is not part of the normal aging process."
+    },
+    {
+      "id": "nutrition-ch12-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor can contribute to malnutrition in the older adult? Select all that apply.",
+      "options": [
+        "| Economic insecurity"
+      ],
+      "correctAnswers": [],
+      "explanation": "Factors that contribute to malnutrition in the older adult include economic insecurity, social isolation, and decreased gastric motility. Dentures do not contribute to malnutrition in the older adult unless they are ill- fitting. Hydrochloric acid secretion in the stomach is decreased, not increased, with age."
+    },
+    {
+      "id": "nutrition-ch12-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "A 45-year-old adult who is having difficulty keeping weight off asks the nurse at the primary care provider’s office why it is so difficult to keep weight off and stay toned despite 50 minutes of moderate-intensity activity three times a week. Which response by the nurse provides the best explanation to the client?",
+      "options": [
+        "\"Insulin sensitivity and production both decline, making it harder to stay toned and keep off weight.\"",
+        "\"Dietary needs change, so you must focus on different sources of carbohydrates and fats to help keep"
+      ],
+      "correctAnswer": null,
+      "explanation": "After age 30, cell metabolism reduces and body composition changes, so individuals need 300 minutes of moderate-intensity activity per week. Insulin sensitivity and production do decline during the aging process, but this does not provide an explanation for the client’s concern. Dietary needs change according to living and working situations; however, changes in types of carbohydrates and fats would not necessarily be recommended or necessary, although a decrease in empty calories is recommended. Although there is a wider variety of manifestations of aging, this does not directly address or answer the question that client is asking. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch12-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "An adult client has begun a cardiovascular exercise program. Which macronutrient will the client’s body utilize for aerobic metabolism? Select all that apply.",
+      "options": [
+        "Carbohydrates"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Proteins, fats, and carbohydrates all provide energy for aerobic metabolism. Water is necessary for staying hydrated, but it is not a macronutrient. Calcium and magnesium are micronutrients."
+    },
+    {
+      "id": "nutrition-ch12-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which consideration is an area of concern for a patient who is taking several commonly prescribed medications including blood pressure medication and laxatives. Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Polypharmacy is correlated with falls and hip fractures; dehydration and drug interactions can occur; too many medications can lead to decreased compliance; and increased insurance costs are a consequence of polypharmacy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch12-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A new nursing assistant is helping residents in the dining room. Which recommendation would the supervising nurse make to help encourage the older residents to eat? rv) © Identify each food being offered to the resident.",
+      "options": [
+        "Explain the health benefits of finishing the meal.",
+        "Feed two residents at once so both will eat more.",
+        "Offer liquids at the end of the meal to increase solid food intake."
+      ],
+      "correctAnswer": null,
+      "explanation": "Identifying all food offered provides the resident with independent choices. Moralizing by suggesting health benefits of finishing a meal is not recommended; feeding two residents at once does not give the individualized attention needed; liquids are offered throughout the meal to prevent dehydration."
+    },
+    {
+      "id": "nutrition-ch12-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The home health nurse notes a recent weight loss without any other changes in health status for an older patient. The patient reports a lack of appetite since the loss of a partner. Which recommendation would the nurse make?",
+      "options": [
+        "Exploring assisted living facilities",
+        "Starting Meals on Wheels delivery",
+        "Attending meals at a senior center",
+        "©@ Beginning antidepressant medication"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Congregate nutrition services such as meals at a senior center provides adults who are older than 60 years of age with nutritionally sound meals to access to both wholesome food and social support, with some facilities providing other services, including nutrition screening, education, assessment, and counseling. Participants often eat healthier with improved overall health when attending this type of program. Assisted living facilities and antidepressants are not recommended at first; Meals on Wheels does not provide the social support often needed. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch12-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Which initial recommendation would be given to a patient who is overweight, with slightly elevated blood sugar noted at the last check-up?",
+      "options": [
+        "Insulin therapy"
+      ],
+      "correctAnswer": null,
+      "explanation": "A slightly elevated blood sugar indicates decreased glucose tolerance (prediabetes syndrome). Insulin response to glucose in the bloodstream is inadequate to maintain euglycemia and needs further investigation. Because the patient is overweight, the initial recommendation would be weight management in the form of increasing physical activity. Insulin therapy is not appropriate for prediabetes treatment. Physical activity declines with age, so weight management through regular physical activity for prediabetes, along with balanced meals and snacks, rather than oral antidiabetics, is recommended to avoid hyperglycemia and potentially delay or avoid the onset of type 2 diabetes. Because it is already known that the patient is overweight and there is a confirmed elevation in glucose level, it would not be appropriate to wait for a subsequent appointment and reassessment to provide basic guidance such as increasing physical activity."
+    },
+    {
+      "id": "nutrition-ch12-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Aging",
+      "difficulty": "easy",
+      "question": "When examining the oral cavity of an elderly patient, the nurse notes several missing teeth and signs of xerostomia. Based on these findings, the nurse would assess for which concern? Select all that apply.",
+      "options": [
+        "| Need for dentures"
+      ],
+      "correctAnswers": [],
+      "explanation": "Poor oral health is indicative of reduced overall health and quality of life in the elderly, increasing the risk for malnutrition. Missing teeth and xerostomia in the elderly increase the risk for malnutrition. Chewing can be difficult with missing teeth, dental caries, or periodontal disease, and a lack of saliva makes tasting and the breakdown of food difficult as well. Need for dentures or a caregiver are not indicated for this patient at this point."
+    },
+    {
+      "id": "nutrition-ch12-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement concerning aging and the metabolic rate are accurate? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Reduced metabolic rate reflects both lean muscle mass loss and loss of high metabolically active organ tissues. Metabolism begins to decline after 30, not after puberty. The loss of skeletal muscle can be reversed. The rate of change of muscle mass and organ tissues does not level off at age 65."
+    },
+    {
+      "id": "nutrition-ch12-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which physical change of aging affects gastrointestinal functions? Select all that apply.",
+      "options": [
+        "| Inadequate hydrochloric acid secretion"
+      ],
+      "correctAnswers": [],
+      "explanation": "Secretion of digestive juices lessens, and the motility of gastrointestinal muscles gradually weaken, which together causes diminished absorption and bioavailability of nutrients such as vitamins. Inadequate hydrochloric acid secretion in the stomach occurs with aging. Physical effects of aging include a decrease, not increase, in salivary secretions. pp. 200, 202"
+    },
+    {
+      "id": "nutrition-ch12-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "An older adult client admitted to the nursing home receives a screening score of 7 points on the mini nutritional assessment (MNA). What is the nurse’s priority action? rv) O Notify the health care provider.",
+      "options": [
+        "Do nothing; the score is acceptable."
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse’s priority action is to notify the health care provider. The older adult client with a screening score of 7 points on the MNA is considered malnourished and requires nutritional intervention. This score is not acceptable. Reviewing eating habits and assisting the client in choosing healthier foods can be done once the client is stabilized with the help of the health care provider. There may be many reasons the client is malnourished, and these can be addressed after the client’s nutrition is improved. Test-Taking Tip: If the question asks for an immediate action or response, all of the answers may be correct, so base your selection on identified priorities for action."
+    },
+    {
+      "id": "nutrition-ch12-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How can the use of multiple medications adversely affect nutrition in older adults? Select all that apply.",
+      "options": [
+        "| Turns supplements toxic"
+      ],
+      "correctAnswers": [],
+      "explanation": "Taking multiple medications is known as polypharmacy. Polypharmacy can adversely affect the overall nutritional status by altering the client’s fluid balance, affecting appetite, and inhibiting absorption of nutrients. Although different medications may have adverse interactions with certain supplements, polypharmacy itself does not necessarily cause supplement toxicity. The drugs are meant to reduce disease symptoms; this does not necessarily affect nutrition."
+    },
+    {
+      "id": "nutrition-ch12-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation would be made for a patient who scores 14 points on the Mini Nutritional Assessment?",
+      "options": [
+        "Nutritional counseling",
+        "Close weight monitoring"
+      ],
+      "correctAnswer": null,
+      "explanation": "A screening score on the Mini Nutritional Assessment of 14 indicates a normal nutritional status and the patient should be rescreened yearly or after an illness or an acute event. Close weight monitoring, nutritional counseling, or oral nutritional supplementation are for those at risk or who are malnourished with scores above 14 points. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch12-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is completing a mini nutritional assessment (MNA) on the client. How would the nurse score a client who has a moderate decrease in food consumption but no weight loss",
+      "options": [
+        "in the past 3 months; is able to fairly independently leave the home; suffers from mild"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the MNA, a score of 1 would be assigned to the moderate decrease in food consumption, a score of 3 for no weight loss in the past 3 months, a score of 2 for the ability to independently leave the home, a score of 1 for the mild dementia, a score of 0 because of recent loss (within 3 months) of spouse, and a score of 1 for a body mass index of 20.5, which totals 8. A score of 8 places the individual at risk for malnutrition."
+    },
+    {
+      "id": "nutrition-ch12-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Aging",
+      "difficulty": "easy",
+      "question": "Which change related to aging increases the risk potential for foodborne illness in the elderly population? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The risk for foodborne illness increases in older individuals as they begin to lose eyesight, taste, and smell acuity, and as they lose the ability to identify spoiled food. Impaired physical coordination also makes safe preparation of food difficult because inadequate chopping and cutting can pose a dangerous health risk. Senescence is the normal process of aging that is not a risk for foodborne illness. Osteoporosis increases a patient's risk for fractures but not foodborne illness. Decreased gastrointestinal motility can cause constipation and nausea, but is not a risk for foodborne illness."
+    },
+    {
+      "id": "nutrition-ch12-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food should be avoided when taking a monoamine oxidase inhibitor antidepressant? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The older adult client taking a monoamine oxidase inhibitor should avoid tyramine-containing foods such as cheese, cured meats, and soy products; tyramine can cause adverse effects. Milk and tuna do not contain tyramine."
+    },
+    {
+      "id": "nutrition-ch12-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor can contribute to malnutrition in the older adult? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Factors that contribute to malnutrition in the older adult include economic insecurity, social isolation, and decreased gastric motility. Dentures do not contribute to malnutrition in the older adult unless they are ill- fitting. Hydrochloric acid secretion in the stomach is decreased, not increased, with age."
+    },
+    {
+      "id": "nutrition-ch12-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which consideration is an area of concern for a patient who is taking several commonly prescribed medications including blood pressure medication and laxatives. Select all that apply.",
+      "options": [
+        "|B] Decreased compliance"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Polypharmacy is correlated with falls and hip fractures; dehydration and drug interactions can occur; too many medications can lead to decreased compliance; and increased insurance costs are a consequence of polypharmacy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch12-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The home health nurse notes a recent weight loss without any other changes in health status for an older patient. The patient reports a lack of appetite since the loss of a partner. Which recommendation would the nurse make?",
+      "options": [
+        "Exploring assisted living facilities",
+        "Starting Meals on Wheels delivery",
+        "Attending meals at a senior center",
+        "Beginning antidepressant medication"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Congregate nutrition services such as meals at a senior center provides adults who are older than 60 years of age with nutritionally sound meals to access to both wholesome food and social support, with some facilities providing other services, including nutrition screening, education, assessment, and counseling. Participants often eat healthier with improved overall health when attending this type of program. Assisted living facilities and antidepressants are not recommended at first; Meals on Wheels does not provide the social support often needed. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch12-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Aging",
+      "difficulty": "easy",
+      "question": "When examining the oral cavity of an elderly patient, the nurse notes several missing teeth and signs of xerostomia. Based on these findings, the nurse would assess for which concern? Select all that apply.",
+      "options": [
+        "Difficulty chewing food"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Poor oral health is indicative of reduced overall health and quality of life in the elderly, increasing the risk for malnutrition. Missing teeth and xerostomia in the elderly increase the risk for malnutrition. Chewing can be difficult with missing teeth, dental caries, or periodontal disease, and a lack of saliva makes tasting and the breakdown of food difficult as well. Need for dentures or a caregiver are not indicated for this patient at this point."
+    },
+    {
+      "id": "nutrition-ch12-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "An older adult client admitted to the nursing home receives a screening score of 7 points on the mini nutritional assessment (MNA). What is the nurse’s priority action? rv) © Notify the health care provider.",
+      "options": [
+        "Do nothing; the score is acceptable.",
+        "Review the client’s eating habits.",
+        "Assist the client in choosing healthier foods."
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse’s priority action is to notify the health care provider. The older adult client with a screening score of 7 points on the MNA is considered malnourished and requires nutritional intervention. This score is not acceptable. Reviewing eating habits and assisting the client in choosing healthier foods can be done once the client is stabilized with the help of the health care provider. There may be many reasons the client is malnourished, and these can be addressed after the client’s nutrition is improved. Test-Taking Tip: If the question asks for an immediate action or response, all of the answers may be correct, so base your selection on identified priorities for action."
+    },
+    {
+      "id": "nutrition-ch12-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "How can the use of multiple medications adversely affect nutrition in older adults? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Taking multiple medications is known as polypharmacy. Polypharmacy can adversely affect the overall nutritional status by altering the client’s fluid balance, affecting appetite, and inhibiting absorption of nutrients. Although different medications may have adverse interactions with certain supplements, polypharmacy itself does not necessarily cause supplement toxicity. The drugs are meant to reduce disease symptoms; this does not necessarily affect nutrition."
+    },
+    {
+      "id": "nutrition-ch12-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is completing a mini nutritional assessment (MNA) on the client. How would the nurse score a client who has a moderate decrease in food consumption but no weight loss",
+      "options": [
+        "in the past 3 months; is able to fairly independently leave the home; suffers from mild"
+      ],
+      "correctAnswer": null,
+      "explanation": "According to the MNA, a score of 1 would be assigned to the moderate decrease in food consumption, a score of 3 for no weight loss in the past 3 months, a score of 2 for the ability to independently leave the home, a score of 1 for the mild dementia, a score of 0 because of recent loss (within 3 months) of spouse, and a score of 1 for a body mass index of 20.5, which totals 8. A score of 8 places the individual at risk for malnutrition."
+    },
+    {
+      "id": "nutrition-ch12-069",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which statement about metabolism and weight management in middle-aged adults is accurate?",
+      "options": [
+        "Exercise needs to increase incrementally to help keep weight off."
+      ],
+      "correctAnswer": null,
+      "explanation": "When physical maturity is reached, energy requirements decrease, the metabolic rate decreases, and the need for fewer kilocalories becomes important for weight management. Exercise needs do not necessarily increase; balancing exercise and nutritional intake will be important. Adults do not require different types of foods to address changing metabolism, nor is there a need to increase the intake of fats versus carbohydrates to meet the energy needs of the body."
+    },
+    {
+      "id": "nutrition-ch12-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which substance should be avoided when taking antihypertensive medications?",
+      "options": [
+        "St. John’s wort",
+        "@ Grapefruit juice",
+        "Antidepressants",
+        "Alcohol products"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When taking antihypertensives, it is recommended to avoid taking them with grapefruit juice, which can prevent the medication from being absorbed. St. John’s wort, antidepressants, and alcohol products do not cause interactions or inhibit the action of antihypertensive medication."
+    },
+    {
+      "id": "nutrition-ch12-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which description is the pathophysiologic basis for reduced cell metabolism beginning at approximately 30 years of age?",
+      "options": [
+        "Multiple hormonal changes"
+      ],
+      "correctAnswer": null,
+      "explanation": "At approximately age 30, a gradual loss of functioning cells begins, resulting in reduced cell metabolism. Multiple hormonal changes cause a variety of issues at different ages that impact health but are not implicated in relation to cell metabolism. Changes in body composition also occur because of the gradual loss of functioning cells, so this is not a pathophysiologic basis for reduced cell metabolism. A decreased bodily demand for energy is not related to reduced cell metabolism as one ages but rather the result of it."
+    },
+    {
+      "id": "nutrition-ch12-072",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Vitamins",
+      "difficulty": "medium",
+      "question": "Which vitamin D dosage meets the requirement of individuals who are older than 70 years?",
+      "options": [
+        "400 lU/day",
+        "600 1u/Day",
+        "300 lU/day",
+        "1000 lU/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The dietary reference intake (DRI) for vitamin D is 800 |U/day for individuals who are older than 70 years of age. The DRI for vitamin D is 600 IU/day for individuals 1 to 70 years of age. Vitamin D dosage of 400 IU/day is not adequate for individuals who are older than 70 years of age, whereas a dosage of 1000 |U/day is more than the daily requirement."
+    },
+    {
+      "id": "nutrition-ch12-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "An older patient being seen in a community clinic is noted to have a body mass index (BMI) of 30. After ascertaining dietary habits and income information, which program does the nurse recommend?",
+      "options": [
+        "Meals on Wheels"
+      ],
+      "correctAnswer": null,
+      "explanation": "A BMI of 30 indicates obesity. The Supplemental Nutrition Assistance Program (SNAP) provides nutrition education and obesity prevention interventions. Meals on Wheels and congregate nutrition services provide low-cost meals but not interventions and education clearly needed by this patient. The Human Nutrition Research Center is a research facility that does not provide direct patient services. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch12-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Once an individual reaches early adulthood, which best reflects the process of physical growth?",
+      "options": [
+        "Physical growth is completed by adulthood and begins a slow decline.",
+        "Physical growth is genetically predetermined and stops after adolescence."
+      ],
+      "correctAnswer": null,
+      "explanation": "Physical growth and maturity levels off during the early adult years, and physical growth becomes a process of vital growth of new cells rather than increasing numbers of cells for growth and development. Physical growth and maturity are governed by genetic potential and level off in the early adult years; it is not complete at adulthood, nor does it stop at the end of adolescence. Physical growth in adulthood is about growth of new cells to replace old cells, not increasing numbers of cells. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch12-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which statement provides the most accurate information about metabolic changes related to aging in men and women? rv) O Basal metabolic rate declines for both sexes with a more rapid decline beginning earlier for men than for women.",
+      "options": [
+        "There are no real sex differences when it comes to declines in basal metabolic rate; an average of 1%"
+      ],
+      "correctAnswer": null,
+      "explanation": "Basal metabolic rate declines 1% to 2% per decade, with a more rapid decline beginning at age 40 for men and age 50 for women. Basal metabolic rate does decline 1% to 2% per decade, but an increased rate of decline begins earlier for men than women, so this is an incorrect statement. The basal metabolic rate begins a more rapid decline for men at age 40 and women at age 50, so stating that the rate declines more rapidly for women is incorrect. The basal metabolic rate does decline an estimated 5% overall during the middle and older years, but there is a more rapid decline that begins earlier for men than women, so this statement does not best respond to the question."
+    },
+    {
+      "id": "nutrition-ch12-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the most effective way for the nurse to assist with the feeding of an older adult client? Select all that apply.",
+      "options": [
+        "| Identify the food that is being served.",
+        "| Remain focused on the client."
+      ],
+      "correctAnswers": [],
+      "explanation": "The most effective way for the nurse to assist with feeding an older adult is to identify the food that is being served and remain focused on the client. Foods should not be switched after every bite. The client should have at least three bites of the same food before going to another food to allow time for the taste buds to become accustomed to the food. Liquids should be given throughout the meal and not just at the beginning or end of the meal. The statement \"Eat this because it is good for you\" has little value for anyone, especially for those who are struggling to maintain their personal integrity and self-esteem in a youth-oriented, age-fearing culture."
+    },
+    {
+      "id": "nutrition-ch12-077",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which statement about metabolism and weight management in middle-aged adults is accurate?",
+      "options": [
+        "Exercise needs to increase incrementally to help keep weight off."
+      ],
+      "correctAnswer": null,
+      "explanation": "When physical maturity is reached, energy requirements decrease, the metabolic rate decreases, and the need for fewer kilocalories becomes important for weight management. Exercise needs do not necessarily increase; balancing exercise and nutritional intake will be important. Adults do not require different types of foods to address changing metabolism, nor is there a need to increase the intake of fats versus carbohydrates to meet the energy needs of the body."
+    },
+    {
+      "id": "nutrition-ch12-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the leading cause of unintentional weight loss in the older adult client?",
+      "options": [
+        "Impaired physical function",
+        "Failure to thrive"
+      ],
+      "correctAnswer": null,
+      "explanation": "Depression is the leading cause of unintentional weight loss in older adults. Impaired physical function can be a contributing factor for unintentional weight loss in some instances, but it is not the leading cause. Unintentional weight loss is a symptom in an older adult diagnosed with failure to thrive. Failure to thrive is generally multifactorial and caused by a combination of chronic diseases associated with impaired physical function, malnutrition, depression, and cognitive impairment. Limited access to health care contributes to a higher risk for poor health and death, but it is not the leading cause of weight loss in older adults."
+    },
+    {
+      "id": "nutrition-ch12-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which age is forecasted to be the median in the United States by the year 2060?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The median age will increase from 38 to 43 by 2060, with women outnumbering men in the eldest groups. Eighteen, 38, and 65 are not the forecasted average median age of the U.S. population by the year 2060. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect, and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch12-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which food/nutrient can cause an adverse reaction in an older adult client taking a nonsteroidal antiinflammatory drug (NSAID)? rv) O Alcohol x) © Grapefruit juice",
+      "options": [
+        "Licorice",
+        "Caffeine"
+      ],
+      "correctAnswer": null,
+      "explanation": "Alcohol should be avoided for the older adult client taking an NSAID. Grapefruit juice should be avoided for a client taking antihyperlipidemics and antihistamines. Licorice should be avoided for a client taking antihypertensives. Caffeine should be avoided for clients taking monoamine oxidase inhibitors."
+    },
+    {
+      "id": "nutrition-ch12-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "How can a decrease in hypothalamic function adversely affect an older adult client?",
+      "options": [
+        "Increases skeletal muscle loss",
+        "Increases the risk for dehydration",
+        "Promotes unintentional weight gain",
+        "Increases the risk for osteoporosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The decrease in hypothalamic function reduces thirst in older adults, which results in an increased risk for dehydration. An increased loss of skeletal muscle mass occurs as a result of inadequate dietary protein metabolism and physical activity. Unintentional weight gain results from nutritional problems. The increased risk for osteoporosis occurs significantly with age and is a result of poor bone health. Some contributing factors include inadequate vitamin D and calcium intake."
+    },
+    {
+      "id": "nutrition-ch12-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 12",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which description is the pathophysiologic basis for reduced cell metabolism beginning at approximately 30 years of age?",
+      "options": [
+        "Multiple hormonal changes",
+        "Changes in body composition"
+      ],
+      "correctAnswer": null,
+      "explanation": "At approximately age 30, a gradual loss of functioning cells begins, resulting in reduced cell metabolism. Multiple hormonal changes cause a variety of issues at different ages that impact health but are not implicated in relation to cell metabolism. Changes in body composition also occur because of the gradual loss of functioning cells, so this is not a pathophysiologic basis for reduced cell metabolism. A decreased bodily demand for energy is not related to reduced cell metabolism as one ages but rather the result of it."
+    }
+  ]
+}

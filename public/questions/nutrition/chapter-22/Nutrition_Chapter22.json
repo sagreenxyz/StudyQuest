@@ -1,0 +1,1498 @@
+{
+  "name": "Nutrition Surgery and Nutritional Support",
+  "description": "Chapter 22 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch22-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "Which recommendation would be given when a patient who recently had a hemorrhoidectomy calls the health care provider reporting pain with defecation? rv) © \"You need to limit your intake of fiber.\"",
+      "options": [
+        "\"You should not be taking nonresidual formulas.\"",
+        "\"You should be seen immediately in the emergency department.\"",
+        "\"Pain is not normal with defecation following a hemorrhoidectomy.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "After hemorrhoidectomy, clear fluid diets and fiber-restricted diets will help reduce painful elimination and allow for healing. Nonresidual commercial elemental formulas would help delay bowel movements until the surgical area is healed. It would not be appropriate to recommend immediate medical help. Pain at the surgical site would be normal and an expected finding and should improve as the surgical site heals."
+    },
+    {
+      "id": "nutrition-ch22-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which instructions would the nurse provide to a patient about expectations after bariatric surgery?",
+      "options": [
+        "\"You will not have any restrictions following surgery.”",
+        "\"You will be able to transition to a regular diet within 1 week of surgery.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Micronutrient deficiencies from limited intake and malabsorption warrant multivitamin and mineral supplementation postoperatively for life. Registered dietitians recommend taking the following supplements daily after surgery: two multivitamin/mineral supplements with iron, calcium citrate, and vitamin D. The patient will have some restrictions after surgery, and these should be discussed in detail. Patients usually progress very slowly from a clear liquid diet to a regular diet (within 2 months) and would not be able to quickly transition to a regular diet within the first postoperative week. pp. 427, 429"
+    },
+    {
+      "id": "nutrition-ch22-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take for a patient receiving enteral feedings who is having diarrhea? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Patients may develop diarrhea when having enteral feedings. Interventions for patients who are receiving enteral feedings experiencing diarrhea include administering probiotics, using continuous feedings instead of bolus feedings, giving antidiarrheal medications if there is no bacterial infection, and considering the use of formula that is low in fat. Because hypertonic solutions pull water in to the intestines, these solutions should be avoided in patients experiencing diarrhea on enteral feedings because they would exacerbate the problem."
+    },
+    {
+      "id": "nutrition-ch22-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take to help alleviate thirst for a patient receiving enteral nutrition via a newly placed gastrostomy tube? rv) O Assist the patient with brushing their teeth.",
+      "options": [
+        "Provide a glass of water for the patient to drink."
+      ],
+      "correctAnswer": null,
+      "explanation": "With a new placement of a gastrostomy tube, the patient should not take anything orally, including fluid. An appropriate intervention to provide a patient who reports thirst is to assist the patient with brushing their teeth. It would be inappropriate and possibly dangerous to allow the patient to drink fluids by mouth. The nurse would need to obtain an order from the health care provider to administer extra fluid via the gastrostomy tube. Recommending IV fluids may be appropriate for patients not receiving enteral nutrition. pp. 418-419, 424"
+    },
+    {
+      "id": "nutrition-ch22-005",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "A postoperative patient is diagnosed with malnutrition. Which characteristic would lead to a diagnosis of malnutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Malnutrition poses a significant risk for patients because it contributes to mortality and morbidity, extended stays in the hospital, and significant additional treatment costs. The diagnosis of malnutrition requires at least two of the following criteria: weight loss, loss of muscle mass, insufficient energy intake, a diminished functional status as measured by handgrip strength, loss of subcutaneous fat, and localized or generalized fluid accumulation. The diagnosis of malnutrition does not require a deficiency in vitamins and minerals. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Calculate how many milliliters of formula a 60-year old patient with an injury factor of 1.5 would receive at each feeding if they were scheduled for 5 feedings per day with a formula that has an energy factor of 1.5. The patient is 215 pounds and 6 feet tall.",
+      "options": [
+        "300 @) 365 mL per feeding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The patient would receive 365 mL per feeding. The formula to calculate the calorie needs uses kilograms for weight and centimeters for height: [(10 x weight in kg) + (6.25 x height in centimeters) - (5 x age) +5] x injury factor First, convert the patient's weight to kilograms: 215 lb + 2.2 kg/Ib = 97.7 kg And height ft to inches then centimeters: 6 ft x 12 in/ft = 72 in; 72 in x 2.54 cm/in = 182.9 cm. Now, calculate the patient's basal metabolic rate (BMR) using the first part of the formula above: [(10 x 97.7 kg) + (6.25 x 182.9 cm) - (5 x 60 years) + 5] = [977 + 1143 - 300 + 5] = 1825 kcal/day Then, multiple the BMR by the injury factor to calculate the total energy need: 1825 kcal/day x 1.5 = 2737 kcal/day Each nutrition formula has an energy factor. To calculate how much formula is needed for the day, divide the total energy need by the formula's energy factor: 2737 + 1.5 = 1825 mL/day Finally, divide total amount of formula for the day by the number of feedings scheduled: 1825 + 5 = 365"
+    },
+    {
+      "id": "nutrition-ch22-007",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "When a patient is preparing for elective surgery, which nutritional need should be the focus? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When a patient has elective surgery, nutrient stores should be built up to prepare for surgery and promote recovery. Nutrient stores to build up include protein, vitamins, and kilocalories. Dehydration may occur if fluids are restricted. Calcium is essential for mineral bone density and should not be decreased. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient receiving enteral nutrition is experiencing diarrhea. Which priority course of action does the nurse expect the health care provider to take? rv) O Rule out infection.",
+      "options": [
+        "Stop the enteral feeding."
+      ],
+      "correctAnswer": null,
+      "explanation": "The priority course of action for a patient receiving enteral nutrition and experiencing diarrhea is to rule out infection. Clostridium difficile enterocolitis is a common cause of infection and should be ruled out before stopping enteral feeding, decreasing the rate of feeding, or changing the enteral formula. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 422-423"
+    },
+    {
+      "id": "nutrition-ch22-010",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which variable is required to calculate the rate and feeding schedule of a patient receiving enteral nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The patient’s weight, height, injury factor, and metabolic needs are necessary to calculate the appropriate rate and feeding schedule for enteral nutrition. The prealbumin level is not required for the calculation of the rate and feeding schedule, but it is a biochemical measure for monitoring the patient once he or she is receiving enteral nutrition."
+    },
+    {
+      "id": "nutrition-ch22-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which intervention can be implemented for the patient receiving enteral nutrition who experiences tension and fullness?",
+      "options": [
+        "Chewing sugarless gum",
+        "Lifting the head of the bed 30 to 45 degrees"
+      ],
+      "correctAnswer": null,
+      "explanation": "Having the patient relax and breathe deeply after each feeding should be implemented for the patient receiving enteral nutrition and experiencing tension and fullness. Chewing sugarless gum will help with thirst and oral dryness. Lifting the head of the bed 30 to 45 degrees helps prevent reflux or aspiration. Using continuous feedings instead of bolus feedings is an intervention for a patient with diarrhea."
+    },
+    {
+      "id": "nutrition-ch22-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient was instructed to maintain a full liquid diet following colostomy bag placement. Which response would the nurse provide when the patient calls the health care provider asking for advice regarding foods that can be eaten?",
+      "options": [
+        "©@ \"You can have clear broths, strained fruit juices, and popsicles.\"",
+        "\"You can have mashed potatoes, fish, veal, and crackers.\"",
+        "\"You can have ice cream, pudding, and pureed vegetables.\"",
+        "\"You can have coffee with cream, frozen yogurt, and cooked cereal.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Full liquid diets contain anything that would melt at room temperature. Foods to suggest to this patient would include ice cream, pudding, and pureed vegetables. Clear broths, strained fruit juices, and popsicles would be recommended for a clear liquid diet. Mashed potatoes, fish, veal, and crackers would be suggested for a patient on a mechanical soft diet. Coffee with cream, frozen yogurt, and cooked cereal would also be recommended for someone on a mechanical soft diet. Test-Taking Tip: Be alert for grammatical inconsistencies. If the response is intended to complete the stem (an incomplete sentence) but makes no grammatical sense to you, it might be a distractor rather than the correct response. Question writers typically try to eliminate these inconsistencies."
+    },
+    {
+      "id": "nutrition-ch22-013",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is reviewing the safe ways to assist a patient with meals before delegating the task to a nursing assistant. Which action is appropriate to review with the nursing assistant? Select all that apply.",
+      "options": [
+        "|B] Observe the patient’s appetite."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Observing the patient’s appetite will help the nurse and dietitian adapt the patient’s diet to meet individual needs. Allowing ample time for the patient to chew and between mouthfuls is an important intervention. Depending on the patient’s conditions, having simple conversations with the patient demonstrates interest in the patient and would be beneficial. Lastly, when a patient indicates that they are finished, the assistance should end. The patient should not be forced to eat more. Liquids should be offered between bites of solid food, not while the patient is chewing."
+    },
+    {
+      "id": "nutrition-ch22-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which patient would require parenteral nutrition?",
+      "options": [
+        "A patient who has cystic fibrosis and a body mass index in the 10th percentile",
+        "©@ A patient who had a traumatic brain injury who is unable to swallow",
+        "A patient with short gut syndrome who has had minimal resection of the bowel",
+        "A patient who recently suffered severe burns and reports nausea and vomiting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parenteral nutrition is recommended for individuals without a functioning lower gastrointestinal system and those with major trauma and burns, intestinal atresia, or severe pancreatitis. A patient with cystic fibrosis, traumatic brain injury, and short gut syndrome with minimal bowel resection would be better candidates for enteral nutrition. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch22-015",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient recently started receiving enteral nutrition. Which action would the nurse take to monitor for complications? Select all that apply.",
+      "options": [
+        "|B] Record intake and output",
+        "Palpate for abdominal pain",
+        "|B] Inform the health care provider if diarrhea occurs"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Nurses continuously monitor patients who receive enteral nutrition for appropriate feeding schedules, tolerance, and potential complications. Nurses assess for signs and symptoms of edema, monitor stool output and consistency, check gastric residuals, check fluid balance by recording intake and output, assess for abdominal distention and tenderness, and inform the health care provider if the patient experiences diarrhea. Before making changes to the enteral feeding protocol because of diarrhea, the health care provider should rule out the common culprits, such as medications or Clostridium difficile enterocolitis. pp. 422, 423"
+    },
+    {
+      "id": "nutrition-ch22-016",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation would the nurse provide before discharging a patient from the hospital after a gastrectomy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A gastrectomy is removal of part or all of the stomach. The basic principles of diet therapy for the immediate postgastrectomy period involve both the size of the meals (which should be small and frequent) and the nature of the meals (which are generally simple, easily digested, bland, and low in bulk). Patients may have small frequent meals, as tolerated."
+    },
+    {
+      "id": "nutrition-ch22-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which response would the nurse provide regarding a nutrition plan to a patient with burns that cover 15% of the total body surface area on the lower extremities and torso and is currently in the flow phase?",
+      "options": [
+        "“You will be able to eat by mouth.\"",
+        "©@ “You will need to receive nutrition through an IV.\"",
+        "\"Right now, our main concern is fluid resuscitation.\"",
+        "\"We need to let your bowels rest, so you are not able to eat or drink anything.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most patients with burns that cover less than 20% of the total body surface area can consume an oral meal plan that is adequate in nutrient needs. Receiving nutrition through an IV would only be necessary if the patient is unable to consume an adequate amount of nutrients by mouth or if gastrointestinal feedings are not possible. Health care providers resuscitate patients with large amounts of IV fluids and electrolyte therapy during the ebb phase, not the flow phase, to prevent shock. Typically, nutrition therapy begins within 24 to 48 hours after the injury. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch22-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take as a priority for a patient admitted for extreme burns who is in ebb phase?",
+      "options": [
+        "Administer vitamin C supplement",
+        "Administer vitamin A supplement"
+      ],
+      "correctAnswer": null,
+      "explanation": "The ebb phase is the period immediately after a trauma, such as a burn. Burn shock is a condition resulting from the loss of large amounts of fluid that occurs during the first hours until approximately the second day after a burn. To prevent shock, patients should be resuscitated with large amounts of IV fluids and electrolyte therapy. Vitamin C and vitamin A supplements are recommended for patients with burns but would not be the priority during the ebb phase. Adequate energy intake from carbohydrates is important in the recovery of burn patients but is not the top priority during the ebb phase. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\" pp. 430-431"
+    },
+    {
+      "id": "nutrition-ch22-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which instructions would the nurse provide to a patient about expectations after bariatric surgery?",
+      "options": [
+        "\"You will not have any restrictions following surgery.”",
+        "\"You will be able to transition to a regular diet within 1 week of surgery.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Micronutrient deficiencies from limited intake and malabsorption warrant multivitamin and mineral supplementation postoperatively for life. Registered dietitians recommend taking the following supplements daily after surgery: two multivitamin/mineral supplements with iron, calcium citrate, and vitamin D. The patient will have some restrictions after surgery, and these should be discussed in detail. Patients usually progress very slowly from a clear liquid diet to a regular diet (within 2 months) and would not be able to quickly transition to a regular diet within the first postoperative week. pp. 427, 429"
+    },
+    {
+      "id": "nutrition-ch22-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take for a patient receiving enteral feedings who is having diarrhea? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Patients may develop diarrhea when having enteral feedings. Interventions for patients who are receiving enteral feedings experiencing diarrhea include administering probiotics, using continuous feedings instead of bolus feedings, giving antidiarrheal medications if there is no bacterial infection, and considering the use of formula that is low in fat. Because hypertonic solutions pull water in to the intestines, these solutions should be avoided in patients experiencing diarrhea on enteral feedings because they would exacerbate the problem."
+    },
+    {
+      "id": "nutrition-ch22-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take to help alleviate thirst for a patient receiving enteral nutrition via a newly placed gastrostomy tube? rv) © Assist the patient with brushing their teeth.",
+      "options": [
+        "Provide a glass of water for the patient to drink.",
+        "Administer extra fluid via the gastrostomy tube.",
+        "Recommend that the health care provider order intravenous (IV) fluids."
+      ],
+      "correctAnswer": null,
+      "explanation": "With a new placement of a gastrostomy tube, the patient should not take anything orally, including fluid. An appropriate intervention to provide a patient who reports thirst is to assist the patient with brushing their teeth. It would be inappropriate and possibly dangerous to allow the patient to drink fluids by mouth. The nurse would need to obtain an order from the health care provider to administer extra fluid via the gastrostomy tube. Recommending IV fluids may be appropriate for patients not receiving enteral nutrition. pp. 418-419, 424"
+    },
+    {
+      "id": "nutrition-ch22-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "An older patient in a long-term care facility recently had back surgery and requires assistance with eating. Which guideline would support patient independence?",
+      "options": [
+        "Require that the patient obtain their own tray.",
+        "Provide standard utensils for the patient to use.",
+        "Avoid asking the patient if they require assistance."
+      ],
+      "correctAnswer": null,
+      "explanation": "Cutting food before bringing food into the patient’s room will help promote a feeling of independence. Requiring that patients obtain their own tray may not be feasible. Providing special utensils that help the patient eat their meal independently and more easily will help promote a feeling of independence; standard utensils may lead to frustration and a feeling of dependence. Patients should be asked if they need any assistance. The health care provider can assist a patient while still allowing for patient independence."
+    },
+    {
+      "id": "nutrition-ch22-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "A postoperative patient is diagnosed with malnutrition. Which characteristic would lead to a diagnosis of malnutrition? Select all that apply.",
+      "options": [
+        "| Weight loss"
+      ],
+      "correctAnswers": [],
+      "explanation": "Malnutrition poses a significant risk for patients because it contributes to mortality and morbidity, extended stays in the hospital, and significant additional treatment costs. The diagnosis of malnutrition requires at least two of the following criteria: weight loss, loss of muscle mass, insufficient energy intake, a diminished functional status as measured by handgrip strength, loss of subcutaneous fat, and localized or generalized fluid accumulation. The diagnosis of malnutrition does not require a deficiency in vitamins and minerals. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-024",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which test is a biochemical measure used to monitor patients receiving enteral nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Some of the biochemical measures used to monitor patients receiving enteral nutrition are glucose, serum electrolytes, and blood urea nitrogen. C-reactive protein (CRP), D-dimer test, and INR are not monitored in patients receiving enteral nutrition. CRP is used to check for infection or inflammation in the body. D-dimer test is used to monitor blood-clotting issues. INR measures the time for the blood to clot. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and in an area as complex as nursing, an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch22-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which hospital diet contains foods that are liquid and melt at room temperature? P g P",
+      "options": [
+        "Clear liquid diet",
+        "Full liquid diet",
+        "Mechanically altered diet",
+        "Regular house diet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A full-liquid diet contains anything that would melt at room temperature and is used only temporarily during recovery. Clear liquids consist of foods that are transparent liquid at body temperature and require minimal digestion. A mechanically altered diet consists of foods that are easy to swallow (i.e., they are blended, chopped, ground, or mashed). A regular house diet consists of foods of all textures, taken when the patient has no difficulty chewing or swallowing."
+    },
+    {
+      "id": "nutrition-ch22-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Calculate how many milliliters of formula a 60-year old patient with an injury factor of 1.5 would receive at each feeding if they were scheduled for 5 feedings per day with a formula that has an energy factor of 1.5. The patient is 215 pounds and 6 feet tall. @} 365 mL per feeding",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The patient would receive 365 mL per feeding. The formula to calculate the calorie needs uses kilograms for weight and centimeters for height: [(10 x weight in kg) + (6.25 x height in centimeters) - (5 x age) +5] x injury factor First, convert the patient's weight to kilograms: 215 lb + 2.2 kg/Ib = 97.7 kg And height ft to inches then centimeters: 6 ft x 12 in/ft = 72 in; 72 in x 2.54 cm/in = 182.9 cm. Now, calculate the patient's basal metabolic rate (BMR) using the first part of the formula above: [(10 x 97.7 kg) + (6.25 x 182.9 cm) - (5 x 60 years) + 5] = [977 + 1143 - 300 + 5] = 1825 kcal/day Then, multiple the BMR by the injury factor to calculate the total energy need: 1825 kcal/day x 1.5 = 2737 kcal/day Each nutrition formula has an energy factor. To calculate how much formula is needed for the day, divide the total energy need by the formula's energy factor: 2737 + 1.5 = 1825 mL/day Finally, divide total amount of formula for the day by the number of feedings scheduled: 1825 + 5 = 365"
+    },
+    {
+      "id": "nutrition-ch22-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient receiving enteral nutrition is experiencing diarrhea. Which priority course of action does the nurse expect the health care provider to take? rv) © Rule out infection.",
+      "options": [
+        "Stop the enteral feeding.",
+        "Decrease the rate of feeding.",
+        "Change the enteral formula."
+      ],
+      "correctAnswer": null,
+      "explanation": "The priority course of action for a patient receiving enteral nutrition and experiencing diarrhea is to rule out infection. Clostridium difficile enterocolitis is a common cause of infection and should be ruled out before stopping enteral feeding, decreasing the rate of feeding, or changing the enteral formula. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 422-423"
+    },
+    {
+      "id": "nutrition-ch22-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which variable is required to calculate the rate and feeding schedule of a patient receiving enteral nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The patient’s weight, height, injury factor, and metabolic needs are necessary to calculate the appropriate rate and feeding schedule for enteral nutrition. The prealbumin level is not required for the calculation of the rate and feeding schedule, but it is a biochemical measure for monitoring the patient once he or she is receiving enteral nutrition."
+    },
+    {
+      "id": "nutrition-ch22-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient was instructed to maintain a full liquid diet following colostomy bag placement. Which response would the nurse provide when the patient calls the health care provider asking for advice regarding foods that can be eaten?",
+      "options": [
+        "\"You can have clear broths, strained fruit juices, and popsicles.\"",
+        "\"You can have mashed potatoes, fish, veal, and crackers.\"",
+        "\"You can have ice cream, pudding, and pureed vegetables.\"",
+        "\"You can have coffee with cream, frozen yogurt, and cooked cereal.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "Full liquid diets contain anything that would melt at room temperature. Foods to suggest to this patient would include ice cream, pudding, and pureed vegetables. Clear broths, strained fruit juices, and popsicles would be recommended for a clear liquid diet. Mashed potatoes, fish, veal, and crackers would be suggested for a patient on a mechanical soft diet. Coffee with cream, frozen yogurt, and cooked cereal would also be recommended for someone on a mechanical soft diet. Test-Taking Tip: Be alert for grammatical inconsistencies. If the response is intended to complete the stem (an incomplete sentence) but makes no grammatical sense to you, it might be a distractor rather than the correct response. Question writers typically try to eliminate these inconsistencies."
+    },
+    {
+      "id": "nutrition-ch22-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which patient would require parenteral nutrition?",
+      "options": [
+        "©@ A patient who has cystic fibrosis and a body mass index in the 10th percentile",
+        "A patient who had a traumatic brain injury who is unable to swallow",
+        "A patient with short gut syndrome who has had minimal resection of the bowel",
+        "A patient who recently suffered severe burns and reports nausea and vomiting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parenteral nutrition is recommended for individuals without a functioning lower gastrointestinal system and those with major trauma and burns, intestinal atresia, or severe pancreatitis. A patient with cystic fibrosis, traumatic brain injury, and short gut syndrome with minimal bowel resection would be better candidates for enteral nutrition. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch22-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation would the nurse provide before discharging a patient from the hospital after a gastrectomy? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A gastrectomy is removal of part or all of the stomach. The basic principles of diet therapy for the immediate postgastrectomy period involve both the size of the meals (which should be small and frequent) and the nature of the meals (which are generally simple, easily digested, bland, and low in bulk). Patients may have small frequent meals, as tolerated."
+    },
+    {
+      "id": "nutrition-ch22-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which response would the nurse provide regarding a nutrition plan to a patient with burns that cover 15% of the total body surface area on the lower extremities and torso and is currently in the flow phase?",
+      "options": [
+        "“You will be able to eat by mouth.\"",
+        "\"You will need to receive nutrition through an IV.\"",
+        "©@ ‘Right now, our main concern is fluid resuscitation.\"",
+        "\"We need to let your bowels rest, so you are not able to eat or drink anything.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most patients with burns that cover less than 20% of the total body surface area can consume an oral meal plan that is adequate in nutrient needs. Receiving nutrition through an IV would only be necessary if the patient is unable to consume an adequate amount of nutrients by mouth or if gastrointestinal feedings are not possible. Health care providers resuscitate patients with large amounts of IV fluids and electrolyte therapy during the ebb phase, not the flow phase, to prevent shock. Typically, nutrition therapy begins within 24 to 48 hours after the injury. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch22-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which action would the nurse take for a patient receiving enteral feedings who is having diarrhea? Select all that apply.",
+      "options": [
+        "| Give continuous enteral feedings."
+      ],
+      "correctAnswers": [],
+      "explanation": "Patients may develop diarrhea when having enteral feedings. Interventions for patients who are receiving enteral feedings experiencing diarrhea include administering probiotics, using continuous feedings instead of bolus feedings, giving antidiarrheal medications if there is no bacterial infection, and considering the use of formula that is low in fat. Because hypertonic solutions pull water in to the intestines, these solutions should be avoided in patients experiencing diarrhea on enteral feedings because they would exacerbate the problem."
+    },
+    {
+      "id": "nutrition-ch22-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which test is a biochemical measure used to monitor patients receiving enteral nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Some of the biochemical measures used to monitor patients receiving enteral nutrition are glucose, serum electrolytes, and blood urea nitrogen. C-reactive protein (CRP), D-dimer test, and INR are not monitored in patients receiving enteral nutrition. CRP is used to check for infection or inflammation in the body. D-dimer test is used to monitor blood-clotting issues. INR measures the time for the blood to clot. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and in an area as complex as nursing, an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch22-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which patient would require parenteral nutrition?",
+      "options": [
+        "A patient who has cystic fibrosis and a body mass index in the 10th percentile",
+        "A patient who had a traumatic brain injury who is unable to swallow",
+        "A patient with short gut syndrome who has had minimal resection of the bowel",
+        "A patient who recently suffered severe burns and reports nausea and vomiting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parenteral nutrition is recommended for individuals without a functioning lower gastrointestinal system and those with major trauma and burns, intestinal atresia, or severe pancreatitis. A patient with cystic fibrosis, traumatic brain injury, and short gut syndrome with minimal bowel resection would be better candidates for enteral nutrition. Test-Taking Tip: Avoid looking for an answer pattern or code. There may be times when four or five consecutive questions have the same letter or number for the correct answer."
+    },
+    {
+      "id": "nutrition-ch22-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which teaching would the nurse provide regarding protein intake to a patient recovering from a burn? rv) © \"Protein intake should be 1.5 to 2 g/kg/day.\"",
+      "options": [
+        "\"We want you to consume as much protein as possible to help with healing.\"",
+        "\"Protein intake should be approximately 60% of your total calorie intake.\"",
+        "\"We will calculate how much protein you need and that will remain constant throughout your"
+      ],
+      "correctAnswer": null,
+      "explanation": "High-quality protein intake is crucial to promote early wound healing and support immune function. Individual protein needs vary from 1.5 to 2 g/kg/day to equal 20% to 25% of the total energy intake. Overfeeding the patient is harmful and increases metabolic stress. Approximately 55% to 60% of total kilocalories would come from carbohydrates, not protein. The dietitian will calculate energy needs, which must be reassessed frequently to meet the patient’s changing requirements. Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: [fthe answer you are seeking is directed to a specific treatment and all but one option deal with signs and symptoms, you would be correct in choosing the treatment-specific option."
+    },
+    {
+      "id": "nutrition-ch22-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient had a gastric resection 1 week ago. Twenty minutes after eating, the patient starts to experience cramping, pain, dizziness, and diarrhea. Which condition is the patient experiencing?",
+      "options": [
+        "Food allergy",
+        "@ Dumping syndrome",
+        "Gastrointestinal illness",
+        "Infection at the surgical site"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dumping syndrome is the most frequently encountered complication after extensive gastric resection. After the initial recovery from surgery, when a person begins to feel better and starts to eat a regular diet, the patient may experience discomfort 10 to 20 minutes after meals. Dumping syndrome causes cramping, a full feeling and increased heart rate, and a wave of weakness, cold sweating, and dizziness may occur. Abdominal pain and diarrhea terminate the event. Food allergies and gastrointestinal illness can cause abdominal pain and diarrhea but are not the most likely cause of this patient’s symptoms. Infection at the surgical site may present as continual pain and fever. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch22-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which cue is a clinical indication for enteral nutrition support?",
+      "options": [
+        "The patient’s bowels need to rest.",
+        "There is no access to a feeding tube.",
+        "©@ The patient does not have sufficient gastrointestinal tract functioning.",
+        "The patient cannot eat enough to meet their nutrition needs orally."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The registered dietitian and health care provider will decide the most appropriate method of medical nutrition therapy. Enteral nutrition is nutrition delivered to the gastrointestinal tract via a tube. If a patient is unable to eat enough to meet their nutrient needs orally, enteral nutrition would be indicated. If bowel rest is indicated, if there is no access to a feeding tube, or if the patient does not have sufficient gastrointestinal tract function, parenteral nutrition support would be indicated. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch22-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which function does protein perform that is essential during the postoperative period? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "It is important for patients to consume optimal amounts of protein during the postoperative period. Immediately following major surgery, such as a coronary artery bypass graft, the body tissues undergo considerable catabolism. In addition to protein lost from the breakdown of tissue, other losses of protein may occur. During wound healing, a patient’s dietary protein needs increase to restore lost protein and to build new tissues at the wound site. Protein and minerals are essential to the foundation of bone formation. Protein is a major component of the body’s immune system. An adequate supply of the plasma protein albumin is necessary to maintain blood volume. Protein is necessary to transport fat through circulation to all tissues and to the liver for metabolism. pp. 414-415"
+    },
+    {
+      "id": "nutrition-ch22-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "A patient is scheduled to have bariatric surgery. Which dietary restriction would the nurse communicate to the patient before the surgery?",
+      "options": [
+        "@ Fiber-restricted diet",
+        "Protein-restricted diet",
+        "Saturated fat-restricted diet",
+        "Carbohydrate-restricted diet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The health care team often recommends a fiber-restricted diet several days before gastrointestinal surgery to clear the surgical site of food residue. Every surgical patient should be equipped with adequate body protein to counteract blood loss during surgery and prevent tissue catabolism. Carbohydrates and fats are necessary before surgery when patients need protein to build and repair tissue. pp. 412-414"
+    },
+    {
+      "id": "nutrition-ch22-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "A patient is scheduled for abdominal surgery in the morning and is informed that eating and drinking before surgery is prohibited. Which amount of time is required to remain without food or drink before surgery?",
+      "options": [
+        "Bhours",
+        "4hours",
+        "2Zhours",
+        "6 hours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nothing should be taken orally for at least 8 hours before a surgical procedure. Abstaining from food and drink 2, 4, or 6 hours before surgery would not be adequate to ensure that food is not retained in the stomach. The presence of food in the stomach during surgery may cause complications, such as aspiration during anesthesia or vomiting after the procedure. Test-Taking Tip: Multiple-choice questions can be challenging, because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 413-414"
+    },
+    {
+      "id": "nutrition-ch22-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "Which type of nutritional therapy is recommended for patients after a hemorrhoidectomy to reduce painful elimination and allow healing? rv) © Nonresidue commercial elemental formulas",
+      "options": [
+        "Regular diet",
+        "High-fiber diet",
+        "Parenteral nutrition feedings"
+      ],
+      "correctAnswer": null,
+      "explanation": "For a brief period after rectal surgery or hemorrhoidectomy, clear fluid or fiber-restricted diets help to reduce painful elimination and allow for healing. Nonresidue commercial elemental formulas help delay bowel movements until the surgical area has healed. Regular or high-fiber diets are not recommended for patients following a hemorrhoidectomy. Parenteral nutrition specifically refers to the feeding of nutrients directly into the blood circulation through certain veins (e.g., a peripheral vein in the arm or the subclavian vein)."
+    },
+    {
+      "id": "nutrition-ch22-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Intake of which nutrient needs to be reduced to facilitate patient recovery after gallbladder surgery?",
+      "options": [
+        "Carbohydrates",
+        "Calcium",
+        "Vitamin C"
+      ],
+      "correctAnswer": null,
+      "explanation": "After surgery, reducing fat in the diet (e.g., less than 30% of total energy intake as fat) facilitates wound healing and comfort. The hormonal stimulus for bile continues to function, thus causing pain with the high intake of fatty foods. Carbohydrates, calcium, and vitamin C are not metabolized by the action of bile."
+    },
+    {
+      "id": "nutrition-ch22-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which type of nutrition therapy is ideal for severely debilitated patients who have had radical neck or facial surgery?",
+      "options": [
+        "Oral liquid feeding",
+        "Mechanical soft diet"
+      ],
+      "correctAnswer": null,
+      "explanation": "Severely debilitated patients who have had radical neck or facial surgery may benefit from tube feedings. For long-term needs, enteral feeding equipment and standardized commercial formulas have made it possible to continue enteral nutrition at home. Oral liquid feeding, mechanical soft diets, and regular diets are not ideal for severely debilitated patients who have had radical neck or facial surgery."
+    },
+    {
+      "id": "nutrition-ch22-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which equipment is used in continuous feedings?",
+      "options": [
+        "Intravenous catheter",
+        "Syringe pumps",
+        "Feeding pump",
+        "Gravity drip"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Continuous feeding is an enteral feeding schedule whereby formula is infused via a feeding pump over a 24- hour period. An intravenous catheter is used for parenteral nutrition when the patient needs full nutrition support for longer periods. The surgeon will place the catheter into a large central vein (usually the subclavian vein). A syringe or gravity drip is used for bolus feedings, which involve the administration of enteral nutrition over a few minutes, given in several feedings per day."
+    },
+    {
+      "id": "nutrition-ch22-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which type of food is included in a clear liquid hospital diet?",
+      "options": [
+        "Foods that are transparent liquid at body temperature and require minimal digestion",
+        "Foods that would melt at room temperature",
+        "Foods that are blended",
+        "Foods of all textures"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A clear liquid diet consists of foods that are transparent liquid at body temperature and require minimal digestion. A full-liquid diet contains anything that would melt at room temperature and is used only temporarily during recovery. A mechanically altered diet consists of foods that are easy to swallow (i.e., they are blended, chopped, ground, or mashed). A regular house diet consists of foods of all textures, taken when the patient has no difficulty chewing or swallowing."
+    },
+    {
+      "id": "nutrition-ch22-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which criterion is considered for selecting central parenteral nutrition support therapy?",
+      "options": [
+        "Functional gastrointestinal tract",
+        "Long-term therapy needed",
+        "Need for bowel rest",
+        "Length of therapy of up to 14 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Central parenteral nutrition support is considered when long-term therapy is needed. Enteral nutrition support Is indicated for patients with enough functional gastrointestinal tract to allow adequate digestion and absorption. Parenteral nutrition support is considered when there is a need for bowel rest (e.g., enteral fistulas, acute inflammatory bowel disease). Peripheral parenteral nutrition is indicated when the length of therapy is short, usually up to 14 days. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch22-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "A health care provider is determining the most appropriate form of nutrition for a patient after bone marrow transplantation. Which cue indicates that it would be appropriate for a patient to receive central parenteral nutrition?",
+      "options": [
+        "@ The patient is not hypermetabolic.",
+        "The patient has poor peripheral access.",
+        "The patient has a fluid restriction.",
+        "The length of therapy is expected to be less than 10 days."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The term parenteral nutrition refers to any feeding method not involving the gastrointestinal tract. Central parenteral nutrition is appropriate when the energy and nutrient requirement is large or when the patient needs full nutrition support for longer periods. If a patient has poor peripheral access, central parenteral nutrition would be recommended. For central parenteral nutrition to be appropriate, the patient would be hypermetabolic, the patient would not have a fluid restriction, and the expected course of therapy would exceed 14 days. pp. 418, 424"
+    },
+    {
+      "id": "nutrition-ch22-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "The nurse is caring for a patient recovering from an extensive surgery. Which oral clinical diet would be ordered for this patient?",
+      "options": [
+        "High-fat, high-kilocalorie",
+        "Low-protein, decreased-kilocalorie"
+      ],
+      "correctAnswer": null,
+      "explanation": "If a patient has had extensive surgery, a high-protein, increased-kilocalorie diet is needed to meet the increased demands of healing. A high-fat, high-kilocalorie diet would be ordered for a patient who needs to gain weight. Protein should not be low because this can hinder wound healing. Fluids should be increased in a patient recovering from extensive surgery."
+    },
+    {
+      "id": "nutrition-ch22-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which enteral feeding route poses the highest risk for aspiration? Cy) © Nasogastric",
+      "options": [
+        "Jejunostomy",
+        "Nasoducdenal",
+        "Gastrostomy"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nasogastric route poses the greatest risk for aspiration. Jejunostomy poses no risk for aspiration. The nasoduodenal route and the gastrostomy tube pose a lower risk for aspiration than the nasogastric route."
+    },
+    {
+      "id": "nutrition-ch22-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The catheter used for central parenteral nutrition (PN) is placed in which vessel?",
+      "options": [
+        "Cephalic artery",
+        "Basilic artery",
+        "Metacarpal vein"
+      ],
+      "correctAnswer": null,
+      "explanation": "For central PN, the catheter is placed in a large-diameter vein such as the subclavian vein. Central PN catheters are not placed in arteries, and the metacarpal vein is too small for a central PN catheter."
+    },
+    {
+      "id": "nutrition-ch22-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is the primary consideration when selecting the peripheral route for parenteral nutrition?",
+      "options": [
+        "Patient’s disease state"
+      ],
+      "correctAnswer": null,
+      "explanation": "The osmolality of the solution is the primary consideration when choosing the peripheral access route for administration of parenteral nutrition. A higher osmolality solution is a reflection of the concentration of its total particles. Small peripheral veins, usually in the arm, are used to deliver less concentrated solutions (900 mOsm/L or less). The patient’s disease state, duration of nutrition infusion administration, and frequency of nutritional administration are taken into consideration, but the osmolality of the solution requires specific access routes making it the primary consideration."
+    },
+    {
+      "id": "nutrition-ch22-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which dietary change is an example of texture being modified?",
+      "options": [
+        "Clear liquid to regular",
+        ", Low sodium to regular",
+        "High potassium to low potassium",
+        ", 1500 kcal/day to 2000 kcal/day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The texture of a diet is changed when going from clear liquids to a regular diet. The texture will not change with changes in sodium, potassium, or calorie intake."
+    },
+    {
+      "id": "nutrition-ch22-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Enteral nutrition is preferred over parenteral nutrition for which reason? Select all that apply.",
+      "options": [
+        "| Is less expensive"
+      ],
+      "correctAnswers": [],
+      "explanation": "Enteral nutrition is preferred over parenteral nutrition because it is less invasive, is less expensive, preserves gut function, and decreases risk factors. Enteral nutrition does not allow the gut to rest; the nutrition is delivered directly into the gastrointestinal tract. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch22-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse receives an order to initiate enteral nutrition via a nasogastric (NG) tube for a patient with a bowel obstruction. Which action should the nurse take?",
+      "options": [
+        "Initiate the enteral feeding at a lower rate.",
+        "Initiate the enteral feeding at the ordered rate."
+      ],
+      "correctAnswer": null,
+      "explanation": "When receiving an order to initiate enteral nutrition via an NG tube for a patient with bowel obstruction, the nurse should discuss the order with the health care provider because enteral nutrition is contraindicated for a patient with a bowel obstruction. The nurse does not have the legal right to change an order but does have a legal obligation to protect the patient from harm. The enteral feeding should not be administered; therefore initiation at a lower rate or the ordered rate and verification of the NG tube placement before feeding are not necessary. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch22-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is caring for a patient who is not at risk for aspiration and requires long-term enteral nutritional therapy. Which procedure does the nurse anticipate for accessing a safe nutritional route?",
+      "options": [
+        "Enterostomy",
+        "Esophagostomy",
+        "Percutaneous endoscopic jejunostomy"
+      ],
+      "correctAnswer": null,
+      "explanation": "A percutaneous endoscopic gastrostomy involves placing a tube through the abdominal wall into the stomach and is utilized for a patient who is not at risk for aspiration. A patient who is at risk for aspiration and requires enteral nutritional therapy will need a percutaneous endoscopic jejunostomy. An enterostomy is the surgical placement of the tube at progressive points along the gastrointestinal tract. An esophagostomy is the creation of an artificial opening in the esophagus at the level of the cervical spine and is used after head and neck surgeries or traumatic injury."
+    },
+    {
+      "id": "nutrition-ch22-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the best route for short-term enteral therapy? Cy) © Nasoenteric",
+      "options": [
+        "Enterostomy",
+        "Nasojejunal",
+        "Nasoduodenal"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most appropriate route for short-term enteral therapy is the nasoenteric route. It is passed through the nose into the stomach or small intestine and is indicated for short-term therapy of 6 weeks or less in many clinical situations. An enterostomy is the surgical placement of a tube and is indicated for long-term feedings. Nasojejunal and nasoduodenal routes are types of nasoenteric feeding routes. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch22-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Protein is important in the postoperative recovery period for which purpose?",
+      "options": [
+        "To facilitate weight loss",
+        "To prevent dehydration",
+        "1o repair tissue breakdown",
+        "To replace electrolytes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Protein intake in the postoperative period helps repair tissue breakdown from surgery. Protein will help with muscle-building and weight gain; weight loss is not a desired outcome. Fluids will help prevent dehydration, and vitamins will provide electrolyte replacement."
+    },
+    {
+      "id": "nutrition-ch22-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which perioperative clinical problem is often related to poor nutritional status? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Perioperative patients with poor nutritional status are at increased risk for longer hospital stays, delayed wound healing, and increased risk for mortality and infection. A perioperative patient with poor nutritional status has an increased necessity for parenteral nutrition. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which type of enteral nutritional formula is designed for a patient with a fully functional gastrointestinal (Gl) tract? rv) © Polymeric",
+      "options": [
+        "Semi-elemental",
+        "Single-nutrient",
+        "Hydrolyzed elemental"
+      ],
+      "correctAnswer": null,
+      "explanation": "Polymeric formulas are made from intact nutrients for use with a fully functioning GI tract. Semi-elemental, single-nutrient, and hydrolyzed elemental formulas are used for patients who do not have fully functioning Gl tracts because these formulas are readily absorbed with minimal residue."
+    },
+    {
+      "id": "nutrition-ch22-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "At which rate does the nurse expect to initiate the administration of an enteral feeding for a patient who is critically ill? rv) O 10 to 40 mL/hr x) © 60 to 120 mL/hr",
+      "options": [
+        "150 to 520 mL/hr",
+        "240 to 720 mL/hr"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse should expect to initiate the administration of an enteral feeding for a patient who is critically ill at a rate of 10 to 40 mL/hr. Critically ill patients or those who have not been fed enterally for some time will not be able to tolerate large feedings at initiation. Adults who are receiving bolus feedings introduced into the stomach tolerate full-strength formulas initially at a rate of 60 to 120 mL/hr every 8 to 12 hours until the goal volume for nutrient needs are met. The rate of 150 to 520 mL is not applicable to a specific situation. The rate of 240 to 720 mL/hr is typical for intermittent feedings infused over a 20- to 60-minute period, four to six times daily."
+    },
+    {
+      "id": "nutrition-ch22-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which biochemical marker is measured weekly after the initiation of enteral nutrition?",
+      "options": [
+        "Fluid balance",
+        "Creatinine"
+      ],
+      "correctAnswer": null,
+      "explanation": "The biochemical marker that is measured after the initiation of enteral nutrition is prealbumin, a marker for protein malnutrition. Fluid balance is not a biochemical marker; it is part of a physical assessment. Creatinine and amylase are not biochemical markers that are monitored after the initiation of enteral nutrition. Creatinine is a reflection of kidney function, and amylase is reflective of pancreatic function."
+    },
+    {
+      "id": "nutrition-ch22-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which component of the patient’s diet should be modified for the patient having difficulty chewing food? rv) © Texture",
+      "options": [
+        "Protein",
+        "Kilocalories",
+        "Carbohydrates"
+      ],
+      "correctAnswer": null,
+      "explanation": "The texture of the patient’s food should be changed to soft to accommodate the patient’s difficulty chewing. Protein, kilocalories, and carbohydrates do not need to be altered."
+    },
+    {
+      "id": "nutrition-ch22-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which nutrient is crucial to promote early wound healing in medical nutrition therapy for burn patients? rv) © Protein",
+      "options": [
+        "Carbohydrate",
+        "Vitamin A",
+        "Zinc"
+      ],
+      "correctAnswer": null,
+      "explanation": "High-quality protein intake is crucial to promote early wound healing and to support immune function. Depending on the extent of the burn and the associated catabolic losses, individual protein needs vary from 1.5 to 2 g/kg/day in adults and from 2.5 to 4 g/kg/day in children. Adequate energy intake spares protein for tissue rebuilding and meets the increased metabolic demands of the whole body. Approximately 55% to 60% of the total kilocalories should come from carbohydrates, along with a moderate amount of fat (<35% of kcal). Supplementation with vitamin A (10,000 IU/day) and zinc is important for optimal immune function. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be very helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch22-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which layer of skin is involved in third-degree burns? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Third-degree, or full-thickness, burns result in complete skin loss, including the epidermis, dermis, and underlying fat layer. Superficial (i-e., first-degree) burns involve cell damage only to the epidermis. Second- degree burns are either superficial partial-thickness burns, which involve cell damage to the dermis, or deep partial-thickness burns, which involve both the first and second layers of skin. Subdermal (i.e., fourth-degree) burns leave bone and tendon exposed."
+    },
+    {
+      "id": "nutrition-ch22-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which method of feeding provides nourishment by bypassing the gastrointestinal tract?",
+      "options": [
+        "Enteral"
+      ],
+      "correctAnswer": null,
+      "explanation": "Parenteral method of nutrition support is nourishment through the veins (either small peripheral veins or a large central vein) and bypasses the gastrointestinal tract. In medical nutrition therapy, enteral feedings imply tube feedings through the regular gastrointestinal route. Oral nourishment through the regular gastrointestinal route, including nasogastric tube feedings and assisted oral feedings, do not bypass the gastrointestinal tract."
+    },
+    {
+      "id": "nutrition-ch22-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrient is lost due to catabolic action of body tissue during the postoperative recovery period? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Immediately after major surgery, the body tissue may undergo considerable catabolism, which means that the process of tissue breakdown and loss exceeds the process of tissue buildup (i-e., anabolism), leading to protein loss. Tissue catabolism also results in the loss of potassium and phosphorus from cells. Nutrients such as iron, vitamin C, and sodium are not lost due to catabolic action of body tissue during the postoperative recovery period."
+    },
+    {
+      "id": "nutrition-ch22-068",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which nutrient is essential to counteract blood loss during surgery and prevent tissue catabolism during the immediate postoperative period? rv) © Protein",
+      "options": [
+        "Fat",
+        "Vitamin C",
+        "Dietary fiber"
+      ],
+      "correctAnswer": null,
+      "explanation": "Every surgical patient should be equipped with adequate body protein to counteract blood loss during surgery and prevent tissue catabolism during the immediate postoperative period. Fat, vitamin C, and dietary fiber are not nutrients essential to counteract blood loss during surgery and prevent tissue catabolism."
+    },
+    {
+      "id": "nutrition-ch22-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which characteristic is included in the diagnosis of clinical malnutrition? Select all that apply.",
+      "options": [
+        "| Fluid depletion"
+      ],
+      "correctAnswers": [],
+      "explanation": "A diagnosis of malnutrition requires that a patient meet two or more of the following criteria: insufficient energy intake, weight loss, loss of muscle mass, and loss of subcutaneous fat and fluid accumulation. Increased muscle mass and fluid depletion are not included in the diagnosis of clinical malnutrition. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The patient receiving enteral nutrition experiences discomfort at the site of the gastrostomy tube. Which action would be indicated?",
+      "options": [
+        "Reduce the infusion rate of the feeding.",
+        "Use continuous feedings instead of bolus feedings.",
+        "Instruct the patient to breathe after each feeding."
+      ],
+      "correctAnswer": null,
+      "explanation": "Tube discomfort is a common problem that patients have with enteral nutrition tubes. Requesting that the patient have a smaller tube inserted may alleviate the patient’s pain and discomfort. Reducing the infusion rate may help if the patient is experiencing reflux or aspiration. Using continuous feedings instead of bolus feedings may help if the patient is experiencing diarrhea. Instructing the patient to relax and breathe deeply after each feeding may help if the patient is experiencing fullness or tension."
+    },
+    {
+      "id": "nutrition-ch22-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "A patient had surgery to remove a portion of the ileum and had an ileostomy bag placed 1 day ago. Which response would the nurse provide if the patient requests to eat?",
+      "options": [
+        "\"| will order you some foods high in fiber\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Patients with a newly placed ileostomy bag begin with a clear liquid diet during the immediate postoperative period and progress toward small, frequent feeding meals that are relatively low in dietary fiber. Starting with solid foods, even pureed foods, is not recommended in the immediate postoperative period. Informing a patient that they are restricted from food and drink would be incorrect because a clear liquid diet is usually ordered. Test-Taking Tip: Key words or phrases in the stem of the question such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. As in life, no real absolutes exist in nursing; however, every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch22-072",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which teaching would the nurse provide regarding protein intake to a patient recovering from a burn? rv) © \"Protein intake should be 1.5 to 2 g/kg/day.\"",
+      "options": [
+        "\"We want you to consume as much protein as possible to help with healing.\"",
+        "\"Protein intake should be approximately 60% of your total calorie intake.\"",
+        "\"We will calculate how much protein you need and that will remain constant throughout your"
+      ],
+      "correctAnswer": null,
+      "explanation": "High-quality protein intake is crucial to promote early wound healing and support immune function. Individual protein needs vary from 1.5 to 2 g/kg/day to equal 20% to 25% of the total energy intake. Overfeeding the patient is harmful and increases metabolic stress. Approximately 55% to 60% of total kilocalories would come from carbohydrates, not protein. The dietitian will calculate energy needs, which must be reassessed frequently to meet the patient’s changing requirements. Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: [fthe answer you are seeking is directed to a specific treatment and all but one option deal with signs and symptoms, you would be correct in choosing the treatment-specific option."
+    },
+    {
+      "id": "nutrition-ch22-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "Which recommendation would be given when a patient who recently had a hemorrhoidectomy calls the health care provider reporting pain with defecation? rv) © \"You need to limit your intake of fiber.\"",
+      "options": [
+        "\"You should not be taking nonresidual formulas.\"",
+        "\"You should be seen immediately in the emergency department.\"",
+        "\"Pain is not normal with defecation following a hemorrhoidectomy.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "After hemorrhoidectomy, clear fluid diets and fiber-restricted diets will help reduce painful elimination and allow for healing. Nonresidual commercial elemental formulas would help delay bowel movements until the surgical area is healed. It would not be appropriate to recommend immediate medical help. Pain at the surgical site would be normal and an expected finding and should improve as the surgical site heals."
+    },
+    {
+      "id": "nutrition-ch22-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which instruction would the nurse provide a patient recovering from a cholecystectomy and preparing to be discharged home? rv) © \"You will need to limit your fat intake.\"",
+      "options": [
+        "\"You will need to limit your sodium intake.\"",
+        "\"You will need to limit your protein intake.\"",
+        "\"You will need to limit your carbohydrate intake.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "A cholecystectomy is the removal of the gallbladder. The hormonal stimulus for bile continues to function, causing pain with a high intake of fatty foods. Reducing fat intake to less than 30% of the patient’s total energy intake facilitates health and comfort. Protein helps with wound healing and would not be limited following a cholecystectomy. Carbohydrates are needed for energy and would not be limited following removal of the gallbladder. Limiting sodium intake after a cholecystectomy is not a typical recommendation. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple-response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch22-075",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A patient had a gastric resection 1 week ago. Twenty minutes after eating, the patient starts to experience cramping, pain, dizziness, and diarrhea. Which condition is the patient experiencing?",
+      "options": [
+        "Food allergy",
+        "@ Dumping syndrome",
+        "Gastrointestinal illness",
+        "Infection at the surgical site"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dumping syndrome is the most frequently encountered complication after extensive gastric resection. After the initial recovery from surgery, when a person begins to feel better and starts to eat a regular diet, the patient may experience discomfort 10 to 20 minutes after meals. Dumping syndrome causes cramping, a full feeling and increased heart rate, and a wave of weakness, cold sweating, and dizziness may occur. Abdominal pain and diarrhea terminate the event. Food allergies and gastrointestinal illness can cause abdominal pain and diarrhea but are not the most likely cause of this patient’s symptoms. Infection at the surgical site may present as continual pain and fever. Test-Taking Tip: Many times the correct answer is the longest alternative given, but do not count on it. Item writers (those who write the questions) are also aware of this and attempt to avoid offering you such \"helpful hints.\""
+    },
+    {
+      "id": "nutrition-ch22-076",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which cue is a clinical indication for enteral nutrition support?",
+      "options": [
+        "©@ The patient's bowels need to rest.",
+        "There is no access to a feeding tube.",
+        "The patient does not have sufficient gastrointestinal tract functioning.",
+        "The patient cannot eat enough to meet their nutrition needs orally."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The registered dietitian and health care provider will decide the most appropriate method of medical nutrition therapy. Enteral nutrition is nutrition delivered to the gastrointestinal tract via a tube. If a patient is unable to eat enough to meet their nutrient needs orally, enteral nutrition would be indicated. If bowel rest is indicated, if there is no access to a feeding tube, or if the patient does not have sufficient gastrointestinal tract function, parenteral nutrition support would be indicated. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch22-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which function does protein perform that is essential during the postoperative period? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "It is important for patients to consume optimal amounts of protein during the postoperative period. Immediately following major surgery, such as a coronary artery bypass graft, the body tissues undergo considerable catabolism. In addition to protein lost from the breakdown of tissue, other losses of protein may occur. During wound healing, a patient’s dietary protein needs increase to restore lost protein and to build new tissues at the wound site. Protein and minerals are essential to the foundation of bone formation. Protein is a major component of the body’s immune system. An adequate supply of the plasma protein albumin is necessary to maintain blood volume. Protein is necessary to transport fat through circulation to all tissues and to the liver for metabolism. pp. 414-415"
+    },
+    {
+      "id": "nutrition-ch22-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "A patient is scheduled to have bariatric surgery. Which dietary restriction would the nurse communicate to the patient before the surgery?",
+      "options": [
+        "@ Fiber-restricted diet",
+        "Protein-restricted diet",
+        "Saturated fat-restricted diet",
+        "Carbohydrate-restricted diet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The health care team often recommends a fiber-restricted diet several days before gastrointestinal surgery to clear the surgical site of food residue. Every surgical patient should be equipped with adequate body protein to counteract blood loss during surgery and prevent tissue catabolism. Carbohydrates and fats are necessary before surgery when patients need protein to build and repair tissue. pp. 412-414"
+    },
+    {
+      "id": "nutrition-ch22-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "A patient is scheduled for abdominal surgery in the morning and is informed that eating and drinking before surgery is prohibited. Which amount of time is required to remain without food or drink before surgery?",
+      "options": [
+        "Bhours",
+        "4hours",
+        "2Zhours",
+        "6 hours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nothing should be taken orally for at least 8 hours before a surgical procedure. Abstaining from food and drink 2, 4, or 6 hours before surgery would not be adequate to ensure that food is not retained in the stomach. The presence of food in the stomach during surgery may cause complications, such as aspiration during anesthesia or vomiting after the procedure. Test-Taking Tip: Multiple-choice questions can be challenging, because students think that they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response. pp. 413-414"
+    },
+    {
+      "id": "nutrition-ch22-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "Which type of nutritional therapy is recommended for patients after a hemorrhoidectomy to reduce painful elimination and allow healing? rv) © Nonresidue commercial elemental formulas",
+      "options": [
+        "Regular diet",
+        "High-fiber diet",
+        "Parenteral nutrition feedings"
+      ],
+      "correctAnswer": null,
+      "explanation": "For a brief period after rectal surgery or hemorrhoidectomy, clear fluid or fiber-restricted diets help to reduce painful elimination and allow for healing. Nonresidue commercial elemental formulas help delay bowel movements until the surgical area has healed. Regular or high-fiber diets are not recommended for patients following a hemorrhoidectomy. Parenteral nutrition specifically refers to the feeding of nutrients directly into the blood circulation through certain veins (e.g., a peripheral vein in the arm or the subclavian vein)."
+    },
+    {
+      "id": "nutrition-ch22-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Intake of which nutrient needs to be reduced to facilitate patient recovery after gallbladder surgery?",
+      "options": [
+        "Carbohydrates",
+        "Calcium",
+        "Vitamin C"
+      ],
+      "correctAnswer": null,
+      "explanation": "After surgery, reducing fat in the diet (e.g., less than 30% of total energy intake as fat) facilitates wound healing and comfort. The hormonal stimulus for bile continues to function, thus causing pain with the high intake of fatty foods. Carbohydrates, calcium, and vitamin C are not metabolized by the action of bile."
+    },
+    {
+      "id": "nutrition-ch22-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which type of nutrition therapy is ideal for severely debilitated patients who have had radical neck or facial surgery?",
+      "options": [
+        "Oral liquid feeding",
+        "Mechanical soft diet"
+      ],
+      "correctAnswer": null,
+      "explanation": "Severely debilitated patients who have had radical neck or facial surgery may benefit from tube feedings. For long-term needs, enteral feeding equipment and standardized commercial formulas have made it possible to continue enteral nutrition at home. Oral liquid feeding, mechanical soft diets, and regular diets are not ideal for severely debilitated patients who have had radical neck or facial surgery."
+    },
+    {
+      "id": "nutrition-ch22-083",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which vein(s) is used to deliver nutrient solutions of <900 mOsm/L in parenteral nutrition?",
+      "options": [
+        "Subclavian vein",
+        "Smaller peripheral veins",
+        "Superior vena cava",
+        "Inferior vena cava"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parenteral nutrition is appropriate for use when a solution of <900 mOsm/L is enough to provide nutrient needs. Small peripheral veins, usually in the arm, deliver the less-concentrated solutions. Subclavian vein, superior vena cava, and inferior vena cava are not used for peripheral nutrition."
+    },
+    {
+      "id": "nutrition-ch22-084",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which equipment is used in continuous feedings?",
+      "options": [
+        "Intravenous catheter",
+        "Syringe pumps",
+        "Feeding pump",
+        "Gravity drip"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Continuous feeding is an enteral feeding schedule whereby formula is infused via a feeding pump over a 24- hour period. An intravenous catheter is used for parenteral nutrition when the patient needs full nutrition support for longer periods. The surgeon will place the catheter into a large central vein (usually the subclavian vein). A syringe or gravity drip is used for bolus feedings, which involve the administration of enteral nutrition over a few minutes, given in several feedings per day."
+    },
+    {
+      "id": "nutrition-ch22-085",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which route is recommended for long-term enteral feedings? Cy) O Enterostomy tx} © Nasogastric",
+      "options": [
+        "Nasoduodenal",
+        "Nasojejunal"
+      ],
+      "correctAnswer": null,
+      "explanation": "For long-term feedings, an enterostomy (i.e., the surgical placement of the tube at progressive points along the gastrointestinal tract) provides a more comfortable route. If a patient requires enteral tube feeding for a short time (less than 4 weeks), a feeding tube is usually inserted into the stomach through the nose (nasogastric). For patients who are at risk for aspiration, reflux, or continual vomiting, a nasoduodenal or nasojejunal tube may be more appropriate."
+    },
+    {
+      "id": "nutrition-ch22-086",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which type of food is included in a clear liquid hospital diet?",
+      "options": [
+        "Foods that are transparent liquid at body temperature and require minimal digestion",
+        "Foods that would melt at room temperature",
+        "Foods that are blended",
+        "Foods of all textures"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A clear liquid diet consists of foods that are transparent liquid at body temperature and require minimal digestion. A full-liquid diet contains anything that would melt at room temperature and is used only temporarily during recovery. A mechanically altered diet consists of foods that are easy to swallow (i.e., they are blended, chopped, ground, or mashed). A regular house diet consists of foods of all textures, taken when the patient has no difficulty chewing or swallowing."
+    },
+    {
+      "id": "nutrition-ch22-087",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which criterion is considered for selecting central parenteral nutrition support therapy?",
+      "options": [
+        "Functional gastrointestinal tract",
+        "Long-term therapy needed",
+        "Need for bowel rest",
+        "Length of therapy of up to 14 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Central parenteral nutrition support is considered when long-term therapy is needed. Enteral nutrition support Is indicated for patients with enough functional gastrointestinal tract to allow adequate digestion and absorption. Parenteral nutrition support is considered when there is a need for bowel rest (e.g., enteral fistulas, acute inflammatory bowel disease). Peripheral parenteral nutrition is indicated when the length of therapy is short, usually up to 14 days. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch22-088",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "A health care provider is determining the most appropriate form of nutrition for a patient after bone marrow transplantation. Which cue indicates that it would be appropriate for a patient to receive central parenteral nutrition?",
+      "options": [
+        "@ The patient is not hypermetabolic.",
+        "The patient has poor peripheral access.",
+        "The patient has a fluid restriction.",
+        "The length of therapy is expected to be less than 10 days."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The term parenteral nutrition refers to any feeding method not involving the gastrointestinal tract. Central parenteral nutrition is appropriate when the energy and nutrient requirement is large or when the patient needs full nutrition support for longer periods. If a patient has poor peripheral access, central parenteral nutrition would be recommended. For central parenteral nutrition to be appropriate, the patient would be hypermetabolic, the patient would not have a fluid restriction, and the expected course of therapy would exceed 14 days. pp. 418, 424"
+    },
+    {
+      "id": "nutrition-ch22-089",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "The nurse is caring for a patient recovering from an extensive surgery. Which oral clinical diet would be ordered for this patient?",
+      "options": [
+        "High-fat, high-kilocalorie",
+        "Low-protein, decreased-kilocalorie"
+      ],
+      "correctAnswer": null,
+      "explanation": "If a patient has had extensive surgery, a high-protein, increased-kilocalorie diet is needed to meet the increased demands of healing. A high-fat, high-kilocalorie diet would be ordered for a patient who needs to gain weight. Protein should not be low because this can hinder wound healing. Fluids should be increased in a patient recovering from extensive surgery."
+    },
+    {
+      "id": "nutrition-ch22-090",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which enteral feeding route poses the highest risk for aspiration? Cy) © Nasogastric",
+      "options": [
+        "Jejunostomy",
+        "Nasoducdenal",
+        "Gastrostomy"
+      ],
+      "correctAnswer": null,
+      "explanation": "The nasogastric route poses the greatest risk for aspiration. Jejunostomy poses no risk for aspiration. The nasoduodenal route and the gastrostomy tube pose a lower risk for aspiration than the nasogastric route."
+    },
+    {
+      "id": "nutrition-ch22-091",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The catheter used for central parenteral nutrition (PN) is placed in which vessel?",
+      "options": [
+        "Cephalic artery",
+        "Basilic artery",
+        "Metacarpal vein"
+      ],
+      "correctAnswer": null,
+      "explanation": "For central PN, the catheter is placed in a large-diameter vein such as the subclavian vein. Central PN catheters are not placed in arteries, and the metacarpal vein is too small for a central PN catheter."
+    },
+    {
+      "id": "nutrition-ch22-092",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is the primary consideration when selecting the peripheral route for parenteral nutrition?",
+      "options": [
+        "Patient’s disease state"
+      ],
+      "correctAnswer": null,
+      "explanation": "The osmolality of the solution is the primary consideration when choosing the peripheral access route for administration of parenteral nutrition. A higher osmolality solution is a reflection of the concentration of its total particles. Small peripheral veins, usually in the arm, are used to deliver less concentrated solutions (900 mOsm/L or less). The patient’s disease state, duration of nutrition infusion administration, and frequency of nutritional administration are taken into consideration, but the osmolality of the solution requires specific access routes making it the primary consideration."
+    },
+    {
+      "id": "nutrition-ch22-093",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which dietary change is an example of texture being modified?",
+      "options": [
+        "Clear liquid to regular",
+        ", Low sodium to regular",
+        "High potassium to low potassium",
+        ", 1500 kcal/day to 2000 kcal/day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The texture of a diet is changed when going from clear liquids to a regular diet. The texture will not change with changes in sodium, potassium, or calorie intake."
+    },
+    {
+      "id": "nutrition-ch22-094",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "When a patient is preparing for elective surgery, which nutritional need should be the focus? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When a patient has elective surgery, nutrient stores should be built up to prepare for surgery and promote recovery. Nutrient stores to build up include protein, vitamins, and kilocalories. Dehydration may occur if fluids are restricted. Calcium is essential for mineral bone density and should not be decreased. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch22-095",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Enteral nutrition is preferred over parenteral nutrition for which reason? Select all that apply.",
+      "options": [
+        "| Is less expensive"
+      ],
+      "correctAnswers": [],
+      "explanation": "Enteral nutrition is preferred over parenteral nutrition because it is less invasive, is less expensive, preserves gut function, and decreases risk factors. Enteral nutrition does not allow the gut to rest; the nutrition is delivered directly into the gastrointestinal tract. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch22-096",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse receives an order to initiate enteral nutrition via a nasogastric (NG) tube for a patient with a bowel obstruction. Which action should the nurse take?",
+      "options": [
+        "Initiate the enteral feeding at a lower rate.",
+        "Initiate the enteral feeding at the ordered rate."
+      ],
+      "correctAnswer": null,
+      "explanation": "When receiving an order to initiate enteral nutrition via an NG tube for a patient with bowel obstruction, the nurse should discuss the order with the health care provider because enteral nutrition is contraindicated for a patient with a bowel obstruction. The nurse does not have the legal right to change an order but does have a legal obligation to protect the patient from harm. The enteral feeding should not be administered; therefore initiation at a lower rate or the ordered rate and verification of the NG tube placement before feeding are not necessary. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch22-097",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is caring for a patient who is not at risk for aspiration and requires long-term enteral nutritional therapy. Which procedure does the nurse anticipate for accessing a safe nutritional route?",
+      "options": [
+        "Enterostomy",
+        "Esophagostomy",
+        "Percutaneous endoscopic jejunostomy"
+      ],
+      "correctAnswer": null,
+      "explanation": "A percutaneous endoscopic gastrostomy involves placing a tube through the abdominal wall into the stomach and is utilized for a patient who is not at risk for aspiration. A patient who is at risk for aspiration and requires enteral nutritional therapy will need a percutaneous endoscopic jejunostomy. An enterostomy is the surgical placement of the tube at progressive points along the gastrointestinal tract. An esophagostomy is the creation of an artificial opening in the esophagus at the level of the cervical spine and is used after head and neck surgeries or traumatic injury."
+    },
+    {
+      "id": "nutrition-ch22-098",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the best route for short-term enteral therapy? Cy) © Nasoenteric",
+      "options": [
+        "Enterostomy",
+        "Nasojejunal",
+        "Nasoduodenal"
+      ],
+      "correctAnswer": null,
+      "explanation": "The most appropriate route for short-term enteral therapy is the nasoenteric route. It is passed through the nose into the stomach or small intestine and is indicated for short-term therapy of 6 weeks or less in many clinical situations. An enterostomy is the surgical placement of a tube and is indicated for long-term feedings. Nasojejunal and nasoduodenal routes are types of nasoenteric feeding routes. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch22-099",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 22",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which clinical situation is an indication for parenteral nutrition? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Severe inflammatory bowel disease, severe ileus, bowel obstruction, and severe liver failure are indications for parenteral nutrition, which is administered intravenously. Nausea and vomiting, on their own, do not indicate parenteral nutrition."
+    }
+  ]
+}

@@ -1,0 +1,1030 @@
+{
+  "name": "Nutrition Proteins",
+  "description": "Chapter 4 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch4-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which protein comes from an animal source?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Milk is an animal source of protein. Soy, tofu, and pine nuts are all plant sources of protein."
+    },
+    {
+      "id": "nutrition-ch4-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A nurse is planning a high-protein meal for a lacto-vegetarian patient. What selection is most appropriate for this patient?",
+      "options": [
+        "iv) © Yogurt",
+        "French toast",
+        "Scrambled eggs",
+        "Chicken noodle soup"
+      ],
+      "correctAnswer": null,
+      "explanation": "Lacto-vegetarians will consume protein from dairy products like yogurt. French toast contains egg, which is not consumed by lacto-vegetarians. Scrambled eggs are not consumed by lacto-vegetarians. Chicken is an animal source of protein that is not consumed by lacto-vegetarians. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch4-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A patient tells the nurse, \"| am going to order the scrambled eggs, skim milk, and whole wheat toast with peanut butter. No sausage, though. | do not eat meat.\" Which type of",
+      "options": [
+        "vegetarian diet does this patient follow?",
+        "Lacto-ovo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The patient follows a lacto-ovo-vegetarian diet, which allows dairy products and eggs but no meat. Ovo- vegetarians do not consume dairy products. Lacto-vegetarians do not consume eggs. Vegans do not consume dairy products or eggs."
+    },
+    {
+      "id": "nutrition-ch4-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which food contains the most protein in a cooked 3-oz serving?",
+      "options": [
+        "Lean top round beef",
+        "Fried tofu",
+        "Boiled kidney beans",
+        "Pan-fried chicken liver"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A 3-oz portion of animal meat has the highest amount of protein. The top round beef will have approximately 25-30 g of protein. Organ meat is also high in protein, with approximately 20-25 g per 3-oz portion. Plant based proteins like tofu and kidney beans have far less protein per serving, with the tofu containing approximately 15 g and the beans having less than 5 g."
+    },
+    {
+      "id": "nutrition-ch4-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "What type of food is a complete protein and should be included while planning a patient’s diet?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Fish is an animal food that is considered a complete protein. Gelatin is an animal protein but is incomplete. Peanuts and legumes are plant sources of protein that are incomplete proteins."
+    },
+    {
+      "id": "nutrition-ch4-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which characteristic determines the classification of a protein?",
+      "options": [
+        "Caloric content",
+        "Protein content",
+        "Vitamin content",
+        "Amino acid content"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Classification of proteins is based on the amino acid content. Caloric, protein, and vitamin contents do not determine the classification of proteins. [p. 42, pp. 107-110],p. 42"
+    },
+    {
+      "id": "nutrition-ch4-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "In which location does the initial breakdown of protein into amino acids begin?",
+      "options": [
+        "Liver",
+        "Mouth",
+        "@ Stomach",
+        "Small intestine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The initial breakdown of protein into amino acids begins in the mouth through the mechanical breakdown of chewing. The liver deaminates amino acids that are a byproduct of the protein. The enzymatic breakdown and chemical digestion of protein begins in the stomach and continues in the small intestine. Test-Taking Tip: Work with a study group to create and take practice tests. Think of the kinds of questions you would ask if you were composing the test. Consider what would be a good question, what would be the right answer, and what would be other answers that would appear right but would in fact be incorrect."
+    },
+    {
+      "id": "nutrition-ch4-008",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which type of protein must be available to meet the body’s metabolic needs? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Plasma, complete, hormone, and tissue proteins must be available to meet the body’s metabolic needs. Catabolism is a metabolic process, not a protein."
+    },
+    {
+      "id": "nutrition-ch4-009",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "What type of food is considered an animal source of protein? Select all that apply.",
+      "options": [
+        "Fees",
+        "Beef",
+        "By] Gelatin",
+        "Soy curd",
+        "iv) [ml] Cow’s milk"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Animal sources of protein include eggs, beef, gelatin, and cow’s milk. Soy curd, or tofu, is a plant source of protein."
+    },
+    {
+      "id": "nutrition-ch4-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A nurse is helping a vegan patient select a dinner meal. The health care provider wants to ensure that the patient has adequate protein to promote wound healing. What meal selection will allow for the highest amount of indispensable protein?",
+      "options": [
+        "Banana and peanut butter",
+        "Whole-wheat pasta with cheese",
+        "Mixed fruit cup and cow's milk",
+        "@ Whole-grain bread and lentil soup"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Complementary food combinations are made by mixing families of foods, such as grains and lentils, to balance the needed amino acids. The combination of banana and peanut butter will not provide more protein than the bread and soup. Vegans do not consume cheese or cow’s milk. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking by looking for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch4-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which meal selection is appropriate for a vegan patient who needs adequate protein?",
+      "options": [
+        "Baby spinach salad and milk",
+        "@ Steamed broccoli and soy milk",
+        "‘Sliced pears and hard-boiled eggs",
+        "Whole wheat pasta with meat sauce"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vegans follow a strict vegetarian diet and consume no animal foods. Their diet consists entirely of plant foods, such as broccoli and soy, the latter of which is the only plant source of complete proteins. Vegans do not consume regular cow’s milk, eggs, or any meat. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch4-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which role does protein play in the immune system?",
+      "options": [
+        "Produces antigens",
+        "Builds lymphocytes",
+        "Promotes passive immunity",
+        "Provides nutrient transport"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Protein is used to build special white blood cells such as lymphocytes. Protein helps produce antibodies, not antigens; antibodies defend the body against antigens that cause disease and infections. Passive immunity occurs as a result of the introduction of antibodies from another person. Protein aids in metabolic function through nutrient transport, which occurs during digestion. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer."
+    },
+    {
+      "id": "nutrition-ch4-013",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which complete protein is ideal for adding to a diet of grains and legumes? Select all that apply.",
+      "options": [
+        "Fees",
+        "my Fish",
+        "Tofu",
+        "Lentils",
+        "Tempeh"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": "Eggs, fish, tofu, and tempeh are complete proteins that can be added to a diet of grains and legumes. Lentils are a type of legume and are not considered a complete protein."
+    },
+    {
+      "id": "nutrition-ch4-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which is the final enzyme in the protein-splitting system, and where is it produced?",
+      "options": [
+        "Trypsin produced in the pancreas",
+        "Chymotrypsin produced in the pancreas",
+        "Dipeptidase produced in the small intestine",
+        "© Aminopeptidase produced in the small intestine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The final enzyme in the protein-splitting system is dipeptidase, which is produced in the wall of the small intestine. Trypsin is secreted from the pancreas and works on proteins and large polypeptide fragments that arrive from the stomach. Chymotrypsin is produced by the pancreas and continues the protein-splitting action of trypsin. Aminopeptidase is produced in the wall of the small intestine and attacks the nitrogen-containing end of the peptide chain and releases amino acids one at a time."
+    },
+    {
+      "id": "nutrition-ch4-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "When breaking down protein, which process does the body use to maintain nitrogen balance?",
+      "options": [
+        "Anabolism",
+        "Excretion",
+        "Catabolism",
+        "Deamination"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When breaking down protein, the body maintains nitrogen balance through deamination. During deamination, the nitrogen-containing part of the amino group is removed. Anabolism is a process by which amino acids are resynthesized into tissue proteins. The majority of nitrogen is excreted in the form of urea, but the nitrogen must go through a process in the liver to be converted to urea before being excreted. During catabolism, proteins are broken down from a large substance into smaller building blocks. Test-Taking Tip: The most reliable way to ensure that you select the correct response to a multiple-choice question is to recall it. Depend on your learning and memory to furnish the answer to the question. To do this, read the stem, and then stop! Do not look at the response options yet. Try to recall what you know and, based on this, what you would give as the answer. After you have taken a few seconds to do this, then look at all of the choices and select the one that most nearly matches the answer you recalled. It is important that you consider all the choices and not just choose the first option that seems to fit the answer you recall. Remember the distractors. The second choice may look okay, but the fourth choice may be worded in a way that makes it a slightly better choice. If you do not weigh all the choices, you are not maximizing your chances of correctly answering each question. ph 44"
+    },
+    {
+      "id": "nutrition-ch4-016",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which finding can a nurse expect in a 20-month-old child who receives adequate calories but lacks bioavailable protein sources? Select all that apply.",
+      "options": [
+        "Edema",
+        "By Fatty liver",
+        "Stunted growth",
+        "_| Emaciated appearance",
+        "|B] Weakened immune system"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": "Edema, fatty liver, stunted growth, and a weakened immune system are expected findings in a 20-month-old child who receives adequate calories but lacks bioavailable protein sources. An emaciated appearance occurs with marasmus, which results from chronic deficiency of many nutrients, not just protein."
+    },
+    {
+      "id": "nutrition-ch4-017",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which patient circumstance may require increased amounts of dietary protein? Select all that apply.",
+      "options": [
+        "Diabetes",
+        "|B] Surgical recovery",
+        "Liver disease",
+        "Burn injuries",
+        "Breastfeeding"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": "Patients who are recovering from surgery, have burn injuries, or are breastfeeding may require an increased amount of dietary protein. Dietary protein intake may be restricted based on the severity of diabetes and liver disease. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. pp. 53-54"
+    },
+    {
+      "id": "nutrition-ch4-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "What is the recommended daily allowance (RDA) of protein for an adult weighing 150 Ib? Record your answer using one decimal place. @ rv) g/day",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "To determine the patient’s weight in kilograms, the nurse divides 150 |b by 2.2 kg to get 68.2 kg. The nurse knows an adult requires 0.8 g of protein for each kilogram of body weight and so multiplies 68.2 kg by 0.8 g to determine the patient’s RDA of protein is 54.6 g/day."
+    },
+    {
+      "id": "nutrition-ch4-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which type of amino acid is necessary for patients experiencing certain illnesses?",
+      "options": [
+        "Dispensable",
+        "Indispensable",
+        "Conditionally dispensable",
+        "Conditionally indispensable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Conditionally indispensable amino acids are necessary for patients experiencing certain illnesses. The six conditionally indispensable amino acids are normally produced by the body, but in circumstances such as illness, the body cannot make them in high enough quantities. Dispensable amino acids are synthesized by the body and do not have to be consumed on a daily basis. Indispensable amino acids must be obtained by diet because the body does not make adequate amounts to support the body’s needs. A conditionally dispensable amino acid is not a class of amino acids. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch4-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Where are amino acids absorbed?",
+      "options": [
+        "Stomach",
+        "Liver",
+        "Large intestine",
+        "Portal circulation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Amino acids are absorbed in portal circulation from the small intestine and transferred to the liver. Amino acids are not absorbed in the stomach, where a large part of protein digestion occurs. Amino acids are converted in the liver. Amino acids are not absorbed in the large intestine. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch4-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which element distinguishes protein from other nutrients?",
+      "options": [
+        "Hydrogen",
+        "Carbon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nitrogen distinguishes protein from other nutrients. The amino acids that make up protein contain hydrogen, carbon, and oxygen, but these are not unique to protein."
+    },
+    {
+      "id": "nutrition-ch4-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which factor determines the function of proteins?",
+      "options": [
+        "Access to amino acids",
+        "Ingestion of amino acids",
+        "Denaturing of the protein",
+        "Structure of the protein"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The function of a protein is determined by its structure. A cell must have access to amino acids in order to build a protein. The ingestion of amino acids does not determine function of a protein; it contributes to the overall health of the body. A protein that has been denatured has been physically changed and may not be able to serve its function."
+    },
+    {
+      "id": "nutrition-ch4-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which is an advantage of consuming a diet of complementary proteins? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A diet of complementary proteins is lower in fat, less expensive than a diet containing animal-derived foods, preventive of some chronic diseases, and equivalent to a complete protein diet. The types of foods required may not always be easily accessible and therefore require more preparation and planning."
+    },
+    {
+      "id": "nutrition-ch4-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Based on protein intake, which is an expected finding a nurse may observe in a patient during a period of starvation?",
+      "options": [
+        "Zero nitrogen balance",
+        "@ Negative nitrogen balance",
+        "Nitrogen equilibrium",
+        "Positive nitrogen balance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Based on protein intake, the expected finding during a period of starvation is a negative nitrogen balance. Negative nitrogen balance occurs when more nitrogen is excreted from the body than is retained from dietary protein sources. A zero nitrogen balance or nitrogen equilibrium occurs when the body’s use of proteins is equal to their excretion. A positive nitrogen balance occurs when more nitrogen is retained in the body than excreted. pp. 44"
+    },
+    {
+      "id": "nutrition-ch4-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "What influences the body’s requirements for protein? Select all that apply.",
+      "options": [
+        "By] Illness",
+        "|B Tissue growth",
+        "Water intake",
+        "Low vitamin D",
+        "Quality of dietary protein"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ],
+      "explanation": "Influences on the body’s requirements for protein include illness, tissue growth, and quality of dietary protein. High protein intake increases water intake needs, but water intake does not influence protein requirements. Low vitamin D does not influence protein requirements."
+    },
+    {
+      "id": "nutrition-ch4-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which body function does protein support? Select all that apply.",
+      "options": [
+        "pH balance",
+        "iv) [ml] Fluid balance",
+        "iv) [ml] Immune system functioning",
+        "Primary energy source",
+        "Metabolism and transport"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": "Protein supports pH balance, fluid balance, immune system functioning, and metabolism and transport. The primary energy source is carbohydrates; protein is used as a backup energy source in times of need."
+    },
+    {
+      "id": "nutrition-ch4-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "How does protein help maintain pH balance?",
+      "options": [
+        "Acts as a buffering agent",
+        "Increases the uptake of hydrogen ions",
+        "Influences the release of carbonic acid",
+        "Stimulates the renal system’s uptake of base"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Protein helps maintain pH balance by acting as a buffering agent. The unique structure of proteins contains a combination of a carboxyl acid group and a base group, which allow them to act as buffering agents by releasing or taking up excess acid in the body. Protein does not increase the uptake of hydrogen ions, influence the release of carbonic acid, or stimulate the renal system’s uptake of base. Test-Taking Tip: Start by reading each of the answer options carefully. Usually, at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten"
+    },
+    {
+      "id": "nutrition-ch4-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "By which process does protein control water balance in the body?",
+      "options": [
+        "Active diffusion",
+        "iv) © Osmotic pressure",
+        "Passive diffusion",
+        "Hydrostatic pressure"
+      ],
+      "correctAnswer": null,
+      "explanation": "Protein controls water balance in the body through osmotic pressure. Because water is attracted to protein, plasma proteins such as albumin help control water balance throughout the body by exerting osmotic pressure. The pressure maintains the normal circulation of tissue fluids in the appropriate compartments. Active diffusion, passive diffusion, and hydrostatic pressure are not contributing factors directly involved in protein and water balance."
+    },
+    {
+      "id": "nutrition-ch4-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which factor is most important to consider when following a vegetarian diet?",
+      "options": [
+        "A vegetarian diet is not appropriate during pregnancy.",
+        "Awell-balanced diet from a variety of foods should be consumed.",
+        "Plant-based diets are better for the earth than animal-based diets.",
+        "Itis difficult to get a balanced amount of the indispensable amino acids."
+      ],
+      "correctAnswer": 1,
+      "explanation": "To reap the benefits of a vegetarian lifestyle, one must consume a well-balanced diet from a variety of foods. A well-balanced vegetarian diet can meet dietary recommendations for all essential nutrients; therefore vegetarian diets are appropriate throughout all stages of life, including pregnancy. The Academy of Nutrition and Dietetics notes that plant-based diets are better for the earth than animal-based diets, but this is not the most important factor to consider when choosing to follow a vegetarian diet. A balanced vegetarian eating pattern, along with the body’s small reserve of amino acids, ensures an overall amino acid balance, as long as a sufficient amount of varied foods are consumed to meet the normal nutrient and energy needs."
+    },
+    {
+      "id": "nutrition-ch4-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which description is associated with kwashiorkor? Select all that apply.",
+      "options": [
+        "A form of protein-energy malnutrition (PEM) that results from a chronic deficiency of many nutrients,",
+        "including protein",
+        "EB] More common among children age 18 to 24 months who have been breastfed all their lives and then"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Kwashiorkor is more common among children age 18 to 24 months who have been breastfed all their lives and then rapidly weaned. Switching the child from the nutrient-balanced breast milk to a dilute diet of mostly carbohydrates and small amounts of incomplete protein triggers the condition. Characteristics of kwashiorkor include generalized edema and fatty liver, resulting from inadequate protein availability to maintain fluid balance and transport fat away from the liver. Kwashiorkor results in stunted growth, a weakened immune system, and poor development. Kwashiorkor is a form of PEM that may result from an acute deficiency of protein. It does not result from a chronic deficiency of many nutrients. It is not characterized by an emaciated appearance with little or no body fat. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. -, CD"
+    },
+    {
+      "id": "nutrition-ch4-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which agent helps with the task of chemical digestion of proteins in the stomach? Select all that apply.",
+      "options": [
+        "Enterokinase",
+        "IB] Hydrochloric acid",
+        "Pepsin",
+        "Trypsin",
+        "Aminopeptidase",
+        "iv) [ml] Rennin"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": "The chemical digestion of proteins begins in the stomach. The three agents that help with the enzymatic breakdown of proteins are hydrochloric acid, pepsin, and rennin. Enterokinase is an enzyme produced and secreted in the duodenum. Trypsin is a protein-splitting enzyme that works in the small intestine to reduce proteins to shorter-chain polypeptides and dipeptides. Aminopeptidase is an intestinal secretion that splits protein to complete the breakdown of protein."
+    },
+    {
+      "id": "nutrition-ch4-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which vegetarian diet restricts the consumption of any item originating from or containing animal products?",
+      "options": [
+        "Ovo-vegetarian",
+        "Lacto-vegetarian",
+        "Lacto-ovo-vegetarian",
+        "Vegan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vegans consume no foods originating from or containing animal products. Ovo-vegetarians include eggs as the only animal foods in their diet. Lacto-vegetarians consume dairy products from animal sources to complement their basic diet of plant foods. Lacto-ovo-vegetarians follow a food pattern that allows for the consumption of dairy products and eggs. Their diet excludes beef, poultry, pork, fish, and seafood."
+    },
+    {
+      "id": "nutrition-ch4-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which protein is a vital oxygen carrier in the red blood cells?",
+      "options": [
+        "Albumin",
+        "Peptide hormones",
+        "@ Hemoglobin",
+        "Transferrin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hemoglobin is the vital oxygen carrier in the red blood cells. Albumin helps in balancing water through osmotic pressure. Peptide hormones, such as insulin and glucagon, are proteins that play a major function in the metabolism of glucose. Transferrin is the iron transport protein in blood."
+    },
+    {
+      "id": "nutrition-ch4-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which term refers to the five amino acids that the body can synthesize if the necessary building blocks and enzymes are available versus other amino acids?",
+      "options": [
+        "Dispensable",
+        "Indispensable",
+        "Conditionally indispensable",
+        "Complete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dispensable proteins refers to five amino acids that the body can synthesize from other amino acids if the necessary building blocks and enzymes are available. Dispensable proteins include alanine, aspartic acid, asparagine, glutamic acid, and serine. Indispensable amino acids are those that cannot be excluded from the diet without compromising health because the body cannot manufacture them in sufficient quantity or at all. These include histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine. Conditionally indispensable amino acids (arginine, cysteine, glutamine, glycine, proline, and tyrosine) are indispensable when endogenous sources cannot meet the metabolic demands. Complete is not one of the three classifications of amino acids. Complete proteins contain all nine indispensable amino acids in sufficient quantity and ratio to meet the body’s needs. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect. pp. 42-43"
+    },
+    {
+      "id": "nutrition-ch4-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "In which way does the body handle an excess dietary intake of protein? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When dietary protein needs are met, the excess protein is stored as fat or used as energy. Excess protein does not build muscle, only exercise and the consumption of enough protein to support growth can do that. A diet deficient in, not with an excess of, protein can result in stunted growth and a weakened immune system."
+    },
+    {
+      "id": "nutrition-ch4-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which method is used to rate protein quality according to the amount of indispensable amino acids contained and the digestibility of the whole protein and also measure the digestibility of each amino acid in the ileum?",
+      "options": [
+        "Protein efficiency ratio rating",
+        "Indicator amino acid oxidation",
+        "Digestible indispensable amino acid score",
+        "Protein digestibility-corrected amino acid score"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The digestible indispensable amino acid score rates protein quality according to the amount of indispensable amino acids contained and the digestibility of the whole protein and measures the digestibility of each amino acid in the ileum. Protein efficiency ratio rating is based on the weight gain of a growing test animal in relation to its intake of a specific protein source. Indicator amino acid oxidation assumes that when a protein source is deficient in any indispensable amino acid that oxidation of all amino acids will prevent them from contributing to the amino acid pool for protein use in the body. The protein digestibility-corrected amino acid score is similar to the digestible indispensable amino acid score, but it does not measure the digestibility of each amino acid in the ileum."
+    },
+    {
+      "id": "nutrition-ch4-037",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which characteristic is associated with both kwashiorkor and marasmus? Select all that apply.",
+      "options": [
+        "Stunted growth",
+        "Poor development"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "Kwashiorkor and marasmus both result in stunted growth and poor development. A weakened immune system is also a result shared by kwashiorkor and marasmus. Generalized edema is a hallmark of kwashiorkor; contrarily, marasmus presents as an emaciated appearance with little or no body fat."
+    },
+    {
+      "id": "nutrition-ch4-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which group has the highest risk for malnutrition?",
+      "options": [
+        "iv) © Children",
+        "Individuals with liver failure",
+        "Women age 65 years or older",
+        "Older adults living in rural areas"
+      ],
+      "correctAnswer": null,
+      "explanation": "Children have the highest risk for experiencing malnutrition because of their high nutritive needs during rapid growth and development. Individuals with high protein needs during infection or disease are at risk for malnutrition, but they do not have the highest risk. Women age 65 years or older have an increased risk for malnutrition, but children have a higher risk. Older adults living in rural areas are at risk for malnutrition but do not have the highest risk."
+    },
+    {
+      "id": "nutrition-ch4-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which statement is a recommendation regarding protein-rich foods from the Dietary Guidelines for Americans? Select all that apply.",
+      "options": [
+        "|B] Consume at least 8 oz of seafood per week from a variety of sources.",
+        "_| Animal protein should be avoided because it is high in saturated fat and cholesterol.",
+        "|B] Replace protein-rich foods that are high in sodium and solid fat with more nutrient-dense options.",
+        "Protein supplements are necessary because the standard American diet does not provide adequate"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": "Consuming at least 8 oz per week of seafood from a variety of sources is a recommendation from the Dietary Guidelines for Americans. Protein foods high in sodium and solid fat should be replaced with more nutrient- dense options, according to the Dietary Guidelines for Americans. The Dietary Guidelines for Americans recommends choosing a variety of protein-rich foods, including seafood, lean meat and poultry, eggs, beans and peas, soy products, and unsalted nuts and seeds. Although there are potential health risks associated with a diet that includes an excessive amount of animal products, the majority of the protein in the standard American diet comes from animal products; a variety of all food groups should be consumed without excessive consumption from any one source. The standard American diet provides an adequate amount of protein, so supplements are not necessary. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only Rationale Consuming at least 8 oz per week of seafood from a variety of sources is a recommendation from the Dietary Guidelines for Americans. Protein foods high in sodium and solid fat should be replaced with more nutrient- dense options, according to the Dietary Guidelines for Americans. The Dietary Guidelines for Americans recommends choosing a variety of protein-rich foods, including seafood, lean meat and poultry, eggs, beans and peas, soy products, and unsalted nuts and seeds. Although there are potential health risks associated with a diet that includes an excessive amount of animal products, the majority of the protein in the standard American diet comes from animal products; a variety of all food groups should be consumed without excessive consumption from any one source. The standard American diet provides an adequate amount of protein, so supplements are not necessary. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch4-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which factor influences the body’s requirement for protein? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Tissue growth influences the body’s requirement for protein, with rapid growth periods requiring more protein per unit of body weight to build and maintain tissue. During illness and disease, the body’s need for protein is increased in order to rebuild tissue during the healing process. The quality of dietary protein (i-e., bioavailability of protein and its composition of amino acids) also influences the body’s requirement for protein. Regardless of one’s personal preference for protein-rich foods, a varied and balanced diet is the best way to obtain quality protein in quantities that meet a healthy person’s needs. Dietary guidelines for Americans include recommendations regarding protein-rich foods but do not influence the body’s requirement for protein."
+    },
+    {
+      "id": "nutrition-ch4-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "ag Place the steps of chemical digestion of a protein in the correct order. Hydrochloric acid unfolds and denatures the complex protein chains. Pepsin changes large protein into short chains of polypeptides. Trypsin breaks long protein chains into small polypeptides and dipeptides. Chymotrypsin continues the protein-splitting process. Carboxypeptidase produces small peptides and some free amino acids. Aminopeptidase and dipeptidase ready the amino acids to be absorbed into the bloodstream.",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The chemical digestion of protein begins in the stomach, when gastric secretions begin to break down proteins. Hydrochloric acid in the stomach unfolds and denatures the complex protein chains. Pepsin, another gastric secretion, begins splitting the bonds between the protein’s long chain of amino acids, which changes the large protein into short chains of polypeptides. In the small intestine, trypsin, a pancreatic secretion. breaks long protein chains into small polypeptides and dipeptides. then chymotrvpsin continues the Rationale The chemical digestion of protein begins in the stomach, when gastric secretions begin to break down proteins. Hydrochloric acid in the stomach unfolds and denatures the complex protein chains. Pepsin, another gastric secretion, begins splitting the bonds between the protein’s long chain of amino acids, which changes the large protein into short chains of polypeptides. In the small intestine, trypsin, a pancreatic secretion, breaks long protein chains into small polypeptides and dipeptides, then chymotrypsin continues the protein-splitting process. Carboxypeptidase, also a pancreatic secretion, produces small peptides and some free amino acids. The intestinal secretions aminopeptidase and dipeptidase ready the amino acids to be absorbed into the bloodstream. pp. 49-50"
+    },
+    {
+      "id": "nutrition-ch4-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Vitamins",
+      "difficulty": "hard",
+      "question": "Which health benefit is provided by a vegetarian diet? Select all that apply.",
+      "options": [
+        "Improved blood glucose control",
+        "lodine level is easily maintained",
+        "Reduced risk of metabolic syndrome",
+        "Lower risk of some forms of cancer",
+        "Vitamin B 1) is readily found in plant foods",
+        "|B] Successful weight loss in overweight individuals"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "explanation": "One of the health benefits of a vegetarian diet is improved blood glucose control, resulting in better management of type 2 diabetes. A vegetarian diet provides lower abnormal metabolic traits, reducing the risk of metabolic syndrome. The risk of some forms of cancer, like stomach and colorectal cancer, is lowered by following a vegetarian diet. A vegetarian diet supports successful weight loss in overweight individuals and is associated with a lower prevalence of obesity. When following a vegetarian diet, it may be difficult to maintain an appropriate level of iodine because plant-based foods are low in iodine. Because vitamin B j2 is not naturally found in plant foods, foods that are fortified with B 12 should be consumed."
+    },
+    {
+      "id": "nutrition-ch4-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "In which case would a positive nitrogen balance occur? Select all that apply.",
+      "options": [
+        "During periods of malnutrition, illness, and starvation",
+        "_| When the body excretes more nitrogen than it keeps",
+        "When individuals are recovering from illness or malnutrition",
+        "During periods of rapid growth, like infancy, childhood, and adolescence",
+        "When the body has an inadequate supply of protein and/or total energy"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": "A positive nitrogen balance occurs in individuals recovering from illness or malnutrition, processes in which the body retains more nitrogen than it excretes. A positive nitrogen balance is also seen during periods of rapid growth, such as infancy, childhood, adolescence, pregnancy, and lactation, because the body stores more nitrogen in the form of protein when building tissue. During periods of malnutrition, illness, and starvation, the body excretes more nitrogen than it keeps, resulting in a negative nitrogen balance. When there is an inadequate supply of protein and/or total energy, the body must catabolize tissue to meet other critical functions, and a negative nitrogen balance occurs."
+    },
+    {
+      "id": "nutrition-ch4-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which statement explains why some amino acids are classified as conditionally",
+      "options": [
+        "indispensable?",
+        "They cannot be made by the body in sufficient quantity or at all.",
+        "They cannot by excluded from the diet without compromising health.",
+        "@ They must be consumed in the diet in the presence of certain physiologic conditions.",
+        "They can be synthesized by the body if the necessary building blocks and enzymes are available."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Conditionally indispensable amino acids are normally synthesized by the body, but must be consumed in the diet in the presence of certain physiologic conditions. Indispensable amino acids cannot be made by the body, therefore excluding them from the diet will compromise health. Amino acids that can be synthesized by the body from other amino acids are known as dispensable amino acids."
+    },
+    {
+      "id": "nutrition-ch4-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which description is true of dispensable amino acids? Select all that apply.",
+      "options": [
+        "Their functions are nonessential.",
+        "They are needed for a healthy life.",
+        "|B] They are not necessary to obtain in the diet.",
+        "They cannot be made by the body.",
+        "They can be synthesized from other amino acids."
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "All amino acids, including dispensable amino acids, are necessary for a healthy life. Dispensable amino acids are needed, but not necessary to obtain in the diet. Dispensable refers to the five amino acids that the body can synthesize from other amino acids if the building blocks and enzymes are available. Dispensable amino acids are essential, meaning that the body cannot make them. Test-Taking Tip: If you are unable to answer a multiple-choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple-response question that requires you to choose one or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully and then formulate your response. pp. 42-43"
+    },
+    {
+      "id": "nutrition-ch4-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which is the role of pepsin in the breakdown of protein? Select all that apply.",
+      "options": [
+        "Acts on the casein of milk",
+        "|B] Breaks down large protein molecules",
+        "] !s activated by hydrochloric acid",
+        "|B] Produces protein-splitting action",
+        "iv) [ml] Acts as a protein-specific gastric enzyme"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": "Pepsin is involved in the breakdown of protein by breaking down large protein molecules, becoming activated by gastric hydrochloric acid, and acting a specific gastric enzyme for protein. Rennin acts on the casein of milk. Protein splitting occurs in the small intestine."
+    },
+    {
+      "id": "nutrition-ch4-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "What statement made by the nurse demonstrates understanding of the role of rennin in the absorption of protein?",
+      "options": [
+        "\"Rennin speeds up the absorption of protein in the stomach.\"",
+        "\"Rennin breaks down protein into amino acids in the stomach.\"",
+        "\"Rennin and calcium prevent rapid absorption of milk in an infant.\"",
+        "\"Rennin increases in adolescence to support the extra need for protein.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The statement, \"Rennin and calcium prevent rapid absorption of milk in an infant\" demonstrates understanding of the role of rennin in protein absorption. Rennin does not speed up the absorption of protein in the stomach. Rennin does not break down protein into amino acids in the stomach; it works with calcium to produce a curd to prevent the food from passing too quickly into the small intestine. Rennin is not present in adolescents; it is only present during infancy and childhood."
+    },
+    {
+      "id": "nutrition-ch4-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which enzyme that is involved in the digestion of protein in the small intestine is responsible for attacking the acid end of the protein?",
+      "options": [
+        "Enterokinase",
+        "Chymotrypsin",
+        "Aminopeptidase",
+        "Carboxypeptidase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Carboxypeptidase is involved in the digestion of protein and is responsible for attacking acid in the small intestine. Enterokinase is secreted by intestinal cells upon food entering the duodenum and activates the enzyme trypsin. Chymotrypsin continues the protein-splitting action of trypsin. Aminopeptidase completes the breakdown of protein and polypeptides and frees the remaining amino acids. Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch4-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which chemical is responsible for unfolding and denaturing complex protein chains?",
+      "options": [
+        "Proenzymes",
+        "@ Hydrochloric acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hydrochloric acid is responsible for unfolding and denaturing complex protein chains. Trypsin is an enzyme produced by the pancreas that continues to break down food after it has moved into the small intestine. Pepsin is found in the stomach and is converted to pepsinogen to split the bonds between the protein’s long chain of amino acids, changing the large protein into short chains. Proenzymes are inactive enzymes activated as needed for protein digestion."
+    },
+    {
+      "id": "nutrition-ch4-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "A nurse is helping an ovo-vegetarian patient select a meal in the hospital. The patient needs a meal with adequate protein. Which selection is most appropriate for this patient?",
+      "options": [
+        "Grilled cheese",
+        "iv) © Over-easy eggs",
+        "Baked white fish",
+        "Chicken noodle soup"
+      ],
+      "correctAnswer": null,
+      "explanation": "The only animal source of protein acceptable in an ovo-vegetarian diet is eggs. Milk products, such as cheese, are not consumed by an ovo-vegetarian. Fish and poultry are animal proteins not consumed by an ovo- vegetarian."
+    },
+    {
+      "id": "nutrition-ch4-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient tells the nurse, \"| need to order soy milk to get enough protein and cannot have foods that come from animals.\" Which type of vegetarian is this patient?",
+      "options": [
+        "Lacto-ovo"
+      ],
+      "correctAnswer": null,
+      "explanation": "Vegan vegetarians follow a strict diet and consume no animal foods. Ovo-vegetarians include eggs in their diet. Lacto-vegetarians include dairy products from animal sources to complement a basic diet of plant foods. Lacto-ovo-vegetarians include dairy products and eggs from animal sources."
+    },
+    {
+      "id": "nutrition-ch4-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which plant source of protein is the only complete protein that contains all of the",
+      "options": [
+        "indispensable amino acids?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Soy is the only plant source of complete protein. Eggs are an animal protein. Nuts are of plant origin but are incomplete proteins. Gelatin is an incomplete animal protein."
+    },
+    {
+      "id": "nutrition-ch4-053",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A nurse is educating a vegan patient on a diet that includes adequate protein. What statement by the nurse is accurate regarding protein in the diet?",
+      "options": [
+        "“Tofu will be a great choice for you to ensure adequate protein. It has all nine essential amino acids.\"",
+        "\"Foods, such as whole-grain bread and yogurt, contain the protein you will need for a beneficial diet.\"",
+        "\"Eating foods that have the nine essential amino acids, such as cheese and milk, will balance your"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tofu is made from soybean curd and is the best option for adequate protein and essential amino acids for a vegan who follows strict diets and consumes no animal foods. Vegans do not consume yogurt, which is a dairy product from an animal source. Vegans do not consume cheese or milk, which are from an animal source. Soy products are not rich in dispensable amino acids; rather they are abundant with indispensable amino acids. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch4-054",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which food selection provides complete proteins for a vegan patient?",
+      "options": [
+        "French toast",
+        "Tuna casserole",
+        "Rice and beans",
+        "Pasta with tomato sauce"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A combination of grains and legumes, such as rice and beans, will provide complete proteins for the vegan patient. French toast contains egg, which is not an option for a vegan. A vegan cannot consume fish in the tuna casserole. Pasta with tomato sauce may be vegan, but it is not a good source of complete proteins. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch4-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient recently became a vegan. The nurse advises the patient to incorporate which protein-rich food into the new diet? Select all that apply.",
+      "options": [
+        "iv) [ml] Lentils",
+        "Skim milk",
+        "iv) [ml] Almond butter"
+      ],
+      "correctAnswers": [],
+      "explanation": "Soy, lentils, and almond butter are appropriate sources of protein for a vegan. Eggs and skim milk come from animals, so they would not be appropriate for this patient."
+    },
+    {
+      "id": "nutrition-ch4-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which combination of foods will the nurse recommend to a vegan patient for a healthy protein balance?",
+      "options": [
+        "Eggs and fish",
+        "Dairy and eggs",
+        "Fish and poultry",
+        "@ Grains and legumes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Combinations of plant foods, such as grains and legumes, will provide all the essential amino acids in the vegan diet. Eggs, fish, dairy, and poultry are animal sources of protein; vegans will not consume these."
+    },
+    {
+      "id": "nutrition-ch4-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A vegan patient is asking about complementary proteins in order to consume the nine essential amino acids in their diet. What suggestion can the nurse make to help the patient meet protein requirements? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Vegans consume no animal foods and must obtain all of their protein from plant sources. Complementary protein pairings the nurse can recommend are a lentil casserole with nut topping, garbanzo bean and sesame seed spread, and split pea soup with sesame seed crackers. Vegans do not consume yogurt or cheese, which are animal products. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch4-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which source of protein is plant-based? Select all that apply.",
+      "options": [
+        "Tofu",
+        "mW] Lentils",
+        "Peanuts",
+        "Chickpeas",
+        "Skim milk"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Plant sources of protein include tofu, lentils, peanuts, and chickpeas. Skim milk comes from cows."
+    },
+    {
+      "id": "nutrition-ch4-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A nurse is providing dietary counseling to a lacto-vegetarian patient. Which complementary food combination is the best choice for providing the necessary amino acids to achieve a complete protein balance for the patient?",
+      "options": [
+        "Falafel and hummus"
+      ],
+      "correctAnswer": null,
+      "explanation": "The complementary food combination that is the best choice for the patient with a lacto-vegetarian diet is whole-wheat pasta and cheese. Lacto-vegetarians eat dairy products from animal sources, and the whole- wheat pasta and cheese will provide the necessary amino acids to achieve a complete protein balance for the patient. Falafel and hummus, brown rice and beans, and peanut butter on whole-wheat bread are excellent choices for a vegan diet that does not include dairy."
+    },
+    {
+      "id": "nutrition-ch4-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 4",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which protein comes from an animal source?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Milk is an animal source of protein. Soy, tofu, and pine nuts are all plant sources of protein."
+    }
+  ]
+}

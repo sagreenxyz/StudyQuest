@@ -1,0 +1,901 @@
+{
+  "name": "Nutrition Nutrition Care",
+  "description": "Chapter 17 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch17-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which method of collecting information about dietary intake involves a lengthy interview process by a trained nutrition professional? rv) © Diet history",
+      "options": [
+        "24-hour food recall",
+        "Multiple-day food record",
+        "Food-frequency questionnaires"
+      ],
+      "correctAnswer": null,
+      "explanation": "The diet history is a lengthy interview process conducted by a highly trained nutrition professional. The 24- hour food recall is a fast and inexpensive interview requiring the patient to recall their typical dietary intake over 24 hours. A multiple-day food record requires the patient to record types and amounts of foods and beverages consumed over 3 to 7 days. A food-frequency questionnaire, self-administered by the patient, indicates how many times per day, week, month, or year specific foods are consumed. pp. 303-304"
+    },
+    {
+      "id": "nutrition-ch17-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Laboratory results for blood urea nitrogen and serum electrolytes are evaluated to determine which aspect of a patient’s nutrition status?",
+      "options": [
+        "Anemia",
+        "Liver function",
+        "Immune function"
+      ],
+      "correctAnswer": null,
+      "explanation": "Blood urea nitrogen and serum electrolytes tests evaluate a patient’s renal function. Complete blood count is measured to screen for anemia. Liver enzyme tests evaluate a patient’s liver function. Total lymphocyte count evaluates a patient’s immune function."
+    },
+    {
+      "id": "nutrition-ch17-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which category of drug interactions is the least well-defined?",
+      "options": [
+        "Herb-drug interactions",
+        "Food-drug interactions",
+        "Nutrient-drug interactions",
+        "Enteral feeding-drug interactions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Of these types of interactions, herb-drug interactions are the least well-defined and understood. Greater research evidence exists to define food-drug and nutrient-drug interactions. No medications are currently formulated for use with enteral feedings. Research has been done to define the interaction of enteral feedings and drugs."
+    },
+    {
+      "id": "nutrition-ch17-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which should be avoided when taking monoamine oxidase inhibitors (MAOIs) to decrease",
+      "options": [
+        "intake of tyramine? Select all that apply. One, some or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "MAOIs can increase the vascular effects of simple vasoactive amines, including tyramine and dopamine. Cheese, alcohol, and chocolate contain tyramine and should be avoided when taking MAOIs. Grapefruit can interfere with many drugs but has a low level of tyramine and thus does not have to be avoided with MAOIs. Green leafy vegetables are rich in vitamin K and are thus contraindicated with anticlotting drugs, but they are not high in tyramine and do not need to be avoided with MAOIs."
+    },
+    {
+      "id": "nutrition-ch17-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which are the three components of nutritional monitoring and evaluation?",
+      "options": [
+        "Problem, etiology, signs/symptoms",
+        "Interview, observation, medical record review"
+      ],
+      "correctAnswer": null,
+      "explanation": "The three components of nutritional monitoring and evaluation are monitoring progress, measuring outcomes, and evaluating outcomes. Identifying problem, etiology, and signs/symptoms is the process of writing the diagnostic statement. Interview, observation, and medical record review are techniques to gather data during the assessment phase of the nutrition care process. Gathering data, clustering data, and grouping information are techniques used to identify the nutrition diagnosis."
+    },
+    {
+      "id": "nutrition-ch17-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "The registered dietitian (RD) is reviewing the chart of a patient admitted with a stroke 5 days ago. Which is the priority nutritional diagnosis for the patient?",
+      "options": [
+        "Self-feeding difficulty related to stroke, as evidenced by right-sided weakness",
+        "Unreadiness for diet and lifestyle alterations related to stroke, as evidenced by the patient stating, \"I"
+      ],
+      "correctAnswer": null,
+      "explanation": "The priority nutrition diagnosis in this situation is \"Swallowing difficulty related to stroke, as evidenced by coughing following drinking of thin liquids.\" This indicates that the airway could be compromised because the patient has signs of aspiration. The patient should have nothing by mouth, the health care provider should be notified, and further testing should be done, because aspiration may compromise respirations. Self-feeding difficulty is a problem for the patient but it is not the priority. Respiratory status is the priority. Depression often occurs in the recovery phase of stroke, as indicated by the patient’s statement; however, physical needs such as aspiration prevention precede psychosocial needs such as depression. The inability to manage self- care is not the priority when respiratory status is compromised."
+    },
+    {
+      "id": "nutrition-ch17-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "The registered dietitian (RD) is formulating a nutrition care plan for a patient at risk for developing hypertension. Which nutrition diagnosis is most appropriate? rv) © Excessive calorie intake related to regular consumption of large portions of high-fat meals, as evidenced by diet history and body mass index (BMI) of 35",
+      "options": [
+        "Altered gastrointestinal function related to gastroesophageal reflux disease (GERD), as evidenced by"
+      ],
+      "correctAnswer": null,
+      "explanation": "The diagnosis most appropriate for a patient at risk for hypertension is \"Excessive calorie intake related to regular consumption of large portions of high-fat meals, as evidenced by diet history and BMI of 35.\"As the RD performs the nutritional assessment and clusters the data, risk factors for hypertension include obesity, high-fat meals, and BMI of 35. Altered gastrointestinal function related to GERD does not indicate a risk for hypertension. Undesirable food choices caused by anorexia would result in problems such as dental caries, cardiac dysfunction, renal dysfunction, and thin body stature, not the development of hypertension. Increasing sources of energy (i.e., food) for a patient at risk for hypertension is contraindicated."
+    },
+    {
+      "id": "nutrition-ch17-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which commonly used drug results in low-level chronic loss of iron when used continuously? rv) O Aspirin",
+      "options": [
+        "Docusate",
+        "Simethicone"
+      ],
+      "correctAnswer": null,
+      "explanation": "Aspirin is an irritant to the stomach and intestine; continuous use leads to low-level chronic loss of iron secondary to mucosal erosion. Docusate is a laxative and does not cause low-level chronic loss of iron. Simethicone is an antiflatulent and does not cause low-level chronic loss of iron. Omeprazole is a proton pump inhibitor and does not cause chronic low-level loss of iron. pp. 313-314"
+    },
+    {
+      "id": "nutrition-ch17-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "A patient presents with nausea, jaundice, dark-colored urine, and low INH levels. Which assessment question would be important to ask a patient to help determine the reason for these symptoms?",
+      "options": [
+        "@ \"How much alcohol do you drink?\"",
+        "\"Have you recently traveled abroad?\"",
+        "\"Have you been drinking a lot of coffee lately?\"",
+        "\"Have you been taking your medication as prescribed?\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alcohol intake with isoniazid can increase the possibility of hepatotoxicity and decrease the blood level of isoniazid, so asking the patient about alcohol intake would be important. The patient’s symptoms are unlikely to be caused by any disease contracted abroad. Coffee typically does not cause these symptoms, and a lack of INH itself would not cause nausea, jaundice, or dark-colored urine. pp. 310-311"
+    },
+    {
+      "id": "nutrition-ch17-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding the nutrient needs caused by drug side effects",
+      "options": [
+        "is incorrect?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Triamterene is a potassium-sparing diuretic, so these patients will not need to have increased potassium in the diet, making this an incorrect statement. Famotidine decreases absorption of vitamin B 17, so supplements may be needed. Phenytoin increases the metabolism of folate, vitamin D, and vitamin K, so intake of these nutrients would need to be increased. Oral contraceptives that contain estrogen and progestin can cause selective malabsorption, or increased metabolism and turnover, which can affect vitamin B ¢ and folate, requiring an increase in intake of these nutrients. Test-Taking Tip: Answer the question that is asked. Read the situation and the question carefully, looking for key words or phrases. Do not read anything into the question or apply what you did in a similar situation during one of your clinical experiences. Think of each question as being an ideal, yet realistic, situation."
+    },
+    {
+      "id": "nutrition-ch17-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements is correct regarding the use of peppermint regularly?",
+      "options": [
+        "\"Peppermint is a great herb to use for gastrointestinal issues, and it would be helpful to continue"
+      ],
+      "correctAnswer": null,
+      "explanation": "Overuse of peppermint can lead to heartburn, so the nurse’s best response is to tell the patient that the primary health care provider may recommend they stop using it. The nurse should not recommend continued use because the peppermint may be causing the heartburn. Peppermint does decrease muscle spasms of the gastrointestinal tract but stating that it is odd that the patient is experiencing heartburn would not be valid because peppermint use can be associated with heartburn. The nurse should not recommend continued use of the peppermint in combination with other medications because the peppermint could be the cause of the current issues with heartburn."
+    },
+    {
+      "id": "nutrition-ch17-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which category of the nutrition assessment can help to identify the use of complementary and alternative medicine? rv) O Patient history",
+      "options": [
+        "Nutrition-focused physical findings",
+        "Anthropometric measurements"
+      ],
+      "correctAnswer": null,
+      "explanation": "Guided questioning during the patient history stage of nutrition assessment can help the patient remember and identify the use of complementary and alternative medicine. Clinical signs relevant to a patient’s nutrition status are identified during nutrition-focused physical findings. Anthropometric measurements are used in clinical practice to predict basic nutrition risk parameters and are not used to identify the use of complementary and alternative medicine. The patient’s basic eating habits are used to identify possible nutrition deficiencies when the food and nutrition-related history is obtained, but this does not include identifying the use of complementary and alternative medicine."
+    },
+    {
+      "id": "nutrition-ch17-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which step of the nutrition care process evaluates food intake and nutrition-related history, anthropometric measurements, biochemical data, medical tests and procedures, and nutrition-focused physical findings but does not include the patient history? tx} © Assessment",
+      "options": [
+        "Diagnosis",
+        "Intervention",
+        "Monitoring and evaluation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrition monitoring and evaluation phase identifies the patients’ progress toward their goals and uses all of the categories used in nutrition assessment except patient history. The nutrition assessment phase uses five categories to collect, classify, and synthesize information about the patient’s nutrition status, including nutrition-related history, anthropometric measurements, biochemical data, medical tests and procedures, nutrition-focused physical findings, and patient history. The nutrition diagnosis phase uses the elements of problem, etiology, and signs/symptoms to determine the patient’s diagnosis. The nutrition intervention is the plan developed to resolve the nutrition-related etiology and/or diagnosis after the assessment and diagnosis have been completed."
+    },
+    {
+      "id": "nutrition-ch17-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which supplement should a pregnant patient take with antacids to reduce the risk for neural tube defects and congenital anomalies in the fetus?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Antacids can impair folate absorption, and folate deficiencies can cause neural tube defects and congenital anomalies of the heart, palate, and urinary tract. The effects may be offset by folate supplementation, so the nurse should instruct the patient to take folate supplements. Antacids may affect other vitamins and minerals as well, but iron, calcium, and magnesium are not linked to the risk for neural tube defects and congenital anomalies."
+    },
+    {
+      "id": "nutrition-ch17-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which statement about energy expenditure is correct?",
+      "options": [
+        "©@ \"Physical activity logs are the best way to determine energy expenditure.\"",
+        "\"Physical activity questionnaires are accurate measures of energy expenditure.\"",
+        "\"Dietary intake logs are accurate measures of energy expenditure.\"",
+        "\"The doubly labeled water method is the most accurate measure of energy expenditure.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "The gold standard for measuring energy expenditure is the doubly labeled water method. Participants ingest water labeled with a known concentration of isotopes of hydrogen and oxygen. Elimination of the isotopes is measured to predict the energy expenditure and metabolic rate. Physical activity logs, physical activity questionnaires, and dietary intake logs are less accurate measures of energy expenditure."
+    },
+    {
+      "id": "nutrition-ch17-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which of the following should be closely monitored for patients on anticlotting drugs such as warfarin or clopidogrel? rv) © Vitamin K",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A"
+      ],
+      "correctAnswer": null,
+      "explanation": "Anticlotting drugs inhibit the action of vitamin K. Too much vitamin K in the diet with anticlotting drugs will oppose the action of the drug while too little could cause serious hemorrhaging. Therefore the nurse needs to closely monitor the dietary intake of vitamin K for patients receiving anticlotting drugs. Vitamins C, D, and A do not interact with anticlotting drugs. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer. pp. 311-312"
+    },
+    {
+      "id": "nutrition-ch17-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following herbs can have a negative interaction with propranolol? Cy) O Garlic",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Garlic should not be consumed with propranolol because of its potential to inhibit liver metabolism, which can impact the effects of the propranolol. Ginseng is a hypoglycemic and should not alter the effects of propranolol. Psyllium is used for its laxative effect and can interfere with the absorption of some drugs but is not contraindicated with propranolol. Echinacea is used to prevent colds and flus and may lead to immunosuppression when taken for long periods, but it is does interact with propranolol."
+    },
+    {
+      "id": "nutrition-ch17-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb has a hypoglycemic effect? Cy) O Ginseng tx} © Licorice",
+      "options": [
+        "Chamomile",
+        "Alfalfa seed"
+      ],
+      "correctAnswer": null,
+      "explanation": "Ginseng is often used for its hypoglycemic effect. Licorice is used for treatment of peptic ulcer or as an expectorant and would not be an appropriate herb to recommend for this use. Chamomile is recommended for indigestion, reduction of tension, and inducement of sleep, among other uses and would not be an appropriate herb to recommend for a hypoglycemic effect. Alfalfa seed is used to reduce cholesterol levels and would not be an appropriate herb to recommend for a hypoglycemic effect."
+    },
+    {
+      "id": "nutrition-ch17-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "While completing a patient assessment concerning the use of complementary alternative therapies, which question posed by the nurse may result in a lack of honest reporting of supplement use?",
+      "options": [
+        "\"What is the herb you are taking supposed to do?\"",
+        "©@ \"Do you use any dietary supplements, including herbs?\"",
+        "\"Have you experienced any side effects from herb use?",
+        "\"Are you seeing an herbalist or naturopathic practitioner?\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Asking the patient what an herb they are taking is \"supposed to do\" implies skepticism, which may embarrass the patient and result in dishonest reporting of supplement use. Asking the patient about dietary supplement use, whether or not the patient has experienced side effects, and whether or not they are seeing an herbalist or a naturopathic practitioner are therapeutic questions that do not imply skepticism or make the patient feel defensive. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    },
+    {
+      "id": "nutrition-ch17-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Patients taking calcium acetate can suffer from constipation. What dietary modification may help prevent this drug side effect?",
+      "options": [
+        "Avoid consuming alcohol.",
+        "Eat foods low in sodium.",
+        "Add foods that increase dietary protein."
+      ],
+      "correctAnswer": null,
+      "explanation": "Calcium acetate is a phosphate binder that can cause constipation; encouraging the patient to drink additional fluids if urine output is inadequate can help prevent constipation. Avoiding the use of alcohol will not help prevent the occurrence of constipation. Eating foods low in sodium or that increase dietary protein will also not help prevent constipation."
+    },
+    {
+      "id": "nutrition-ch17-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "The consistent daily intake of which nutrient is important when taking an anticoagulant? Cy) O Vitamin K",
+      "options": [
+        "Folic acid"
+      ],
+      "correctAnswer": null,
+      "explanation": "Anticoagulant drugs interact with vitamin K, which has clotting properties, so consistent dietary intake of vitamin K is important. Anticoagulant drugs do not interfere with folic acid, potassium, or fat-soluble vitamins, so consistent daily intake of these nutrients is not necessarily needed. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch17-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which should be avoided when taking monoamine oxidase inhibitors (MAOIs) to decrease",
+      "options": [
+        "intake of tyramine? Select all that apply. One, some or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "MAOIs can increase the vascular effects of simple vasoactive amines, including tyramine and dopamine. Cheese, alcohol, and chocolate contain tyramine and should be avoided when taking MAOIs. Grapefruit can interfere with many drugs but has a low level of tyramine and thus does not have to be avoided with MAOIs. Green leafy vegetables are rich in vitamin K and are thus contraindicated with anticlotting drugs, but they are not high in tyramine and do not need to be avoided with MAOIs."
+    },
+    {
+      "id": "nutrition-ch17-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which should not be consumed at high levels when taking phenytoin?",
+      "options": [
+        "Yogurt"
+      ],
+      "correctAnswer": null,
+      "explanation": "Large doses of foods that contain high levels of folate or pyridoxine can reduce blood levels of anticonvulsants including phenytoin. Citrus fruits like oranges contain high levels of folate and could be impacting the phenytoin blood levels due to a recent increased intake. Yogurt, chocolates, and bottled apple juice do not contain high levels of folate or pyridoxine."
+    },
+    {
+      "id": "nutrition-ch17-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which commonly used drug results in low-level chronic loss of iron when used continuously? rv) © Aspirin",
+      "options": [
+        "Docusate",
+        "Simethicone",
+        "Omeprazole"
+      ],
+      "correctAnswer": null,
+      "explanation": "Aspirin is an irritant to the stomach and intestine; continuous use leads to low-level chronic loss of iron secondary to mucosal erosion. Docusate is a laxative and does not cause low-level chronic loss of iron. Simethicone is an antiflatulent and does not cause low-level chronic loss of iron. Omeprazole is a proton pump inhibitor and does not cause chronic low-level loss of iron. pp. 313-314"
+    },
+    {
+      "id": "nutrition-ch17-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which mode of feeding makes use of the gastrointestinal tract through oral or tube feeding?",
+      "options": [
+        "Parenteral feedings"
+      ],
+      "correctAnswer": null,
+      "explanation": "Enteral feedings make use of the gastrointestinal tract through oral or tube feeding. Parenteral feedings describe fluids, electrolytes, and lipids infused via an intravenous catheter. Intermittent feedings describe the frequency of feedings. Intravenous feedings are synonymous with parenteral feedings."
+    },
+    {
+      "id": "nutrition-ch17-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor may increase the susceptibility of individuals to food-drug interactions? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Multiple medications ( polypharmacy) can increase the potential for errors, thus increasing susceptibility to interactions. Literacy level and language barriers may impact the ability of individuals to read and understand drug directions regarding how to take medications or supplements. Route and medication classification do not affect individual susceptibility to food-drug interactions. Test-Taking Tip: If you can eliminate any responses as incorrect based on your knowledge, you will not be guessing randomly but will be exercising \"informed guessing.\""
+    },
+    {
+      "id": "nutrition-ch17-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb, when combined with bismuth-containing medications, can act as an anticoagulant? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When bismuth-containing medications such as Pepto-Bismol are combined with garlic, ginger, gingko, or ginseng, they may act as anticoagulants. Studies suggest that valerian is generally safe for use because there are currently no documented herb-drug interactions with bismuth-containing medications. Echinacea has a low risk for interaction with other drugs or medications and has not been implicated as enhancing the anticoagulant effect of bismuth-containing medications."
+    },
+    {
+      "id": "nutrition-ch17-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following herbs can have negative interactions with warfarin?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Ginseng may cause bleeding and enhances the effects warfarin, which can be dangerous because warfarin is an anticoagulant. Kava may enhance the sedative effects of anesthesia but is not implicated as interacting with warfarin. Use of ephedra may cause cardiovascular problems, including increased heart rate or arrhythmias but is not reported as an issue with warfarin. Valerian may interfere with the effects of anesthesia but is not reported to increase bleeding or interact with warfarin."
+    },
+    {
+      "id": "nutrition-ch17-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which pathophysiologic process results in increased absorption of griseofulvin with a high- fat diet? rv) © High-fat diets stimulate the secretion of bile acids, hence increasing drug absorption.",
+      "options": [
+        "The relative quantities of dietary carbohydrates and fat influence liver enzymes that metabolize drugs.",
+        "The fats in the diet induce mixed-function oxidase enzyme systems in the liver and speed up drug"
+      ],
+      "correctAnswer": null,
+      "explanation": "Griseofulvin is fat-soluble, and high-fat diets stimulate the secretion of bile acids; this aids in drug absorption. The relative quantities of carbohydrates and fat can also influence drug distribution and metabolism but are not the underlying pathophysiologic mechanism behind the increased absorption of griseofulvin. Indoles in cruciferous vegetables can speed up the rate of drug metabolism by inducing mixed-function oxidase enzyme systems in the liver that speed up drug metabolism but are not the underlying pathophysiologic mechanism behind the increased absorption of griseofulvin. Fat increases the concentration of valium, not griseofulvin, by displacing it from binding sites in plasma and tissue protein. pp. 310-311"
+    },
+    {
+      "id": "nutrition-ch17-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding use of ginseng and valerian while on alprazolam is correct?",
+      "options": [
+        "\"You should be able to resume taking both of those herbs; they do not interfere with alprazolam.\"",
+        "\"The ginseng will interact with the alprazolam and cause increased sedation, so you shouldn't take"
+      ],
+      "correctAnswer": null,
+      "explanation": "Valerian can intensify effects of sedatives and central nervous system (CNS) depressants, so it should be avoided when using alprazolam. Ginseng, however, has not been found to interact with CNS depressants and thus could potentially be resumed. Stating that both could be resumed would not be an appropriate response by the nurse because valerian can interact with alprazolam. Advising the patient not to take any herbs is not necessary because not all herbs interact with alprazolam. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch17-032",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "When taking naproxen, patients should increase intake of foods high in which nutrient? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Analgesics such as naproxen increase the loss of vitamin C and compete with folate and vitamin K, thus decreasing these nutrients. Patients should increase their intake of foods high in these nutrients when taking naproxen routinely. Routine naproxen use does not affect iron and zinc."
+    },
+    {
+      "id": "nutrition-ch17-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Cimetidine usage increases the risk for which nutrient deficiency? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Prolonged use of cimetidine, an H 2 receptor blocker, alters the pH of the stomach resulting in decreased absorption of iron, thiamine, and vitamin B j2. Decreased absorption of niacin and magnesium are not associated with prolonged cimetidine use. pp. 313-314"
+    },
+    {
+      "id": "nutrition-ch17-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the most likely reason for flushing, headache, increased heart rate and decreased blood pressure while taking nifedipine?",
+      "options": [
+        "Addition of a medication for insomnia approximately 2 weeks ago."
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient’s report of grapefruit juice for breakfast indicates the most likely reason for the patient’s current symptoms. Grapefruit juice increases the bioavailability of certain drugs, including nifedipine, thereby increasing the serum level; this can lead to side effects and/or toxicity. The addition of a new drug for insomnia is less likely to be the reason for the current symptoms. Taking nifedipine later than normal would most likely result in increased, not decreased blood pressure. Increased stress may impact vital signs, resulting in increased blood pressure and so would not be the most likely reason for the current symptoms."
+    },
+    {
+      "id": "nutrition-ch17-035",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a possible dietary interaction when taking ciprofloxacin? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Some antibiotics such as ciprofloxacin (Cipro) can bind to calcium, magnesium, iron, and zinc, thereby interfering with their absorption. Ciprofloxacin does not interfere with the absorption of potassium. Test-Taking Tip: If you are unable to answer a multiple choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully, and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch17-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Which of the following could cause a patient with type 2 diabetes to become confused and",
+      "options": [
+        "irrational after consuming alcohol while on chlorpropamide?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Ingestion of alcohol with chlorpropamide lowers the blood glucose level, resulting in symptoms of hypoglycemia, which include weakness, confusion, and irrational behavior. Alcohol enhances the effects of chlorpropamide; it does not counter the effects. There is not enough information provided to determine whether the patient is suffering from alcohol poisoning. The alcohol did not increase the patient’s blood sugar level; instead, it lowered it."
+    },
+    {
+      "id": "nutrition-ch17-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which factor creates the highest risk for drug-nutrient reactions?",
+      "options": [
+        "Obesity",
+        "Soft diet",
+        "Increased appetite"
+      ],
+      "correctAnswer": null,
+      "explanation": "A poor nutritional status can have a major impact on drug-nutrient reactions because abnormal nutrient levels can alter the effects of drugs. Obesity, a soft diet, and an increased appetite do not carry as high of a risk for drug-nutrient reactions."
+    },
+    {
+      "id": "nutrition-ch17-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "Which of the following is a dietary need in relation to allopurinol?",
+      "options": [
+        "The patient should drink 10 to 12 glasses of fluid daily.",
+        "The medication should always be taken with food or milk.",
+        "The patient may need to switch to a soft diet while taking allopurinol.",
+        "The patient’s diet should include high-potassium foods to support potassium levels."
+      ],
+      "correctAnswer": 0,
+      "explanation": "While taking allopurinol, the patient should drink at least 10 to 12 glasses of fluid daily. Allopurinol is not required to be taken with food or milk, nor does it require that the patient switch to a soft diet. Allopurinol does not affect potassium levels, so a high-potassium diet is not indicated."
+    },
+    {
+      "id": "nutrition-ch17-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The capacity for recovery from illness depends most on which factor?",
+      "options": [
+        "Age of the patient",
+        "Family support",
+        "Sense of well-being"
+      ],
+      "correctAnswer": null,
+      "explanation": "The capacity for recovery from illness depends on a good nutritional status. A poor nutritional status delays recovery and decreases quality of life. Age of the patient may have implications depending on recovery; however, optimal nutrition helps decrease metabolic demand and facilitate healing. Family support is a psychosocial need rather than a physical need. As such, nutritional status has more impact on the patient’s capacity for recovery. Similarly, a sense of well-being is a psychosocial need, and physical needs take priority."
+    },
+    {
+      "id": "nutrition-ch17-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which statement regarding dietary intake while taking Orlistat is correct? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Orlistat blocks fat from being absorbed from the intestines, so the diet should include no more than 30% of calories from fat to avoid an increase in side effects. Additionally, the drug should be taken during or within 1 hour of the meal. A multivitamin should be taken once a day at least 2 hours before or after the Orlistat to address potential deficiencies of fat-soluble vitamins caused by the drug. Following a reduced-calorie diet may be helpful but is not indicated as a requirement for this particular drug used to treat obesity. Alcohol may increase the dizziness effects of benzphetamine but is not typically a side effect of Orlistat. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch17-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which of the following is the best way to evaluate tolerance of enteral feedings?",
+      "options": [
+        "Auscultate the abdomen to verify bowel sounds.",
+        "Aspirate gastric residual volume (GRY).",
+        "Obtain and assess the gastric aspirate pH.",
+        "Keep the head of the bed elevated by at least 45 degrees."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The best way to evaluate tolerance of enteral feedings is to evaluate the gastric residual volume. The nurse aspirates and measures all stomach contents then returns them into the stomach. If the residual volume is abnormal, enteral feedings may be altered. Auscultating the abdomen for bowel sounds and assessing gastric aspirate pH do not indicate tolerance of the feedings. Elevating the head of the bed may be done to prevent heartburn."
+    },
+    {
+      "id": "nutrition-ch17-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which dietary action can help a pregnant patient’s nausea symptoms? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The nurse may suggest drinking liquids between rather than with meals; consuming small, frequent meals and snacks that are dry, bland, and low in fiber; and trying ginger or vitamin B ¢ supplements to reduce nausea. Dry fruits, vegetables, and whole grains at mealtime are suggested to relieve constipation, not nausea. Eating whole grains three times per day increases gastrointestinal motility and may increase nausea. Increasing fluids with each meal is appropriate for relief of constipation but this may increase nausea."
+    },
+    {
+      "id": "nutrition-ch17-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "A patient with myasthenia gravis (MG) is complaining of fatigue and weakness. Which is a concern for this patient at mealtime? rv) O Dysphagia",
+      "options": [
+        "Seizures"
+      ],
+      "correctAnswer": null,
+      "explanation": "MG is an autoimmune disorder caused by autoantibodies at the neuromuscular junction that attack acetylcholine receptors. The attack prevents acetylcholine from stimulating muscle contractions and may result in dysphagia, or difficulty in swallowing. The patient can progress from a weak voice to full respiratory arrest. Seizures are not common to MG. Dyskinesia and rigidity occur with Parkinson disease, not MG. Unilateral paralysis occurs with cerebral vascular accidents, not MG."
+    },
+    {
+      "id": "nutrition-ch17-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A patient arrives in the emergency department with complaints of sharp, intense flank pain. The patient is diagnosed with renal calculi. Intravenous fluid therapy is initiated, and the patient is admitted to the medical floor for further management. Which nutritional",
+      "options": [
+        "intervention is helpful in managing patients with renal calculi? Select all that apply. One,"
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient with renal calculi should restrict animal protein to 1g/kg body weight; restrict salt intake to less than 2300 mg per day; increase fluid intake to 2 to 3 L per day to produce at least 2 L of urine per day; and limit intake of spinach, rhubarb, beets, nuts, chocolate, tea, wheat bran, and strawberries (which increase urinary oxalate excretion). Calcium restriction should be avoided. The patient should take 800 to 1500 mg of calcium per day. Potassium intake should be encouraged. As such, the patient should be advised to consume five or more servings of fruits and vegetables. pp. 308-309"
+    },
+    {
+      "id": "nutrition-ch17-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which key finding indicates that a patient needs nutrition services? Select all that apply.",
+      "options": [
+        "| Increased waist circumference"
+      ],
+      "correctAnswers": [],
+      "explanation": "On admission, key issues indicating that the patient needs nutrition services include decreased appetite and unintentional weight loss. Increased waist circumference may indicate obesity; however, diseases such as cirrhosis may also result in increased weight circumference necessitating further physiologic investigation. Low serum albumin and prealbumin levels are historically associated with nutritional alterations; however, this serum albumin level is within the normal range (3.4 to 5 g/dL). Skin tenting may be used to assess hydration status, but it should be combined with other assessments."
+    },
+    {
+      "id": "nutrition-ch17-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor may increase the susceptibility of individuals to food-drug interactions? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Multiple medications ( polypharmacy) can increase the potential for errors, thus increasing susceptibility to interactions. Literacy level and language barriers may impact the ability of individuals to read and understand drug directions regarding how to take medications or supplements. Route and medication classification do not affect individual susceptibility to food-drug interactions. Test-Taking Tip: If you can eliminate any responses as incorrect based on your knowledge, you will not be guessing randomly but will be exercising \"informed guessing.\""
+    },
+    {
+      "id": "nutrition-ch17-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb, when combined with bismuth-containing medications, can act as an anticoagulant? Select all that apply.",
+      "options": [
+        "|"
+      ],
+      "correctAnswers": [],
+      "explanation": "When bismuth-containing medications such as Pepto-Bismol are combined with garlic, ginger, gingko, or ginseng, they may act as anticoagulants. Studies suggest that valerian is generally safe for use because there are currently no documented herb-drug interactions with bismuth-containing medications. Echinacea has a low risk for interaction with other drugs or medications and has not been implicated as enhancing the anticoagulant effect of bismuth-containing medications."
+    },
+    {
+      "id": "nutrition-ch17-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following herbs can have negative interactions with warfarin?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Ginseng may cause bleeding and enhances the effects warfarin, which can be dangerous because warfarin is an anticoagulant. Kava may enhance the sedative effects of anesthesia but is not implicated as interacting with warfarin. Use of ephedra may cause cardiovascular problems, including increased heart rate or arrhythmias but is not reported as an issue with warfarin. Valerian may interfere with the effects of anesthesia but is not reported to increase bleeding or interact with warfarin."
+    },
+    {
+      "id": "nutrition-ch17-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding use of ginseng and valerian while on alprazolam is correct?",
+      "options": [
+        "\"You should be able to resume taking both of those herbs; they do not interfere with alprazolam.\"",
+        "\"The ginseng will interact with the alprazolam and cause increased sedation, so you shouldn't take"
+      ],
+      "correctAnswer": null,
+      "explanation": "Valerian can intensify effects of sedatives and central nervous system (CNS) depressants, so it should be avoided when using alprazolam. Ginseng, however, has not been found to interact with CNS depressants and thus could potentially be resumed. Stating that both could be resumed would not be an appropriate response by the nurse because valerian can interact with alprazolam. Advising the patient not to take any herbs is not necessary because not all herbs interact with alprazolam. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch17-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "When taking naproxen, patients should increase intake of foods high in which nutrient? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Analgesics such as naproxen increase the loss of vitamin C and compete with folate and vitamin K, thus decreasing these nutrients. Patients should increase their intake of foods high in these nutrients when taking naproxen routinely. Routine naproxen use does not affect iron and zinc."
+    },
+    {
+      "id": "nutrition-ch17-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Cimetidine usage increases the risk for which nutrient deficiency? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Prolonged use of cimetidine, an H 2 receptor blocker, alters the pH of the stomach resulting in decreased absorption of iron, thiamine, and vitamin B j2. Decreased absorption of niacin and magnesium are not associated with prolonged cimetidine use. pp. 313-314"
+    },
+    {
+      "id": "nutrition-ch17-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is the most likely reason for flushing, headache, increased heart rate and decreased blood pressure while taking nifedipine?",
+      "options": [
+        "Addition of a medication for insomnia approximately 2 weeks ago.",
+        "Forgotten dose of nifedipine at bedtime as usual and replaced this morning."
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient’s report of grapefruit juice for breakfast indicates the most likely reason for the patient’s current symptoms. Grapefruit juice increases the bioavailability of certain drugs, including nifedipine, thereby increasing the serum level; this can lead to side effects and/or toxicity. The addition of a new drug for insomnia is less likely to be the reason for the current symptoms. Taking nifedipine later than normal would most likely result in increased, not decreased blood pressure. Increased stress may impact vital signs, resulting in increased blood pressure and so would not be the most likely reason for the current symptoms."
+    },
+    {
+      "id": "nutrition-ch17-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which is a possible dietary interaction when taking ciprofloxacin? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Some antibiotics such as ciprofloxacin (Cipro) can bind to calcium, magnesium, iron, and zinc, thereby interfering with their absorption. Ciprofloxacin does not interfere with the absorption of potassium. Test-Taking Tip: If you are unable to answer a multiple choice question immediately, eliminate the alternatives that you know are incorrect and proceed from that point. The same goes for a multiple response question that requires you to choose two or more of the given alternatives. If a fill-in-the-blank question poses a problem, read the situation and essential information carefully, and then formulate your response."
+    },
+    {
+      "id": "nutrition-ch17-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which statement regarding dietary intake while taking Orlistat is correct? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Orlistat blocks fat from being absorbed from the intestines, so the diet should include no more than 30% of calories from fat to avoid an increase in side effects. Additionally, the drug should be taken during or within 1 hour of the meal. A multivitamin should be taken once a day at least 2 hours before or after the Orlistat to address potential deficiencies of fat-soluble vitamins caused by the drug. Following a reduced-calorie diet may be helpful but is not indicated as a requirement for this particular drug used to treat obesity. Alcohol may increase the dizziness effects of benzphetamine but is not typically a side effect of Orlistat. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch17-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which dietary action can help a pregnant patient’s nausea symptoms? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The nurse may suggest drinking liquids between rather than with meals; consuming small, frequent meals and snacks that are dry, bland, and low in fiber; and trying ginger or vitamin B ¢ supplements to reduce nausea. Dry fruits, vegetables, and whole grains at mealtime are suggested to relieve constipation, not nausea. Eating whole grains three times per day increases gastrointestinal motility and may increase nausea. Increasing fluids with each meal is appropriate for relief of constipation but this may increase nausea."
+    },
+    {
+      "id": "nutrition-ch17-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "A patient with myasthenia gravis (MG) is complaining of fatigue and weakness. Which is a concern for this patient at mealtime? rv) © Dysphagia",
+      "options": [
+        "Seizures",
+        "Dyskinesia and rigidity",
+        "Unilateral paralysis"
+      ],
+      "correctAnswer": null,
+      "explanation": "MG is an autoimmune disorder caused by autoantibodies at the neuromuscular junction that attack acetylcholine receptors. The attack prevents acetylcholine from stimulating muscle contractions and may result in dysphagia, or difficulty in swallowing. The patient can progress from a weak voice to full respiratory arrest. Seizures are not common to MG. Dyskinesia and rigidity occur with Parkinson disease, not MG. Unilateral paralysis occurs with cerebral vascular accidents, not MG."
+    },
+    {
+      "id": "nutrition-ch17-057",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding the nutrient needs caused by drug side effects",
+      "options": [
+        "is incorrect?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Triamterene is a potassium-sparing diuretic, so these patients will not need to have increased potassium in the diet, making this an incorrect statement. Famotidine decreases absorption of vitamin B 17, so supplements may be needed. Phenytoin increases the metabolism of folate, vitamin D, and vitamin K, so intake of these nutrients would need to be increased. Oral contraceptives that contain estrogen and progestin can cause selective malabsorption, or increased metabolism and turnover, which can affect vitamin B ¢ and folate, requiring an increase in intake of these nutrients. Test-Taking Tip: Answer the question that is asked. Read the situation and the question carefully, looking for key words or phrases. Do not read anything into the question or apply what you did in a similar situation during one of your clinical experiences. Think of each question as being an ideal, yet realistic, situation."
+    },
+    {
+      "id": "nutrition-ch17-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which category of the nutrition assessment can help to identify the use of complementary and alternative medicine? rv) © Patient history",
+      "options": [
+        "Nutrition-focused physical findings",
+        "Anthropometric measurements",
+        "Food and nutrition-related history"
+      ],
+      "correctAnswer": null,
+      "explanation": "Guided questioning during the patient history stage of nutrition assessment can help the patient remember and identify the use of complementary and alternative medicine. Clinical signs relevant to a patient’s nutrition status are identified during nutrition-focused physical findings. Anthropometric measurements are used in clinical practice to predict basic nutrition risk parameters and are not used to identify the use of complementary and alternative medicine. The patient’s basic eating habits are used to identify possible nutrition deficiencies when the food and nutrition-related history is obtained, but this does not include identifying the use of complementary and alternative medicine."
+    },
+    {
+      "id": "nutrition-ch17-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which step of the nutrition care process evaluates food intake and nutrition-related history, anthropometric measurements, biochemical data, medical tests and procedures, and nutrition-focused physical findings but does not include the patient history? tx} © Assessment",
+      "options": [
+        "Diagnosis",
+        "Intervention",
+        "Monitoring and evaluation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrition monitoring and evaluation phase identifies the patients’ progress toward their goals and uses all of the categories used in nutrition assessment except patient history. The nutrition assessment phase uses five categories to collect, classify, and synthesize information about the patient’s nutrition status, including nutrition-related history, anthropometric measurements, biochemical data, medical tests and procedures, nutrition-focused physical findings, and patient history. The nutrition diagnosis phase uses the elements of problem, etiology, and signs/symptoms to determine the patient’s diagnosis. The nutrition intervention is the plan developed to resolve the nutrition-related etiology and/or diagnosis after the assessment and diagnosis have been completed."
+    },
+    {
+      "id": "nutrition-ch17-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which statement about energy expenditure is correct?",
+      "options": [
+        "\"Physical activity logs are the best way to determine energy expenditure.\"",
+        "\"Physical activity questionnaires are accurate measures of energy expenditure.\"",
+        "\"Dietary intake logs are accurate measures of energy expenditure.\"",
+        "\"The doubly labeled water method is the most accurate measure of energy expenditure.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "The gold standard for measuring energy expenditure is the doubly labeled water method. Participants ingest water labeled with a known concentration of isotopes of hydrogen and oxygen. Elimination of the isotopes is measured to predict the energy expenditure and metabolic rate. Physical activity logs, physical activity questionnaires, and dietary intake logs are less accurate measures of energy expenditure."
+    },
+    {
+      "id": "nutrition-ch17-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which of the following herbs can have a negative interaction with propranolol?",
+      "options": [
+        "@ Garlic",
+        "Ginseng",
+        "Payllium",
+        "Echinacea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Garlic should not be consumed with propranolol because of its potential to inhibit liver metabolism, which can impact the effects of the propranolol. Ginseng is a hypoglycemic and should not alter the effects of propranolol. Psyllium is used for its laxative effect and can interfere with the absorption of some drugs but is not contraindicated with propranolol. Echinacea is used to prevent colds and flus and may lead to immunosuppression when taken for long periods, but it is does interact with propranolol."
+    },
+    {
+      "id": "nutrition-ch17-062",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb has a hypoglycemic effect? Cy) © Ginseng",
+      "options": [
+        "Licorice",
+        "Chamomile",
+        "Alfalfa seed"
+      ],
+      "correctAnswer": null,
+      "explanation": "Ginseng is often used for its hypoglycemic effect. Licorice is used for treatment of peptic ulcer or as an expectorant and would not be an appropriate herb to recommend for this use. Chamomile is recommended for indigestion, reduction of tension, and inducement of sleep, among other uses and would not be an appropriate herb to recommend for a hypoglycemic effect. Alfalfa seed is used to reduce cholesterol levels and would not be an appropriate herb to recommend for a hypoglycemic effect."
+    },
+    {
+      "id": "nutrition-ch17-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 17",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "While completing a patient assessment concerning the use of complementary alternative therapies, which question posed by the nurse may result in a lack of honest reporting of supplement use?",
+      "options": [
+        "\"What is the herb you are taking supposed to do?\"",
+        "©@ \"Do you use any dietary supplements, including herbs?\"",
+        "\"Have you experienced any side effects from herb use?",
+        "\"Are you seeing an herbalist or naturopathic practitioner?\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "Asking the patient what an herb they are taking is \"supposed to do\" implies skepticism, which may embarrass the patient and result in dishonest reporting of supplement use. Asking the patient about dietary supplement use, whether or not the patient has experienced side effects, and whether or not they are seeing an herbalist or a naturopathic practitioner are therapeutic questions that do not imply skepticism or make the patient feel defensive. Test-Taking Tip: Read every word of each question and option before responding to the item. Glossing over the questions just to get through the examination quickly can cause you to misread or misinterpret the real intent of the question."
+    }
+  ]
+}

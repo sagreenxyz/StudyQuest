@@ -1,0 +1,1170 @@
+{
+  "name": "Nutrition Diabetes Mellitus",
+  "description": "Chapter 20 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch20-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "a In the United States, gestational diabetes accounts for what percentage of all pregnancies annually? OC 1%",
+      "options": [
+        "0%",
+        "®@® 10%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The prevalence of gestational diabetes in the United States is approximately 7% of all pregnancies annually. Gestational diabetes does not account for 1%, 10%, or 13% of all pregnancies annually in the United States. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a Which hemoglobin A ,, value would classify a patient as prediabetic? OC 5% Oo %",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "If the hemoglobin A ;, value is 5.7% to 6.4%, the patient is considered prediabetic. A normal hemoglobin A ,, value is approximately 5%. If the hemoglobin A ;, value is 7% or 8%, the patient is considered diabetic. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "What is the 1-hour postprandial blood glucose goal for a patient with gestational diabetes?",
+      "options": [
+        "Less than 105 mg/dL",
+        "Less than 110 mg/dL",
+        "Less than 130 mg/dL"
+      ],
+      "correctAnswer": null,
+      "explanation": "During pregnancy, the recommended 1-hour postprandial blood glucose goal is less than 155 mg/dL. The recommended fasting blood glucose goal during pregnancy is less than 105 mg/dL. A blood glucose level lower than 110 mg/dL is not recommended during pregnancy. The recommended 2-hour postprandial blood glucose goal during pregnancy is less than 130 mg/dL. pp. 369-370"
+    },
+    {
+      "id": "nutrition-ch20-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Es Chronic kidney disease and renal failure requiring dialysis develop in approximately what percentage of patients with type 1 diabetes?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Microvascular effects of type 1 diabetes include nephropathy and retinopathy. As a result of nephropathy, chronic kidney disease and renal failure requiring dialysis develop in approximately 50% of all individuals with type 1 diabetes. The percentage of patients with type 1 diabetes who develop chronic kidney disease and renal failure is more than 5% and more than 20% but less than 80%."
+    },
+    {
+      "id": "nutrition-ch20-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "hard",
+      "question": "Genetic predisposition and environmental factors are common with which type of diabetes?",
+      "options": [
+        "Type! diabetes",
+        "© Type 2 diabetes",
+        "Gestational diabetes",
+        "Prediabetes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Type 1 diabetes is an autoimmune disease resulting in the destruction of beta cells. Genetic predisposition and environmental factors are involved. One or more autoantibodies are present in the majority of individuals diagnosed with type 1 diabetes. Type 2 diabetes is an insidious disease; it is not uncommon for a person to have type 2 diabetes years before diagnosis. Occasionally, the stress of pregnancy may induce gestational diabetes. This is a form of glucose intolerance with onset during pregnancy only. Prediabetes occurs before type 2 diabetes. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices. pp. 366-367"
+    },
+    {
+      "id": "nutrition-ch20-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which statement regarding type 1 diabetes is correct?",
+      "options": [
+        "\"If | count carbohydrates, | may no longer need insulin.\"",
+        "\"will always need to take insulin.\"",
+        "\"One dose of insulin per day is enough.\"",
+        "\"My blood glucose can be managed with diet and exercise.\""
+      ],
+      "correctAnswer": 1,
+      "explanation": "Because patients with type 1 diabetes cannot make enough insulin on their own, they will always need to take insulin. Even if they count carbohydrates as part of their nutrition plan, they will still need to take insulin. The insulin is needed throughout the day, not just once per day. Blood glucose can be managed with diet and exercise for some patients with type 2 diabetes but not for patients with type 1 diabetes because they cannot make their own insulin. Test-Taking Tip: Make certain that the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch20-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "What is often the first manifestation of type 1 diabetes?",
+      "options": [
+        "Coronary artery disease",
+        "Peripheral neuropathy",
+        "Periodontitis"
+      ],
+      "correctAnswer": null,
+      "explanation": "The first manifestation of type 1 diabetes is often diabetic ketoacidosis. Diabetic ketoacidosis is a condition in which the body produces large amounts of ketones related to the body’s inability to produce insulin. Coronary artery disease, peripheral neuropathy, and periodontitis can be potential long-term complications of diabetes mellitus. pp. 366-367"
+    },
+    {
+      "id": "nutrition-ch20-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "When should patients to be tested for gestational diabetes?",
+      "options": [
+        "Postpartum"
+      ],
+      "correctAnswer": null,
+      "explanation": "All women should undergo screening for gestational diabetes during the second trimester because gestational diabetes occurs most commonly after 20 weeks of gestation. Women should not be initially tested for gestational diabetes during the postpartum period because this is too late. The first trimester is too early, and the third trimester is too late. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "medium",
+      "question": "What is a basic goal of nutrition therapy for patients with type 1 diabetes?",
+      "options": [
+        "Weight loss",
+        "Weight gain",
+        "Maintenance of a lean weight",
+        "Weight is not a factor in type 1 diabetes management"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adults with type 1 diabetes tend to have a lean weight, and maintaining it is a basic goal. Weight loss or weight gain in a patient with type 1 diabetes can lead to complications. Weight is a factor to consider in type 1 diabetes management."
+    },
+    {
+      "id": "nutrition-ch20-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Why is exercise important for a patient with type 2 diabetes who is already maintaining a healthy weight? x) © To potentiate the activation of insulin",
+      "options": [
+        "To decrease the effects of glucose"
+      ],
+      "correctAnswer": null,
+      "explanation": "Exercise is important for a patient with type 2 diabetes who is already maintaining a healthy weight because it improves cellular uptake of glucose. Exercise does not potentiate the activation of insulin or decrease the effects of glucose. Exercise requires energy, which is supplied by glucose; therefore exercise lowers the glucose level, not the effect of glucose. A patient who is not overweight does not need a negative energy balance."
+    },
+    {
+      "id": "nutrition-ch20-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which macronutrient primarily influences the postprandial glycemic response?",
+      "options": [
+        "Carbohydrates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carbohydrates primarily influence the postprandial glycemic response. Fats and proteins are not the primary influence on the postprandial glycemic response. Carbohydrates are broken down into glucose; glucose itself is not a macronutrient."
+    },
+    {
+      "id": "nutrition-ch20-013",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which factor must be considered when implementing medical nutrition therapy for a patient with type 2 diabetes? Select all that apply.",
+      "options": [
+        "|",
+        "| Metabolic goals"
+      ],
+      "correctAnswers": [],
+      "explanation": "Patient food preferences, metabolic goals, meal schedules, and physical activity should be considered when implementing medical nutrition therapy for a patient with type 2 diabetes. Age must be considered only if it affects one of the other factors."
+    },
+    {
+      "id": "nutrition-ch20-014",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "SS A dietitian is helping a patient with type 1 diabetes plan a daily nutrition schedule. Which factor should the dietitian discuss with the patient? Select all that apply.",
+      "options": [
+        "|B] Food distribution needs to be planned ahead when using insulin."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Blood glucose needs to be monitored to prevent hypoglycemia. Food distribution needs to be planned ahead when using insulin and should be adjusted according to the day’s scheduled activities. A stressful event caused by any source causes an adrenaline rush, a fight-or-flight effect that counteracts insulin activity and can contribute to a glycemic response. A nutrition plan should be adjusted daily based on schedules and stressful periods. When developing a nutrition plan for children and adolescents, consideration needs to be given to their activity level, growth spurts, and changing hormone patterns; this is not true for adults."
+    },
+    {
+      "id": "nutrition-ch20-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "What is true regarding exercise for patients with type 1 diabetes?",
+      "options": [
+        "Patients with type 1 diabetes should not exercise.",
+        "Patients with type 1 diabetes should avoid exercise if their fasting blood glucose level is greater than"
+      ],
+      "correctAnswer": null,
+      "explanation": "When insulin is at its peak, a patient’s blood glucose is at its lowest. Because exercise can also lower blood glucose, patients should avoid exercise when insulin is at its peak in order to prevent hypoglycemia. Patients with type 1 diabetes are encouraged to exercise but should avoid exercise when their fasting blood glucose level is greater than 300 mg/dL. As long as the patient does not have complications and their blood glucose is under control, the patient can perform all levels of exercise."
+    },
+    {
+      "id": "nutrition-ch20-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "The American Diabetes Association (ADA) endorses which type of diet for type 1 diabetes management?",
+      "options": [
+        "No concentrated sweets",
+        "No sugar added",
+        "Low sugar"
+      ],
+      "correctAnswer": null,
+      "explanation": "There is no \"ideal\" diabetic or \"ADA diet.\" Diet orders such as \"no concentrated sweets,\" \"no sugar added,\" and “low sugar\" are not suitable because they do not reflect diabetes nutrition recommendations or individual requirements and may pointlessly restrict sucrose."
+    },
+    {
+      "id": "nutrition-ch20-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "In addition to glucose management, which intervention can slow the progression of nephropathy and end-stage renal disease?",
+      "options": [
+        "Smoking cessation",
+        "Ongoing eye evaluations"
+      ],
+      "correctAnswer": null,
+      "explanation": "Improved glucose management and antihypertensive therapy can slow the progression of nephropathy and end-stage renal disease. Smoking cessation is one of the recommendations for the prevention and management of CVD. Ongoing eye evaluations are an important part of the care plan for diabetic patients with retinopathy. Reduction of triglyceride levels is recommended to manage hyperlipidemia. pp. 375-376"
+    },
+    {
+      "id": "nutrition-ch20-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "medium",
+      "question": "Patients with prediabetes would have which fasting blood glucose value?",
+      "options": [
+        "70 mg/dL",
+        "90 mg/dL",
+        "110 mg/d",
+        "@ 130 mg/d"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Patients with prediabetes have a fasting blood glucose value of 100 to 125 mg/dL. The normal range is 99 mg/dL or below. Patients with diabetes have a fasting blood glucose of 126 mg/dL or above. A fasting blood glucose value of 130 mg/dL indicates diabetes. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-019",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which of the following is a sign or symptom of gestational diabetes? Select all that apply.",
+      "options": [
+        "| Weight loss with increased appetite",
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Signs and symptoms of gestational diabetes include blurred vision, increased thirst, and weight loss with increased appetite. Headache, ringing in ears, and sudden blindness are signs and symptoms of preeclampsia in pregnancy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch20-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which of the following statements is correct regarding an increased risk for developing type 2 diabetes?",
+      "options": [
+        "\"You have elevated high-density lipoprotein cholesterol levels.\"",
+        "\"Your grandmother had type 2 diabetes.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The nurse’s response will be \"You have a history of gestational diabetes.\" Women with a history of gestational diabetes or who have delivered an infant weighing 9 Ib or more have a higher risk for type 2 diabetes. Elevated high-density-lipoprotein cholesterol levels are not a risk factor for type 2 diabetes. A first-degree relative with type 2 diabetes places the patient at risk for type 2 diabetes, but a grandmother is a second- degree relative. Risk factors for type 2 diabetes include age greater than 45 years and a BMI of 25 kg/m 2 or more, Test-Taking Tip: After you have eliminated one or more choices, you may discover that two of the options are very similar. This can be helpful, because it may mean that one of these look-alike answers is the best choice and the other is a very good distractor. Test both of these options against the stem. Ask yourself which one completes the incomplete statement grammatically and which one answers the question more fully and completely. The option that best completes or answers the stem is the one you should choose. Here, too, pause for a few seconds, give your brain time to reflect, and recall may occur."
+    },
+    {
+      "id": "nutrition-ch20-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "What is the definition of prediabetes?",
+      "options": [
+        "Glucose levels that do not meet the criteria for diabetes but are still considered high risk for"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prediabetes is defined by glucose levels that do not meet the criteria for diabetes but are still considered high risk for developing the disease. A condition of the pituitary gland and insufficiency of vasopressin characterized by copious output of a nonsweet urine, great thirst, and sometimes a large appetite is diabetes insipidus. Sudden, severe insulin deficiency requiring insulin therapy to prevent ketoacidosis, coma, and death is type 1 diabetes. Carbohydrate intolerance of variable severity with onset or first recognition during pregnancy is gestational diabetes. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb or supplement can safely be used for glycemic control with no concern for drug",
+      "options": [
+        "interactions?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Cinnamon is the only herb listed that can help with glycemic control and has no known drug-herb interaction. Ginseng interacts with hyperglycemic agents and any other agent used for glycemic control. It may also enhance the effect of stimulants, antibiotics, and monoamine oxidase inhibitors. Vanadium might cause hypoglycemia if used in conjunction with an effective antidiabetic regimen. Evening primrose oil interacts with phenothiazines."
+    },
+    {
+      "id": "nutrition-ch20-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Which laboratory test should a patient with prediabetes expect the health care provider to order? rv) © Fasting blood glucose",
+      "options": [
+        "Blood glucose before lunch",
+        "Blood glucose after lunch",
+        "Blood glucose after breakfast"
+      ],
+      "correctAnswer": null,
+      "explanation": "Diabetes is usually diagnosed and characterized by elevated fasting blood glucose values. To test fasting blood glucose, the patient needs to avoid eating for at least 8 hours before the test. A patient’s blood glucose level before a meal is not necessarily accurate if the patient has not been fasting long enough. Testing after breakfast or lunch does not allow for an accurate result. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "One carbohydrate serving equals how many grams of carbohydrates? x HO) 10g",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Carbohydrate content can be measured in grams of carbohydrates or servings; one carbohydrate serving equals 15 g of carbohydrates. Although 10 g is not enough to be a serving of carbohydrates, 20 g and 25 g are more than what is in one serving of carbohydrates."
+    },
+    {
+      "id": "nutrition-ch20-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "What is an expected assessment finding for a patient with impaired glucose tolerance (IGT)? tx} © Glucosuria",
+      "options": [
+        "Dyslipidemia",
+        "Diabetic ketoacidosis",
+        "Unintentional weight loss"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dyslipidemia is an expected assessment finding for a patient with IGT. IGT is a strong risk factor for the development of type 2 diabetes, which can result from underlying conditions such as dyslipidemia. Glucosuria, diabetic ketoacidosis, and unintentional weight loss are associated with type 1, not type 2, diabetes. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch20-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "What happens to beta cell function in type 2 diabetes? Cy) © Hyperinsulinemia occurs.",
+      "options": [
+        "Glucose attacks beta cells.",
+        "Insulin resistance occurs in beta cells.",
+        "Residual insulin is produced after the \"honeymoon period.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Type 2 diabetes alters beta cell function, resulting in excess insulin production or hyperinsulinemia. Glucose does not attack beta cells; beta cells produce insulin to carry glucose into the cells. Insulin resistance occurs in cells that use insulin, not those that produce it. Residual insulin is produced after the \"honeymoon period\" in type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Of which additional risk factor must the nurse be aware when providing education to a patient of East Asian descent with type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When providing education to a patient of East Asian descent with type 2 diabetes, the nurse should discuss the additional risk factors for stroke, cancer, and renal disorders. A patient of East Asian descent with type 2 diabetes does not have an increased risk for liver disease or thyroid disorders."
+    },
+    {
+      "id": "nutrition-ch20-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which statement most accurately describes gestational diabetes?",
+      "options": [
+        "\"You are at the highest risk in the first 20 weeks of gestation because insulin sensitivity is decreased"
+      ],
+      "correctAnswer": null,
+      "explanation": "Gestational diabetes occurs most commonly after the 20th week of gestation. In nondiabetic women, placental and ovarian hormones decrease insulin sensitivity, and the pancreas cannot compensate. Pregnant women do not usually develop gestational diabetes in the first 20 weeks of gestation. Placental and ovarian hormones do not increase insulin sensitivity during pregnancy. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient is experiencing symptoms related to gestational diabetes: increased thirst, increased urination, and fatigue. She also has the risk factor of advanced maternal age. Preeclampsia symptoms include a severe rise in blood pressure, rapid weight gain, marked edema, headache, decreased urine output, and dizziness. Phenylketonuria is an inborn error of metabolism characterized by extremely low levels of the enzyme phenylalanine hydroxylase. Hyperemesis gravidarum symptoms include severe and unrelenting vomiting. Test-Taking Tip: Multiple choice questions can be challenging, because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch20-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which statement is correct regarding potential complications of poorly controlled gestational diabetes? x) © \"If | do not follow the treatment plan, | could have a miscarriage.\"",
+      "options": [
+        "\"If | do not follow the treatment plan, my baby could have trouble gaining weight.\"",
+        "\"If | do not follow the treatment plan, my baby could have a low birth weight.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The most common outcome for an infant born to a mother with gestational diabetes is macrosomia, a larger- than-normal body size. Miscarriages are a complication related to bulimia nervosa in the mother. Difficulty gaining weight and having a low birth weight are common conditions of infants born to mothers with bulimia nervosa. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch20-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Which of the following statements is true regarding insulin therapy for gestational diabetes?",
+      "options": [
+        "“If | maintain a healthy body mass index, | will not need insulin.\"",
+        "“| can eat whatever | want as long as | take my insulin every day.\"",
+        "“It is alright to not take my insulin as long as | exercise regularly.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "For women who are unable to maintain their glucose levels within an acceptable range, insulin therapy is recommended. Strict adherence to insulin therapy can prevent or delay progression to type 2 diabetes. Along with insulin therapy, women are advised to maintain a healthy body mass index (BMI), but a healthy BMI is not a substitute for insulin therapy. Women with gestational diabetes are advised to maintain a balanced diet with insulin therapy. Women with gestational diabetes are advised to maintain a regular exercise schedule while adhering to the insulin regimen. However, exercising does not take the place of insulin therapy. pp. 369-370"
+    },
+    {
+      "id": "nutrition-ch20-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "When educating a pregnant patient with gestational diabetes on nutrition, what recommendation should the nurse include?",
+      "options": [
+        "Increase saturated fats."
+      ],
+      "correctAnswer": null,
+      "explanation": "Pregnant women with gestational diabetes should maintain an adequate intake of fiber along with fluids to prevent constipation. Saturated fats should be limited with gestational diabetes. Sodium is not routinely restricted with gestational diabetes. Carbohydrates should be eaten throughout the day rather than only in the morning."
+    },
+    {
+      "id": "nutrition-ch20-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A pregnant patient diagnosed with gestational diabetes is receiving information on maintaining a balanced diet throughout the pregnancy. The patient’s recommended body weight for pregnancy is 90 kg (198 Ib). What is this patient’s recommended daily protein",
+      "options": [
+        "intake?",
+        "72g"
+      ],
+      "correctAnswer": null,
+      "explanation": "The recommended daily protein intake for a patient with gestational diabetes with a recommended body weight of 90 kg for pregnancy is 1.1 g of protein per kilogram of recommended body weight, which equals 99 g of daily protein for this patient. Intakes of 72 g and 90 g are too low. An intake of 108 g is too high."
+    },
+    {
+      "id": "nutrition-ch20-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which sign or symptom do patients with type 1 diabetes often experience? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Cells use glucose for energy; without endogenous insulin, cells begin to starve. The body responds by sending signals to eat because cells are hungry. Because the end product of digestion (glucose) cannot enter cells, glucose builds up in the bloodstream. It is common for the patient with type 1 diabetes to experience weight loss despite consuming large quantities of food (polyphagia). Because glucose cannot enter cells and builds up in the bloodstream, blood becomes hypertonic, and the body tries to get rid of the excess glucose by increasing urine output (polyuria). In reaction to increased excretion of urine, the body again responds by increasing thirst (polydipsia) to replace lost fluids. Because of this, the patient with type 1 diabetes experiences an increase in appetite and weight loss (not weight gain). Even though patients will have an increase in urine output, they will not experience incontinence related to type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "hard",
+      "question": "What result indicates that the patient will be diagnosed with gestational diabetes?",
+      "options": [
+        "Fasting blood glucose level of 91 mg/dL",
+        "Blood glucose level of 175 mg/dL 1 hour after oral glucose tolerance test",
+        "Blood glucose level of 150 mg/dL 1 hour after oral glucose tolerance test",
+        "Blood glucose level of 155 mg/dL 2 hours after oral glucose tolerance test"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The diagnosis of gestational diabetes is made when the plasma glucose value exceeds 155 mg/dL 2 hours after the oral glucose tolerance test. A fasting blood glucose result exceeding 92 mg/dL is needed to diagnose gestational diabetes. A blood glucose level of greater than 180 mg/dL is needed to diagnose gestational diabetes 1 hour after the oral glucose tolerance test, so blood glucose levels of 175 mg/dL and 150 mg/dL 1 hour after the test do not indicate gestational diabetes. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Teaching about carbohydrate counting has been effective when the prediabetic patient makes which statement? x) © \"One carbohydrate serving equals 10 g of carbohydrates.\"",
+      "options": [
+        "\"Half a cup of dried fruit is one serving of carbohydrates.\"",
+        "“If ’'m counting carbohydrates, | no longer need insulin.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "One cup of milk is equal to one carbohydrate serving. One carbohydrate serving equals 15 g of carbohydrates. A quarter cup of dried fruit is one serving of carbohydrates. Patients may still require insulin when counting carbohydrates."
+    },
+    {
+      "id": "nutrition-ch20-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "Patients with prediabetes would have which fasting blood glucose value?",
+      "options": [
+        "70 mg/dL",
+        "90 mg/dL",
+        "@ 110 mg/d"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Patients with prediabetes have a fasting blood glucose value of 100 to 125 mg/dL. The normal range is 99 mg/dL or below. Patients with diabetes have a fasting blood glucose of 126 mg/dL or above. A fasting blood glucose value of 130 mg/dL indicates diabetes. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which of the following is a sign or symptom of gestational diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Signs and symptoms of gestational diabetes include blurred vision, increased thirst, and weight loss with increased appetite. Headache, ringing in ears, and sudden blindness are signs and symptoms of preeclampsia in pregnancy. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch20-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which herb or supplement can safely be used for glycemic control with no concern for drug",
+      "options": [
+        "interactions?"
+      ],
+      "correctAnswer": null,
+      "explanation": "Cinnamon is the only herb listed that can help with glycemic control and has no known drug-herb interaction. Ginseng interacts with hyperglycemic agents and any other agent used for glycemic control. It may also enhance the effect of stimulants, antibiotics, and monoamine oxidase inhibitors. Vanadium might cause hypoglycemia if used in conjunction with an effective antidiabetic regimen. Evening primrose oil interacts with phenothiazines."
+    },
+    {
+      "id": "nutrition-ch20-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "One carbohydrate serving equals how many grams of carbohydrates?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Carbohydrate content can be measured in grams of carbohydrates or servings; one carbohydrate serving equals 15 g of carbohydrates. Although 10 g is not enough to be a serving of carbohydrates, 20 g and 25 g are more than what is in one serving of carbohydrates."
+    },
+    {
+      "id": "nutrition-ch20-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "hard",
+      "question": "What is an expected assessment finding for a patient with impaired glucose tolerance (IGT)?",
+      "options": [
+        "Glucosuria",
+        "Dyslipidemia",
+        "Diabetic ketoacidosis",
+        "Unintentional weight loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dyslipidemia is an expected assessment finding for a patient with IGT. IGT is a strong risk factor for the development of type 2 diabetes, which can result from underlying conditions such as dyslipidemia. Glucosuria, diabetic ketoacidosis, and unintentional weight loss are associated with type 1, not type 2, diabetes. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch20-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which dietary consideration is necessary for the patient with type 2 diabetes before moderately exercising for 1 hour? rv) © No modifications are necessary.",
+      "options": [
+        "Two carbohydrate servings are recommended.",
+        "One carbohydrate serving is recommended.",
+        "Modifications are unnecessary unless the blood glucose level is less than 100 mg/dL."
+      ],
+      "correctAnswer": null,
+      "explanation": "There is no dietary modification recommended for the patient with type 2 diabetes before moderately exercising for 1 hour. Two carbohydrate servings are recommended for a patient with type 1 diabetes who will exercise strenuously for 1 to 2 hours. One carbohydrate serving is recommended for a patient with type 1 diabetes who will exercise moderately for 1 hour. Dietary modifications are unnecessary unless the blood glucose is less than 100 mg/dL for a patient with type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which group of patients has a higher risk for developing type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Hispanics, Latino Americans, Native Americans, and African Americans have a higher risk for developing type 2 diabetes. White patients do not have a pronounced risk for developing type 2 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which objective is accurate for a patient with prediabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Maintaining optimal nutrition, preventing hyperglycemia, and preventing complications are all objectives for a patient with prediabetes. Aggressive insulin therapy would not be necessary for a patient with prediabetes. The ADA does not sanction any single meal plan or specific percentages of nutrients for prediabetes."
+    },
+    {
+      "id": "nutrition-ch20-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "medium",
+      "question": "What is true regarding alcohol consumption and prediabetic and diabetic patients?",
+      "options": [
+        "Alcohol should be consumed on an empty stomach.",
+        "Alcohol consumption can increase serum cholesterol levels.",
+        "Alcohol consumption has no effect on neuropathy.",
+        "Alcohol consumption cannot lead to hypoglycemia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alcohol consumption can lead to increased serum cholesterol levels. Alcohol should never be consumed on an empty stomach. Alcohol can make neuropathy worse. Alcohol consumption can lead to hypoglycemia. Because the liver plays the biggest role in removing alcohol from the blood, it stops making glucose while cleansing alcohol from the body. If blood glucose levels are falling during the same time, hypoglycemia can occur very quickly."
+    },
+    {
+      "id": "nutrition-ch20-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "A clinical diagnosis of type 2 diabetes requires a blood glucose level of at least what amount? Record you answer using a whole number. @}| 110 @| 126 mg/dL",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The blood glucose level for a clinical diagnosis of type 2 diabetes is 126 mg/dL or greater."
+    },
+    {
+      "id": "nutrition-ch20-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which gradual-onset symptom occurs with type 2 diabetes? Select all that apply.",
+      "options": [
+        "| Fatigue"
+      ],
+      "correctAnswers": [],
+      "explanation": "The gradual-onset symptoms that occur with type 2 diabetes include polyuria, fatigue, and frequent infections. Hypoglycemia primarily occurs with type 1 diabetes. Upper-body obesity is an increased risk factor for type 2 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding carbohydrate intake and type 1 diabetes is",
+      "options": [
+        "incorrect?",
+        "\"Carbohydrate intake should be consistent throughout the day.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Sucrose-containing foods do not have to be eliminated from the diet. Eating a sucrose-containing food will have a similar blood glucose effect as eating another complex carbohydrate-containing food of equal caloric value. Carbohydrate intake should be consistent throughout the day. Fruits and vegetables are considered carbohydrates, and sugar-sweetened beverages should be limited or avoided. These are all guidelines for glycemic control for the patient with type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "What is the best response for a patient who asks, \"How can | control my type 2 diabetes?\"",
+      "options": [
+        "\"You are encouraged to exercise 45 minutes daily.\"",
+        "\"You need to lose 15% of your current body weight.\"",
+        "\"I would like to discuss the Mediterranean diet with you.\"",
+        "\"You need to think about what lifestyle changes you are going to make.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best response by the nurse for the patient who asks, \"How can | control my type 2 diabetes?\" is \"| would like to discuss the Mediterranean diet with you.\" A healthy diet, such as the Mediterranean diet, is a primary intervention for a patient with type 2 diabetes. Physical activity of at least 150 minutes per week is encouraged to promote and maintain a weight loss of 10% to 15% of body weight. Not all patients need to lose 15% of their body weight. Making a statement such as, \"You need to think about what lifestyle changes you are going to make\" is not therapeutic and provides no support or direction for the patient. Test-Taking Tip: Multiple-choice questions can be challenging because students think they will recognize the right answer when they see it or that the right answer will somehow stand out from the other choices. This is a dangerous misconception. The more carefully the question is constructed, the more each of the choices will seem like the correct response."
+    },
+    {
+      "id": "nutrition-ch20-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which dietary strategy should a nurse recommend for a patient with type 2 diabetes?",
+      "options": [
+        "Increasing frequency of meals",
+        "Decreasing dietary caloric intake",
+        "Implementing a low-carbohydrate diet",
+        "Planning regular times for meals and snacks"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Planning regular times for meals and snacks is a dietary strategy a nurse should recommend for a patient with type 2 diabetes. Increasing the frequency of meals is sometimes recommended for a patient with type 1 diabetes. Decreasing the dietary caloric intake is only beneficial if the patient is overweight. Low-carbohydrate diets are not recommended for the management of diabetes. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch20-051",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which dietary recommendation is applicable for a patient with type 2 diabetes?",
+      "options": [
+        "Follow restrictions for dietary protein.",
+        "©@ Increase dietary fiber beyond the recommended dietary allowance (RDA).",
+        "Fats should comprise no more than 20% of the diet."
+      ],
+      "correctAnswer": null,
+      "explanation": "Type 2 diabetic patients can consume nutritive and nonnutritive sweeteners. There are no restrictions for dietary protein unless the patient has diabetic nephropathy. There are no special recommendations for dietary fiber intake beyond the RDA. There is no evidence that supports a specific recommendation for dietary fat consumption as a percentage of the diet."
+    },
+    {
+      "id": "nutrition-ch20-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which micronutrient supplementation is recommended for a patient with type 2 diabetes?",
+      "options": [
+        "Mineral supplementation enhances wellness."
+      ],
+      "correctAnswer": null,
+      "explanation": "Micronutrient supplementation for a patient with type 2 diabetes is not necessary unless there are underlying deficiencies. Mineral, vitamin, and antioxidant supplementation may be applicable for a patient with type 2 diabetes who has other nutrition deficiencies. Test-Taking Tip: Avoid taking a wild guess at an answer. However, should you feel insecure about a question, eliminate the alternatives that you believe are definitely incorrect, and reread the information given to make sure you understand the intent of the question. This approach increases your chances of randomly selecting the correct answer or getting a clearer understanding of what is being asked."
+    },
+    {
+      "id": "nutrition-ch20-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which statement is true regarding nutrition therapy for type 1 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "No standard diabetic diet exists; therefore, nutrition therapy should be individualized. A consistent eating pattern will lead to better glycemic control. Nutrition recommendations are the same for individuals with diabetes as for the general population in regard to total fat. However, recommendations for protein are modified. Alcohol can be consumed, but considerations must be made because alcohol can cause hyperglycemia or hypoglycemia."
+    },
+    {
+      "id": "nutrition-ch20-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which aspect of health plays a role in prediabetes management? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "lifestyle modifications. The ability of the individual to understand the condition; be compliant on a regular basis regarding insulin injections, if required; and follow dietary and exercise recommendations depend on intellectual health. Emotional health is affected because the individual must deal with a chronic lifelong condition, as well as changes in dietary habits that may necessitate the loss of favorite foods. Support, especially from family members and friends, is a crucial part of social health. The environmental health dimension can support prediabetes management based on the availability and means to access prediabetes management health care. Spiritual, not religious, health may affect diabetes management."
+    },
+    {
+      "id": "nutrition-ch20-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which of the following applies to a patient with type 1 diabetes who is susceptible to hypoglycemia. Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "An increase in exercise can lead to hypoglycemia, so a patient with type 1 diabetes will need to increase food intake if exercise is increased. If a patient is having signs and symptoms of hypoglycemia, taking a glucose tablet right away will prevent losing consciousness. Alcohol should be consumed with food to prevent hyperglycemia or hypoglycemia. A patient with type 1 diabetes will always need to take insulin. Hypoglycemia can occur if the patient does not consume enough carbohydrates; intake should be consistent throughout the day. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch20-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which factor characterizes prediabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Patients are considered to have prediabetes if they have impaired fasting blood glucose, abdominal obesity, and high triglycerides. Patients with prediabetes also have an impaired glucose tolerance test (not normal), hypertension (not normal blood pressure), and a low level of high-density-lipoprotein cholesterol. pp. 370-371"
+    },
+    {
+      "id": "nutrition-ch20-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which is true regarding nutrition therapy for patients with prediabetes or diabetes? Select all that apply.",
+      "options": [
+        "| Cultural and ethnic preferences should be taken into account."
+      ],
+      "correctAnswers": [],
+      "explanation": "The objective of nutrition therapy is to support and facilitate individual lifestyle and behavioral changes that will lead to improved glycemic control. Cultural and ethnic preferences should be taken into consideration while respecting the individual’s wishes and willingness to change. Improved health should focus on healthy food choices as well as physical activity. Chronic complications should be prevented if possible and treated if they already exist."
+    },
+    {
+      "id": "nutrition-ch20-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "Dietary prescriptions for diabetes are based on which factors?",
+      "options": [
+        "Treatment goals and amount of daily physical activity",
+        "© Age and individual nutrition assessment",
+        "Individual nutrition assessment and treatment goals",
+        "Treatment goals and age"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutritional therapy for prediabetes and diabetes is highly individualized. The American Diabetes Association (ADA) recommendations clearly state that no single diabetic or ADA diet exists. Today, the recommendation diet is a dietary prescription based on individual nutrition assessment and treatment goals. Physical activity requires advanced planning but is not part of all dietary prescription. Age is not necessarily a factor in dietary prescription whether it is paired with individual nutrition assessment or treatment goals."
+    },
+    {
+      "id": "nutrition-ch20-059",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which statement is correct regarding optimal consumption of carbohydrates with gestational diabetes?",
+      "options": [
+        "\"| eat carbohydrates in the morning only.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The recommendation for patients with gestational diabetes is to distribute carbohydrate consumption throughout the day. Carbohydrates should not be consumed only in the morning, only at dinner, or only at lunch. pp. 369-370"
+    },
+    {
+      "id": "nutrition-ch20-060",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "Which patient education topic is the highest priority for someone with gestational diabetes who is having difficulty maintaining glycemic control with adequate medical nutrition therapy and regular exercise?",
+      "options": [
+        "Planning an exercise routine",
+        "Understanding insulin therapy",
+        ", Developing meal plans each week",
+        "© Maintaining a healthy body mass index (BMI)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When a patient with gestational diabetes is having difficulty maintaining glycemic control through diet and exercise, insulin may be prescribed in addition to medical nutrition therapy to reduce the risks of fetal macrosomia, neonatal hyperglycemia, and perinatal mortality. Therefore, the nurse should be prepared to teach the patient about insulin therapy. Planning an exercise routine is not a priority. Developing weekly meal plans may help, but it is not the priority. Maintaining a healthy BMI is important, but it is not the priority. pp. 369-370"
+    },
+    {
+      "id": "nutrition-ch20-061",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which of the following statements about nutrition therapy and type 1 diabetes is correct?",
+      "options": [
+        "\"Daily intake of kilocalories should come mostly from carbohydrates.\"",
+        "\"It is not necessary to plan specific times to eat as long as | eat the recommended amount of"
+      ],
+      "correctAnswer": null,
+      "explanation": "Extra food for unusual exercise is needed to help prevent hypoglycemia. Daily intake of kilocalories should come not just from carbohydrates but also proteins and fats. It is extremely important to plan regular times for meals and snacks to prevent hypoglycemia. During illness, the patient should consume small, frequent meals of carbohydrates to prevent starvation ketoacidosis."
+    },
+    {
+      "id": "nutrition-ch20-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which objective is accurate for a patient with prediabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Maintaining optimal nutrition, preventing hyperglycemia, and preventing complications are all objectives for a patient with prediabetes. Aggressive insulin therapy would not be necessary for a patient with prediabetes. The ADA does not sanction any single meal plan or specific percentages of nutrients for prediabetes."
+    },
+    {
+      "id": "nutrition-ch20-063",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "easy",
+      "question": "A clinical diagnosis of type 2 diabetes requires a blood glucose level of at least what amount? Record you answer using a whole number. @}| 110 @| 126 mg/dL",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The blood glucose level for a clinical diagnosis of type 2 diabetes is 126 mg/dL or greater."
+    },
+    {
+      "id": "nutrition-ch20-064",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which gradual-onset symptom occurs with type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The gradual-onset symptoms that occur with type 2 diabetes include polyuria, fatigue, and frequent infections. Hypoglycemia primarily occurs with type 1 diabetes. Upper-body obesity is an increased risk factor for type 2 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-065",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding carbohydrate intake and type 1 diabetes is",
+      "options": [
+        "incorrect?",
+        "\"Carbohydrate intake should be consistent throughout the day.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "Sucrose-containing foods do not have to be eliminated from the diet. Eating a sucrose-containing food will have a similar blood glucose effect as eating another complex carbohydrate-containing food of equal caloric value. Carbohydrate intake should be consistent throughout the day. Fruits and vegetables are considered carbohydrates, and sugar-sweetened beverages should be limited or avoided. These are all guidelines for glycemic control for the patient with type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which dietary recommendation is applicable for a patient with type 2 diabetes?",
+      "options": [
+        "Follow restrictions for dietary protein.",
+        "Increase dietary fiber beyond the recommended dietary allowance (RDA).",
+        "Fats should comprise no more than 20% of the diet."
+      ],
+      "correctAnswer": null,
+      "explanation": "Type 2 diabetic patients can consume nutritive and nonnutritive sweeteners. There are no restrictions for dietary protein unless the patient has diabetic nephropathy. There are no special recommendations for dietary fiber intake beyond the RDA. There is no evidence that supports a specific recommendation for dietary fat consumption as a percentage of the diet."
+    },
+    {
+      "id": "nutrition-ch20-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which statement is true regarding nutrition therapy for type 1 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "No standard diabetic diet exists; therefore, nutrition therapy should be individualized. A consistent eating pattern will lead to better glycemic control. Nutrition recommendations are the same for individuals with diabetes as for the general population in regard to total fat. However, recommendations for protein are modified. Alcohol can be consumed, but considerations must be made because alcohol can cause hyperglycemia or hypoglycemia."
+    },
+    {
+      "id": "nutrition-ch20-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which aspect of health plays a role in prediabetes management? Select all that apply.",
+      "options": [
+        "|"
+      ],
+      "correctAnswers": [],
+      "explanation": "lifestyle modifications. The ability of the individual to understand the condition; be compliant on a regular basis regarding insulin injections, if required; and follow dietary and exercise recommendations depend on intellectual health. Emotional health is affected because the individual must deal with a chronic lifelong condition, as well as changes in dietary habits that may necessitate the loss of favorite foods. Support, especially from family members and friends, is a crucial part of social health. The environmental health dimension can support prediabetes management based on the availability and means to access prediabetes management health care. Spiritual, not religious, health may affect diabetes management."
+    },
+    {
+      "id": "nutrition-ch20-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which of the following applies to a patient with type 1 diabetes who is susceptible to hypoglycemia. Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "An increase in exercise can lead to hypoglycemia, so a patient with type 1 diabetes will need to increase food intake if exercise is increased. If a patient is having signs and symptoms of hypoglycemia, taking a glucose tablet right away will prevent losing consciousness. Alcohol should be consumed with food to prevent hyperglycemia or hypoglycemia. A patient with type 1 diabetes will always need to take insulin. Hypoglycemia can occur if the patient does not consume enough carbohydrates; intake should be consistent throughout the day. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch20-070",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which is true regarding nutrition therapy for patients with prediabetes or diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The objective of nutrition therapy is to support and facilitate individual lifestyle and behavioral changes that will lead to improved glycemic control. Cultural and ethnic preferences should be taken into consideration while respecting the individual’s wishes and willingness to change. Improved health should focus on healthy food choices as well as physical activity. Chronic complications should be prevented if possible and treated if they already exist."
+    },
+    {
+      "id": "nutrition-ch20-071",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "hard",
+      "question": "Dietary prescriptions for diabetes are based on which factors?",
+      "options": [
+        "Treatment goals and amount of daily physical activity",
+        "Age and individual nutrition assessment",
+        "Individual nutrition assessment and treatment goals",
+        "Treatment goals and age"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutritional therapy for prediabetes and diabetes is highly individualized. The American Diabetes Association (ADA) recommendations clearly state that no single diabetic or ADA diet exists. Today, the recommendation diet is a dietary prescription based on individual nutrition assessment and treatment goals. Physical activity requires advanced planning but is not part of all dietary prescription. Age is not necessarily a factor in dietary prescription whether it is paired with individual nutrition assessment or treatment goals."
+    },
+    {
+      "id": "nutrition-ch20-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Of which additional risk factor must the nurse be aware when providing education to a patient of East Asian descent with type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When providing education to a patient of East Asian descent with type 2 diabetes, the nurse should discuss the additional risk factors for stroke, cancer, and renal disorders. A patient of East Asian descent with type 2 diabetes does not have an increased risk for liver disease or thyroid disorders."
+    },
+    {
+      "id": "nutrition-ch20-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which statement is correct regarding potential complications of poorly controlled gestational diabetes? x) © \"If | do not follow the treatment plan, | could have a miscarriage.\"",
+      "options": [
+        "\"If | do not follow the treatment plan, my baby could have trouble gaining weight.\"",
+        "\"If | do not follow the treatment plan, my baby could have a low birth weight.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The most common outcome for an infant born to a mother with gestational diabetes is macrosomia, a larger- than-normal body size. Miscarriages are a complication related to bulimia nervosa in the mother. Difficulty gaining weight and having a low birth weight are common conditions of infants born to mothers with bulimia nervosa. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch20-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A pregnant patient diagnosed with gestational diabetes is receiving information on maintaining a balanced diet throughout the pregnancy. The patient’s recommended body weight for pregnancy is 90 kg (198 Ib). What is this patient’s recommended daily protein",
+      "options": [
+        "intake?"
+      ],
+      "correctAnswer": null,
+      "explanation": "The recommended daily protein intake for a patient with gestational diabetes with a recommended body weight of 90 kg for pregnancy is 1.1 g of protein per kilogram of recommended body weight, which equals 99 g of daily protein for this patient. Intakes of 72 g and 90 g are too low. An intake of 108 g is too high."
+    },
+    {
+      "id": "nutrition-ch20-075",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which sign or symptom do patients with type 1 diabetes often experience? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Cells use glucose for energy; without endogenous insulin, cells begin to starve. The body responds by sending signals to eat because cells are hungry. Because the end product of digestion (glucose) cannot enter cells, glucose builds up in the bloodstream. It is common for the patient with type 1 diabetes to experience weight loss despite consuming large quantities of food (polyphagia). Because glucose cannot enter cells and builds up in the bloodstream, blood becomes hypertonic, and the body tries to get rid of the excess glucose by increasing urine output (polyuria). In reaction to increased excretion of urine, the body again responds by increasing thirst (polydipsia) to replace lost fluids. Because of this, the patient with type 1 diabetes experiences an increase in appetite and weight loss (not weight gain). Even though patients will have an increase in urine output, they will not experience incontinence related to type 1 diabetes."
+    },
+    {
+      "id": "nutrition-ch20-076",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Teaching about carbohydrate counting has been effective when the prediabetic patient makes which statement? x) © \"One carbohydrate serving equals 10 g of carbohydrates.\"",
+      "options": [
+        "\"Half a cup of dried fruit is one serving of carbohydrates.\"",
+        "“If ’'m counting carbohydrates, | no longer need insulin.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "One cup of milk is equal to one carbohydrate serving. One carbohydrate serving equals 15 g of carbohydrates. A quarter cup of dried fruit is one serving of carbohydrates. Patients may still require insulin when counting carbohydrates."
+    },
+    {
+      "id": "nutrition-ch20-077",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "In the United States, gestational diabetes accounts for what percentage of all pregnancies annually? OC 1% 00% Q 10% OQ 13%",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The prevalence of gestational diabetes in the United States is approximately 7% of all pregnancies annually. Gestational diabetes does not account for 1%, 10%, or 13% of all pregnancies annually in the United States. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-078",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Chronic kidney disease and renal failure requiring dialysis develop in approximately what percentage of patients with type 1 diabetes?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Microvascular effects of type 1 diabetes include nephropathy and retinopathy. As a result of nephropathy, chronic kidney disease and renal failure requiring dialysis develop in approximately 50% of all individuals with type 1 diabetes. The percentage of patients with type 1 diabetes who develop chronic kidney disease and renal failure is more than 5% and more than 20% but less than 80%."
+    },
+    {
+      "id": "nutrition-ch20-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Glucose",
+      "difficulty": "hard",
+      "question": "Genetic predisposition and environmental factors are common with which type of diabetes?",
+      "options": [
+        "Type 1 diabetes",
+        "Type 2 diabetes",
+        "Gestational diabetes",
+        "Prediabetes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Type 1 diabetes is an autoimmune disease resulting in the destruction of beta cells. Genetic predisposition and environmental factors are involved. One or more autoantibodies are present in the majority of individuals diagnosed with type 1 diabetes. Type 2 diabetes is an insidious disease; it is not uncommon for a person to have type 2 diabetes years before diagnosis. Occasionally, the stress of pregnancy may induce gestational diabetes. This is a form of glucose intolerance with onset during pregnancy only. Prediabetes occurs before type 2 diabetes. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices. pp. 366-367"
+    },
+    {
+      "id": "nutrition-ch20-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "When should patients to be tested for gestational diabetes?",
+      "options": [
+        "Postpartum",
+        "First trimester",
+        "Third trimester"
+      ],
+      "correctAnswer": null,
+      "explanation": "All women should undergo screening for gestational diabetes during the second trimester because gestational diabetes occurs most commonly after 20 weeks of gestation. Women should not be initially tested for gestational diabetes during the postpartum period because this is too late. The first trimester is too early, and the third trimester is too late. pp. 368-369"
+    },
+    {
+      "id": "nutrition-ch20-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Why is exercise important for a patient with type 2 diabetes who is already maintaining a healthy weight? x) © To potentiate the activation of insulin",
+      "options": [
+        "To decrease the effects of glucose"
+      ],
+      "correctAnswer": null,
+      "explanation": "Exercise is important for a patient with type 2 diabetes who is already maintaining a healthy weight because it improves cellular uptake of glucose. Exercise does not potentiate the activation of insulin or decrease the effects of glucose. Exercise requires energy, which is supplied by glucose; therefore exercise lowers the glucose level, not the effect of glucose. A patient who is not overweight does not need a negative energy balance."
+    },
+    {
+      "id": "nutrition-ch20-082",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 20",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which factor must be considered when implementing medical nutrition therapy for a patient with type 2 diabetes? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Patient food preferences, metabolic goals, meal schedules, and physical activity should be considered when implementing medical nutrition therapy for a patient with type 2 diabetes. Age must be considered only if it affects one of the other factors."
+    }
+  ]
+}

@@ -1,0 +1,1126 @@
+{
+  "name": "Nutrition Nutrition and Physical Fitness",
+  "description": "Chapter 16 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch16-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "— Which factor is important when using a sports drink to supplement fluid loss?",
+      "options": [
+        "©@ Water is the best solution for regular needs.",
+        "Delay using a sports drink until symptoms of dehydration appear.",
+        "The extent of dehydration will determine if a sports drink is appropriate.",
+        "‘Select a sports drink that has optimal gastric emptying and intestinal absorption times."
+      ],
+      "correctAnswer": 3,
+      "explanation": "When using a sports drink to supplement fluid loss, it is important to select one that has optimal gastric emptying and intestinal absorption times in order for it to be most effective. Water is the best solution for regular needs, but athletes who are engaged in longer and demanding endurance events may benefit from a sports drink. Fluid-replacement strategies should be implemented during exercise to prevent the symptoms of dehydration. It is difficult to measure the extent of dehydration; it is appropriate to use a sports drink before symptoms of dehydration are evident. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch16-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "a Which method can be used to calculate basic energy needs?",
+      "options": [
+        "Kilocalories per hour",
+        "Peak oxygen uptake"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Cunningham equation is one method used to calculate basic energy needs. Kilocalories per hour is used to calculate energy expenditure, not energy needs. Peak oxygen uptake assists in determining the intensity and duration of exercise that a person can perform. Target heart rate is used to determine the appropriate heart rate to maximize aerobic benefits of exercise."
+    },
+    {
+      "id": "nutrition-ch16-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "a According to Healthy People 2020, adults should perform muscle-strengthening activities at least how many days per week? Ol TOR: O®> Q7",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Adults should perform moderate- or high-intensity muscle-strengthening activities that involve all major muscle groups at least twice a week because these activities provide additional health benefits. Once a week is not enough. Five and seven times per week are more than necessary. Test-Taking Tip: The presence of absolute words and phrases can also help you determine the correct answer to a multiple-choice item. If answer choices contain an absolute (e.g., none, never, must, cannot), be very cautious. Remember that there are not many things in the world that are absolute, and an absolute may be a reason to eliminate it from consideration as the best choice. This is only a guideline and should not be taken to be true 100% of the time; however, it can help you reduce the number of choices."
+    },
+    {
+      "id": "nutrition-ch16-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which type of exercise creates and maintains muscle and bone strength?",
+      "options": [
+        "Activities of daily living",
+        "Aerobic exercise"
+      ],
+      "correctAnswer": null,
+      "explanation": "Resistance training creates and maintains muscle and bone strength. Activities of daily living do not reach aerobic levels but should still be incorporated into daily life. Aerobic exercises can be sustained at a necessary level of intensity to provide aerobic benefits. Weight-bearing exercises are important for bone structure and strength. In these exercises, muscles are working against gravity, but they do not create muscle and bone strength."
+    },
+    {
+      "id": "nutrition-ch16-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which macronutrient is the main source of energy for exercise?",
+      "options": [
+        "Fatty acids",
+        "Carbohydrates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbohydrates are the chief macronutrient for energy support throughout exercise because they are the only available energy source for anaerobic fuel. Fatty acids serve as a fuel source from dietary intake and adipose tissue, but they are not the main source of energy. Water is not classified as a macronutrient. Protein makes a relatively insignificant and inefficient contribution to energy during exercise under normal circumstances."
+    },
+    {
+      "id": "nutrition-ch16-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "medium",
+      "question": "Which measure of protein is required for endurance and strength-trained athletes?",
+      "options": [
+        "0.6 to 0.7 g/kg/day",
+        "0.8 to 0.9 g/kg/day",
+        "Ito 1.1 g/kg/day",
+        "@ 1.2 to2 glkg/day"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The protein requirement of endurance and strength-trained athletes is 1.2 to 2 g/kg/day. Protein intake of less than 1.2 to 2 g/kg/day is not sufficient for protein turnover and metabolic adaptation required for endurance athletes."
+    },
+    {
+      "id": "nutrition-ch16-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "",
+      "options": [
+        "|"
+      ],
+      "correctAnswer": null,
+      "explanation": "Lack of vitamin D is seen in indoor athletes or athletes with limited sun exposure. Deficiencies of iron, dietary fat, and dietary protein are not associated with limited sun exposure."
+    },
+    {
+      "id": "nutrition-ch16-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which minimum level of physical activity is recommended for an adult to obtain substantial health benefits?",
+      "options": [
+        "45 minutes per day of vigorous-intensity aerobic physical activity",
+        "100 minutes per week of moderate-intensity aerobic physical activity"
+      ],
+      "correctAnswer": null,
+      "explanation": "One hundred and fifty minutes per week of moderate-intensity aerobic physical activity, or 75 to 150 minutes a week of vigorous-intensity aerobic physical activity, is the minimum recommended amount of exercise for an adult. Forty-five minutes of vigorous-intensity activity per day is equal to 315 minutes a week, almost double the minimum recommendation. One hundred minutes per week of moderate-intensity physical activity is less than the minimum level of physical activity recommended. One hundred and seventy-five minutes per week of vigorous-intensity physical activity is above the recommended minimum level of activity. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some Casé€s, responses."
+    },
+    {
+      "id": "nutrition-ch16-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which type of exercise strengthens the heart muscle?",
+      "options": [
+        "Yoga",
+        "Stretching",
+        "Resistance training",
+        "Aerobic conditioning"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aerobic conditioning is an excellent exercise to strengthen the heart muscle, enabling it to pump more efficiently. Yoga is a flexibility activity that typically does not raise the heart rate to a level that increases aerobic capacity. Stretching is a flexibility activity that typically does not raise the heart rate to a level that increases aerobic capacity. Resistance training is a muscle strengthening activity that is not considered an aerobic activity."
+    },
+    {
+      "id": "nutrition-ch16-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "When developing physical activity recommendations and benefits, which consideration best meets the overall national health goal?",
+      "options": [
+        "Weekly balance training for all adults."
+      ],
+      "correctAnswer": null,
+      "explanation": "Increased participation in regular physical activity is the overall national health goal, encouraging adults to move more and sit less. Balance training is recommended for older adults, along with aerobic and muscle- strengthening activities. The recommendation for muscle-strengthening activities is dependent on the age group. Vigorous-intensity aerobic activity should be spread throughout the week, and the amount is dependent on the age group."
+    },
+    {
+      "id": "nutrition-ch16-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "What is the definition of amenorrhea?",
+      "options": [
+        "Sporadic menstrual cycles occurring three to nine times a year.",
+        "Cramps and pelvic pain during the menstrual cycle.",
+        "@ The cessation of previously regular menses for 3 months.",
+        "The repression of all menstrual cycles until 15 years of age."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Amenorrhea is defined as the cessation of previously regular menses for 3 months. Sporadic menstrual cycles occurring three to nine times a year is called oligomenorrhea. Dysmenorrhea is the term for painful menstrual cycles involving cramps and pelvic pain. Primary amenorrhea is the repression of all menstrual cycles until 15 years of age."
+    },
+    {
+      "id": "nutrition-ch16-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "The Physical Activity Guidelines for Americans is based on which three components?",
+      "options": [
+        "Intensity, age, duration",
+        "Frequency, duration, age",
+        "Intensity, frequency, duration",
+        "Duration, frequency, type of activity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Physical Activity Guidelines for Americans is based on intensity, frequency, and duration. The fourth component is sets and repetitions, specific to muscle strengthening. Specific age groups have different guidelines regarding types of exercises."
+    },
+    {
+      "id": "nutrition-ch16-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which hour-long activity will result in the most energy expended?",
+      "options": [
+        "©@ Circuit training, moderate effort",
+        "Mountain bicycling",
+        "Swimming at a vigorous level",
+        "High-impact aerobics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Swimming at a vigorous level will result in the most energy expended with 686 kcal per hour. Moderate circuit training will expend 300 kcal per hour. Mountain bicycling will expend 595 kcal per hour. High-impact aerobics will expend 420 kcal per hour. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch16-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "How many grams of carbohydrates are needed for high-intensity or endurance exercise lasting more than 1 hour?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "For activities lasting 1 hour or less, most athletes do not require dietary sources of energy during the exercise period. However, performance is enhanced during longer endurance or higher-intensity events with the interval consumption of carbohydrates. For high-intensity or endurance exercise lasting more than 1 hour, 30 to 60 g of carbohydrates per hour are recommended. Approximately 1 to 4 g of carbohydrates per kilogram of body weight is recommended for a pregame meal. Endurance athletes need 7 to 10 g of carbohydrates per kilogram of body weight per day. For ultra-endurance events longer than 2.5 hours, up to 90 g of carbohydrate per hour may be needed."
+    },
+    {
+      "id": "nutrition-ch16-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which measure of carbohydrate is needed daily by athletes undergoing endurance training?",
+      "options": [
+        "3 to 4 g/kg of body weight",
+        "@ 5 to 6 g/kg of body weight",
+        "7 to 10 g/kg of body weight",
+        "12 to 14 g/kg of body weight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The daily carbohydrate requirement for endurance athletes is 7 to 10 g/kg of body weight per day. 3 to 7 g/kg body weight carbohydrate intake per day is enough for general training. Ultra-endurance athletes require carbohydrates up to 12 g/kg body weight per day. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch16-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which type of athlete converts stored fat for energy?",
+      "options": [
+        "©@ Untrained athletes"
+      ],
+      "correctAnswer": null,
+      "explanation": "The use of stored fat for energy during exercise depends on the level of fitness and the intensity of the exercise; therefore trained endurance athletes are more efficient at using fat for energy than are untrained athletes. Lean body mass influences a person’s fitness level and oxygen use and is efficient in the use of all nutrients. Athletes who cannot meet appropriate energy needs should choose a well-balanced diet with adequate calories, macronutrients, and micronutrients; stored fat is not the first energy source in this situation."
+    },
+    {
+      "id": "nutrition-ch16-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which fuel source is predominantly used by the body when maximal oxygen uptake (VO 2max) exceeds 65%? rv) O Carbohydrate x) © Fat",
+      "options": [
+        "Proteins",
+        "Vitamins and minerals"
+      ],
+      "correctAnswer": null,
+      "explanation": "As intensity of exercise increases, or exceeds approximately 65% VO 2max, carbohydrate becomes the predominant fuel source and fat contributes less. Proteins, vitamins, and minerals are not the predominant fuel source for high-intensity exercises."
+    },
+    {
+      "id": "nutrition-ch16-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "hard",
+      "question": "Which factor is important when using a sports drink to supplement fluid loss?",
+      "options": [
+        "Water is the best solution for regular needs.",
+        "Delay using a sports drink until symptoms of dehydration appear.",
+        "The extent of dehydration will determine if a sports drink is appropriate.",
+        "Select a sports drink that has optimal gastric emptying and intestinal absorption times."
+      ],
+      "correctAnswer": 3,
+      "explanation": "When using a sports drink to supplement fluid loss, it is important to select one that has optimal gastric emptying and intestinal absorption times in order for it to be most effective. Water is the best solution for regular needs, but athletes who are engaged in longer and demanding endurance events may benefit from a sports drink. Fluid-replacement strategies should be implemented during exercise to prevent the symptoms of dehydration. It is difficult to measure the extent of dehydration; it is appropriate to use a sports drink before symptoms of dehydration are evident. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch16-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "Which definition describes energy availability?",
+      "options": [
+        "The tendency to increase work or exercise capacity and output",
+        "Millimeters of oxygen consumed per kilogram of body weight per minute",
+        "Moderate and gradual tapering of exercise while increasing carbohydrate intake",
+        "The amount of dietary energy remaining after subtracting the energy required for exercise training"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Energy availability is defined as the amount of dietary energy remaining after subtracting the energy required for exercise training. Various substances that increase work or exercise capacity and output are called ergogenic aids. Millimeters of oxygen consumed per kilogram of body weight per minute as influenced by body composition is referred to as aerobic capacity. Moderate and gradual tapering of exercise while increasing carbohydrate intake is a practice called carbohydrate loading, which occurs the week before an athletic event."
+    },
+    {
+      "id": "nutrition-ch16-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which modality is the primary treatment for the female athlete triad?",
+      "options": [
+        "Restore body weight.",
+        "Address the cause of low energy availability.",
+        "© Adjust dietary intake, and modify exercise training.",
+        "Educate trainers, athletes, and health professionals."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The primary treatment for the female athlete triad is to address the underlying cause of low energy availability. Restoration of body weight is an effective way to support resumption of menses and improve bone health, but this is not the primary treatment. Adjusting dietary intake and modifying exercise training can help to normalize energy status after addressing the cause of low energy availability. The need to educate trainers, athletes, and health professionals about the consequences of neglected nutrition is important but is not the primary treatment for the female athlete triad. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch16-022",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor determines fluid needs for athletes? Select all that apply.",
+      "options": [
+        "| Body size and composition"
+      ],
+      "correctAnswers": [],
+      "explanation": "Fluid needs for athletes depend on body size and composition, preexercise hydration status, fitness level, and metabolic rate. Intensity and duration of exercise also determine fluid needs, as does the surrounding temperature, altitude, and humidity."
+    },
+    {
+      "id": "nutrition-ch16-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which body component requires more fuel than others?",
+      "options": [
+        "Lean body mass"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lean body mass is more metabolically active and requires more fuel than other body tissues. Lean body mass requires more fuel than fat. Lean body mass requires more fuel than bone. Lean body mass requires more fuel than water."
+    },
+    {
+      "id": "nutrition-ch16-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A 65-year-old patient weighing 150 Ib would like to begin an aerobic exercise program. Calculate the maximal heart rate for this patient to achieve aerobic benefits. Record answer using a whole number. @) 128 @| 155 beats/min",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The maximum heart rate for a 65-year-old patient is 155 beats/min. The maximal heart rate is calculated by subtracting the patient’s age (65) from 220. 220 — 65 = 155. (It is not necessary to know the patient’s weight to calculate maximal heart rate.) Test-Taking Tip: When taking the NCLEX examination, an on-screen calculator will be available for you to determine your response, which you will then type in the provided space."
+    },
+    {
+      "id": "nutrition-ch16-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "To which patient will the nurse most likely recommend carbohydrate loading?",
+      "options": [
+        "Asprinter running in the 100-meter dash",
+        "Awvrestler participating in a state final",
+        "Arunner ina long-distance track meet",
+        "A diabetic participating in a walking club"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A runner in a long-distance track meet will benefit from carbohydrate loading, which is typically recommended for continuous exercise lasting 90 minutes or more. The sprinter and the wrestler are participating in sports of a short duration, which will not necessarily benefit from carbohydrate loading. A diabetic should not use carbohydrate loading due to its effects on glucose regulation. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer."
+    },
+    {
+      "id": "nutrition-ch16-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Wall climbing is considered which type of physical activity?",
+      "options": [
+        "Muscle fitness",
+        "Flexibility",
+        "Aerobic",
+        "©@ Lifestyle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Muscle fitness activities focus on resistance. Wall climbing is an example of this type of activity. Flexibility activities, such as yoga, focus on stretching. Aerobic activities, such as running, increase heart rate. Lifestyle physical activities are of moderate intensity, such as playing golf."
+    },
+    {
+      "id": "nutrition-ch16-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which side effect is seen with the use of ergogenic aids? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Gynecomastia is a known side effect of using ergogenic aids. Hepatitis, decreased production of sperm, and increased risk for atherosclerosis are also side effects of using anabolic steroids. Atrophy of the testicles is a side effect of using ergogenic aids, not hypertrophy."
+    },
+    {
+      "id": "nutrition-ch16-028",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor influences the fluid needs of an athlete? Select all that apply.",
+      "options": [
+        "| Adequate nutrition of the individual"
+      ],
+      "correctAnswers": [],
+      "explanation": "Adequate hydration is an important consideration for athletes. Fluid needs depend on the following: (1) the intensity and duration of the exercise, (2) the surrounding temperature, altitude, and humidity, (3) the individual’s fitness level, body size and composition, and metabolic rate, and (4) pre-exercise hydration status. The nutrition level of the individual does not influence their fluid needs."
+    },
+    {
+      "id": "nutrition-ch16-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which component is part of the female athlete triad? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The female athlete triad is the medical condition comprising three interrelated components faced by physically active women: (1) low energy availability with or without disordered eating, (2) menstrual dysfunction, and (3) low bone mineral density. Disturbances in immunity and cardiovascular health are not part of the triad. They are associated with relative energy deficiency of sports, which identifies impaired physiologic functioning resulting from low energy availability in both male and female athletes. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 292-293"
+    },
+    {
+      "id": "nutrition-ch16-030",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which effect is observed with a low-carbohydrate diet? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Physically active individuals following low-carbohydrate diets are susceptible to fatigue, ketoacidosis, a decreased capacity for work, and dehydration. Respiratory alkalosis is not an effect of low-carbohydrate diets."
+    },
+    {
+      "id": "nutrition-ch16-031",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "Which statement regarding fluid needs is true? Select all that apply.",
+      "options": [
+        "Dehydration of 2% or more of one’s body weight will impair athletic performance."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Blood is primarily water; thus fluid status directly affects the body’s ability to distribute oxygen and nutrients to working muscle cells. Dehydration of 2% or more of one’s body weight will impair athletic performance, particularly in hot and humid climates. Athletes who are engaged in longer and demanding endurance events (i-e., more than 60 to 90 minutes), especially in a warm environment, may benefit from a sports drink (containing electrolytes and glucose) that has optimal gastric emptying and intestinal absorption times. Continued dehydration is known to cause delirium. Fluid-replacement strategies implemented during exercise may prevent, not worsen, cramps."
+    },
+    {
+      "id": "nutrition-ch16-032",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "Which physiologic change that improves cardiovascular health occurs with regular physical activity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Regular physical activity has many benefits, including increased cardiac output. Regular physical activity also lowers triglyceride levels in the blood and increases the oxygen-carrying capacity of blood. These effects reduce the risk for coronary heart diseases. Regular physical activity decreases cholesterol levels. It decreases, not increases, the ratio of total cholesterol to high-density lipoprotein cholesterol."
+    },
+    {
+      "id": "nutrition-ch16-033",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation is included in the Physical Activity Guidelines for Americans? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The Physical Activity Guidelines for Americans recommend that children age 3 to 5 years should be physically active throughout the day. It is also recommended that children and adolescents age 6 to 17 years should engage in at least 60 minutes of physical activity each day. Older adults should determine their level of effort of physical activity relative to their level of fitness. Engaging in physical activity beyond the equivalent of 300 minutes per week of moderate-intensity aerobic activity in adults provides additional and more-extensive health benefits and is not harmful. It is recommended that older adults focus on physical activity that includes balance training as well as aerobic and muscle-strengthening activities, but not bone strengthening. pp. 282-283"
+    },
+    {
+      "id": "nutrition-ch16-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which type of athlete may benefit from iron supplementation?",
+      "options": [
+        "Individuals with anemia",
+        "Females with low bone mass",
+        "Females with amenorrhea",
+        "Individuals with disordered eating patterns"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Therapeutic iron supplements may be necessary for some individuals who are experiencing iron-deficiency anemia. Females with low bone mass are in danger of developing osteoporosis, but iron supplementation would not be beneficial. Iron supplementation is not beneficial for females with amenorrhea; they need assessment of their nutrient-energy status. Disordered eating patterns may include low calcium, protein and energy intake and may eventually lead to a deficiency in other nutrients, but iron supplementation is not necessary unless anemia occurs."
+    },
+    {
+      "id": "nutrition-ch16-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is encouraging a 40-year-old patient who weighs 260 Ib to begin an aerobic exercise program. Calculate the target heart rate for this patient to achieve aerobic benefits. Record answer in a whole number. @| 180 @| 126 beats/min",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A 40-year-old patient who weighs 260 Ib should have a target heart rate of 126 beats/min. To calculate the target heart rate to achieve aerobic benefits of exercise, the nurse would subtract the patient’s age from the maximum heart rate: 220 - 40 = 180. Next, the nurse would multiply the difference by 70% to determine the target heart rate: 180 x 0.7 = 126. (It is not necessary to know the patient’s weight to calculate target heart rate.) pp. 288-289"
+    },
+    {
+      "id": "nutrition-ch16-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "In which way can weight-bearing exercise have a destructive effect on bone density?",
+      "options": [
+        "Osteoblast activity is increased.",
+        "Calcium deposits are decreased.",
+        "Osteoporosis risk is increased.",
+        "Bone density can be lost by overtraining or undernutrition."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Excessive forms of training can have a destructive effect, in which bone density is lost due to overtraining or undernutrition or both. Exercise increases osteoblast activity, which helps to strengthen bones. Calcium deposits are increased, not decreased, with weight-bearing exercise. Weight-bearing exercise reduces the risk for osteoporosis by increasing bone density."
+    },
+    {
+      "id": "nutrition-ch16-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which modality is the primary treatment for the female athlete triad?",
+      "options": [
+        "Restore body weight.",
+        "Address the cause of low energy availability.",
+        "Adjust dietary intake, and modify exercise training.",
+        "Educate trainers, athletes, and health professionals."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The primary treatment for the female athlete triad is to address the underlying cause of low energy availability. Restoration of body weight is an effective way to support resumption of menses and improve bone health, but this is not the primary treatment. Adjusting dietary intake and modifying exercise training can help to normalize energy status after addressing the cause of low energy availability. The need to educate trainers, athletes, and health professionals about the consequences of neglected nutrition is important but is not the primary treatment for the female athlete triad. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch16-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A 65-year-old patient weighing 150 Ib would like to begin an aerobic exercise program. Calculate the maximal heart rate for this patient to achieve aerobic benefits. Record answer using a whole number. @",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "155 beats/min The maximum heart rate for a 65-year-old patient is 155 beats/min. The maximal heart rate is calculated by subtracting the patient’s age (65) from 220. 220 — 65 = 155. (It is not necessary to know the patient’s weight to calculate maximal heart rate.) Test-Taking Tip: When taking the NCLEX examination, an on-screen calculator will be available for you to determine your response, which you will then type in the provided space."
+    },
+    {
+      "id": "nutrition-ch16-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Wall climbing is considered which type of physical activity? Cy) © Muscle fitness",
+      "options": [
+        "Flexibility",
+        "Aerobic",
+        "Lifestyle"
+      ],
+      "correctAnswer": null,
+      "explanation": "Muscle fitness activities focus on resistance. Wall climbing is an example of this type of activity. Flexibility activities, such as yoga, focus on stretching. Aerobic activities, such as running, increase heart rate. Lifestyle physical activities are of moderate intensity, such as playing golf."
+    },
+    {
+      "id": "nutrition-ch16-040",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which side effect is seen with the use of ergogenic aids? Select all that apply.",
+      "options": [
+        "| Hepatitis"
+      ],
+      "correctAnswers": [],
+      "explanation": "Gynecomastia is a known side effect of using ergogenic aids. Hepatitis, decreased production of sperm, and increased risk for atherosclerosis are also side effects of using anabolic steroids. Atrophy of the testicles is a side effect of using ergogenic aids, not hypertrophy."
+    },
+    {
+      "id": "nutrition-ch16-041",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor influences the fluid needs of an athlete? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Adequate hydration is an important consideration for athletes. Fluid needs depend on the following: (1) the intensity and duration of the exercise, (2) the surrounding temperature, altitude, and humidity, (3) the individual’s fitness level, body size and composition, and metabolic rate, and (4) pre-exercise hydration status. The nutrition level of the individual does not influence their fluid needs."
+    },
+    {
+      "id": "nutrition-ch16-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which effect is observed with a low-carbohydrate diet? Select all that apply.",
+      "options": [
+        "| Ketoacidosis"
+      ],
+      "correctAnswers": [],
+      "explanation": "Physically active individuals following low-carbohydrate diets are susceptible to fatigue, ketoacidosis, a decreased capacity for work, and dehydration. Respiratory alkalosis is not an effect of low-carbohydrate diets."
+    },
+    {
+      "id": "nutrition-ch16-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which consideration is associated with planning a pregame meal to incorporate carbohydrate loading? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A pregame meal should include low amounts of fat and fiber. A sufficient amount of fluid in the pregame meal helps with digestion and absorption. Moderate amounts of protein can be included in the pregame meal. The pregame meal should provide a sufficient amount of carbohydrate (approximately 1 to 4 g of carbohydrate per kilogram of body weight). Protein slows the rate of emptying in the stomach and should only be included in low to moderate amounts. The pregame meal should be consumed 2 to 4 hours before the event, not 24 hours before the event."
+    },
+    {
+      "id": "nutrition-ch16-044",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which step is involved in a 7-day carbohydrate-loading protocol to prepare for an endurance event? Select all that apply.",
+      "options": [
+        "| Increase total carbohydrate intake."
+      ],
+      "correctAnswers": [],
+      "explanation": "To prepare for an endurance event, total carbohydrate intake should be increased. A high-carbohydrate meal should be eaten just before the event. Carbohydrate loading involves moderate and gradual tapering of exercise on days 1 through 5 before the event. Complete rest on day 6 before the event is recommended during the process of carbohydrate loading. Adequate fluid intake is required during carbohydrate loading. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation. pp. 293-294"
+    },
+    {
+      "id": "nutrition-ch16-045",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which pathology may become evident at the clinical end of the spectrum of the female athlete triad? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Amenorrhea is one of the pathologies identified at the clinical end of the spectrum of the female athlete triad. Loss of bone mineral density can lead to osteoporosis, which becomes evident at the clinical end of the spectrum of the female athlete triad. Low energy availability, with or without disordered eating, is evident at the clinical end of the spectrum of the female athlete triad. Eating disorders are sometimes a factor leading to further problems, but they are not always evident. Serious health problems, such as cardiac arrhythmias, may occur if an eating disorder is present, but they are not always evident at the clinical end of the spectrum of the female athlete triad."
+    },
+    {
+      "id": "nutrition-ch16-046",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "In which way can an athlete following a vegetarian diet expect to meet their increased nutrient needs? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "An athlete following a vegetarian diet may benefit from specific nutrition education to learn how to properly meet their nutrient needs. An intentional, thought-out meal plan can help the athlete to meet their increased nutrient needs. A balanced vegetarian diet that includes a variety of plant-based protein sources consumed consistently throughout the day can easily meet the protein needs of all active individuals. A sports dietitian can assess a vegetarian athlete’s diet to identify any deficiencies or specific nutrients of concern. Depending on the degree of dietary restrictions, supplementation may be considered, but a sports dietitian should assess the diet for any specific nutrients of concern before beginning supplementation."
+    },
+    {
+      "id": "nutrition-ch16-047",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which performance supplement shows ergogenic potential but requires further research before conclusive recommendations can be made regarding its use? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Carnitine is an equivocal performance supplement that plays a critical role in energy production, but additional research is needed to substantiate potential ergogenic effects. Probiotics show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Food polyphenols like quercetin, curcumin, and anthocyanin show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Omega-3 fatty acids show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Sodium bicarbonate is an established performance supplement that helps to reduce fatigue associated with high-intensity exercise."
+    },
+    {
+      "id": "nutrition-ch16-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which established performance supplement provides a better response to untrained",
+      "options": [
+        "individuals than trained individuals? Select all that apply.One, some, or all responses may"
+      ],
+      "correctAnswer": null,
+      "explanation": "It appears that trained individuals have less of a response to nitrate supplementation compared with untrained individuals. Beta-alanine may reduce fatigue, particularly in untrained individuals. Caffeine has established performance benefits that assist trained and untrained individuals. Creatine loading can have acute performance benefits in both trained and untrained individuals, particularly for athletes in weight-class sports or endurance sports. Sodium bicarbonate reduces the fatigue associated with high-intensity exercise and can benefit trained and untrained individuals."
+    },
+    {
+      "id": "nutrition-ch16-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physiologic side effect can occur when anabolic steroids are taken in megadoses? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When athletes take anabolic steroids in megadoses, masculinization and gynecomastia can occur. Liver abnormalities, such as dysfunction, tumor, and hepatitis, can occur when anabolic steroids are taken in megadoses. Atrophy of the testicles and decreased sperm production are also physiologic side effects of megadoses of anabolic steroids. Increased risk for atherosclerosis is another physiologic side effect of taking anabolic steroids in megadoses. Hypomania is a psychologic effect, not a physiologic side effect, of taking anabolic steroids in megadoses. Mood swings are a psychologic effect that can occur when megadoses of anabolic steroids are taken."
+    },
+    {
+      "id": "nutrition-ch16-050",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "For high-intensity or endurance exercise lasting more than 1 hour, which recommendation would be appropriate for nutrition during exercise? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "For high-intensity or endurance exercise lasting more than 1 hour, recommendations include consuming 30 to 60 g of carbohydrate per hour, equal amounts of food or drink at regular intervals throughout the exercise, and simple carbohydrates with little or no fat, protein, or fiber. For high-intensity or endurance exercise lasting more than 2.5 hours, individuals may need up to 90 g of carbohydrate per hour. Although 15 to 25 g of high-quality protein will maximize muscle protein synthesis in the recovery stage, it is not recommended during exercise."
+    },
+    {
+      "id": "nutrition-ch16-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which problem can occur for physically active individuals who consume too few carbohydrates? Select all that apply.",
+      "options": [
+        "| Ketoacidosis",
+        "iv)"
+      ],
+      "correctAnswers": [],
+      "explanation": "Physically active individuals following low-carbohydrate diets are susceptible to fatigue. Ketoacidosis can occur in physically active individuals who consume too few carbohydrates. Physically active individuals who consume too few carbohydrates are susceptible to dehydration. Diets that are too low in carbohydrates are unable to meet energy demands and result in poor performance. Weight is maintained by the intake of fat, not carbohydrates."
+    },
+    {
+      "id": "nutrition-ch16-052",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which condition may result from the extreme demands placed on the bodies of athletes",
+      "options": [
+        "involved in heavy training? Select all that apply.One, some, or all responses may be"
+      ],
+      "correctAnswer": null,
+      "explanation": "Failure to meet the increased energy and fluid needs required for heavy training demands can cause the athlete to be susceptible to injury. The extreme demands on the body render athletes more susceptible to immunosuppression and infection. Fatigue and exhaustion can occur if adequate energy is not provided during prolonged exercise. Exercise-induced malnutrition can occur if adequate calories, macronutrients, and micronutrients are not provided. Excessive sweating during heavy training can lead to dehydration if fluid- retention strategies are not implemented during exercise."
+    },
+    {
+      "id": "nutrition-ch16-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is important for achieving aerobic benefits? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Achieving aerobic benefits requires a total of 150 minutes of exercise per week. Achieving aerobic benefits requires exercise to be performed at 70% of the maximal heart rate. The pulse should be checked before, during, and after exercise to monitor progress toward the target heart rate and aerobic capacity. Although seeking advice and guidance from a certified personal trainer is helpful, it is not necessary to always use a personal trainer. Heart rate monitors are a convenient way to keep track of the heart rate, but their use is not necessary."
+    },
+    {
+      "id": "nutrition-ch16-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which mental health benefit can be obtained by exercise? Select all that apply.",
+      "options": [
+        "| Pain is decreased."
+      ],
+      "correctAnswers": [],
+      "explanation": "Exercise stimulates the production of endorphins that decrease pain and improve mood. As individuals age, stress. Weight-bearing exercise increases bone density, but this affects the skeletal system, not mental health. Exercise lowers the risk for cardiovascular disease, but this is not a mental health benefit."
+    },
+    {
+      "id": "nutrition-ch16-055",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which benefit do individuals with obesity receive from regular exercise in conjunction with reduced caloric intake? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Regular exercise, in conjunction with reduced caloric intake, can support body weight loss in individuals with obesity. Exercise can promote improved physical fitness and quality of life for obese individuals. Health benefits from exercise for obese individuals include improved blood pressure, blood lipid levels, and insulin sensitivity."
+    },
+    {
+      "id": "nutrition-ch16-056",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "In which way do resistance training programs improve blood lipid profiles? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Resistance training programs can improve blood lipid profiles by significantly lowering total triglyceride levels, total cholesterol levels, the low-density lipoprotein cholesterol levels, and the ratio of total cholesterol to high- density lipoprotein. Aerobic exercise, not resistance training, has been shown to increase high-density lipoprotein cholesterol levels."
+    },
+    {
+      "id": "nutrition-ch16-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which guideline for physical activity is specific to older adults? Select all that apply.",
+      "options": [
+        "| Level of effort for physical activity should coincide with level of fitness."
+      ],
+      "correctAnswers": [],
+      "explanation": "Older adults should determine their level of effort for physical activity relative to their level of fitness. Older adults should try to perform 150 minutes of moderate-intensity aerobic activity per week. Older adults with chronic conditions should understand whether and how their conditions affect their ability to perform regular physical activity safely. As part of their weekly physical activity, older adults should focus on physical activity that includes balance training and aerobic and muscle-strengthening activities. Muscle-strengthening activities involving all major muscle groups are recommended at least 2 days per week for older adults."
+    },
+    {
+      "id": "nutrition-ch16-058",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which exercise is an example of an aerobic activity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Aerobic activities increase heart rate and are classified as moderate or vigorous. Aerobic activities should be done for at least 20 minutes for a total of 150 minutes per week. Examples of aerobic activity include 45 minutes on the treadmill, 30 minutes on the stair climber, 45 minutes of jogging, and 30 minutes of swimming. Gymnastics is considered a flexibility activity, which focuses on stretching. Golfing is considered a lifestyle activity, which is of moderate intensity. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch16-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which guideline would be followed for exercise preparation and care? Select all that apply.",
+      "options": [
+        "| Rest when tired."
+      ],
+      "correctAnswers": [],
+      "explanation": "It is important to listen to the body when beginning an exercise program and rest when tired to prevent injury. If the body starts hurting, it is time to stop exercise and rest to prevent injury. Taking the time to warm up the muscles before exercise will help to prevent stress or injury. To avoid injury, do not go beyond tolerance limits. The level of exercise should be increased gradually, not rapidly, when the patient is ready for a greater challenge."
+    },
+    {
+      "id": "nutrition-ch16-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor needs to be assessed when planning a personal exercise program? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When planning a personal exercise program, it is important to assess the fitness level of the individual to prevent injury when first beginning to exercise. Health status is important when planning an exercise program in order to determine which type of exercise the individual is capable of participating in. Personal needs of the individual should be considered so that benefits can be achieved in the areas of concern. Resources necessary for equipment and the related costs are important to consider so the individual can plan for any expenses. Dietary needs are important to consider once the individual has begun an exercise program so that proper nutrition for the amount of energy expended can be determined; this cannot be assessed before the personal exercise program has begun."
+    },
+    {
+      "id": "nutrition-ch16-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which food is a good choice to include in a pregame meal? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Rice, pasta, bread, and granola are appropriate food choices for a pregame meal because of their high carbohydrate content. Nonfat milk is preferred over whole milk for the pregame meal to keep the fat content low. Peanut butter is high in fat, which should be avoided."
+    },
+    {
+      "id": "nutrition-ch16-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which mineral may be lost when an athlete sweats during extreme conditions? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Sweat contains chloride in small amounts; in extreme conditions, chloride may be lost through sweat. Sodium is lost in sweat in extreme conditions. Potassium and magnesium are present in sweat in small amounts and may be lost through sweat in extreme conditions. Iron is a mineral, but it is not present in sweat. Sweat does not contain calcium."
+    },
+    {
+      "id": "nutrition-ch16-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which benefit is associated with resistance training? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Resistance training improves blood pressure in prehypertensive and hypertensive individuals and increases insulin sensitivity. It also creates and maintains muscle and bone strength. Both aerobic and resistance-type exercise can decrease the risk for falls. In these exercises, muscles are working against gravity and can help with balance."
+    },
+    {
+      "id": "nutrition-ch16-064",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "For people who cannot lift heavy weights or participate in high-intensity aerobic activity, which activity is recommended? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Walking, water aerobics, and other low-impact workouts are recommended for people who cannot lift heavy weights or participate in high-intensity aerobic activity. Muscle strengthening is not recommended because it may cause injury. Active sports may be considered a high-intensity activity and should be avoided by people who cannot participate in high-intensity aerobic activity."
+    },
+    {
+      "id": "nutrition-ch16-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor would be considered when determining a general training diet for individuals who regularly participate in physical activity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nutrient and energy needs are determined by age group; recommendations for adults may not apply to child and adolescent athletes. A well-balanced diet can prevent exercise-induced malnutrition and should contain adequate calories, macronutrients, and micronutrients. Failure to meet the increased energy and fluid needs can have significant consequences, because heavy training renders individuals more susceptible to injury and infection."
+    },
+    {
+      "id": "nutrition-ch16-066",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which consideration is associated with planning a pregame meal to incorporate carbohydrate loading? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "A pregame meal should include low amounts of fat and fiber. A sufficient amount of fluid in the pregame meal helps with digestion and absorption. Moderate amounts of protein can be included in the pregame meal. The pregame meal should provide a sufficient amount of carbohydrate (approximately 1 to 4 g of carbohydrate per kilogram of body weight). Protein slows the rate of emptying in the stomach and should only be included in low to moderate amounts. The pregame meal should be consumed 2 to 4 hours before the event, not 24 hours before the event."
+    },
+    {
+      "id": "nutrition-ch16-067",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Which pathology may become evident at the clinical end of the spectrum of the female athlete triad? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Amenorrhea is one of the pathologies identified at the clinical end of the spectrum of the female athlete triad. Loss of bone mineral density can lead to osteoporosis, which becomes evident at the clinical end of the spectrum of the female athlete triad. Low energy availability, with or without disordered eating, is evident at the clinical end of the spectrum of the female athlete triad. Eating disorders are sometimes a factor leading to further problems, but they are not always evident. Serious health problems, such as cardiac arrhythmias, may occur if an eating disorder is present, but they are not always evident at the clinical end of the spectrum of the female athlete triad."
+    },
+    {
+      "id": "nutrition-ch16-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "In which way can an athlete following a vegetarian diet expect to meet their increased nutrient needs? Select all that apply.",
+      "options": [
+        "| Use an intentional, thought-out meal plan."
+      ],
+      "correctAnswers": [],
+      "explanation": "An athlete following a vegetarian diet may benefit from specific nutrition education to learn how to properly meet their nutrient needs. An intentional, thought-out meal plan can help the athlete to meet their increased nutrient needs. A balanced vegetarian diet that includes a variety of plant-based protein sources consumed consistently throughout the day can easily meet the protein needs of all active individuals. A sports dietitian can assess a vegetarian athlete’s diet to identify any deficiencies or specific nutrients of concern. Depending on the degree of dietary restrictions, supplementation may be considered, but a sports dietitian should assess the diet for any specific nutrients of concern before beginning supplementation."
+    },
+    {
+      "id": "nutrition-ch16-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which performance supplement shows ergogenic potential but requires further research before conclusive recommendations can be made regarding its use? Select all that apply.",
+      "options": [
+        "| Carnitine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Carnitine is an equivocal performance supplement that plays a critical role in energy production, but additional research is needed to substantiate potential ergogenic effects. Probiotics show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Food polyphenols like quercetin, curcumin, and anthocyanin show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Omega-3 fatty acids show ergogenic potential but require further research before conclusive recommendations can be made regarding their use. Sodium bicarbonate is an established performance supplement that helps to reduce fatigue associated with high-intensity exercise."
+    },
+    {
+      "id": "nutrition-ch16-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which established performance supplement provides a better response to untrained",
+      "options": [
+        "individuals than trained individuals? Select all that apply.One, some, or all responses may"
+      ],
+      "correctAnswer": null,
+      "explanation": "It appears that trained individuals have less of a response to nitrate supplementation compared with untrained individuals. Beta-alanine may reduce fatigue, particularly in untrained individuals. Caffeine has established performance benefits that assist trained and untrained individuals. Creatine loading can have acute performance benefits in both trained and untrained individuals, particularly for athletes in weight-class sports or endurance sports. Sodium bicarbonate reduces the fatigue associated with high-intensity exercise and can benefit trained and untrained individuals."
+    },
+    {
+      "id": "nutrition-ch16-071",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which physiologic side effect can occur when anabolic steroids are taken in megadoses? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "When athletes take anabolic steroids in megadoses, masculinization and gynecomastia can occur. Liver abnormalities, such as dysfunction, tumor, and hepatitis, can occur when anabolic steroids are taken in megadoses. Atrophy of the testicles and decreased sperm production are also physiologic side effects of megadoses of anabolic steroids. Increased risk for atherosclerosis is another physiologic side effect of taking anabolic steroids in megadoses. Hypomania is a psychologic effect, not a physiologic side effect, of taking anabolic steroids in megadoses. Mood swings are a psychologic effect that can occur when megadoses of anabolic steroids are taken."
+    },
+    {
+      "id": "nutrition-ch16-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "a For high-intensity or endurance exercise lasting more than 1 hour, which recommendation would be appropriate for nutrition during exercise? Select all that apply.",
+      "options": [
+        "| 30 to 60 g of carbohydrate per hour"
+      ],
+      "correctAnswers": [],
+      "explanation": "For high-intensity or endurance exercise lasting more than 1 hour, recommendations include consuming 30 to 60 g of carbohydrate per hour, equal amounts of food or drink at regular intervals throughout the exercise, and simple carbohydrates with little or no fat, protein, or fiber. For high-intensity or endurance exercise lasting more than 2.5 hours, individuals may need up to 90 g of carbohydrate per hour. Although 15 to 25 g of high-quality protein will maximize muscle protein synthesis in the recovery stage, it is not recommended during exercise."
+    },
+    {
+      "id": "nutrition-ch16-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which condition may result from the extreme demands placed on the bodies of athletes",
+      "options": [
+        "involved in heavy training? Select all that apply.One, some, or all responses may be"
+      ],
+      "correctAnswer": null,
+      "explanation": "Failure to meet the increased energy and fluid needs required for heavy training demands can cause the athlete to be susceptible to injury. The extreme demands on the body render athletes more susceptible to immunosuppression and infection. Fatigue and exhaustion can occur if adequate energy is not provided during prolonged exercise. Exercise-induced malnutrition can occur if adequate calories, macronutrients, and micronutrients are not provided. Excessive sweating during heavy training can lead to dehydration if fluid- retention strategies are not implemented during exercise."
+    },
+    {
+      "id": "nutrition-ch16-074",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is important for achieving aerobic benefits? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Achieving aerobic benefits requires a total of 150 minutes of exercise per week. Achieving aerobic benefits requires exercise to be performed at 70% of the maximal heart rate. The pulse should be checked before, during, and after exercise to monitor progress toward the target heart rate and aerobic capacity. Although seeking advice and guidance from a certified personal trainer is helpful, it is not necessary to always use a personal trainer. Heart rate monitors are a convenient way to keep track of the heart rate, but their use is not necessary."
+    },
+    {
+      "id": "nutrition-ch16-075",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which mental health benefit can be obtained by exercise? Select all that apply.",
+      "options": [
+        "| Mood is improved."
+      ],
+      "correctAnswers": [],
+      "explanation": "Exercise stimulates the production of endorphins that decrease pain and improve mood. As individuals age, stress. Weight-bearing exercise increases bone density, but this affects the skeletal system, not mental health. Exercise lowers the risk for cardiovascular disease, but this is not a mental health benefit."
+    },
+    {
+      "id": "nutrition-ch16-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "In which way do resistance training programs improve blood lipid profiles? Select all that apply.",
+      "options": [
+        "| Total cholesterol levels are decreased."
+      ],
+      "correctAnswers": [],
+      "explanation": "Resistance training programs can improve blood lipid profiles by significantly lowering total triglyceride levels, total cholesterol levels, the low-density lipoprotein cholesterol levels, and the ratio of total cholesterol to high- density lipoprotein. Aerobic exercise, not resistance training, has been shown to increase high-density lipoprotein cholesterol levels."
+    },
+    {
+      "id": "nutrition-ch16-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which factor needs to be assessed when planning a personal exercise program? Select all that apply.",
+      "options": [
+        "| Health status",
+        "| Personal needs"
+      ],
+      "correctAnswers": [],
+      "explanation": "When planning a personal exercise program, it is important to assess the fitness level of the individual to prevent injury when first beginning to exercise. Health status is important when planning an exercise program in order to determine which type of exercise the individual is capable of participating in. Personal needs of the individual should be considered so that benefits can be achieved in the areas of concern. Resources necessary for equipment and the related costs are important to consider so the individual can plan for any expenses. Dietary needs are important to consider once the individual has begun an exercise program so that proper nutrition for the amount of energy expended can be determined; this cannot be assessed before the personal exercise program has begun."
+    },
+    {
+      "id": "nutrition-ch16-078",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which food is a good choice to include in a pregame meal? Select all that apply.",
+      "options": [
+        "|"
+      ],
+      "correctAnswers": [],
+      "explanation": "Rice, pasta, bread, and granola are appropriate food choices for a pregame meal because of their high carbohydrate content. Nonfat milk is preferred over whole milk for the pregame meal to keep the fat content low. Peanut butter is high in fat, which should be avoided."
+    },
+    {
+      "id": "nutrition-ch16-079",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "The nurse is encouraging a 40-year-old patient who weighs 260 Ib to begin an aerobic exercise program. Calculate the target heart rate for this patient to achieve aerobic benefits. Record answer in a whole number. @) 126 beats/min",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "A 40-year-old patient who weighs 260 Ib should have a target heart rate of 126 beats/min. To calculate the target heart rate to achieve aerobic benefits of exercise, the nurse would subtract the patient’s age from the maximum heart rate: 220 - 40 = 180. Next, the nurse would multiply the difference by 70% to determine the target heart rate: 180 x 0.7 = 126. (It is not necessary to know the patient’s weight to calculate target heart rate.) pp. 288-289"
+    },
+    {
+      "id": "nutrition-ch16-080",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which recommendation is included in the Physical Activity Guidelines for Americans? Select all that apply.",
+      "options": [
+        "|B] Children and adolescents age 6 to 17 years should engage in 60 minutes or more of physical activity"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "The Physical Activity Guidelines for Americans recommend that children age 3 to 5 years should be physically active throughout the day. It is also recommended that children and adolescents age 6 to 17 years should engage in at least 60 minutes of physical activity each day. Older adults should determine their level of effort of physical activity relative to their level of fitness. Engaging in physical activity beyond the equivalent of 300 minutes per week of moderate-intensity aerobic activity in adults provides additional and more-extensive health benefits and is not harmful. It is recommended that older adults focus on physical activity that includes balance training as well as aerobic and muscle-strengthening activities, but not bone strengthening. pp. 282-283"
+    },
+    {
+      "id": "nutrition-ch16-081",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 16",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which hour-long activity will result in the most energy expended?",
+      "options": [
+        "Circuit training, moderate effort",
+        "Mountain bicycling",
+        "@ Swimming at a vigorous level",
+        "High-impact aerobics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Swimming at a vigorous level will result in the most energy expended with 686 kcal per hour. Moderate circuit training will expend 300 kcal per hour. Mountain bicycling will expend 595 kcal per hour. High-impact aerobics will expend 420 kcal per hour. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words; (2) read each answer thoroughly, and see if it completely covers the material the question asks; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    }
+  ]
+}

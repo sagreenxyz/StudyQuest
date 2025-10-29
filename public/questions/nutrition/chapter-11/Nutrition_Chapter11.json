@@ -1,0 +1,1387 @@
+{
+  "name": "Nutrition Nutrition During Infancy, Childhood, and Adolescence",
+  "description": "Chapter 11 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch11-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "De What does the Food and Nutrition Board recommend to prevent constipation in toddlers (1 to 3 years old)?",
+      "options": [
+        "Decreased dairy consumption"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Food and Nutrition Board recommends 19 g of fiber per day for toddlers to prevent constipation. Decreasing dairy consumption and increasing the intake of water, vegetables, and fruit are not specifically recommended by the Food and Nutrition Board to prevent constipation at this age."
+    },
+    {
+      "id": "nutrition-ch11-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "De At approximately what age are infants ready for the introduction of solid foods?",
+      "options": [
+        "4 months",
+        "iv) O 6 months",
+        "8 months"
+      ],
+      "correctAnswer": null,
+      "explanation": "Age is one of the basic indicators of readiness for solid foods. At approximately 6 months of age, an infant can have iron-fortified solid foods added to the basic diet of breast milk. Four months is too early to introduce an infant to iron-fortified solid foods. It is safe for infants to have solid foods prior to 8 and 10 months."
+    },
+    {
+      "id": "nutrition-ch11-003",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "Which type of nutrition is most beneficial to the newborn?",
+      "options": [
+        "Cow's milk",
+        "Breast milk",
+        "Human milk fortifier",
+        "Breast milk substitute"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Breast milk is the ideal first food for infants, and it is the primary recommendation of pediatricians and dietitians. Cow’s milk should never be given to an infant in the first year of life. A human milk fortifier is used only as a supplement to breast milk. Breast milk substitute is an acceptable alternative to breast milk, but research has shown that many mothers do not adhere to the recommended safety precautions when preparing infant formula."
+    },
+    {
+      "id": "nutrition-ch11-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "es Which statement by the nurse is the most accurate regarding the interpretation of the growth chart measurements for an infant girl?",
+      "options": [
+        "\"The percentile will tell us how tall the infant will be as an adult and if there is a potential for obesity"
+      ],
+      "correctAnswer": null,
+      "explanation": "The statement by the nurse that the percentile will help follow the infant’s physical growth rate compared with that of other infant girls is correct because growth charts allow the health care provider to compare the growth rate with that of other healthy infants. The statement by the nurse that the percentile will indicate how tall the infant will be as an adult is incorrect because growth charts do not predict adult height. The statement by the nurse that the percentile will help to follow the infant’s physical growth rate compared with other infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. The statement by the nurse that the percentile will indicate how long the infant is compared with other healthy and well-nourished infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. Rationale The statement by the nurse that the percentile will help follow the infant’s physical growth rate compared with that of other infant girls is correct because growth charts allow the health care provider to compare the growth rate with that of other healthy infants. The statement by the nurse that the percentile will indicate how tall the infant will be as an adult is incorrect because growth charts do not predict adult height. The statement by the nurse that the percentile will help to follow the infant’s physical growth rate compared with other infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. The statement by the nurse that the percentile will indicate how long the infant is compared with other healthy and well-nourished infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words, (2) read each answer thoroughly to see if it completely covers the material the question asks, and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch11-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "ee Which growth chart is recommended for plotting height, weight, and head circumference measurements on an infant boy?",
+      "options": [
+        "World Health Organization (WHO) growth chart",
+        "@ WHO growth chart for boys",
+        "Centers for Disease Control and Prevention (CDC) growth chart",
+        "CDC growth chart for boys"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The WHO growth chart for boys is the most appropriate growth chart because it is indicated for infant boys from birth to 2 years old. The WHO growth chart is less appropriate because there are specific growth charts for boys and girls. The CDC growth chart is incorrect because it is only indicated for children who are older than 2 years. The CDC growth chart for boys is incorrect because it is only indicated for children who are older than 2 years. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify an incorrect answer."
+    },
+    {
+      "id": "nutrition-ch11-006",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "ee Which skill is negatively altered by lead poisoning in children? Select all that apply.",
+      "options": [
+        "Cognitive skill",
+        "iv) [ml] Motor skill"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Lead poisoning in children can be extremely damaging to the central nervous system and can negatively alter both cognitive and motor skills. Social, language, and emotional skills are not affected by lead poisoning."
+    },
+    {
+      "id": "nutrition-ch11-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Which eating behavior is common in children age 3 to 5 years?",
+      "options": [
+        "@ Food jags",
+        "Low appetite",
+        "Eating alone",
+        "Distractions during eating"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Food jags are brief sprees or binges of eating one particular food, seen in preschool-aged children and a frequent source of concern and frustration for caregivers. Low appetite and susceptibility to distractions while eating are seen in toddlers age 1 to 3 years. Preschool-aged children prefer to eat in groups because eating becomes a source of socialization. Their food preferences will be reflective of the social group’s likes and dislikes of various foods."
+    },
+    {
+      "id": "nutrition-ch11-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "At which age does the infant change from a suckling pattern to a mature and stronger suck with liquids and begin a munching pattern?",
+      "options": [
+        "1 to 3 months",
+        "iv) © 4 to 6 months",
+        "7 to 9 months",
+        "10 to 12 months"
+      ],
+      "correctAnswer": null,
+      "explanation": "At 4 to 6 months, the infant changes from a suckling pattern to a mature and stronger suck with liquids and begins a munching pattern. This change is not observed at 1 to 3 months when rooting and sucking reflexes are present. At 7 to 9 months, the infant will begin chewing solid foods and will have matured from the simple munching patterns. At 10 to 12 months, the infant is old enough to reach for spoons, bite nipples, and crunch foods. This is also beyond the simple munching pattern. Test-Taking Tip: Once you have decided on an answer, look at the stem again. Does your choice answer the question that was asked? If the question stem asks \"why,' be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular, and the same for plural stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch11-009",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which key growth period shows a rise in the levels of growth hormones and sex hormones?",
+      "options": [
+        "Adulthood",
+        "Infancy",
+        "Childhood",
+        "Adolescence"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Levels of growth hormones and sex hormones rise during adolescence. Adulthood is the final phase of a normal life cycle, during which physical growth plateaus. Rise of growth hormones or sex hormones does not occur during this period. Infancy refers to the first year of life during which the highest rate of growth of the entire life cycle occurs. However, sex hormones do not develop during this period. During childhood (between infancy and adolescence), the growth rate slows and becomes irregular. There is no rise in levels of growth hormones or sex hormones during this period. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch11-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "A nurse provides nutrition and growth information to parents at their 6-year-old child’s well",
+      "options": [
+        "visit. Which description matches this child’s nutrition pattern and growth based on the age?",
+        "@ food jags are common during this stage.",
+        "‘Slow and irregular physical growth is typical.",
+        "Appetites usually slow down along with growth rates.",
+        "Eating habits are related to social and emotional experiences."
+      ],
+      "correctAnswer": 2,
+      "explanation": "School-aged children (age 5 to 12 years) have slow and irregular physical growth, but cognitive, emotional, and social growth are extensive during this developmental state. Food jags are common during the preschool- aged years (age 3 to 5 years). Appetites usually slow down along with growth rates during the toddler years. Children continue to form eating patterns, attitudes, and basic eating habits because of social and emotional experiences involving food during the preschool-aged years. Test-Taking Tip: Watch for grammatical inconsistencies. If one or more of the options is not grammatically consistent with the stem, the alert test taker can identify it as a probable incorrect option. When the stem is in the form of an incomplete sentence, each option should complete the sentence in a grammatically correct way."
+    },
+    {
+      "id": "nutrition-ch11-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "A nurse teaches a new mother how to safely and properly feed her infant. Which teaching point would the nurse make about safely feeding the infant formula?",
+      "options": [
+        "Warm the formula",
+        "Allow milk to fill the nipple while feeding",
+        "Prop the bottle only with supervision",
+        "Allow the infant to have a bottle when sleeping but only after age 6 months"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Safety regarding feeding an infant is important in the discharge planning of new mothers. The nurse would teach the new mother to tilt the bottle to keep the nipple full of milk, which can prevent the infant from swallowing air. Formula can be either cold or warm. Caregivers should be discouraged from propping the bottle. Infants and children should never sleep with a bottle of milk that is capable of pooling in the mouth because it could lead to tooth decay. Test-Taking Tip: Do not select answers that contain exceptions to the general rule, controversial material, or degrading responses."
+    },
+    {
+      "id": "nutrition-ch11-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Which nutrient is the preferred source of energy for the body during a child’s growth spurt?",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "Carbohydrates are the preferred source of energy for the body, particularly for a child experiencing a growth spurt who needs greater calories to support tissue growth. Fat is a backup energy source and supplies the essential fatty acids necessary for growth. Protein supports growth instead of providing energy. Calcium is a necessary nutrient for proper bone growth but does not supply energy to the body. Test-Taking Tip: Look for options that are similar in nature. If all are correct, either the question is poor or all options are incorrect, the latter of which is more likely. Example: If the answer you are seeking is directed to a specific treatment and all but one option deal with signs and symptoms, you would be correct in choosing the treatment-specific option."
+    },
+    {
+      "id": "nutrition-ch11-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A nurse discusses growth patterns of infants and children with a new mother. During which two stages is growth the greatest?",
+      "options": [
+        "The first year of life and right before adulthood",
+        "The first 6 months of life and the onset of puberty",
+        "The onset of puberty and the beginning of adolescence",
+        "The first 6 months of life and the beginning of childhood"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Growth is greatest within the first 6 months of life. The onset of puberty begins the second stage of rapid growth, which continues into adulthood. Rapid growth occurs within the first year of life, but the greatest growth occurs during the first 6 months of life. Between infancy and adolescence, the childhood growth rate slows and becomes irregular. Test-Taking Tip: Identify option components as correct or incorrect. This may help you identify a wrong answer. Example: If you are being asked to identify a diet that is specific to a certain condition, your knowledge about that condition would help you choose the correct response (e.g., cholecystectomy = low-fat, high-protein, low-calorie diet)."
+    },
+    {
+      "id": "nutrition-ch11-014",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "De Why do infants require more water per unit of body weight than do adults? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Infants require more water per unit of body weight than adults because they have a higher metabolic rate, have a larger proportional body surface, have a greater percentage of total body weight composed of water, and are more susceptible to volume depletion. A larger portion of the increased fluid is needed in the infants’ extracellular, not intracellular, spaces."
+    },
+    {
+      "id": "nutrition-ch11-015",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "Which is most accurate regarding an infant’s expected rate of growth in the first year of life?",
+      "options": [
+        "Triples birth weight and increases in length by 25%",
+        "Triples birth weight and increases in length by 50%",
+        "Doubles birth weight and increases in length by 25%",
+        "Doubles birth weight and increases in length by 50%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During the first year of life, an infant is expected to triple their birth weight and increase in length by 50%. Tripling their birth weight and increasing in length by 25% is not enough of an increase in length. Doubling their birth weight and increasing length by 25% is not enough of an increase in weight or length. Doubling their birth weight and increasing in length by 50% is less than the expected tripling of weight during the first year of life."
+    },
+    {
+      "id": "nutrition-ch11-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which is a common risk for a toddler who consumes an excessive amount of cow’s milk in place of meals and snacks?",
+      "options": [
+        "Obesity"
+      ],
+      "correctAnswer": null,
+      "explanation": "Although cow’s milk is a source of several important nutrients, it is a poor source of iron. The toddler who consumes excessive amounts of cow’s milk in place of meals and snacks is at risk for iron-deficiency anemia. Infants and children are innately capable of recognizing satiety and self-regulating energy balance when offered a healthy diet, so they are less at risk for obesity. In pediatrics, the term failure to thrive is used to describe infants, children, or adolescents who do not grow and develop normally. Food insecurity occurs when there is a limited or uncertain availability of nutritionally adequate and safe foods or there is a limited or uncertain ability to acquire acceptable foods in socially acceptable ways."
+    },
+    {
+      "id": "nutrition-ch11-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "Adolescents have an increased need for calcium to develop bone mass. Which calcium requirement should the nurse include in an adolescent’s plan of care?",
+      "options": [
+        "800 mg/day",
+        "1000 mg/day",
+        "@ 1300 mg/day",
+        "2000 mg/day"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The recommended calcium requirement for adolescents is 1300 mg/day. Intake below this amount (800 mg/day or 1000 mg/day) would be inadequate. Intake above this amount (2000 mg/day) would be excessive."
+    },
+    {
+      "id": "nutrition-ch11-018",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "De Which stage of growth and development involves irregular periods of growth? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Toddlers, preschoolers, and school-aged children experience slow and irregular growth. During these periods, their energy needs are lower per kilogram of body weight compared with newborns and infants, but they require well-balanced diets for continued growth and health. Newborns and infants experience rapid, steady growth. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four- option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch11-019",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "The premature infant or small-for-gestational-age infant has to overcome which challenge with feeding? Select all that apply.",
+      "options": [
+        "Poor sucking reflex",
+        "Small gastric capacity",
+        "Difficulty swallowing",
+        "_] Increased intestinal motility",
+        "Decreased nutrient requirements"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A poor sucking reflex, small gastric capacity, and difficulty swallowing may present challenges in feeding in the premature infant or small-for-gestational-age infant. The premature infant or small-for-gestational-age infant is challenged with decreased, not increased, intestinal motility that could present a challenge in feeding. The premature infant or small-for gestational-age infant is challenged with increased, not decreased, nutrient requirements for catch-up growth."
+    },
+    {
+      "id": "nutrition-ch11-020",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "Which is a negative effect of low-fat cow’s milk to infants younger than 1 year of age? Select all that apply.",
+      "options": [
+        "Excessive vitamin C",
+        "Insufficient linoleic acid",
+        "Increases the risk for baby-bottle tooth decay",
+        "Insufficient consumption of proteins",
+        "iv) [ml] Insufficient energy to support growth requirements"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Low-fat cow’s milk does not provide a sufficient amount of linoleic acid, the essential fatty acid found in the fat portion of milk that is needed for growth and development of body tissues Low-fat and nonfat cow’s milks do not provide sufficient energy, which results in the infant consuming increased volumes of milk and excessive protein. Cow’s milk is a poor source of vitamin C, so the infant would not consume excessive vitamin C. Baby-bottle tooth decay is a result of inappropriate feeding practices, not low-fat milk. Cow’s milk does not provide sufficient energy to support growth requirements, so the infant would not be able to consume insufficient volumes of milk and excessive protein. pp. 183-184"
+    },
+    {
+      "id": "nutrition-ch11-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "How will the majority of the caloric intake for a 5-year-old child be spent?",
+      "options": [
+        "Tissue growth",
+        "Fecal loss",
+        "Physical activity",
+        "Basal metabolism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The majority of the caloric intake for a 5-year-old child is spent on basal metabolism (50%). Tissue growth accounts for 12%, fecal loss for 8%, and physical activity for 25%."
+    },
+    {
+      "id": "nutrition-ch11-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which two vitamins are recognized by the American Academy of Pediatrics as potentially necessary in supplemental form for infants? 8 ® K and D",
+      "options": [
+        "CandA",
+        "Folate and D",
+        "Iron and B"
+      ],
+      "correctAnswer": null,
+      "explanation": "The two vitamins that are recognized by the American Academy of Pediatrics as potentially necessary in supplemental form for infants are vitamins K and D. Vitamin K is critical for blood clotting; a major contributor to the daily supply of vitamin K is provided by bacterial production in the gut. Because infants are born without bacterial flora, their vitamin K synthesis and stores are minimal. There is a concern for a high prevalence of vitamin D deficiency and low levels of vitamin D in breast milk; this is why vitamin D also may be necessary in supplemental form. Infants are not deficient in vitamins C and A. Pregnant women may require folate, but infants do not. Infants do not require supplemental iron and vitamin B."
+    },
+    {
+      "id": "nutrition-ch11-023",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which factor greatly influences an adolescent’s eating pattern? Select all that apply.",
+      "options": [
+        "Rapid growth",
+        "iv) [ml] Peer pressure",
+        "iv) [ml] Self-consciousness",
+        "|B] Sense of autonomy",
+        "_| Development of mental capacity"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "The eating pattern of an adolescent (12 to 18 years old) is greatly influenced by rapid growth as well as by peer pressure and self-consciousness. The sense of autonomy that occurs in school-aged children (5 to 12 years old) affects their food choices. The development of mental capacity occurs during the preschool age (3 to 5 years old). Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch11-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which is the most effective way to avoid an allergic reaction when introducing a new food?",
+      "options": [
+        "Introducing a new food every 3 to 5 days",
+        "Introducing iron-fortified cereals first",
+        "Avoiding dairy products until 1 year of age",
+        "©@ Introducing one new food group at a time"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most effective way to avoid an allergic reaction when introducing a new food is to introduce a new food every 3 to 5 days. lron-fortified cereals are introduced at 6 months of age; iron-fortified cereals made from rice, barley, or oats should be offered one at a time. Whole-milk yogurt may be introduced at 8 months of age. Before 1 year of age, cottage cheese, egg yolks, and harder cheeses may be introduced into the infant’s diet. Introducing one food group at a time will not help identify a specific food that may cause an allergic reaction. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words, (2) read each answer thoroughly to see if it completely covers the material the question asks, and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch11-025",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Approximately what percentage of adult peak bone mineral density is deposited during adolescence?",
+      "options": [
+        "30%"
+      ],
+      "correctAnswer": null,
+      "explanation": "Approximately 40% of adult peak bone mineral density is deposited during adolescence; 30% is too low, and 50% and 60% are too high."
+    },
+    {
+      "id": "nutrition-ch11-026",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which is a consequence of childhood obesity? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Consequences of childhood obesity includes the psychosocial risk factor of social discrimination and low self- esteem, as well as a physical risk factor of asthma. Cognitive delay may occur due to a nutritional deficiency, an environmental exposure, or other risk factors but is not a result of obesity. Physical inactivity is a contributing behavioral factor for obesity, not a result of it."
+    },
+    {
+      "id": "nutrition-ch11-027",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which category is assigned to an infant whose birth weight, length, and head circumference are all at or below the 10th percentile for age and sex?",
+      "options": [
+        "Appropriate for gestational age",
+        "© Disproportionately small for gestational age",
+        "Proportionately small for gestational age",
+        "Large for gestational age"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The birth weight, length, and head circumference of infants who are proportionately small for gestational age are at or below the 10th percentile for age and sex. If the infant’s weight, length, and head circumference are all within the normal range on a growth chart (i.e., between the 10th and 90th percentiles) relative to the infant’s gestational age and sex, they are categorized as appropriate for gestational age. If the length and head circumference are of normal size, but weight is at or below the 10th percentile, the infant is categorized as disproportionately small for gestational age. Infants whose birth weight is at or above the 90th percentile for their age and sex are considered large for gestational age."
+    },
+    {
+      "id": "nutrition-ch11-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which range matches the energy needs of a child during the first 3 years of life?",
+      "options": [
+        "80 to 120 kcal/kg/day",
+        "110 to 135 kcal/kg/day",
+        "@ 30 to 40 kcal/kg/day",
+        ", 50 to 80 kcal/kg/day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "During the first 3 years of life, children need between 80 and 120 kcal/kg/day to support their rapid growth. The demand for energy, as measured in kilocalories per kilogram of body weight per day, is relatively large throughout infancy and childhood. The energy needs of a premature infant range from 110 to 135 kcal/kg/day. The energy needs of an adult range from 30 to 40 kcal/kg/day, and the energy needs of an adolescent range from 50 to 80 kcal/kg/day."
+    },
+    {
+      "id": "nutrition-ch11-029",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which statement reflects nutrition and growth during the adolescent years?",
+      "options": [
+        "Weight and puberty have no relation.",
+        "Girls store more subcutaneous fat in the abdominal area.",
+        "©@ Chronologic age is the best indicator of nutrition needs.",
+        "Late menarche is associated with obesity in adulthood and cardiovascular disease."
+      ],
+      "correctAnswer": 1,
+      "explanation": "During the adolescent years, girls store more subcutaneous fat in the abdominal area, and the pelvis widens in preparation for future childbearing. Girls who are obese are more likely to progress through puberty at an earlier age than girls at a normal weight. Because the velocity of growth and onset of puberty can vary greatly, biologic age is a better indicator of nutrition needs than chronologic age. Early menarche is associated with adult obesity and increased risk for cardiovascular disease. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch11-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which statement is the most accurate regarding the introduction of solid foods to an",
+      "options": [
+        "infant’s diet?",
+        "One new food at a time in a large amount, about 5 to 7 days apart",
+        "One new food at a time in a small amount, about 1 to 2 days apart",
+        "One new food at a time in a small amount, about 3 to 5 days apart",
+        "@ One new food at a time in a small amount about 5 to 7 days apart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An infant should be given one new food at a time in small amounts about 3 to 5 days apart; in this way, adverse reactions can be identified. Giving one new food item at a time in a large amount about 5 to 7 days apart is incorrect because the food should be given in small amounts and more frequently. Giving one new food at a time in a small amount about 1 to 2 days apart is too frequent. Giving one new food at a time in small amounts about 5 to 7 days apart is incorrect because new food can be given more frequently. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch11-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "To support rapid growth during the first 3 years of life, how many kilocalories per kilogram of body weight are required each day?",
+      "options": [
+        "50 to 100 kcal/kg",
+        "80 to 120 kcal/kg",
+        "100 to 150 kcal/kg",
+        "@ 110 to 135 kcal/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To support rapid growth during the first 3 years of life, children need 80 to 120 kcal per kilogram of body weight per day. For the first 3 years of life, a diet of 50 to 100 kcal/kg daily falls below the nutritional recommendations, and a diet containing 100 to 150 kcal/kg daily provides more than recommended. Although the exact needs of a preterm infant are highly variable and not well defined, they are thought to range from 110 to 135 kcal/kg daily."
+    },
+    {
+      "id": "nutrition-ch11-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "The mother of a 6-month-old infant who is exclusively breastfed asks, \"Do | have to give my baby iron-fortified foods?\" Which is the nurse’s most appropriate response?",
+      "options": [
+        "@ “Yes, your baby now requires more iron.\"",
+        "\"If you continue to exclusively breastfeed, you will not have to.\"",
+        "\"Yes, because your baby’s body no longer has iron stores left.\"",
+        "\"No, you can just increase the iron in your diet and continue breastfeeding.\""
+      ],
+      "correctAnswer": 0,
+      "explanation": "The iron content of breast milk is highly absorbable and fully meets the needs of an infant for the first 6 months of life. At that point, the infant’s nutrition needs for iron typically exceed that provided exclusively by breast milk. Therefore the addition of solid foods (e.g., enriched cereal, meat, egg yolks) at approximately 6 months of age and beyond provides additional iron. Breastfeeding alone after age 6 months will not provide adequate iron. It is not that the baby has no iron stores but that they require more iron than breast milk offers. Increasing iron in the mother’s diet will not be sufficient for the baby. Test-Taking Tip: Key words or phrases in the question stem such as first, primary, early, or best are important. Similarly, words such as only, always, never, and all in the alternatives are frequently evidence of a wrong response. No real absolutes exist in life; every rule has its exceptions, so answer with care."
+    },
+    {
+      "id": "nutrition-ch11-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "The parent of a preschool-aged child states, \"For the past 4 days, my child will eat nothing but crackers and refuses anything else that | have offered.\" Which is the nurse’s best response?",
+      "options": [
+        "\"Do not give your child any more crackers.\"",
+        "\"Is your child watching too much television?\"",
+        "“This is normal behavior for a preschool-aged child.\"",
+        "\"lam worried that your child is not eating a balanced diet.\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "The best response is \"This is normal behavior for a preschool-aged child.\" A food jag is a brief spree of binging or eating one particular food. Food jags are not uncommon in the preschool age group (3 to 5 years old). A jag may last a few days or weeks, and they are usually self-limiting and of no major long-term concern. There is no need to caution the parent to stop giving the child crackers. Asking if the child is watching too much television addresses screen time, not diet. There should be no immediate concern that the child is not eating a balanced diet. A recommendation to continue to offer a variety of foods with the crackers, provide small portions, and offer frequent nutritious snacks are all appropriate for this child."
+    },
+    {
+      "id": "nutrition-ch11-034",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which factor places an infant at risk for failure to thrive? Select all that apply.",
+      "options": [
+        "Intestinal obstruction",
+        "Diluted ready-to-feed formula"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "The term failure to thrive in pediatrics is used to describe infants, children, or adolescents who do not grow and develop normally. Endocrine disease, intestinal obstruction, and dilution of ready-to-feed formula can place an infant at risk for failure to thrive. Extrusion reflex is the normal early infant reflex to protrude the tongue outward when it is touched. It disappears at approximately 6 months of age. Failure to thrive can be an issue if this primitive reflex does not disappear, but it is not a concern in infancy. Genetics is the study of heredity."
+    },
+    {
+      "id": "nutrition-ch11-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which is the safest method for introducing highly allergenic foods into the diet of infants and children?",
+      "options": [
+        "In the preschool stage",
+        "In regular serving sizes",
+        "In locations other than home",
+        "After traditional foods have been introduced"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The safest method of introducing highly allergenic foods (e.g., cow’s milk, tree nuts, peanuts) into the diet of infants and children is to introduce the food as a complementary food once a few traditional first foods have been tolerated. It is appropriate to introduce highly allergenic foods, which include cow’s milk, wheat, and other dairy products, during the first year of life; it is unnecessary to wait for preschool. The food should be introduced in smaller-than-normal amounts so that if an adverse reaction occurs, the offending food can be easily identified. Introducing highly allergenic foods at home first is safer than doing so at a daycare center or a restaurant. Test-Taking Tip: Make certain the answer you select is reasonable and obtainable under ordinary circumstances and that the action can be carried out in the given situation."
+    },
+    {
+      "id": "nutrition-ch11-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "hard",
+      "question": "A preterm infant who consumes breast milk from a milk bank is exposed to which risk?",
+      "options": [
+        "Allergic reaction",
+        "Nutrient deficiency",
+        "Protein intake toxicity",
+        "Necrotizing enterocolitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Necrotizing enterocolitis and sepsis are the greatest risks to preterm infants who receive breast milk from a milk bank, though risk is reduced by adding a human milk fortifier to the breast milk. There is no known risk for allergic reaction to human breast milk from a milk bank. The infant will receive the necessary nutrients from human milk, and adding a human milk fortifier will provide extra nutrients. There is no risk for protein toxicity from receiving breast milk from a milk bank. Test-Taking Tip: Never leave a question unanswered. Even if answering is no more than an educated guess on your part, go ahead and mark an answer. You might be right, but if you leave it blank, you will certainly be wrong and lose precious points."
+    },
+    {
+      "id": "nutrition-ch11-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which statement is the most accurate regarding an infant who is in the second percentile for weight-for-length on the World Health Organization’s (WHO) growth chart for infant girls?",
+      "options": [
+        "\"The second percentile is at the top of the growth chart, but she is growing as expected.\"",
+        "\"With her measurements, she is on the bottom of the growth chart, but she will keep growing.”",
+        "‘With her measurements, we need to ask more questions to identify any nutrition-related problems.\"",
+        "\"The second percentile is right where she needs to be on the growth chart, and she is growing as"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The WHO recommends using the second percentile as a cutoff point, and infants who track this rate of growth should be screened for potential nutrition-related problems. The statement that the second percentile is at the top of the growth chart is incorrect because it is toward the bottom of the growth chart, and the infant is not growing normally compared to other healthy infants. The statement that the second percentile is on the bottom of the growth chart and the infant will keep growing is not necessarily true, and the infant should be assessed for potential nutrition-related problems. The statement that the second percentile is right where the patient needs to be is incorrect because the second percentile is an indication for nutrition-related problems."
+    },
+    {
+      "id": "nutrition-ch11-038",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which stage of growth and development involves irregular periods of growth? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Toddlers, preschoolers, and school-aged children experience slow and irregular growth. During these periods, their energy needs are lower per kilogram of body weight compared with newborns and infants, but they require well-balanced diets for continued growth and health. Newborns and infants experience rapid, steady growth. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four- option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch11-039",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which factor greatly influences an adolescent’s eating pattern? Select all that apply.",
+      "options": [
+        "Rapid growth",
+        "iv) [ml] Peer pressure",
+        "iv) [ml] Self-consciousness",
+        "_] Sense of autonomy",
+        "_| Development of mental capacity"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "The eating pattern of an adolescent (12 to 18 years old) is greatly influenced by rapid growth as well as by peer pressure and self-consciousness. The sense of autonomy that occurs in school-aged children (5 to 12 years old) affects their food choices. The development of mental capacity occurs during the preschool age (3 to 5 years old). Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch11-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which is the most effective way to avoid an allergic reaction when introducing a new food?",
+      "options": [
+        "Introducing a new food every 3 to 5 days",
+        "Introducing iron-fortified cereals first",
+        "Avoiding dairy products until 1 year of age",
+        "Introducing one new food group at a time"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The most effective way to avoid an allergic reaction when introducing a new food is to introduce a new food every 3 to 5 days. lron-fortified cereals are introduced at 6 months of age; iron-fortified cereals made from rice, barley, or oats should be offered one at a time. Whole-milk yogurt may be introduced at 8 months of age. Before 1 year of age, cottage cheese, egg yolks, and harder cheeses may be introduced into the infant’s diet. Introducing one food group at a time will not help identify a specific food that may cause an allergic reaction. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words, (2) read each answer thoroughly to see if it completely covers the material the question asks, and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch11-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Minerals",
+      "difficulty": "easy",
+      "question": "Approximately what percentage of adult peak bone mineral density is deposited during adolescence?",
+      "options": [
+        "30%"
+      ],
+      "correctAnswer": null,
+      "explanation": "Approximately 40% of adult peak bone mineral density is deposited during adolescence; 30% is too low, and 50% and 60% are too high."
+    },
+    {
+      "id": "nutrition-ch11-042",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Weight Management",
+      "difficulty": "medium",
+      "question": "Which is a consequence of childhood obesity? Select all that apply.",
+      "options": [
+        "|B] Asthma",
+        "Cognitive delay",
+        "Physical inactivity",
+        "Social discrimination",
+        "iv) [ml] Low self-esteem"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": "Consequences of childhood obesity includes the psychosocial risk factor of social discrimination and low self- esteem, as well as a physical risk factor of asthma. Cognitive delay may occur due to a nutritional deficiency, an environmental exposure, or other risk factors but is not a result of obesity. Physical inactivity is a contributing behavioral factor for obesity, not a result of it."
+    },
+    {
+      "id": "nutrition-ch11-043",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which category is assigned to an infant whose birth weight, length, and head circumference are all at or below the 10th percentile for age and sex?",
+      "options": [
+        "Appropriate for gestational age",
+        "© Disproportionately small for gestational age",
+        "Proportionately small for gestational age",
+        "Large for gestational age"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The birth weight, length, and head circumference of infants who are proportionately small for gestational age are at or below the 10th percentile for age and sex. If the infant’s weight, length, and head circumference are all within the normal range on a growth chart (i.e., between the 10th and 90th percentiles) relative to the infant’s gestational age and sex, they are categorized as appropriate for gestational age. If the length and head circumference are of normal size, but weight is at or below the 10th percentile, the infant is categorized as disproportionately small for gestational age. Infants whose birth weight is at or above the 90th percentile for their age and sex are considered large for gestational age."
+    },
+    {
+      "id": "nutrition-ch11-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which range matches the energy needs of a child during the first 3 years of life?",
+      "options": [
+        "80 to 120 kcal/kg/day",
+        "110 to 135 kcal/kg/day",
+        "@ 30 to 40 kcal/kg/day",
+        ", 50 to 80 kcal/kg/day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "During the first 3 years of life, children need between 80 and 120 kcal/kg/day to support their rapid growth. The demand for energy, as measured in kilocalories per kilogram of body weight per day, is relatively large throughout infancy and childhood. The energy needs of a premature infant range from 110 to 135 kcal/kg/day. The energy needs of an adult range from 30 to 40 kcal/kg/day, and the energy needs of an adolescent range from 50 to 80 kcal/kg/day."
+    },
+    {
+      "id": "nutrition-ch11-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which statement reflects nutrition and growth during the adolescent years?",
+      "options": [
+        "Weight and puberty have no relation.",
+        "Girls store more subcutaneous fat in the abdominal area.",
+        "Chronologic age is the best indicator of nutrition needs.",
+        "Late menarche is associated with obesity in adulthood and cardiovascular disease."
+      ],
+      "correctAnswer": 1,
+      "explanation": "During the adolescent years, girls store more subcutaneous fat in the abdominal area, and the pelvis widens in preparation for future childbearing, Girls who are obese are more likely to progress through puberty at an earlier age than girls at a normal weight. Because the velocity of growth and onset of puberty can vary greatly, biologic age is a better indicator of nutrition needs than chronologic age. Early menarche is associated with adult obesity and increased risk for cardiovascular disease. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch11-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "hard",
+      "question": "Which statement is the most accurate regarding the introduction of solid foods to an",
+      "options": [
+        "infant's diet?",
+        "One new food at a time in a large amount, about 5 to 7 days apart",
+        "One new food at a time in a small amount, about 1 to 2 days apart",
+        "@ One new food at a time in a small amount, about 3 to 5 days apart",
+        "One new food at a time in a small amount about 5 to 7 days apart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An infant should be given one new food at a time in small amounts about 3 to 5 days apart; in this way, adverse reactions can be identified. Giving one new food item at a time in a large amount about 5 to 7 days apart is incorrect because the food should be given in small amounts and more frequently. Giving one new food at a time in a small amount about 1 to 2 days apart is too frequent. Giving one new food at a time in small amounts about 5 to 7 days apart is incorrect because new food can be given more frequently. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch11-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "To support rapid growth during the first 3 years of life, how many kilocalories per kilogram of body weight are required each day?",
+      "options": [
+        "50 to 100 kcal/kg",
+        "80 to 120 kcal/kg",
+        "100 to 150 kcal/kg",
+        "@ 110 to 135 kcal/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To support rapid growth during the first 3 years of life, children need 80 to 120 kcal per kilogram of body weight per day. For the first 3 years of life, a diet of 50 to 100 kcal/kg daily falls below the nutritional recommendations, and a diet containing 100 to 150 kcal/kg daily provides more than recommended. Although the exact needs of a preterm infant are highly variable and not well defined, they are thought to range from 110 to 135 kcal/kg daily."
+    },
+    {
+      "id": "nutrition-ch11-048",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "SSS Which factor places an infant at risk for failure to thrive? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The term failure to thrive in pediatrics is used to describe infants, children, or adolescents who do not grow and develop normally. Endocrine disease, intestinal obstruction, and dilution of ready-to-feed formula can place an infant at risk for failure to thrive. Extrusion reflex is the normal early infant reflex to protrude the tongue outward when it is touched. It disappears at approximately 6 months of age. Failure to thrive can be an issue if this primitive reflex does not disappear, but it is not a concern in infancy. Genetics is the study of heredity."
+    },
+    {
+      "id": "nutrition-ch11-049",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which stage of growth and development involves irregular periods of growth? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Toddlers, preschoolers, and school-aged children experience slow and irregular growth. During these periods, their energy needs are lower per kilogram of body weight compared with newboms and infants, but they require well-balanced diets for continued growth and health. Newborns and infants experience rapid, steady growth. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four- option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch11-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Minerals",
+      "difficulty": "medium",
+      "question": "Approximately what percentage of adult peak bone mineral density is deposited during adolescence?",
+      "options": [
+        "30%",
+        "0%",
+        "50%",
+        "60%"
+      ],
+      "correctAnswer": null,
+      "explanation": "Approximately 40% of adult peak bone mineral density is deposited during adolescence; 30% is too low, and 50% and 60% are too high."
+    },
+    {
+      "id": "nutrition-ch11-051",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which factor influences eating habits in school-aged children? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Parental food habits have the most influence on a child’s eating behavior. Much research has focused on the family meal as an important component to healthy eating, particularly with increasing fruit and vegetable intake. The amount and type of screen time to which school-aged children are exposed have been correlated with long-term negative effects on food habits and risks for obesity and insulin resistance. Accessibility to healthy food also affects the eating habits of school-aged children. Group eating influences the eating habits of preschool-age children, not school-aged children. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch11-052",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which factor is an important consideration while formula feeding? Select all that apply.",
+      "options": [
+        "iil Tilt the bottle to keep the nipple full of milk.",
+        "Ill Slightly elevate the baby’s head during feeding."
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "Tilting the bottle to keep the nipple full of milk can prevent the baby from swallowing air. The baby's head should be slightly elevated during feeding to facilitate the passage of milk into the stomach. A bottle used as a pacifier during bedtime causes milk to pool in the mouth, resulting in baby bottle tooth decay. Caregivers should be encouraged to never prop the bottle or leave the baby alone to feed, especially at bedtime. This will deprive the baby of the cuddling that is essential for nurturing and will allow milk to pool in the mouth, leading to choking, earache, or early childhood caries."
+    },
+    {
+      "id": "nutrition-ch11-053",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which physiologic factor is relevant to feeding premature infants? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Premature infants are at risk for impaired growth and nutritional deficiencies because their body systems are not fully developed. There is little subcutaneous fat to maintain their body temperature. They also have poorly calcified bones. Digestion is limited in premature infants, and their livers also lack developed metabolic enzymes. Premature infants have a higher, not lower, body water content. They have weak or absent, not strong, sucking reflexes owing to incomplete nerve and muscle development."
+    },
+    {
+      "id": "nutrition-ch11-054",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which statement is accurate with regard to breast milk? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The fat content of breast milk changes from the beginning to the end of a single feeding. The newborn's rooting reflexes as well as basic hunger help to facilitate breastfeeding, As the infant grows, breast milk adapts in composition to match the needs of the developing child. Breast pumps are used by mothers who are away from their infants for several hours at a time, because breast milk can be stored in sealed plastic baby bottle liners for later use. Human milk is the primary, not secondary, recommendation by pediatricians as the first food for infants."
+    },
+    {
+      "id": "nutrition-ch11-055",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which statement made by parents indicates that an infant is ready for solid food to be",
+      "options": [
+        "introduced into the diet? Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "The infant who is able to hold their head up demonstrates good head control, a sign of readiness for solid foods. The infant reaching for food is also a sign of readiness for solid food and eagerness to be fed. A weight over 20 |b indicates the infant has more than doubled her weight, which is a sign of readiness for solid foods. The infant opening their mouth when being fed is another a sign of readiness for solid food. The infant pushing the food out of their mouth means they may not be ready for solid foods; the infant should have controlled movement of the tongue and be able to swallow solids."
+    },
+    {
+      "id": "nutrition-ch11-056",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which percentile rank does the nurse recognize as a normal progression of growth and development for an infant who was previously in the 90th percentile for weight-for-length, who has no medical history, and whose diet is consistent with that recorded during the last",
+      "options": [
+        "visit?"
+      ],
+      "correctAnswer": null,
+      "explanation": "In the absence of disease, the infant should continue to grow on the same percentile curve, normally progressing to the 90th percentile. The fifth percentile is too low; the infant should stay on the 90th percentile curve with adequate nutrition and in the absence of disease. Because the second and 98th percentiles are cutoff values indicating nutritional problems, the nurse would not expect a healthy infant’s growth and development to fall into these ranges. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items with four options. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch11-057",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "An adolescent has a body mass index (BMI) of more than 30. Which health concern would the nurse discuss with the adolescent and parents? Select all that apply.",
+      "options": [
+        "Hypertension"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "ABM1 over 30 indicates obesity, and an adolescent who is obese is at risk for hypertension, type 2 diabetes, and hyperli fa. Cancer, bone fractures, and delayed development are not directly related to obesity in adolescents. Test-Taking Tip: Once you have decided on an answer, look at the question stem again. Does your choice answer the question that was asked? If the question stem asks \"why,\" be sure the response you have chosen is a reason. If the question stem is singular, then be sure the option is singular; the same goes for plural question stems and plural responses. Many times, checking to make sure that the choice makes sense in relation to the question stem will reveal the correct answer."
+    },
+    {
+      "id": "nutrition-ch11-058",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "medium",
+      "question": "An adolescent asks the nurse if taking a calcium supplement instead of eating and drinking calcium sources is sufficient. Which is the best response?",
+      "options": [
+        "\"Calcium supplements are a great way to get your recommended calcium.\"",
+        "© \"Calcium supplements are not recommended.\"",
+        "\"Calcium is not necessary during adolescence.\"",
+        "\"Supplemental calcium does not contribute as much to bone density as does dietary calcium.\""
+      ],
+      "correctAnswer": 3,
+      "explanation": "Supplemental calcium does not contribute as much to bone density as does dietary calcium. Calcium supplements are not the best way to get recommended calcium. Calcium supplements can be used to supplement dietary calcium. Calcium intake is required during adolescence. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer."
+    },
+    {
+      "id": "nutrition-ch11-059",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which consequence is associated with obesity during childhood? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "One of the known consequences of obesity during childhood is metabolic syndrome. Other consequences include asthma, low self-esteem, and polycystic ovarian syndrome. Type 2, not type 1, diabetes is a consequence of obesity."
+    },
+    {
+      "id": "nutrition-ch11-060",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "A nurse is teaching a group of expectant parents about infant nutrition. Which education point would the nurse make about nutrition safety? Select all the apply. One, some, or all responses may be correct. Select all that apply",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Nutrition safety is important education for parents to receive. The nurse would encourage parents to supplement breastfeeding with daily vitamin D drops, avoid giving water or juice to breastfed infants during the first 6 months of life, and avoid giving honey to an infant younger than 12 months because of the risk for botulism spores. Solids should be introduced when the extrusion reflex, not the rooting reflex, disappears and the ability to swallow solid food is present. A fluoride supplement should be given to infants beginning at 6 months of age if they reside in a community where the fluoride concentration in the water does not exceed 0.3 ppm."
+    },
+    {
+      "id": "nutrition-ch11-061",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "An infant is born at 35 weeks 4 days and weighs 5 |b 2 oz. Which characteristic of prematurity alerts the nurse that nutrition requirements will vary for this infant? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Premature infants are vulnerable to impaired growth and nutrient deficiencies because their bodies are not yet fully formed. As a result, they have poorly calcified bones; incomplete nerve and muscle development, resulting in a weak or absent sucking reflex; limited ability for digestion, absorption, and renal function; little subcutaneous fat to maintain their body temperature; a lack of metabolic enzymes; and inadequate iron stores."
+    },
+    {
+      "id": "nutrition-ch11-062",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A nurse discusses calcium intake with a parent at the child’s well visit. Which factor is associated with peak bone mass as an adult? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Genetics are a strong indicator for peak bone mass as an adult. The in utero environment, such as the maternal diet, accounts for approximately 20% to 40% of peak bone mass. Good bone density requires an ample dietary supply of calcium, phosphorus, vitamin D, protein, and several other nutrients. Dairy foods provide all of these nutrients and are the main source of calcium for children, so a diet low in dairy due to an allergy may affect peak bone mass as an adult. A vegetarian diet as a preschooler may affect peak bone mass as an adult if the diet does not contain adequate calcium and protein."
+    },
+    {
+      "id": "nutrition-ch11-063",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which statement explains why infants require more water than do adults? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Infants require more water than do adults because they have a larger proportional body surface area, a higher metabolic rate, and a higher body water content compared with adults. Additionally, an infant consumes an amount of water each day that is equivalent to 10% to 15% of its body weight, whereas an adult consumes a daily amount that is equivalent to 2% to 4% of their weight. A large proportion of the infant's total body water is found in extracellular space. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch11-064",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "medium",
+      "question": "Using the World Health Organization’s growth chart for infant boys, which infant is most at risk for nutrition-related problems?",
+      "options": [
+        "An 8-month-old boy in the 50th percentile",
+        "A6-month-old boy in the 97th percentile",
+        "An 18-month-old boy in the second percentile",
+        "@ A 14-month-old boy in the 25th percentile"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 18-month-old boy in the second percentile is most at risk for nutrition-related problems because the second percentile, along with the 98th percentile, are the cutoff values indicating nutrition-related problems. The 8-month-old boy in the 50th percentile is not at risk for nutrition-related problems. The 6-month-old boy in the 97th percentile is not at risk for nutrition-related problems, nor is the 14-month-old boy in the 25th percentile."
+    },
+    {
+      "id": "nutrition-ch11-065",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which piece of information about an infant’s diet and nutrition would a nurse include in the education of parents regarding their infant’s first year of life? Select all that apply.",
+      "options": [
+        "| \"You can give your infant whole cow’s milk starting at 6 months.\""
+      ],
+      "correctAnswers": [],
+      "explanation": "The parents should not give the infant honey in the first year of life because botulism spores have been reported in honey, and the immune system of the young infant cannot protect against this infection. The parents can introduce solid foods when the extrusion reflex disappears because the extrusion reflex disappears at approximately 6 months of age, and the ability to swallow solid food is established. The parents should avoid foods like popcorn and grapes because these foods are associated with a high risk for choking and aspiration and should be delayed until childhood. Whole cow’s milk should not be introduced until the end of the first year of life. Breastfeeding can be continued for at least the first full year of life. It is only in the first 6 months of infancy that water and juice are unnecessary for breastfed infants."
+    },
+    {
+      "id": "nutrition-ch11-066",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "If the adolescent weighs 100 Ib, how many kilocalories daily should come from the protein? Round your answer to one decimal place. | 200 @) 145.6 | kcal",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "If the patient weighs 100 Ib, then dividing that by 2.2 results in 45.5 kg. To determine the ideal protein intake, multiply 45.5 kg by 0.8 g/kg, which equals 36.4 g. There are 4 kcal in each gram of protein, so 36.4 g x 4 kcal = 145.6 kcal of protein per day."
+    },
+    {
+      "id": "nutrition-ch11-067",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "What is the ideal protein intake for a healthy adolescent who weighs 120 Ib? Round your answer to one decimal place. @) 174.7 | 43.6 g",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "To determine the patient’s weight in kilograms, divide 120 |b by 2.2, which equals 54.5 kg. The nurse multiplies the weight in kilograms by 0.8 g/kg to determine the recommended intake, so 54.5 kg x 0.8 g/kg = 43.6 g of protein."
+    },
+    {
+      "id": "nutrition-ch11-068",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "An 11-year-old child is at the health care provider’s office for a well-child visit. The child’s body mass index (BMI) percentile is in the 96th percentile. Which condition may be of consequence due to this BMI percentile? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Consequences associated with obesity in children and adolescents include asthma, liver disease, hypertension, type 2 diabetes, and polycystic ovarian syndrome. Cancer has not been associated with childhood and adolescent obesity."
+    },
+    {
+      "id": "nutrition-ch11-069",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "A child is diagnosed with failure to thrive because the child is not eating. Which condition is a factor in failure to thrive? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Failure to thrive describes infants, children, and adolescents who do not grow and develop normally. Clinical disease can be a factor in failure to thrive, such as endocrine disease, congenital defects, or intestinal obstruction. Children who have unusual nutrient needs, such as a hypermetabolic state, which requires increased dietary intake, can be at risk for failure to thrive. Psychosocial problems, such as a family environment and relationships resulting in neglect, abuse, or emotional deprivation of the child, can be a factor in failure to thrive. Neuromotor problems, such as eating, chewing, or swallowing, can be a factor in failure to thrive."
+    },
+    {
+      "id": "nutrition-ch11-070",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "A pediatric nurse is determining the energy requirements to promote rapid growth in a 2-",
+      "options": [
+        "year-old child weighing 25 |b (11.4 kg). Calculate the minimum number of kilocalories per"
+      ],
+      "correctAnswer": null,
+      "explanation": "A minimum of 912 kcal/day is required for the growth of a 25-Ib child. During the first 3 years of life, children need between 80 and 120 kcal/kg/day. To calculate the minimum daily kilocalorie requirement, multiply the child's weight in kg by 80 kcal/kg/day (80 kcal/kg/day x 11.4 kg = 912 kcal/day). To calculate the maximum daily kilocalorie requirement, multiply the child's weight by 120 kcal/kg/day (120 kcal/kg/day x 11.4 kg = 1368 kcal/day). The range of calories needed for this child to grow would be 912 to 1368 kcal/day. Test-Taking Tip: When taking the NCLEX exam, an on-screen calculator will be available for you to determine your response, which you will then type in the provided space."
+    },
+    {
+      "id": "nutrition-ch11-071",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Weight Management",
+      "difficulty": "easy",
+      "question": "Which factor influences eating habits in school-aged children? Select all that apply.",
+      "options": [
+        "| Healthy food accessibility"
+      ],
+      "correctAnswers": [],
+      "explanation": "Parental food habits have the most influence on a child’s eating behavior. Much research has focused on the family meal as an important component to healthy eating, particularly with increasing fruit and vegetable intake. The amount and type of screen time to which school-aged children are exposed have been correlated with long-term negative effects on food habits and risks for obesity and insulin resistance. Accessibility to healthy food also affects the eating habits of school-aged children. Group eating influences the eating habits of preschool-age children, not school-aged children. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch11-072",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which physiologic factor is relevant to feeding premature infants? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Premature infants are at risk for impaired growth and nutritional deficiencies because their body systems are not fully developed. There is little subcutaneous fat to maintain their body temperature. They also have poorly calcified bones. Digestion is limited in premature infants, and their livers also lack developed metabolic enzymes. Premature infants have a higher, not lower, body water content. They have weak or absent, not strong, sucking reflexes owing to incomplete nerve and muscle development."
+    },
+    {
+      "id": "nutrition-ch11-073",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which statement made by parents indicates that an infant is ready for solid food to be",
+      "options": [
+        "introduced into the diet? Select all that apply. One, some, or all responses may be correct."
+      ],
+      "correctAnswer": null,
+      "explanation": "The infant who is able to hold their head up demonstrates good head control, a sign of readiness for solid foods. The infant reaching for food is also a sign of readiness for solid food and eagerness to be fed. A weight over 20 |b indicates the infant has more than doubled her weight, which is a sign of readiness for solid foods. The infant opening their mouth when being fed is another a sign of readiness for solid food. The infant pushing the food out of their mouth means they may not be ready for solid foods; the infant should have controlled movement of the tongue and be able to swallow solids."
+    },
+    {
+      "id": "nutrition-ch11-074",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Dietary Reference Intakes",
+      "difficulty": "easy",
+      "question": "An adolescent asks the nurse if taking a calcium supplement instead of eating and drinking calcium sources is sufficient. Which is the best response? WCalei ow",
+      "options": [
+        "Calcium supplements are a great way to get your recommended calcium."
+      ],
+      "correctAnswer": null,
+      "explanation": "Supplemental calcium does not contribute as much to bone density as does dietary calcium. Calcium supplements are not the best way to get recommended calcium. Calcium supplements can be used to Pp ytog PP supplement dietary calcium. Calcium intake is required during adolescence. Test-Taking Tip: Have confidence in your initial response to an item because it more than likely is the correct answer."
+    },
+    {
+      "id": "nutrition-ch11-075",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "Which consequence is associated with obesity during childhood? Select all that apply.",
+      "options": [
+        "| Polycystic ovarian syndrome"
+      ],
+      "correctAnswers": [],
+      "explanation": "One of the known consequences of obesity during childhood is metabolic syndrome. Other consequences include asthma, low self-esteem, and polycystic ovarian syndrome. Type 2, not type 1, diabetes is a consequence of obesity."
+    },
+    {
+      "id": "nutrition-ch11-076",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "A nurse is teaching a group of expectant parents about infant nutrition. Which education point would the nurse make about nutrition safety? Select all the apply. One, some, or all responses may be correct. Select all that apply",
+      "options": [
+        "|B] Supplement with vitamin D drops if breastfeeding."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Nutrition safety is important education for parents to receive. The nurse would encourage parents to supplement breastfeeding with daily vitamin D drops, avoid giving water or juice to breastfed infants during the first 6 months of life, and avoid giving honey to an infant younger than 12 months because of the risk for botulism spores. Solids should be introduced when the extrusion reflex, not the rooting reflex, disappears and the ability to swallow solid food is present. A fluoride supplement should be given to infants beginning at 6 months of age if they reside in a community where the fluoride concentration in the water does not exceed 0.3 ppm."
+    },
+    {
+      "id": "nutrition-ch11-077",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "An infant is born at 35 weeks 4 days and weighs 5 |b 2 oz. Which characteristic of prematurity alerts the nurse that nutrition requirements will vary for this infant? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Premature infants are vulnerable to impaired growth and nutrient deficiencies because their bodies are not yet fully formed. As a result, they have poorly calcified bones; incomplete nerve and muscle development, resulting in a weak or absent sucking reflex; limited ability for digestion, absorption, and renal function; little subcutaneous fat to maintain their body temperature; a lack of metabolic enzymes; and inadequate iron stores."
+    },
+    {
+      "id": "nutrition-ch11-078",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "A nurse discusses calcium intake with a parent at the child’s well visit. Which factor is associated with peak bone mass as an adult? Select all that apply.",
+      "options": [
+        "Ample supply of vitamin D before puberty"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Genetics are a strong indicator for peak bone mass as an adult. The in utero environment, such as the maternal diet, accounts for approximately 20% to 40% of peak bone mass. Good bone density requires an ample dietary supply of calcium, phosphorus, vitamin D, protein, and several other nutrients. Dairy foods provide all of these nutrients and are the main source of calcium for children, so a diet low in dairy due to an allergy may affect peak bone mass as an adult. A vegetarian diet as a preschooler may affect peak bone mass as an adult if the diet does not contain adequate calcium and protein."
+    },
+    {
+      "id": "nutrition-ch11-079",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which statement explains why infants require more water than do adults? Select all that apply.",
+      "options": [
+        "| Infants have a higher body water content."
+      ],
+      "correctAnswers": [],
+      "explanation": "Infants require more water than do adults because they have a larger proportional body surface area, a higher metabolic rate, and a higher body water content compared with adults. Additionally, an infant consumes an amount of water each day that is equivalent to 10% to 15% of its body weight, whereas an adult consumes a daily amount that is equivalent to 2% to 4% of their weight. A large proportion of the infant’s total body water is found in extracellular space. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch11-080",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Using the World Health Organization’s growth chart for infant boys, which infant is most at risk for nutrition-related problems?",
+      "options": [
+        "An 8-month-old boy in the 50th percentile",
+        "A 6-month-old boy in the 97th percentile"
+      ],
+      "correctAnswer": null,
+      "explanation": "The 18-month-old boy in the second percentile is most at risk for nutrition-related problems because the second percentile, along with the 98th percentile, are the cutoff values indicating nutrition-related problems. The 8-month-old boy in the 50th percentile is not at risk for nutrition-related problems. The 6-month-old boy in the 97th percentile is not at risk for nutrition-related problems, nor is the 14-month-old boy in the 25th percentile."
+    },
+    {
+      "id": "nutrition-ch11-081",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which piece of information about an infant’s diet and nutrition would a nurse include in the education of parents regarding their infant’s first year of life? Select all that apply.",
+      "options": [
+        "|B] \"Be sure not to give your infant any honey for the first year of life.\""
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "The parents should not give the infant honey in the first year of life because botulism spores have been reported in honey, and the immune system of the young infant cannot protect against this infection. The parents can introduce solid foods when the extrusion reflex disappears because the extrusion reflex disappears at approximately 6 months of age, and the ability to swallow solid food is established. The parents should avoid foods like popcorn and grapes because these foods are associated with a high risk for choking and aspiration and should be delayed until childhood. Whole cow’s milk should not be introduced until the end of the first year of life. Breastfeeding can be continued for at least the first full year of life. It is only in the first 6 months of infancy that water and juice are unnecessary for breastfed infants."
+    },
+    {
+      "id": "nutrition-ch11-082",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "If the adolescent weighs 100 Ib, how many kilocalories daily should come from the protein? Round your answer to one decimal place. @) 145.6 __ kcal",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "If the patient weighs 100 Ib, then dividing that by 2.2 results in 45.5 kg. To determine the ideal protein intake, multiply 45.5 kg by 0.8 g/kg, which equals 36.4 g. There are 4 kcal in each gram of protein, so 36.4 g x 4 kcal = 145.6 kcal of protein per day."
+    },
+    {
+      "id": "nutrition-ch11-083",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Protein",
+      "difficulty": "easy",
+      "question": "What is the ideal protein intake for a healthy adolescent who weighs 120 Ib? Round your answer to one decimal place. @) 43.6 g",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "To determine the patient’s weight in kilograms, divide 120 |b by 2.2, which equals 54.5 kg. The nurse multiplies the weight in kilograms by 0.8 g/kg to determine the recommended intake, so 54.5 kg x 0.8 g/kg = 43.6 g of protein."
+    },
+    {
+      "id": "nutrition-ch11-084",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Diabetes",
+      "difficulty": "easy",
+      "question": "An 11-year-old child is at the health care provider’s office for a well-child visit. The child’s body mass index (BMI) percentile is in the 96th percentile. Which condition may be of consequence due to this BMI percentile? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Consequences associated with obesity in children and adolescents include asthma, liver disease, hypertension, type 2 diabetes, and polycystic ovarian syndrome. Cancer has not been associated with childhood and adolescent obesity."
+    },
+    {
+      "id": "nutrition-ch11-085",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Dietary Fiber",
+      "difficulty": "easy",
+      "question": "What does the Food and Nutrition Board recommend to prevent constipation in toddlers (1 to 3 years old)?",
+      "options": [
+        "Decreased dairy consumption",
+        "Increased water intake"
+      ],
+      "correctAnswer": null,
+      "explanation": "The Food and Nutrition Board recommends 19 g of fiber per day for toddlers to prevent constipation. Decreasing dairy consumption and increasing the intake of water, vegetables, and fruit are not specifically recommended by the Food and Nutrition Board to prevent constipation at this age."
+    },
+    {
+      "id": "nutrition-ch11-086",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "At approximately what age are infants ready for the introduction of solid foods?",
+      "options": [
+        "4 months"
+      ],
+      "correctAnswer": null,
+      "explanation": "Age is one of the basic indicators of readiness for solid foods. At approximately 6 months of age, an infant can have iron-fortified solid foods added to the basic diet of breast milk. Four months is too early to introduce an infant to iron-fortified solid foods. It is safe for infants to have solid foods prior to 8 and 10 months."
+    },
+    {
+      "id": "nutrition-ch11-087",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Which statement by the nurse is the most accurate regarding the interpretation of the growth chart measurements for an infant girl? \"The percentile will tell us how tall the infant will be as an adult and if there is a potential for obesity as an adult.\" \"The percentile will help us follow the infant’s physical growth rate compared with that of other",
+      "options": [
+        "infants of her weight and length.\""
+      ],
+      "correctAnswer": null,
+      "explanation": "The statement by the nurse that the percentile will help follow the infant’s physical growth rate compared with that of other infant girls is correct because growth charts allow the health care provider to compare the growth rate with that of other healthy infants. The statement by the nurse that the percentile will indicate how tall the infant will be as an adult is incorrect because growth charts do not predict adult height. The statement by the nurse that the percentile will help to follow the infant’s physical growth rate compared with other infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. The statement by the nurse that the percentile will indicate how long the infant is compared with other healthy and well-nourished infants of her weight and length is incorrect because the infant is compared with other infants of the same sex, not all infants. Test-Taking Tip: Read the question carefully before looking at the answers: (1) determine what the question is really asking, and look for key words, (2) read each answer thoroughly to see if it completely covers the material the question asks, and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch11-088",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "Which skill is negatively altered by lead poisoning in children? Select all that apply.",
+      "options": [
+        "| Cognitive skill"
+      ],
+      "correctAnswers": [],
+      "explanation": "Lead poisoning in children can be extremely damaging to the central nervous system and can negatively alter both cognitive and motor skills. Social, language, and emotional skills are not affected by lead poisoning."
+    },
+    {
+      "id": "nutrition-ch11-089",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "A nurse provides nutrition and growth information to parents at their 6-year-old child’s well",
+      "options": [
+        "visit. Which description matches this child’s nutrition pattern and growth based on the age?"
+      ],
+      "correctAnswer": null,
+      "explanation": "School-aged children (age 5 to 12 years) have slow and irregular physical growth, but cognitive, emotional, and social growth are extensive during this developmental state. Food jags are common during the preschool- aged years (age 3 to 5 years). Appetites usually slow down along with growth rates during the toddler years. Children continue to form eating patterns, attitudes, and basic eating habits because of social and emotional experiences involving food during the preschool-aged years. Test-Taking Tip: Watch for grammatical inconsistencies. If one or more of the options is not grammatically consistent with the stem, the alert test taker can identify it as a probable incorrect option. When the stem is in the form of an incomplete sentence, each option should complete the sentence in a grammatically correct way."
+    },
+    {
+      "id": "nutrition-ch11-090",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "Why do infants require more water per unit of body weight than do adults? Select all that apply.",
+      "options": [
+        "| Infants have a higher metabolic rate."
+      ],
+      "correctAnswers": [],
+      "explanation": "Infants require more water per unit of body weight than adults because they have a higher metabolic rate, have a larger proportional body surface, have a greater percentage of total body weight composed of water, and are more susceptible to volume depletion. A larger portion of the increased fluid is needed in the infants’ extracellular, not intracellular, spaces."
+    },
+    {
+      "id": "nutrition-ch11-091",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 11",
+      "topic": "Infancy",
+      "difficulty": "easy",
+      "question": "To support rapid growth during the first 3 years of life, how many kilocalories per kilogram of body weight are required each day?",
+      "options": [
+        "50 to 100 kcal/kg"
+      ],
+      "correctAnswer": null,
+      "explanation": "To support rapid growth during the first 3 years of life, children need 80 to 120 kcal per kilogram of body weight per day. For the first 3 years of life, a diet of 50 to 100 kcal/kg daily falls below the nutritional recommendations, and a diet containing 100 to 150 kcal/kg daily provides more than recommended. Although the exact needs of a preterm infant are highly variable and not well defined, they are thought to range from 110 to 135 kcal/kg daily."
+    }
+  ]
+}

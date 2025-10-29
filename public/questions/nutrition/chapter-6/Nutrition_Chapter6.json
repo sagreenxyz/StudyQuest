@@ -1,0 +1,818 @@
+{
+  "name": "Nutrition Energy Balance",
+  "description": "Chapter 6 nutrition questions",
+  "subject": "Nutrition",
+  "questions": [
+    {
+      "id": "nutrition-ch6-001",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which food item is categorized as energy-dense food?",
+      "options": [
+        "iv) O Fried meat"
+      ],
+      "correctAnswer": null,
+      "explanation": "Fried meat is an energy-dense food. Lean chicken and legumes are nutrient-dense foods. Pastry is a food with empty calories."
+    },
+    {
+      "id": "nutrition-ch6-002",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which form of energy is required for involuntary body functions like brain and nerve activities?",
+      "options": [
+        "Electrical energy",
+        "©@ Chemical energy",
+        "Mechanical energy",
+        "Thermal energy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Electrical energy is required for the involuntary operations that take place in the brain and nerves. Chemical energy is primarily used in various metabolic processes in the body, not in the brain and nerves. Mechanical energy is used for actions like muscle contractions. Thermal energy is used to regulate body temperature. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch6-003",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which component would the nurse monitor when calculating the total energy expenditure (TEE) needs to help the patient maintain a healthy weight? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "The TEE comprises the energy needs for basal energy expenditure (BEE), physical activities, and the thermic effects of food, which may vary between individual patients. Thyroid function and inflammatory markers do affect the BEE but are not components of the TEE."
+    },
+    {
+      "id": "nutrition-ch6-004",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "A clinician is measuring the basal energy expenditure of athletes before and after a sporting event. Which method does the clinician use for a high degree of accuracy?",
+      "options": [
+        "iv) © Ventilated hood",
+        "Metabolic chambers",
+        "Handheld oxygen measuring device",
+        "Oxygen and carbon monoxide measurements"
+      ],
+      "correctAnswer": null,
+      "explanation": "A portable metabolic cart allows the person to breathe into an attached mouthpiece or ventilated hood system while lying down, which allows the technician to calculate the metabolic rate with a high degree of accuracy from the rate of gas exchange. Special metabolic chambers are rare and not widely used. Handheld devices that measure oxygen or oxygen and carbon monoxide are not proven reliable. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices that you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch6-005",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "When reading the fact label for a nutritional product, which expression of energy is commonly used throughout world?",
+      "options": [
+        "Joules",
+        "Calories",
+        "Kilojoules",
+        "© Kilocalories"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrition facts labels on food products in most of the world express energy in units of kilojoules instead of kilocalories, joules, or calories. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch6-006",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which statement defines resting energy expenditure (REE)?",
+      "options": [
+        "©@ It is the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at"
+      ],
+      "correctAnswer": null,
+      "explanation": "REE is the amount of energy (in kcal) needed by the body for the maintenance of life at rest over a 24-hour period. It is often used interchangeably with the term basal energy expenditure (BEE), but in actuality it is slightly higher because the protocol for measurement does not put the person at complete rest. BEE is the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at complete digestive, physical, mental, thermal, and emotional rest. It is also referred to as the basal metabolic rate. The increase in energy expenditure caused by the activities of digestion, absorption, transport, and metabolism of ingested food is the thermic effect of food. The energy required for physical activity involved in work, recreation, and activities of daily living is not the REE."
+    },
+    {
+      "id": "nutrition-ch6-007",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which food item is categorized as energy-dense food?",
+      "options": [
+        "iv) © Fried meat",
+        "Lean chicken"
+      ],
+      "correctAnswer": null,
+      "explanation": "Fried meat is an energy-dense food. Lean chicken and legumes are nutrient-dense foods. Pastry is a food with empty calories."
+    },
+    {
+      "id": "nutrition-ch6-008",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which form of energy is required for involuntary body functions like brain and nerve activities?",
+      "options": [
+        "Electrical energy",
+        "Chemical energy",
+        "Mechanical energy",
+        "Thermal energy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Electrical energy is required for the involuntary operations that take place in the brain and nerves. Chemical energy is primarily used in various metabolic processes in the body, not in the brain and nerves. Mechanical energy is used for actions like muscle contractions. Thermal energy is used to regulate body temperature. Test-Taking Tip: Because few things in life are absolute without exceptions, avoid selecting answers that include words such as always, never, all, every, and none. Answers containing these key words are rarely correct."
+    },
+    {
+      "id": "nutrition-ch6-009",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which component would the nurse monitor when calculating the total energy expenditure (TEE) needs to help the patient maintain a healthy weight? Select all that apply.",
+      "options": [
+        "Physical activity",
+        "Thyroid function",
+        "_| Inflammatory markers",
+        "Thermal effects of food",
+        "Basal energy expenditure"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": "The TEE comprises the energy needs for basal energy expenditure (BEE), physical activities, and the thermic effects of food, which may vary between individual patients. Thyroid function and inflammatory markers do affect the BEE but are not components of the TEE."
+    },
+    {
+      "id": "nutrition-ch6-010",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "When reading the fact label for a nutritional product, which expression of energy is commonly used throughout world?",
+      "options": [
+        "Joules",
+        "Calories",
+        "Kilojoules",
+        "© Kilocalories"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrition facts labels on food products in most of the world express energy in units of kilojoules instead of kilocalories, joules, or calories. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch6-011",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which statement defines resting energy expenditure (REE)?",
+      "options": [
+        "Itis the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at"
+      ],
+      "correctAnswer": null,
+      "explanation": "REE is the amount of energy (in kcal) needed by the body for the maintenance of life at rest over a 24-hour period. It is often used interchangeably with the term basal energy expenditure (BEE), but in actuality it is slightly higher because the protocol for measurement does not put the person at complete rest. BEE is the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at complete digestive, physical, mental, thermal, and emotional rest. It is also referred to as the basal metabolic rate. The increase in energy expenditure caused by the activities of digestion, absorption, transport, and metabolism of ingested food is the thermic effect of food. The energy required for physical activity involved in work, recreation, and activities of daily living is not the REE."
+    },
+    {
+      "id": "nutrition-ch6-012",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "A 9-year-old boy who is 4 feet and 4 inches and weighs 75 pounds is in the clinic for his annual physical. Calculate the estimated energy requirements (EER) for the patient.",
+      "options": [
+        "52_] ef kaln"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The young male patient should consume at least 3339 kcal/day to maintain his current weight. The EER formula requires the clinician to convert height to meters. First convert to feet and inches to centimeters (1 in = 2.54); then convert to meters (100 cm = 1 m) and weight to kg (2.2 lb = 1 kg). Patient’s height in inches: (4 ft x 12 in/ft) + 4 in = 52 in Patient’s height in cm: 52 in x 2.54 cm/in = 132.08 cm = 1.3208 m Patient’s weight in kg: 75 Ib + 2.2 Ib/kg = 34.09 kg Multiply the patient’s age, weight, and height to the respective numbers in the formula. Add the height and weight numbers together before multiplying by the PA Coefficient for a highly active individual. EER = 88.5 - (61.9 x 9) + 1.42 x [(26.7 x 34.09) + (903 x 1.3208)] + 25 EER = 88.5 - 557.1 + [1.42 x (910.203 + 1192.6824)] + 25 EER = 88.5 - 557.1 + 2986.097 + 25 EER = 2542.497 rounded to the nearest whole number = 2543 Rationale The young male patient should consume at least 3339 kcal/day to maintain his current weight. The EER formula requires the clinician to convert height to meters. First convert to feet and inches to centimeters (1 in = 2.54); then convert to meters (100 cm = 1 m) and weight to kg (2.2 lb = 1 kg). Patient’s height in inches: (4 ft x 12 in/ft) + 4 in = 52 in Patient’s height in cm: 52 in x 2.54 cm/in = 132.08 cm = 1.3208 m Patient’s weight in kg: 75 Ib + 2.2 Ib/kg = 34.09 kg Multiply the patient’s age, weight, and height to the respective numbers in the formula. Add the height and weight numbers together before multiplying by the PA Coefficient for a highly active individual. EER = 88.5 - (61.9 x 9) + 1.42 x [(26.7 x 34.09) + (903 x 1.3208)] + 25 EER = 88.5 - 557.1 + [1.42 x (910.203 + 1192.6824)] + 25 EER = 88.5 - 557.1 + 2986.097 + 25 EER = 2542.497 rounded to the nearest whole number = 2543"
+    },
+    {
+      "id": "nutrition-ch6-013",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "When reading the fact label for a nutritional product, which expression of energy is commonly used throughout world?",
+      "options": [
+        "Joules",
+        "Calories",
+        "Kilojoules",
+        "Kilocalories"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nutrition facts labels on food products in most of the world express energy in units of kilojoules instead of kilocalories, joules, or calories. Test-Taking Tip: Be alert for details. Details provided in the stem of the item, such as behavioral changes or clinical changes (or both) within a certain time period, can provide a clue to the most appropriate response or, in some cases, responses."
+    },
+    {
+      "id": "nutrition-ch6-014",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which thermal regulation changes would the nurse explain to a patient entering menopause?",
+      "options": [
+        "Increase in fat-free body mass",
+        "Decrease in body fat mass",
+        "Decrease in metabolic rate",
+        "Increase the caloric density of food"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A decline in the metabolic rate occurs in menopausal women. There is an accompanying increase, not decrease, in body fat mass and a loss, not increase, of fat-free mass that accompanies menopause in women. Emphasis should be increasing nutrient-dense foods and decreasing caloric-dense foods."
+    },
+    {
+      "id": "nutrition-ch6-015",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "For which difference does the nurse adjust the resting metabolic rate (RMR) formula? Select all that apply.",
+      "options": [
+        "Sex",
+        "mB] Weight",
+        "Body type",
+        "Type of diet",
+        "Bm Activity level"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Studies examined sex differences in resting metabolic rate (RMR) or resting energy expenditure (REE)_and results support a lower RMR in women than in men that is independent of differences in weight, body type, diet, and activity level. A different formula is used to determine the RMR for women. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch6-016",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "ee Calculate the total energy expenditure (TEE) using the Harris Benedict formula based on the information below: MaleAge: 57 Height: 5 feet 10 inchesWeight: 190 poundsModerately active physical activityRecord answer as a whole number. @} 2725 kcal/day Patient Data PA Coefficient (PA) Sex: | Male Highly active: 1.725 Age: | 57 Moderately active: 1.55 Height: | 5 ft 10 in Lightly active: 1.375 Weight: | 190 Ib Sedentary: 1.2 Exercise: | Bikes or swims 3 times a week in addition to daily 30-minute walks Harris Benedict formula: TEE (kcal/day) = (66.47 + 5 x Height [cm] + 13.75 x Weight [kg] - 6.755 x Age) x PA",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The male patient should consume no more than 2725 kcal/day to maintain his current weight. The TEE formula requires the clinician to convert height to cm (2.54 cm = 1 in) and weight to kg (2.2 Ib = 1 kg). Patient’s height in inches: (5 ft x 12 in/ft) +10 in = 70 in Patient’s height in cm: 70 in x 2.54 cm/in = 177.8 cm Patient’s weight in kg: 190 Ib x 2.2 Ib/kg = 86.36 kg Multiply the patient’s height, weight, and age to the respective numbers in the formula before adding height and weight together and subtract the age total. Then complete the formula by multiplying the total by the PA (moderately active). TEE = [66.47 + (5 x 177.8 cm) + (13.75 x 86.36) - (6.755 x 57)] x 1.55 = Rationale The male patient should consume no more than 2725 kcal/day to maintain his current weight. The TEE formula requires the clinician to convert height to cm (2.54 cm = 1 in) and weight to kg (2.2 Ib = 1 kg). Patient’s height in inches: (5 ft x 12 in/ft) +10 in = 70 in Patient’s height in cm: 70 in x 2.54 cm/in = 177.8 cm Patient’s weight in kg: 190 Ib x 2.2 Ib/kg = 86.36 kg Multiply the patient’s height, weight, and age to the respective numbers in the formula before adding height and weight together and subtract the age total. Then complete the formula by multiplying the total by the PA (moderately active). TEE = [66.47 + (5 x 177.8 cm) + (13.75 x 86.36) - (6.755 x 57)] x 1.55 = TEE = (66.47 + 889 + 1187.45 - 385.035) x 1.55 = TEE = 1757.885 x 1.55 = 2724.72 rounded to the nearest whole number = 2725 kcal/day"
+    },
+    {
+      "id": "nutrition-ch6-017",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "A 6-month infant who weighs 9.3125 pounds has been diagnosed with failure to thrive. Calculate the estimated energy requirements (EER) for the patient. 9/33 | kcal/day Patient Data Age: | 6 months Height: | 23 inches Weight: | 9 Ib 5 oz EER = (89 x Weight [kg] — 100) + 56 kcal",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "An infant 6 months of age should consume at least 333 kcal/day. The formula is the same for children under 36 months or 3 years. The EER formula requires the conversion of weight to kg (2.2 Ib = 1 kg); there are 16 oz to a lb: 5 oz = 0.3125 Ib Patient’s weight in kg: 9.3125 |b + 2.2 Ib/kg = 4.233 kg Then complete the formula: (89 x 4.233) - 100 + 56 = 332.737 rounded to nearest whole number 333 kcal/day"
+    },
+    {
+      "id": "nutrition-ch6-018",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "A patient admitted to an inpatient unit was diagnosed with cachexia. Which source of stored energy is the patient’s body most likely using to maintain central nervous system function?",
+      "options": [
+        "Adipose tissue",
+        "Protein in muscle mass",
+        "Glycogen stored in the liver",
+        "Glycogen reserve in muscle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The need for glucose to fuel the central nervous system results in loss of body protein from muscle mass when energy and carbohydrate intakes are inadequate, especially in the case of cachexia. The supply of adipose tissue varies from person to person and is not the source of energy this patient’s body would use. Glycogen reserves in the liver and muscle are depleted quickly and are not the source of stored energy the patient’s body would use. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch6-019",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "When food is not available, such as during sleep, the body draws from its stored energy. Which stored energy source is responsible for maintaining normal glucose levels during sleep?",
+      "options": [
+        "@ Glycogen",
+        "Fat storage",
+        "Muscle mass",
+        "Adipose tissue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glycogen stores maintain normal blood glucose levels during sleep when food is not available. Fat storage, muscles mass, and adipose tissue do not maintain blood glucose levels during sleep. pp. 74-75"
+    },
+    {
+      "id": "nutrition-ch6-020",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Most of the kilocalories in fruits come from which food category?",
+      "options": [
+        "Carbohydrates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most of the kilocalories in fruits come from carbohydrates due to their sugar content. Fruits are not high in proteins, fats, or alcohol. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    },
+    {
+      "id": "nutrition-ch6-021",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "Which of the following can increase the basal metabolic rate (BMR)?",
+      "options": [
+        "Malnutrition",
+        "Age of 85 years"
+      ],
+      "correctAnswer": null,
+      "explanation": "Fever increases the BMR. BMR increases 7% for every 1°F rise in body temperature. Malnutrition lowers the BMR. As humans age, the loss of muscle tissue and to a lesser extent organ tissue lowers their BMR. Body fat and adipose tissue are less active than lean body mass and lower the BMR."
+    },
+    {
+      "id": "nutrition-ch6-022",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "General Nutrition",
+      "difficulty": "medium",
+      "question": "A patient is going to have their basal metabolic rate (BMR) measured to help develop a diet plan to promote a healthy lifestyle. Which condition can prevent the patient from having the testing done?",
+      "options": [
+        "Resting in supine position",
+        "No food intake for 12 hours",
+        "Increase in body temperature",
+        "©@ Inactivity for 1 hour before the test"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Normal body temperature is a required condition for measuring BMR; therefore, an increase in body temperature will most likely prevent the patient from having the test done. Resting in a supine position is required for measuring BMR. An overnight fast, or no food for 12 to 14 hours, before the test is required for measuring BMR.A relaxed state with no activity up to 1 hour prior is required for measuring BMR."
+    },
+    {
+      "id": "nutrition-ch6-023",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "General Nutrition",
+      "difficulty": "easy",
+      "question": "What is the patient’s body mass index (BMI) if they have a weight of 70 kg (154 Ib) and height of 1.74 m (69 in)?",
+      "options": [
+        "15.4 kg/m ?"
+      ],
+      "correctAnswer": null,
+      "explanation": "The patient’s BMI is 23.1 kg/m 2, which is calculated by dividing the weight in kilograms by the square of the height in meters. The patient’s BMI using the height and weight given does not equal 15.4, 20.4, or 22.6 kg/m 2"
+    },
+    {
+      "id": "nutrition-ch6-024",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "General Nutrition",
+      "difficulty": "hard",
+      "question": "Which statement by the patient demonstrates that they understand the concept of a healthy weight range?",
+      "options": [
+        "\"I should aim for a body mass index (BMI) of 16 kg/m a\"",
+        "\"should aim for a BMI of 24 kg/m an",
+        "©@ \"should aim for a BMI of 25 kg/m an",
+        "\"I should aim for a BMI of 29 kg/m an"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The desirable BMI range for adults is 18.5 to 24.9 kg/m *; therefore the patient should aim for a BMI of 24 kg/m 2. A BMI of 16 kg/m 2 indicates the underweight range. A BMI of 25 kg/m is associated with health risks associated with being overweight. A BMI of 29 kg/m also indicates being overweight. Test-Taking Tip: Start by reading each of the answer options carefully. Usually at least one of them will be clearly wrong. Eliminate this one from consideration. Now you have reduced the number of response choices by one and improved the odds. Continue to analyze the options. If you can eliminate one more choice in a four-option question, you have reduced the odds to 50/50. While you are eliminating the wrong choices, recall often occurs. One of the options may serve as a trigger that causes you to remember what a few seconds ago had seemed completely forgotten."
+    },
+    {
+      "id": "nutrition-ch6-025",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which method is used for estimating dietary energy intake? Select all that apply.",
+      "options": [
+        "|B] Using food labels to gather nutrient information of foods consumed throughout the day",
+        "Eating foods prescribed by a dietician",
+        "|B] Using various databases to look up the energy value of foods eaten",
+        "Using online or mobile apps that allow the user to enter portions of food consumed to calculate total"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Methods used for estimating dietary energy intake include using food labels to gather nutrient information of foods consumed throughout the day, using various databases to look up the energy value of foods eaten, or by using online or mobile apps that allow the user to enter portions of food consumed to calculate total daily intake. Dietary energy intake is not estimated by eating foods prescribed by a dietician or by taking body weight before and after a meal."
+    },
+    {
+      "id": "nutrition-ch6-026",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which step helps maintain energy balance in the body?",
+      "options": [
+        "Ensure that the food energy intake consistently exceeds body energy output.",
+        "Ensure that the body energy output consistently exceeds food energy input.",
+        "Reduce the thermic effect of food.",
+        "Ensure that the food energy intake matches body energy output as an average over time."
+      ],
+      "correctAnswer": 3,
+      "explanation": "To maintain energy balance, food energy intake must match body energy output as an average over time. Energy intake that exceeds body energy output will lead to energy imbalance and possible weight gain. Body energy output that exceeds food energy input also leads to energy imbalance and possible extreme and unhealthy weight loss. Thermic energy is the extra energy required by the body for physical processes related to digestion, absorption, and transportation of nutrients. Reduction of this energy will not maintain energy balance in the body."
+    },
+    {
+      "id": "nutrition-ch6-027",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "Which major factor influences basal energy expenditure (BEE)? Select all that apply.",
+      "options": [],
+      "correctAnswers": [],
+      "explanation": "Major factors that affect BEE are body composition, growth periods, body temperature, hormonal status, and disease state. BEE is defined as the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at complete digestive, physical, mental, thermal, and emotional rest. pp. 77-78"
+    },
+    {
+      "id": "nutrition-ch6-028",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which term refers to the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at complete digestive, physical, mental, thermal, and emotional rest?",
+      "options": [
+        "Basal energy expenditure (BEE)",
+        "Thermic effect of food",
+        "© Resting energy expenditure (REE)",
+        "Total energy expenditure (TEE)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "BEE is the amount of energy (in kcal) needed by the body for the maintenance of life when a person is at complete digestive, physical, mental, thermal, and emotional rest. It is also referred to as the basal metabolic rate. It is expressed in kilocalories per day. The increase in energy expenditure caused by the activities of digestion, absorption, transport, and metabolism of ingested food is the thermic effect of food. The amount of energy (in kcal) needed by the body for the maintenance of life at rest over a 24-hour period is the REE. It is often used interchangeably with the term basal energy expenditure, but in actuality it is slightly higher because the protocol for measurement does not put the person at complete rest. TEE of an individual is the sum of the BEE, energy needs for physical activities, and the thermic effect of food."
+    },
+    {
+      "id": "nutrition-ch6-029",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which process belongs to the external energy cycle? Select all that apply.",
+      "options": [
+        "|B] Transformation of the sun’s radiation into stored energy by plants",
+        "|B] Consumption of plants by animals",
+        "Breaking down of polysaccharide in the human body",
+        "Radiation of heat energy by the sun",
+        "Production of fatty acids in the human body"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "The external energy cycle includes the radiation of heat by the ultimate source of energy, the sun. The transformation of the sun’s energy into stored energy by plants is also part of the external energy cycle. The intake of plants by different animals, or the food chain, is also part of the external energy cycle. These occur outside of the human body. Breaking down of polysaccharides in the human body is part of the internal energy cycle. Production of fatty acids in the human body is also part of the internal energy cycle. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch6-030",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "When referring to body energy, which statement is associated to energy unit measurements?",
+      "options": [
+        "Kilojoules are commonly used on food labels.",
+        "Joules are region-specific energy measurements.",
+        "Kilocalorie and calorie are interchangeable terms.",
+        "Calorie is the term most often used in scientific literature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nutrition facts labels on food products in most of the world express energy in units of kilojoules. Joules are an international energy measurement unit. There is a difference between a calorie and a kilocalorie, and the terms are not interchangeable. Kilocalorie is the term that is used in scientific literature. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch6-031",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "A patient in the clinic has symptoms including weight gain and fatigue. Which factor does the nurse consider when assessing this patient?",
+      "options": [
+        "Age"
+      ],
+      "correctAnswer": null,
+      "explanation": "Thyroids hormones play a significant role in regulating metabolism. Thyroid function tests can measure the activity of the thyroid gland because patients with an underactive thyroid gland may develop hypothyroidism, a decreased metabolic rate, that can cause weight gain and fatigue. Age, sex, and tissue mass are not associated with the body’s energy needs. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch6-032",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Which concern requires the nurse to pursue further inquiry about lifestyle changes when discussing recent decreased basal energy expenditure (BEE) results with a teen athlete?",
+      "options": [
+        "iv) O Anorexia nervosa",
+        "©@ Recent weight gain",
+        "Weight-lifting program",
+        "Use of growth hormones"
+      ],
+      "correctAnswer": null,
+      "explanation": "States of starvation and malnutrition can cause adaptive thermogenesis, which results in lowered heat production to conserve energy and BEE decreases. Weight gain, weight-lifting—which increases lean muscle mass—and using growth hormones for performance enhancement would increase BEE."
+    },
+    {
+      "id": "nutrition-ch6-033",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "Which information does the nurse obtain when assessing the anthropometrics of a patient?",
+      "options": [
+        "Kilocalories (kcals) used by the resting body",
+        "iv) © Body composition measurements",
+        "Energy expenditure of metabolism",
+        "Heat produced by the body at work"
+      ],
+      "correctAnswer": null,
+      "explanation": "Anthropometric measurements include the physical measurements of the human body including height, weight, and body composition. Kcals used by the resting body are the resting energy expenditure (REE); energy expenditure of metabolism is the thermic effect of food; heat produced by the body at work is measured as calories. Test-Taking Tip: Read the question carefully before looking at the answers: (1) Determine what the question is really asking and look for key words; (2) read each answer thoroughly and see if it completely covers the material asked by the question; and (3) narrow the choices by immediately eliminating answers you know are incorrect."
+    },
+    {
+      "id": "nutrition-ch6-034",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which dietary item would the nurse explain to a patient to include in the first meal of the day to replenish the glucose levels?",
+      "options": [
+        "Sucrose",
+        "Soluble fat",
+        "Lean protein",
+        "Carbohydrates"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Normal blood glucose levels needed for daily energy needs deplete during sleep. The liver and muscle have a 12- to 48-hour reserve of glycogen, but the body will quickly use this supply overnight, and it must be replenished through daily carbohydrate intake, especially at breakfast. Sucrose (which is a form of sugar), fats, and proteins do not restore the glycogen supplies to meet the energy needs of the body."
+    },
+    {
+      "id": "nutrition-ch6-035",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "When advising about types of diet, which information would be included as a specific concern for a young teenage patient?",
+      "options": [
+        "Glycogen stores are replenished with proteins.",
+        "Donuts are a source of energy dense nutrients.",
+        "Lean tissue is used during long periods of fasting.",
+        "@ Muscle mass is the main energy source in the body."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lean tissue serves important structural functions and is sacrificed for energy use during longer periods of fasting or starvation, which can cause weakness and other difficulties. Glycogen is replenished with carbohydrates. Donuts are a source of empty calories. Muscle mass is not the main energy source in the body."
+    },
+    {
+      "id": "nutrition-ch6-036",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which area of the body provides unlimited fat storage for the body to use as energy?",
+      "options": [
+        "Active organs",
+        "Adipose tissue",
+        "Glycogen stores",
+        "Skeletal muscles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There is a relatively unlimited amount of energy that one can store in adipose tissue. Active organs and skeletal muscles do not store much energy; rather, they expend energy. The body quickly depletes the glycogen supply, which must be renewed daily with carbohydrate intake."
+    },
+    {
+      "id": "nutrition-ch6-037",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "During which stage of life do women store more fat?",
+      "options": [
+        "iv) © Pregnancy",
+        "Postpartum",
+        "Prepuberty",
+        "Premenopause"
+      ],
+      "correctAnswer": null,
+      "explanation": "Women store more fat during pregnancy. Women do not store more fat during the postpartum, prepuberty, or premenopause stages of life."
+    },
+    {
+      "id": "nutrition-ch6-038",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "easy",
+      "question": "When using body mass index (BMI), which group may be considered overweight but not “overfat\"? tx} © Children",
+      "options": [
+        "Obese adults",
+        "Phisically active adults",
+        "Individuals with below-average height"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When both weight and fat are measured the same for men and women, there are usually some individuals who are overweight but not \"overfat.\" This group is most likely to include physically active adults. This is not necessarily true of children, obese adults, or individuals with below-average height."
+    },
+    {
+      "id": "nutrition-ch6-039",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "Basal metabolic rate, physical activity, and lean muscle mass are included in which category of risk factors for obesity?",
+      "options": [
+        "Genetic",
+        "Phisiologic",
+        "Psychological",
+        "Environmental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Physiologic risk factors for obesity include basal metabolic rate, physical activity, and lean muscle mass. Genetic risk factors include a predisposition to obesity associated with genetics. Psychological risk factors include work, family, and social environments that cultivate stress, which many people respond to by eating for comfort. Environmental risk factors include an increase in energy-dense food availability and low-cost fast and convenient foods."
+    },
+    {
+      "id": "nutrition-ch6-040",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "medium",
+      "question": "When fasting, the body accesses glycogen stores from which part of the body for short-term energy needs?",
+      "options": [
+        "Brain",
+        "Liver",
+        "Kidneys",
+        "Pancreas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glycogen stored in the liver is a source of energy that the body can use for short-term needs. The brain, kidneys, and pancreas do not store glycogen for energy."
+    },
+    {
+      "id": "nutrition-ch6-041",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "hard",
+      "question": "Which patient has the highest basal metabolic rate (BMR)?",
+      "options": [
+        "@ 56-year-old female patient with a fever",
+        "60-year-old male patient without a fever",
+        "47-year-old male patient with renal disease",
+        "48-year-old female patient with renal disease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The 47-year-old male patient is likely to have the highest BMR because men have a higher BMR than women, and renal disease increases the metabolic work of the body and therefore the BMR. The 56-year-old female patient is likely to have a lower BMR because women have less muscle and more fat, resulting in a lower BMR. The 60-year-old male patient has a lower BMR because he is afebrile. The 48-year-old female patient with renal disease has a lower BMR because women have less muscle and more fat, resulting in a lower BMR, even though she has renal disease."
+    },
+    {
+      "id": "nutrition-ch6-042",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "Which thermal regulation changes would the nurse explain to a patient entering menopause?",
+      "options": [
+        "Increase in fat-free body mass",
+        "Decrease in body fat mass",
+        "Decrease in metabolic rate",
+        "Increase the caloric density of food"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A decline in the metabolic rate occurs in menopausal women. There is an accompanying increase, not decrease, in body fat mass and a loss, not increase, of fat-free mass that accompanies menopause in women. Emphasis should be increasing nutrient-dense foods and decreasing caloric-dense foods."
+    },
+    {
+      "id": "nutrition-ch6-043",
+      "type": "select-all",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "hard",
+      "question": "For which difference does the nurse adjust the resting metabolic rate (RMR) formula? Select all that apply.",
+      "options": [
+        "Sex",
+        "Weight",
+        "Body type",
+        "Type of diet",
+        "Activity level"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Studies examined sex differences in resting metabolic rate (RMR) or resting energy expenditure (REE)_and results support a lower RMR in women than in men that is independent of differences in weight, body type, diet, and activity level. A different formula is used to determine the RMR for women. Test-Taking Tip: Be alert for details about what you are being asked to do. In this question type, you are asked to select all options that apply to a given situation or patient. All options likely relate to the situation, but only some of the options may relate directly to the situation."
+    },
+    {
+      "id": "nutrition-ch6-044",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "ee Calculate the total energy expenditure (TEE) using the Harris Benedict formula based on the information below: MaleAge: 57 Height: 5 feet 10 inchesWeight: 190 poundsModerately active physical activityRecord answer as a whole number. @} 2725 kcal/day Patient Data PA Coefficient (PA) Sex: | Male Highly active: 1.725 Age: | 57 Moderately active: 1.55 Height: | 5 ft 10 in Lightly active: 1.375 Weight: | 190 Ib Sedentary: 1.2 Exercise: | Bikes or swims 3 times a week in addition to daily 30-minute walks Harris Benedict formula: TEE (kcal/day) = (66.47 + 5 x Height [cm] + 13.75 x Weight [kg] - 6.755 x Age) x PA",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "The male patient should consume no more than 2725 kcal/day to maintain his current weight. The TEE formula requires the clinician to convert height to cm (2.54 cm = 1 in) and weight to kg (2.2 Ib = 1 kg). Patient’s height in inches: (5 ft x 12 in/ft) +10 in = 70 in Patient’s height in cm: 70 in x 2.54 cm/in = 177.8 cm Patient’s weight in kg: 190 Ib x 2.2 Ib/kg = 86.36 kg Multiply the patient’s height, weight, and age to the respective numbers in the formula before adding height and weight together and subtract the age total. Then complete the formula by multiplying the total by the PA (moderately active). TEE = [66.47 + (5 x 177.8 cm) + (13.75 x 86.36) - (6.755 x 57)] x 1.55 = Rationale The male patient should consume no more than 2725 kcal/day to maintain his current weight. The TEE formula requires the clinician to convert height to cm (2.54 cm = 1 in) and weight to kg (2.2 Ib = 1 kg). Patient’s height in inches: (5 ft x 12 in/ft) +10 in = 70 in Patient’s height in cm: 70 in x 2.54 cm/in = 177.8 cm Patient’s weight in kg: 190 Ib x 2.2 Ib/kg = 86.36 kg Multiply the patient’s height, weight, and age to the respective numbers in the formula before adding height and weight together and subtract the age total. Then complete the formula by multiplying the total by the PA (moderately active). TEE = [66.47 + (5 x 177.8 cm) + (13.75 x 86.36) - (6.755 x 57)] x 1.55 = TEE = (66.47 + 889 + 1187.45 - 385.035) x 1.55 = TEE = 1757.885 x 1.55 = 2724.72 rounded to the nearest whole number = 2725 kcal/day"
+    },
+    {
+      "id": "nutrition-ch6-045",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Energy Requirements",
+      "difficulty": "easy",
+      "question": "A 6-month infant who weighs 9.3125 pounds has been diagnosed with failure to thrive. Calculate the estimated energy requirements (EER) for the patient. 9/33 | kcal/day Patient Data Age: | 6 months Height: | 23 inches Weight: | 9 Ib 5 oz EER = (89 x Weight [kg] — 100) + 56 kcal",
+      "options": [],
+      "correctAnswer": null,
+      "explanation": "An infant 6 months of age should consume at least 333 kcal/day. The formula is the same for children under 36 months or 3 years. The EER formula requires the conversion of weight to kg (2.2 Ib = 1 kg); there are 16 oz to a lb: 5 oz = 0.3125 Ib Patient’s weight in kg: 9.3125 |b + 2.2 Ib/kg = 4.233 kg Then complete the formula: (89 x 4.233) - 100 + 56 = 332.737 rounded to nearest whole number 333 kcal/day"
+    },
+    {
+      "id": "nutrition-ch6-046",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "hard",
+      "question": "A patient admitted to an inpatient unit was diagnosed with cachexia. Which source of stored energy is the patient’s body most likely using to maintain central nervous system function?",
+      "options": [
+        "Adipose tissue",
+        "Protein in muscle mass",
+        "Glycogen stored in the liver",
+        "Glycogen reserve in muscle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The need for glucose to fuel the central nervous system results in loss of body protein from muscle mass when energy and carbohydrate intakes are inadequate, especially in the case of cachexia. The supply of adipose tissue varies from person to person and is not the source of energy this patient’s body would use. Glycogen reserves in the liver and muscle are depleted quickly and are not the source of stored energy the patient’s body would use. Test-Taking Tip: Do not worry if you select the same numbered answer repeatedly because there usually is no pattern to the answers."
+    },
+    {
+      "id": "nutrition-ch6-047",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Fats",
+      "difficulty": "medium",
+      "question": "When food is not available, such as during sleep, the body draws from its stored energy. Which stored energy source is responsible for maintaining normal glucose levels during sleep?",
+      "options": [
+        "@ Glycogen",
+        "Fat storage",
+        "Muscle mass",
+        "Adipose tissue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glycogen stores maintain normal blood glucose levels during sleep when food is not available. Fat storage, muscles mass, and adipose tissue do not maintain blood glucose levels during sleep. pp. 74-75"
+    },
+    {
+      "id": "nutrition-ch6-048",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which energy source provides the highest energy value?",
+      "options": [
+        "iv) © Fat",
+        "Protein",
+        "Alcohol",
+        "Carbohydrate"
+      ],
+      "correctAnswer": null,
+      "explanation": "Fat has a fuel factor of 9 kcal per gram, making it the energy source with the highest energy value. Protein has a fuel factor of 4 kcal per gram. Alcohol has a fuel factor of 7 kcal per gram. Carbohydrates have a fuel factor of 4 kcal per gram."
+    },
+    {
+      "id": "nutrition-ch6-049",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "medium",
+      "question": "Which nutrient provides 9 kcal of energy per gram?",
+      "options": [
+        "Carbohydrates",
+        "Protein",
+        "Lipids",
+        "Alcohol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lipids, or fats, provide 9 kcal per gram. Carbohydrates and proteins provide 4 kcal per gram. Alcohol provides 7 kcal per gram."
+    },
+    {
+      "id": "nutrition-ch6-050",
+      "type": "multiple-choice",
+      "subject": "Nutrition",
+      "chapter": "Chapter 6",
+      "topic": "Carbohydrates",
+      "difficulty": "easy",
+      "question": "Most of the kilocalories in fruits come from which food category?",
+      "options": [
+        "Carbohydrates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Most of the kilocalories in fruits come from carbohydrates due to their sugar content. Fruits are not high in proteins, fats, or alcohol. Test-Taking Tip: You have at least a 25% chance of selecting the correct response in multiple-choice items. If you are uncertain about a question, eliminate the choices you believe are wrong, and then call on your knowledge, skills, and abilities to choose from the remaining responses."
+    }
+  ]
+}
